@@ -4,7 +4,7 @@
 
 ## Visual Atlas — Maps, Official Records & Revision Diagrams
 
-এই অধ্যায়ে **১০টি visual resource** (আগের পাঁচটি diagram-সহ) এবং নির্বাচনী এলাকার সীমানা/আইনের জন্য সরকারি map-record link যুক্ত করা হয়েছে। কোনো screenshot বা boundary image-কে বর্তমান আইনগত সীমানা হিসেবে ভুল বোঝা এড়াতে মানচিত্রের ক্ষেত্রে সরকারি গেজেটকে অগ্রাধিকার দিন।
+এই অধ্যায়ে **১৭টি SVG visual resource** (আগের ১০টি diagram-সহ), বর্তমান ভোটার-তথ্যের chart, ২০২৬ সালের নির্বাচন-সংক্রান্ত বাস্তব ছবি এবং সরকারি constituency boundary records যুক্ত করা হয়েছে। আইনগত সীমানা যাচাইয়ের ক্ষেত্রে সরকারি গেজেট ও নির্বাচন কমিশনের constituency lookup-ই চূড়ান্ত reference; তৃতীয়-পক্ষের result map-কে আইনি boundary map হিসেবে ব্যবহার করবেন না। কোনো screenshot বা boundary image-কে বর্তমান আইনগত সীমানা হিসেবে ভুল বোঝা এড়াতে মানচিত্রের ক্ষেত্রে সরকারি গেজেটকে অগ্রাধিকার দিন।
 
 ### ১. বাংলাদেশের নির্বাচনী ব্যবস্থার সাংবিধানিক মানচিত্র
 ![Expanded constitutional map for election management](./assets/constitutional-map-expanded.svg)
@@ -38,9 +38,66 @@
 - [Election Cycle](./assets/election-cycle.svg)
 - [Election Integrity](./assets/election-integrity.svg)
 
+### ১১–১৭. নতুন source-linked SVG visuals
+
+#### ১১. Voter-register snapshot — 21 October 2026
+![Bangladesh registered voters by published category](./assets/voter-register-snapshot-2026.svg)
+
+[Open chart](./assets/voter-register-snapshot-2026.svg) · Source: [Bangladesh Election Commission](https://ecs.gov.bd/en/constituency). This is a dated snapshot; current counts can change.
+
+#### ১২. Constitutional articles map — Articles 118–126
+![Constitutional articles map for elections](./assets/constitutional-articles-map.svg)
+
+[Open diagram](./assets/constitutional-articles-map.svg) · Source: [Constitution of Bangladesh](https://bdlaws.minlaw.gov.bd/act-print-367.html).
+
+#### ১৩. Expanded election cycle
+![Election cycle from legal framework to post-election review](./assets/election-cycle-expanded.svg)
+
+[Open diagram](./assets/election-cycle-expanded.svg) · Source: [RPO 1972, as amended](https://bdlaws.minlaw.gov.bd/act-print-424.html).
+
+#### ১৪. Six pillars of electoral integrity
+![Six pillars of electoral integrity](./assets/electoral-integrity-dashboard.svg)
+
+[Open diagram](./assets/electoral-integrity-dashboard.svg) · Study framework based on the Constitution, ICCPR and [International IDEA](https://www.idea.int/publications/catalogue/electoral-management-design-revised-edition?lang=en).
+
+#### ১৫. Stakeholder roles and accountability
+![Election stakeholders and their responsibilities](./assets/election-stakeholder-accountability.svg)
+
+[Open diagram](./assets/election-stakeholder-accountability.svg) · Constitutional anchor: Article 126 and the applicable election laws.
+
+#### ১৬. RPO Amendment Act 2026 — study map
+![Key themes in the Representation of the People Amendment Act 2026](./assets/rpo-amendment-2026-map.svg)
+
+[Open diagram](./assets/rpo-amendment-2026-map.svg) · Read the exact provision in the [official Act No. 03 of 2026](https://bdlaws.minlaw.gov.bd/act-print-1632.html); this is a revision aid, not a substitute for statutory text.
+
+#### ১৭. BCS PYQ topic timeline
+![Election-related BCS Written themes from 35th to 47th BCS](./assets/pyq-topic-timeline-35-47.svg)
+
+[Open timeline](./assets/pyq-topic-timeline-35-47.svg) · For exact scope and caveats, read the [full 35th–47th audit](./PYQ-35TH-47TH-ANALYSIS.md).
+
+### Official and real-world photo references
+
+#### Bangladesh Election Commission headquarters
+![Bangladesh Election Commission headquarters in Agargaon, Dhaka](https://asset.ecs.gov.bd/media/uploaded_files/configuration/carousel/2026/02/f2145a87-a861-4a65-bbc9-13cd3bda19d5.webp)
+
+**Source:** Bangladesh Election Commission official website, 2026 carousel. This is an institutional reference image, not an electoral map. [Official ECS website](https://ecs.gov.bd/en).
+
+#### Voters at a polling station — 12 February 2026
+![Voters queue at a polling station in Dhaka during the 13th National Parliament Election and 2026 referendum](https://commons.wikimedia.org/wiki/Special:FilePath/Queues_of_voters_at_polling_station%2C_capital_city%2C_Thirteenth_National_Parliament_Election_and_2026_Referendum_2026-02-12.jpg)
+
+**Source and licence:** Bangladesh Press Information Department photograph hosted on Wikimedia Commons; marked public domain in Bangladesh. [Original file and licensing page](https://commons.wikimedia.org/wiki/File:Queues_of_voters_at_polling_station,_capital_city,_Thirteenth_National_Parliament_Election_and_2026_Referendum_2026-02-12.jpg). The photo illustrates participation; it is not evidence about overall election quality.
+
+#### 2026 constituency result map — supplementary visual only
+![2026 Bangladesh general election alliance-wise result map](https://commons.wikimedia.org/wiki/Special:FilePath/2026_Bangladesh_General_Election_Alliance_Wise_Result_Map.svg)
+
+**Attribution:** FlyJet777, *2026 Bangladesh General Election Alliance Wise Result Map*, CC BY 4.0. [File page and licence](https://commons.wikimedia.org/wiki/File:2026_Bangladesh_General_Election_Alliance_Wise_Result_Map.svg).
+
+**Critical limitation:** this is a community-created election-results map, not an official legal boundary map, and it is a dated results snapshot. For exact current boundaries, use the EC’s official constituency lookup and revised 300-seat boundary gazette below. Do not quote current party seat totals from this image without checking the latest official results.
+
 ### Official electoral maps and current legal maps
 
-- **৩০০ সংসদীয় আসনের সীমানা:** [Bangladesh Election Commission — National Parliament Election Law](https://ecs.gov.bd/en/page/national-parliament-election-law). এই পৃষ্ঠায় ২০২৫ সালের boundary gazette এবং ১১ ডিসেম্বর ২০২৫-এর সংশোধিত সীমানার গেজেটের তালিকা রয়েছে। পরীক্ষায় “বর্তমান সীমানা” লিখলে সংশ্লিষ্ট সর্বশেষ সংশোধিত গেজেট অনুসরণ করুন।
+- **বর্তমান constituency lookup:** [Bangladesh Election Commission — Constituency](https://ecs.gov.bd/en/constituency). আসন-নির্দিষ্ট তথ্য যাচাইয়ের জন্য এই অফিসিয়াল lookup ব্যবহার করুন।
+- **৩০০ সংসদীয় আসনের সীমানার সরকারি নথি:** [EC — National Parliament Election Law](https://ecs.gov.bd/en/page/national-parliament-election-law) এবং [revised boundary gazette, 11 December 2025 (PDF)](https://asset.ecs.gov.bd/media/uploaded_files/notices/2025/12/gTe7PMU3SDbRB5pni6rdNQYZyZ7AQXrgUui3SDPs.pdf). এই PDF-তে constituency boundary description রয়েছে; এটি নিজে illustrated map নয়। পরীক্ষায় “বর্তমান সীমানা” লিখলে সংশ্লিষ্ট সর্বশেষ সংশোধিত গেজেট অনুসরণ করুন।
 - **নির্বাচনী আইন ও ২০২৬ সংশোধন:** [EC — RPO legal records](https://ecs.gov.bd/category/regarding-representation-of-the-people-order-rpo-2830760191), [RPO 1972 (Bangladesh Laws)](https://bdlaws.minlaw.gov.bd/act-print-424.html), [Representation of the People (Amendment) Act, 2026](https://bdlaws.minlaw.gov.bd/act-print-1632.html).
 - **বাংলাদেশ নির্বাচন কমিশনের অবস্থান:** [OpenStreetMap location search](https://www.openstreetmap.org/search?query=Bangladesh%20Election%20Commission%20Agargaon%20Dhaka).
 - **ভোটকেন্দ্র/নির্বাচনী এলাকা:** কোনো নির্দিষ্ট আসন বা কেন্দ্রের map ব্যবহার করার আগে EC-এর সংশ্লিষ্ট constituency gazette বা polling-centre publication মিলিয়ে নিন; সাধারণ web map আইনগত সীমানার বিকল্প নয়।
@@ -52,7 +109,7 @@
 **BCS Written · Bangladesh Affairs · Subject Code 005**  
 বাংলা ব্যাখ্যা + English terminology + source-backed essays + previous-question analysis + ৩৩টি model question and answer + revision visuals
 
-[🧭 35th–47th BCS PYQ Map](./PYQ-35-47-MAP.md) · [📘 25 Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [💬 English Quotations & Sources](./QUOTATIONS.md) · [বিগত BCS প্রশ্ন বিশ্লেষণ](#pyq) · [৩৩টি Model Q&A](#model-questions) · [গুরুত্বপূর্ণ প্রবন্ধ](#essays) · [Visual Atlas](#visual-atlas) · [Sources](#sources)
+[🧭 35th–47th BCS PYQ Audit](./PYQ-35TH-47TH-ANALYSIS.md) · [📘 25 Answered Model Q&A + 4 full worked answers](./BCS-WRITTEN-QUESTION-BANK.md) · [💬 English Quotations & Sources](./QUOTATIONS.md) · [বিগত BCS প্রশ্ন বিশ্লেষণ](#pyq) · [৩৩টি Model Q&A](#model-questions) · [গুরুত্বপূর্ণ প্রবন্ধ](#essays) · [Visual Atlas](#visual-atlas) · [Sources](#sources)
 
 > **এই অধ্যায়ের লক্ষ্য:** একবার মনোযোগ দিয়ে পড়লে বাংলাদেশের নির্বাচনী ব্যবস্থার সাংবিধানিক ভিত্তি, নির্বাচন কমিশনের দায়িত্ব, ভোটার তালিকা, নির্বাচনী প্রক্রিয়া, নির্বাচনী অনিয়ম, সংস্কার এবং পরীক্ষায় বিশ্লেষণধর্মী উত্তর লেখার মূল কাঠামো বুঝতে পারবেন। এটি BPSC-এর সরকারি প্রকাশনা নয়; BCS Written প্রস্তুতির জন্য তৈরি শিক্ষাসামগ্রী।
 
@@ -94,11 +151,14 @@
 | ১১ | নারী, তরুণ, সংখ্যালঘু ও প্রতিবন্ধী ভোটারের অংশগ্রহণ |
 | ১২ | নির্বাচনী বিরোধ, অভিযোগ ও জবাবদিহি |
 | ১৩ | Previous BCS Question Analysis |
+| ১৩A | [৩৫তম–৪৭তম BCS-এর পূর্ণ year-by-year audit](./PYQ-35TH-47TH-ANALYSIS.md) |
+| ১৩B | [২৫টি Answered Model Q&A + ৪টি full 15/20-mark worked answer](./BCS-WRITTEN-QUESTION-BANK.md) |
 | ১৪ | গুরুত্বপূর্ণ প্রবন্ধ ও model essays |
 | ১৫ | ৩৩টি English–বাংলা Model Questions & Answers |
 | ১৬ | ৫, ১০ ও ২০ নম্বরের উত্তর লেখার কৌশল |
 | ১৭ | Quick revision ও self-test |
 | ১৮ | Source register |
+| ১৮A | [১৩টি authentic English quotation with direct source links](./QUOTATIONS.md#authentic-quotations) |
 
 ---
 
@@ -542,41 +602,30 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 ## ১৩. Previous BCS Question Analysis — বিগত প্রশ্নের থিম ও প্রস্তুতির অগ্রাধিকার
 
-### ১৩.১ প্রমাণের অবস্থা
+৩৫তম–৪৭তম BCS-এর year-by-year audit এখন আলাদা ফাইলে আছে: **[Open full PYQ audit](./PYQ-35TH-47TH-ANALYSIS.md)**। এতে সরাসরি নির্বাচন কমিশন/RPO প্রশ্ন, সম্পর্কিত রাজনৈতিক সংস্কৃতি/প্রতিনিধিত্বের প্রশ্ন, special BCS paper-এর সীমাবদ্ধতা এবং secondary-source caveat আলাদা করা হয়েছে।
 
-BCS EXAM-এর প্রকাশ্য প্রশ্নসংকলনে ৩৫তম থেকে ৫০তম BCS Written-এর প্রশ্ন বিষয়ভিত্তিকভাবে সাজানো হয়েছে। আর্কাইভ নিজেই বলেছে যে প্রশ্নগুলো BPSC-এর মূল প্রশ্নপত্র থেকে সরাসরি টাইপ করা নয় এবং কিছু তথ্য অসম্পূর্ণ বা ভুল হতে পারে। তাই এটি **secondary archive**, BPSC-certified original নয়। [BCS EXAM — Previous Written Questions](https://bcsexam.org/written-questions)
+### এই অধ্যায়ের জন্য গুরুত্বপূর্ণ archive-reported clusters
 
-এই অধ্যায় তৈরির সময় ৪৭তম BCS Written-এর Bangladesh Affairs অংশে একটি স্পষ্টভাবে সম্পর্কিত প্রশ্ন পাওয়া গেছে: বাংলাদেশের রাজনৈতিক সংস্কৃতির বৈশিষ্ট্য, গণতান্ত্রিক রাজনৈতিক সংস্কৃতির আদর্শ থেকে বিচ্যুতি এবং সেই বিচ্যুতি দূর করার সুপারিশ—২০ নম্বর। এটি **নির্বাচন কমিশন নিয়ে সরাসরি প্রশ্ন নয়**; কিন্তু নির্বাচনী সংস্কৃতি, প্রতিযোগিতা, নাগরিক অংশগ্রহণ ও গণতান্ত্রিক জবাবদিহি বিশ্লেষণের জন্য প্রাসঙ্গিক। [৪৭তম BCS Written — Bangladesh Affairs, Question 26](https://bcsexam.org/written-questions/47th-bcs-written)
+| পরীক্ষা | রিপোর্ট করা প্রশ্নের থিম | প্রস্তুতির গুরুত্ব |
+|---|---|---|
+| ৩৫তম | নির্বাচন কমিশনের গঠন/দায়িত্ব; ২০০১ সাল থেকে নির্বাচনী ব্যয়ের পরিবর্তন | EC + campaign finance |
+| ৩৬তম | election-observation teams; RPO short note | observers + election law |
+| ৩৭তম | গণতান্ত্রিক প্রক্রিয়ায় election missions; নির্বাচনী ব্যয় হ্রাস; ১৯৭০ সালের সাধারণ নির্বাচন | observers + finance + history |
+| ৩৮তম | সংসদে নারীদের সংরক্ষিত আসনের যৌক্তিকতা | representation + inclusion |
+| ৪০তম | ১৯৭০ সালের নির্বাচনের স্বাধীনতা সংগ্রামে প্রভাব | historical electoral mandate |
+| ৪১তম | RPO, EC-এর ভূমিকা, observers | direct EC/legal questions |
+| ৪৩তম | গণতন্ত্র প্রতিষ্ঠায় নির্বাচন; EC গঠন ও সাংবিধানিক দায়িত্ব | highest-priority constitutional cluster |
+| ৪৭তম | রাজনৈতিক সংস্কৃতির বৈশিষ্ট্য, গণতান্ত্রিক আদর্শ থেকে বিচ্যুতি ও সুপারিশ | political culture + accountability |
 
-**সীমাবদ্ধতা:** এখানে পর্যালোচিত আর্কাইভ পৃষ্ঠাগুলোতে নির্বাচন কমিশন/ভোটার তালিকা বিষয়ে সরাসরি Bangladesh Affairs PYQ-র পূর্ণ, মূল-পত্র-যাচাইকৃত তালিকা নিশ্চিত করা যায়নি। এর অর্থ এই নয় যে এমন প্রশ্ন কখনো আসেনি। তাই নিচের “High-priority questions” পরীক্ষার প্রস্তুতির জন্য তৈরি model questions; এগুলোকে অতীতের আসল প্রশ্ন বলে দাবি করা হচ্ছে না।
+**৩৯তম ও ৪২তম ছিল special BCS**; এগুলোকে ordinary Bangladesh Affairs written-paper frequency-তে গণনা করা হয়নি। ৪৪তম–৪৬তমের consulted Bangladesh Affairs archives-এ সরাসরি EC/RPO প্রশ্ন নিশ্চিত করা যায়নি; ৪৬তমের “গণতান্ত্রিক রাষ্ট্র ও স্বাধীন গণমাধ্যম” রচনাটি Bangla paper-এর, Bangladesh Affairs paper-এর নয়।
 
-### ১৩.২ সম্পর্কিত archive-reported প্রশ্ন
+### Exam strategy
+- **প্রথমে শিখুন:** Articles 118–126, EC functions, RPO, observer role, campaign finance.
+- **এরপর অনুশীলন করুন:** free/fair election, political culture, women’s representation, dispute resolution, digital misinformation.
+- **উত্তরের কাঠামো:** legal basis → institution/process → evidence-based analysis → limitations → actionable recommendations.
+- **প্রমাণের সতর্কতা:** এগুলো public secondary archives-এ রিপোর্ট করা প্রশ্ন। মূল BPSC scan দিয়ে স্বাধীনভাবে যাচাই না করা প্রশ্নকে “officially verified exact wording” বলা হচ্ছে না।
 
-| পরীক্ষা | প্রশ্নের সারমর্ম | নম্বর | এই অধ্যায়ে প্রয়োগ | প্রমাণ-অবস্থা |
-|---|---|---:|---|---|
-| ৪৭তম BCS Written, Bangladesh Affairs, Q26 | বাংলাদেশের রাজনৈতিক সংস্কৃতি বিশ্লেষণ; গণতান্ত্রিক আদর্শ থেকে বিচ্যুতি শনাক্ত; সংস্কারের সুপারিশ | ২০ | রাজনৈতিক প্রতিযোগিতা, নির্বাচনী সংস্কৃতি, জবাবদিহি ও সংস্কার | তৃতীয়-পক্ষের আর্কাইভে রিপোর্ট করা; মূল BPSC scan দিয়ে স্বাধীন যাচাই হয়নি |
-| ৪৬তম BCS Written, Bangla 2nd Paper, essay | “গণতান্ত্রিক রাষ্ট্র ও স্বাধীন গণমাধ্যম” বিষয়ে রচনা | ৪০ | নির্বাচন ও গণমাধ্যম, তথ্যের স্বাধীনতা, ভোটার সচেতনতা | অন্য পত্রের সম্পর্কিত প্রশ্ন; Bangladesh Affairs PYQ নয় |
-
-উৎস: [৪৭তম BCS Written](https://bcsexam.org/written-questions/47th-bcs-written) · [৪৬তম BCS Written](https://bcsexam.org/written-questions/46th-bcs-written)
-
-### ১৩.৩ কোন বিষয়গুলোকে High Priority দেবেন?
-
-| অগ্রাধিকার | বিষয় | কেন গুরুত্বপূর্ণ | সম্ভাব্য নির্দেশক শব্দ |
-|---|---|---|---|
-| A | নির্বাচন কমিশনের সাংবিধানিক স্বাধীনতা ও কার্যকারিতা | সংবিধান ও প্রতিষ্ঠানের কেন্দ্রীয় বিষয় | Evaluate / Critically analyse |
-| A | Free, fair and credible election | গণতান্ত্রিক বৈধতা ও জনআস্থার মূল শর্ত | Discuss / Assess |
-| A | ভোটার তালিকা, adult franchise ও সমান অংশগ্রহণ | সংবিধানের ১২১–১২২ অনুচ্ছেদ | Explain / Examine |
-| A | নির্বাচনী ব্যবস্থাপনার ধাপ ও মাঠ প্রশাসনের ভূমিকা | আইন থেকে ফল প্রকাশ পর্যন্ত পুরো প্রক্রিয়া | Describe / Analyse |
-| A | রাজনৈতিক সংস্কৃতি, প্রতিদ্বন্দ্বিতা ও জবাবদিহি | ৪৭তম BCS-এর সম্পর্কিত প্রশ্নের সঙ্গে সংযোগ | Analyse / Recommend |
-| A | নির্বাচন আইন, আচরণবিধি ও campaign finance | ন্যায্য প্রতিযোগিতা ও আইন প্রয়োগ | Discuss / Evaluate |
-| A | ২০২৬ সালের RPO সংশোধন | বর্তমান আইনভিত্তিক প্রস্তুতি | Explain / Assess |
-| B | গুজব, deepfake, AI ও গণমাধ্যম | প্রযুক্তি ও নির্বাচনী সততার নতুন চ্যালেঞ্জ | Examine / Suggest |
-| B | নারী ও প্রান্তিক ভোটারের অংশগ্রহণ | অন্তর্ভুক্তি ও রাজনৈতিক সমতা | Discuss / Recommend |
-| B | নির্বাচনী বিরোধ ও অভিযোগ নিষ্পত্তি | প্রতিকার ও ফলের গ্রহণযোগ্যতা | Explain / Evaluate |
-
-### ১৩.৪ বিগত প্রশ্ন থেকে উত্তর লেখার শিক্ষা
-
-৪৭তম BCS-এর রাজনৈতিক সংস্কৃতি-সম্পর্কিত প্রশ্নে শুধু সমস্যার তালিকা নয়, তিনটি কাজ চাওয়া হয়েছিল: **বৈশিষ্ট্য বিশ্লেষণ → গণতান্ত্রিক আদর্শ থেকে বিচ্যুতি শনাক্ত → সুপারিশ**। নির্বাচনী ব্যবস্থার প্রশ্নেও এই তিন ধাপ অনুসরণ করুন। শুধু “স্বচ্ছ নির্বাচন দরকার” লিখলে বিশ্লেষণ অসম্পূর্ণ থাকে; কোন প্রতিষ্ঠান কী করবে, কোন নিয়ম প্রয়োগ হবে এবং অগ্রগতি কীভাবে যাচাই করা হবে তা লিখুন।
+[পূর্ণ বছরভিত্তিক বিশ্লেষণ ও source links →](./PYQ-35TH-47TH-ANALYSIS.md) · [২৫টি answered model Q&A](./BCS-WRITTEN-QUESTION-BANK.md)
 
 ---
 
