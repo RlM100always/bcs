@@ -1,7 +1,7 @@
 # Chapter 05 — PYQ-Based Model Essays
 ## বাংলাদেশের পরিবেশ, প্রকৃতি, চ্যালেঞ্জ ও সম্ভাবনা | BCS Written
 
-[← মূল অধ্যায়](./README.md) · [English Quotations + Sources](./QUOTATIONS.md)
+[← মূল অধ্যায়](./README.md#top) · [৩০টি Answered Questions](./BCS-WRITTEN-QUESTION-BANK.md) · [35th–47th BCS PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) · [English Quotations + Sources](./QUOTATIONS.md)
 
 > **নোট:** এগুলো BPSC syllabus ও পরিবেশ-সম্পর্কিত প্রশ্নের সাধারণ ধরণ ধরে তৈরি model essays; নির্দিষ্ট বছরের হুবহু BPSC প্রশ্ন নয়। পরিসংখ্যান ব্যবহার করলে সংশ্লিষ্ট প্রতিবেদনের বছর উল্লেখ করুন।
 
