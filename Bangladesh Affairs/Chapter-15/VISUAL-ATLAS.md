@@ -17,7 +17,7 @@ Gender is a cross-cutting social and development issue rather than a geographic 
 
 ## Ten internet photographs embedded in the main chapter
 
-These photographs appear beside the corresponding discussions in [the main chapter](./README.md). This register is not an additional image gallery, so the photos are not embedded a second time here.
+These photographs appear beside the corresponding discussions in [the main chapter](./README.md). This register is not an additional image gallery, so the photos are not embedded a second time here. Counting each displayed image placement across the main chapter and atlas, there are 26 placements in total: 10 photos plus 8 SVG diagrams shown in each of the two reading files. There are 18 distinct visual assets.
 
 | No. | Topic / image | Source and attribution | Licence / use note |
 |---:|---|---|---|
