@@ -36,7 +36,9 @@
 
 ### 🟨 ১. Bangladesh’s Location & Area — অবস্থান ও আয়তন
 
-> **“Bangladesh covers an area of 147,570 sq km”**
+**Original English quotation (মূল ইংরেজি উদ্ধৃতি):**
+
+> “Bangladesh covers an area of 147,570 sq km”
 
 **বাংলা ভাবানুবাদ:** Banglapedia-র এই তথ্য অনুযায়ী বাংলাদেশের আয়তন ১,৪৭,৫৭০ বর্গকিলোমিটার।
 
