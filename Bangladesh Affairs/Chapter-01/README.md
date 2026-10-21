@@ -346,7 +346,7 @@ G --> H["Adaptive Delta Management"]
 **বরেন্দ্র থেকে এবার মধ্যবাংলায় আসুন।** এখানেও একটি অপেক্ষাকৃত পুরোনো উঁচু ভূমিখণ্ড আছে—মধুপুর গড়। কিন্তু দুটির অবস্থান ও ভূমি ব্যবহারের প্রেক্ষাপট এক নয়।
 
 - 🧭 **অবস্থান:** মধ্যবাংলার মধুপুর অঞ্চল।
-- 🪨 **ভূপ্রকৃতি:** **Pleistocene Terrace**—চারপাশের নবীন নদীপললভূমি থেকে আলাদা।
+- 🪨 **ভূপ্রকৃতি:** <mark>**Pleistocene Terrace**</mark>—চারপাশের নবীন নদীপললভূমি থেকে আলাদা।
 - 🌳 **বৈশিষ্ট্য:** বনভূমি, মাটি ও ভূমি ব্যবহারের পরিবর্তন বোঝার জন্য গুরুত্বপূর্ণ।
 - 🏙️ **চ্যালেঞ্জ:** বন রক্ষা, বসতি ও অবকাঠামো সম্প্রসারণের মধ্যে ভারসাম্য।
 
@@ -639,19 +639,19 @@ I --> P
 
 নিচের সারণিতে BCS EXAM নামের **তৃতীয় পক্ষের পুনর্গঠিত প্রশ্নসংকলন**-এ পাওয়া বিষয়গুলোর **English rendering** দেওয়া হলো। প্রশ্নসংকলন নিজেই জানিয়েছে এগুলো BPSC মূল কাগজ থেকে সরাসরি টাইপ করা নয়; কয়েকটি পত্র অসম্পূর্ণও থাকতে পারে। **Status: secondary-source match; NOT independently authenticated official paper.** আপনার দেওয়া বইয়ের ছবিগুলো এই অধ্যায়ের বিষয়বস্তুর সঙ্গে ব্যবহার করা হয়েছে, কিন্তু ফটোর সাল-লেবেলকেও মূল BPSC প্রমাণ ধরা হয়নি।
 
-| BCS | Question in English (translated/paraphrased) | Marks indicated in archive | Archive | Source status |
+| BCS | English + বাংলা প্রশ্ন (ভাবানুবাদ) | Marks indicated in archive | Archive | Source status |
 |---|---|---:|---|---|
-| 35th | Explain Bangladesh's geographical position in South Asia. | 5 | [Q1] | Secondary archive |
-| 35th | What is the economic importance of the Bay of Bengal? | 5 | [Q1] | Secondary archive |
-| 36th | What is meant by inactive or moribund delta regions? | 5 | [Q2] | Secondary archive |
-| 36th | Explain the importance of the Barind region (question grouped with other subtopics). | 5 | [Q2] | Secondary archive |
-| 40th | Describe Bangladesh's geographical location and physiography. | 10 | [Q3] | Secondary archive |
-| 40th | Discuss Bangladesh's geopolitical importance and risks. | 10 | [Q3] | Secondary archive |
-| 40th | Short note: Blue Economy. | note, question set | [Q3] | Secondary archive |
-| 43rd | Define Bangladesh's geographical location. | 5 | [Q4] | Secondary archive |
-| 43rd | Identify the districts associated with the Barind region. | 5 | [Q4] | Secondary archive |
-| 43rd | Describe regional topographical features. | 10 | [Q4] | Secondary archive |
-| 47th | Define geographical determinism and assess geographical factors in Bangladeshi culture. | 20 | [Q5] | Secondary archive; recent collection, verify official copy |
+| 35th | **English:** Explain Bangladesh's geographical position in South Asia. **বাংলা:** দক্ষিণ এশিয়ায় বাংলাদেশের ভৌগোলিক অবস্থান ব্যাখ্যা করুন। | 5 | [Q1] | Secondary archive |
+| 35th | **English:** What is the economic importance of the Bay of Bengal? **বাংলা:** বঙ্গোপসাগরের অর্থনৈতিক গুরুত্ব কী? | 5 | [Q1] | Secondary archive |
+| 36th | **English:** What is meant by inactive or moribund delta regions? **বাংলা:** নিষ্ক্রিয় বা মরিবান্ড বদ্বীপ বলতে কী বোঝায়? | 5 | [Q2] | Secondary archive |
+| 36th | **English:** Explain the importance of the Barind region (question grouped with other subtopics). **বাংলা:** বরেন্দ্র অঞ্চলের গুরুত্ব ব্যাখ্যা করুন (একই প্রশ্নে অন্যান্য উপবিষয়ও ছিল)। | 5 | [Q2] | Secondary archive |
+| 40th | **English:** Describe Bangladesh's geographical location and physiography. **বাংলা:** বাংলাদেশের ভৌগোলিক অবস্থান ও ভূপ্রকৃতি বর্ণনা করুন। | 10 | [Q3] | Secondary archive |
+| 40th | **English:** Discuss Bangladesh's geopolitical importance and risks. **বাংলা:** বাংলাদেশের ভূ-কৌশলগত গুরুত্ব ও ঝুঁকি আলোচনা করুন। | 10 | [Q3] | Secondary archive |
+| 40th | **English:** Short note: Blue Economy. **বাংলা:** সংক্ষিপ্ত টীকা: সুনীল অর্থনীতি (Blue Economy)। | note, question set | [Q3] | Secondary archive |
+| 43rd | **English:** Define Bangladesh's geographical location. **বাংলা:** বাংলাদেশের ভৌগোলিক অবস্থান নির্ণয় করুন। | 5 | [Q4] | Secondary archive |
+| 43rd | **English:** Identify the districts associated with the Barind region. **বাংলা:** বরেন্দ্র অঞ্চলের সংশ্লিষ্ট জেলাগুলো চিহ্নিত করুন। | 5 | [Q4] | Secondary archive |
+| 43rd | **English:** Describe regional topographical features. **বাংলা:** বাংলাদেশের অঞ্চলভিত্তিক ভূপ্রকৃতি বর্ণনা করুন। | 10 | [Q4] | Secondary archive |
+| 47th | **English:** Define geographical determinism and assess geographical factors in Bangladeshi culture. **বাংলা:** ভৌগোলিক নিয়ন্ত্রণবাদের সংজ্ঞা দিন এবং বাংলাদেশের সংস্কৃতিতে ভূগোলের প্রভাব মূল্যায়ন করুন। | 20 | [Q5] | Secondary archive; recent collection, verify official copy |
 
 **Trend interpretation (not statistical forecast):** অবস্থান + ভূপ্রকৃতি; বরেন্দ্র ও বদ্বীপ; ভূরাজনীতি ও বঙ্গোপসাগর; এবং ভূগোলের সমাজ-সংস্কৃতির প্রভাব—এসব recurring question *themes*। প্রশ্নের wording, marks ও সাল BPSC মূল PDF স্ক্যান পাওয়া গেলে পুনরায় মিলিয়ে দেখতে হবে। এই ছোট online corpus থেকে কোনো ‘উত্তর আসবেই’ probability গণনা করা হয়নি।
 
@@ -663,19 +663,19 @@ I --> P
 > [!WARNING]
 > **প্রমাণের স্তর:** **B = named third-party archived question paper**, **C = পাশের ইউনিট বা অন্য পত্র থেকে সংশ্লিষ্ট বিষয়**, **P = editorial predicted question**। মূল BPSC question-paper PDF দিয়ে হুবহু যাচাই না হওয়ায় এখানে কোনো প্রশ্নকে **A = official-original verified** বলা হয়নি। English wording হলো শিক্ষার সুবিধার্থে অনুবাদ বা ভাবানুবাদ।
 
-| BCS | প্রশ্নের English rendering | Marks / paper | Evidence & named archive |
+| BCS | English + বাংলা প্রশ্ন | Marks / paper | Evidence & named archive |
 |---|---|---|---|
-| 35th | Describe Bangladesh's geographical position in South Asia; explain the economic importance of the Bay of Bengal. | ৫+৫; Bangladesh Affairs | **B — [BCS EXAM, 35th archive](https://bcsexam.org/written-questions/35th-bcs-written)** |
-| 36th | Explain the importance of the coral island; inactive delta; Barind region and Varendra Museum. | ৫+৫+৫; Bangladesh Affairs | **B — [BCS EXAM, 36th archive](https://bcsexam.org/written-questions/36th-bcs-written)** |
-| 37th | Describe Bangladesh's geographical position and its advantages. | ৩+৭; Bangladesh Affairs | **B — [BCS EXAM, 37th archive](https://bcsexam.org/written-questions/37th-bcs-written)** |
-| 38th | Strategic position of Bangladesh — a neighbouring paper's related theme. | International Affairs; **Bangladesh Affairs নয়** | **C — [BCS EXAM, 38th archive](https://bcsexam.org/written-questions/38th-bcs-written)** |
-| 40th | Describe geographical location and topography; discuss strategic position and geopolitical risks. | ১০+১০; Bangladesh Affairs | **B — [BCS EXAM, 40th archive](https://bcsexam.org/written-questions/40th-bcs-written)** |
-| 41st | Short note: Bangladesh's maritime-boundary settlement. | Short note; Bangladesh Affairs | **B — [BCS EXAM, 41st archive](https://bcsexam.org/written-questions/41st-bcs-written)** |
-| 43rd | Locate Bangladesh; identify the Barind districts; describe regional topography. | ৫+৫+১০; Bangladesh Affairs | **B — [BCS EXAM, 43rd archive](https://bcsexam.org/written-questions/43rd-bcs-written)** |
-| 44th | Environmental and river-process descriptions in other papers, without evidence of a direct Unit-1 Bangladesh Affairs geography question. | Cross-paper context, not claimed as Unit-1 PYQ | **C — [BCS EXAM, 44th archive](https://bcsexam.org/written-questions/44th-bcs-written)** |
-| 45th | Why is a Teesta water-sharing agreement necessary? | ২০; Bangladesh Affairs (cross-unit) | **C — [BCS EXAM, 45th archive](https://bcsexam.org/written-questions/45th-bcs-written)** |
-| 46th | Evaluate the problems and prospects of marine-resource extraction in Bangladesh. | ২০; Bangladesh Affairs (mainly natural resources unit) | **C — [BCS EXAM, 46th archive](https://bcsexam.org/written-questions/46th-bcs-written)** |
-| 47th | Define geographical determinism and evaluate geographical influence on Bangladeshi culture. | ২০; Bangladesh Affairs (geography–culture link) | **B — [BCS EXAM, 47th archive](https://bcsexam.org/written-questions/47th-bcs-written)** |
+| 35th | **English:** Describe Bangladesh's geographical position in South Asia; explain the economic importance of the Bay of Bengal. **বাংলা:** দক্ষিণ এশিয়ায় বাংলাদেশের অবস্থান ও বঙ্গোপসাগরের অর্থনৈতিক গুরুত্ব ব্যাখ্যা করুন। | ৫+৫; Bangladesh Affairs | **B — [BCS EXAM, 35th archive](https://bcsexam.org/written-questions/35th-bcs-written)** |
+| 36th | **English:** Explain the importance of the coral island; inactive delta; Barind region and Varendra Museum. **বাংলা:** প্রবাল দ্বীপ, নিষ্ক্রিয় বদ্বীপ, বরেন্দ্র অঞ্চল ও বরেন্দ্র গবেষণা জাদুঘরের গুরুত্ব ব্যাখ্যা করুন। | ৫+৫+৫; Bangladesh Affairs | **B — [BCS EXAM, 36th archive](https://bcsexam.org/written-questions/36th-bcs-written)** |
+| 37th | **English:** Describe Bangladesh's geographical position and its advantages. **বাংলা:** বাংলাদেশের ভৌগোলিক অবস্থান ও এর সুবিধাগুলো বর্ণনা করুন। | ৩+৭; Bangladesh Affairs | **B — [BCS EXAM, 37th archive](https://bcsexam.org/written-questions/37th-bcs-written)** |
+| 38th | **English:** Strategic position of Bangladesh — a neighbouring paper's related theme. **বাংলা:** বাংলাদেশের ভূ-কৌশলগত অবস্থান—ভিন্ন পত্রের সংশ্লিষ্ট বিষয়। | International Affairs; **Bangladesh Affairs নয়** | **C — [BCS EXAM, 38th archive](https://bcsexam.org/written-questions/38th-bcs-written)** |
+| 40th | **English:** Describe geographical location and topography; discuss strategic position and geopolitical risks. **বাংলা:** বাংলাদেশের অবস্থান ও ভূপ্রকৃতি বর্ণনা করুন; ভূ-কৌশলগত গুরুত্ব ও ঝুঁকি আলোচনা করুন। | ১০+১০; Bangladesh Affairs | **B — [BCS EXAM, 40th archive](https://bcsexam.org/written-questions/40th-bcs-written)** |
+| 41st | **English:** Short note: Bangladesh's maritime-boundary settlement. **বাংলা:** সংক্ষিপ্ত টীকা: বাংলাদেশের সমুদ্রসীমা নির্ধারণে অর্জন। | Short note; Bangladesh Affairs | **B — [BCS EXAM, 41st archive](https://bcsexam.org/written-questions/41st-bcs-written)** |
+| 43rd | **English:** Locate Bangladesh; identify the Barind districts; describe regional topography. **বাংলা:** বাংলাদেশের অবস্থান, বরেন্দ্র অঞ্চলের জেলা এবং অঞ্চলভিত্তিক ভূপ্রকৃতি বর্ণনা করুন। | ৫+৫+১০; Bangladesh Affairs | **B — [BCS EXAM, 43rd archive](https://bcsexam.org/written-questions/43rd-bcs-written)** |
+| 44th | **English:** Environmental and river-process descriptions in other papers, without evidence of a direct Unit-1 Bangladesh Affairs geography question. **বাংলা:** অন্য পত্রে পরিবেশ ও নদীপ্রক্রিয়া-সংক্রান্ত আলোচনা; সরাসরি এ ইউনিটের প্রশ্ন হিসেবে যাচাইকৃত নয়। | Cross-paper context, not claimed as Unit-1 PYQ | **C — [BCS EXAM, 44th archive](https://bcsexam.org/written-questions/44th-bcs-written)** |
+| 45th | **English:** Why is a Teesta water-sharing agreement necessary? **বাংলা:** তিস্তার পানি বণ্টন চুক্তি কেন প্রয়োজন? | ২০; Bangladesh Affairs (cross-unit) | **C — [BCS EXAM, 45th archive](https://bcsexam.org/written-questions/45th-bcs-written)** |
+| 46th | **English:** Evaluate the problems and prospects of marine-resource extraction in Bangladesh. **বাংলা:** বাংলাদেশে সামুদ্রিক সম্পদ আহরণের সমস্যা ও সম্ভাবনা মূল্যায়ন করুন। | ২০; Bangladesh Affairs (mainly natural resources unit) | **C — [BCS EXAM, 46th archive](https://bcsexam.org/written-questions/46th-bcs-written)** |
+| 47th | **English:** Define geographical determinism and evaluate geographical influence on Bangladeshi culture. **বাংলা:** ভৌগোলিক নিয়ন্ত্রণবাদের সংজ্ঞা দিন এবং বাংলাদেশের সংস্কৃতিতে ভৌগোলিক পরিবেশের প্রভাব মূল্যায়ন করুন। | ২০; Bangladesh Affairs (geography–culture link) | **B — [BCS EXAM, 47th archive](https://bcsexam.org/written-questions/47th-bcs-written)** |
 
 **৪০তমের প্রশ্নদুটি সবচেয়ে গুরুত্বপূর্ণ শিক্ষণীয় জুটি:** আগে *location + topography* বর্ণনা, পরে *geopolitical importance + risk* মূল্যায়ন। একই মূল ধারণা থেকে দুটি ভিন্ন cognitive task এসেছে। তাই তথ্যের পাশে কারণ, প্রভাব, উদাহরণ ও নীতি লিখে পড়া আবশ্যক।
 
