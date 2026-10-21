@@ -255,11 +255,23 @@ Human security মানুষের জীবন, জীবিকা, খাদ
 
 <sub>Source: Dhaka Tribune, [Bangladesh’s robust role and commitment towards international peace and security](https://www.dhakatribune.com/opinion/longform/314708/bangladesh%E2%80%99s-robust-role-and-commitment-towards). Image reuse rights should be checked with publisher.</sub>
 
-### ১৩.৫ Official geopolitical reference map
+### ১৩.৫ Bilateral relations: issue matrix
 
-Bangladesh is bordered by India and Myanmar and opens to the Bay of Bengal. For exact boundaries, labels and geographic context, use a cartographic source rather than a decorative schematic: [CIA World Factbook — Bangladesh map and geography](https://www.cia.gov/the-world-factbook/countries/bangladesh/map/). Check map date and licence before reproducing it in a distributable notebook.
+<img src="./assets/bilateral-diplomacy-matrix.svg" width="100%" alt="Bangladesh bilateral diplomacy matrix: neighbourhood, major markets, development partners and national-interest test"/>
 
-### ১৩.৬ Historical image and background — Bangladesh and UN
+### ১৩.৬ Economic diplomacy: outcome pipeline
+
+<img src="./assets/economic-diplomacy-pipeline.svg" width="100%" alt="Economic diplomacy pipeline from market research to measured outcomes"/>
+
+### ১৩.৭ Rohingya response: parallel diplomatic tracks
+
+<img src="./assets/rohingya-diplomacy-framework.svg" width="100%" alt="Rohingya response framework covering diplomacy, protection and host communities"/>
+
+### ১৩.৮ Official geopolitical reference map
+
+Bangladesh shares land borders with India and Myanmar and has a southern coastline on the Bay of Bengal. For exact borders and geographic context, use a dated cartographic source rather than treating a schematic as a map: [CIA World Factbook — Bangladesh map and geography](https://www.cia.gov/the-world-factbook/countries/bangladesh/map/). Check the map's date and reuse terms before embedding it in a distributable notebook.
+
+### ১৩.৯ Historical image and background — Bangladesh and UN
 [United Nations in Bangladesh — Bangladesh and the United Nations: 50 Years of Partnership](https://bangladesh.un.org/en/282417-bangladesh-and-united-nations-50-years-partnership)
 
 <a id="questions"></a>
