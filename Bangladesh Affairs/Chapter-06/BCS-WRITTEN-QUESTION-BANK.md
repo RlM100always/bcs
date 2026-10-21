@@ -175,13 +175,15 @@ A **protected area** is a geographically defined area managed for conservation, 
 
 The 47th BCS Bangladesh Affairs archive reports a question asking candidates to define ECAs, explain their significance and describe Bangladesh’s ECAs [S8]. The examiner is therefore likely to expect definition, purpose, examples and implementation challenges—not merely a list of names.
 
+Examples listed in a Department of Environment publication include the Sundarbans' 10-km landward periphery, Cox's Bazar–Teknaf Peninsula, St Martin's Island, Sonadia Island, Hakaluki Haor, Tanguar Haor, Marjat Baor, Gulshan–Baridhara Lake, Buriganga, Turag, Balu and Shitalakhya rivers, and the Jaflong–Dawki river area [S27]. This is a dated list, not a guarantee that no later notifications have been issued; check the latest official gazette and DoE page before presenting a count as current.
+
 ECAs and protected areas can safeguard habitats, breeding grounds, water quality, biodiversity and ecosystem services. They can also support research, education, nature-based tourism and disaster resilience. Their designation is only the first step: management plans, enforcement, monitoring, public information and local participation are necessary.
 
-The Forest Department’s official page, updated in May 2026, reported 58 terrestrial and marine protected areas in its listed system and gave the area totals used on that page [S9]. Counts and boundaries may change, so candidates should check the latest official list before memorising numbers. Protected-area boundaries should be shown using an appropriately dated official map.
+The Forest Department’s official page, updated in May 2026, reported 58 terrestrial and marine protected areas in its listed system and gave the area totals used on that page [S9]. This is a separate protected-area system, not the ECA count. Counts and boundaries may change, so candidates should check the latest official list before memorising numbers. Protected-area boundaries should be shown using an appropriately dated official map.
 
 **Conclusion:** Conservation areas are effective only when legal designation is backed by management capacity, ecological monitoring and fair treatment of affected communities.
 
-**Sources:** 47th BCS Written archive [S8]; Forest Department [S9]; Department of Environment [S13].
+**Sources:** 47th BCS Written archive [S8]; Forest Department [S9]; Department of Environment [S13][S27].
 
 ## Q11. Discuss the economic and ecological importance of biodiversity. (10 marks)
 
@@ -451,5 +453,6 @@ These priorities should be ranked through feasibility, employment potential, eco
 - **[S24]** Sustainable and Renewable Energy Development Authority: https://sreda.gov.bd/
 - **[S25]** United Nations Framework Convention on Climate Change: https://unfccc.int/resource/docs/convkp/conveng.pdf
 - **[S26]** Rio Declaration on Environment and Development, Principle 10: https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_CONF.151_26_Vol.I_Declaration.pdf
+- **[S27]** Department of Environment, Bangladesh, ECA Management section in the official publication/report (2022): https://doe.gov.bd/sites/default/files/files/doe.portal.gov.bd/page/07273953_9ee9_4175_a48f_44c644631baa/2022-09-25-04-46-f82b77c08a9fdccd11bd392abf526abb.pdf
 
 [⬆ Back to Chapter 6](./README.md#top) · [PYQ audit](./PYQ-35TH-47TH-ANALYSIS.md) · [Quotations](./QUOTATIONS.md)
