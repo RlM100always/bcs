@@ -6,14 +6,14 @@ Gender is a cross-cutting social and development issue rather than a geographic 
 
 ## Eight chapter-specific diagrams
 
-1. **Gender equality framework** — rights, access and voice. ![Gender equality framework](./assets/visual-01-gender-equality-framework.svg)
-2. **Structural barriers** — social norms, unequal care, violence and digital exclusion. ![Structural barriers](./assets/visual-02-gender-barriers.svg)
-3. **Economic empowerment** — skills, decent opportunities, resources and agency. ![Economic empowerment pathway](./assets/visual-03-women-economic-empowerment.svg)
-4. **Gender-responsive budgeting** — diagnose, plan, implement and evaluate. ![Gender-responsive budget cycle](./assets/visual-04-gender-responsive-budget.svg)
-5. **Violence prevention and response** — prevention, protection, justice and recovery. ![Violence prevention framework](./assets/visual-05-violence-prevention.svg)
-6. **Climate and disaster resilience** — risk data, preparedness, response and recovery. ![Gender and climate resilience](./assets/visual-06-climate-gender.svg)
-7. **Gender indicators** — education, work, agency and safety. ![Gender development indicators](./assets/visual-07-indicators.svg)
-8. **BCS Written answer plan** — define, analyse, evaluate and recommend. ![BCS answer structure](./assets/visual-08-answer-structure.svg)
+1. **Gender equality framework** — rights, access and voice. ![Gender equality framework](./visual-01-gender-equality-framework.svg)
+2. **Structural barriers** — social norms, unequal care, violence and digital exclusion. ![Structural barriers](./visual-02-gender-barriers.svg)
+3. **Economic empowerment** — skills, decent opportunities, resources and agency. ![Economic empowerment pathway](./visual-03-women-economic-empowerment.svg)
+4. **Gender-responsive budgeting** — diagnose, plan, implement and evaluate. ![Gender-responsive budget cycle](./visual-04-gender-responsive-budget.svg)
+5. **Violence prevention and response** — prevention, protection, justice and recovery. ![Violence prevention framework](./visual-05-violence-prevention.svg)
+6. **Climate and disaster resilience** — risk data, preparedness, response and recovery. ![Gender and climate resilience](./visual-06-climate-gender.svg)
+7. **Gender indicators** — education, work, agency and safety. ![Gender development indicators](./visual-07-indicators.svg)
+8. **BCS Written answer plan** — define, analyse, evaluate and recommend. ![BCS answer structure](./visual-08-answer-structure.svg)
 
 ## Exact institutional sources and relevant visuals/data
 
