@@ -4,7 +4,7 @@
 > **পাঠের ধরন:** মূল ধারণা → প্রবন্ধভিত্তিক বিশ্লেষণ → বাংলাদেশের উদাহরণ → নীতি ও সমাধান → প্রশ্নোত্তর → উদ্ধৃতি ও উৎস।  
 > **পর্যালোচনা:** ২১ অক্টোবর ২০২৬
 
-[← Bangladesh Affairs সূচি](../README.md) · [English Quotations + Sources](./QUOTATIONS.md) · [PYQ-based Model Essays](./PYQ-BASED-ESSAYS.md)
+[← Bangladesh Affairs সূচি](../README.md) · [🧭 35th–47th BCS PYQ Map](./PYQ-35-47-MAP.md) · [📘 28 Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [💬 English Quotations + Sources](./QUOTATIONS.md) · [PYQ-based Model Essays](./PYQ-BASED-ESSAYS.md) · [Visual Atlas](#visual-atlas)
 
 > [!IMPORTANT]
 > **এই অধ্যায়ের কেন্দ্রীয় বক্তব্য:** বিশ্বায়ন বাংলাদেশের জন্য একই সঙ্গে বাজার, প্রযুক্তি, বিনিয়োগ, দক্ষতা ও জ্ঞান অর্জনের সুযোগ এবং বৈশ্বিক ধাক্কা, অসমতা, শ্রমঝুঁকি, পরিবেশগত চাপ ও নীতিগত নির্ভরতার চ্যালেঞ্জ। পরীক্ষার উত্তরে তাই “বিশ্বায়ন ভালো/খারাপ”—এমন একপেশে সিদ্ধান্ত নয়; **inclusive, resilient and sustainable globalization**-এর যুক্তি দেখাতে হবে।
@@ -25,6 +25,55 @@
 - [১২. ৩৩টি অনুশীলনী প্রশ্ন](#practice)
 - [১৩. এক পৃষ্ঠার পুনরালোচনা](#revision)
 - [১৪. উৎস ও তথ্য-সতর্কতা](#sources)
+
+
+<a id="visual-atlas"></a>
+
+## Visual Atlas — 7 topic-specific diagrams + official data maps
+
+**How to use:** diagrams are conceptual study aids, not official statistical charts. For numbers in exam answers, cite the relevant fiscal/calendar year and use the official source listed below. The seven visuals directly match the chapter’s question bank.
+
+### 1. Globalization’s six dimensions
+![Globalization dimensions map](./assets/globalization-dimensions.svg)
+[Open SVG](./assets/globalization-dimensions.svg) · Use for definitions and short notes.
+
+### 2. Bangladesh in the global economy
+![Bangladesh global links diagram](./assets/bangladesh-global-links.svg)
+[Open SVG](./assets/bangladesh-global-links.svg) · Connect RMG, remittances, FDI, institutions and climate diplomacy.
+
+### 3. Inclusive globalization
+![Inclusive globalization pathway](./assets/inclusive-globalization.svg)
+[Open SVG](./assets/inclusive-globalization.svg) · Use for inequality, decent work and inclusive development.
+
+### 4. Global shock and policy response
+![Global shock response framework](./assets/global-shock-response.svg)
+[Open SVG](./assets/global-shock-response.svg) · Use for energy prices, inflation, export shocks and resilience.
+
+### 5. Export diversification strategy
+![Export diversification framework](./assets/trade-diversification.svg)
+[Open SVG](./assets/trade-diversification.svg) · Use for export concentration, value addition and LDC transition.
+
+### 6. Global institutions and their mandates
+![Global institutions comparison](./assets/development-institutions.svg)
+[Open SVG](./assets/development-institutions.svg) · Distinguish WTO, IMF, World Bank, ADB and IsDB.
+
+### 7. LDC graduation readiness pathway
+![LDC graduation readiness](./assets/ldc-transition.svg)
+[Open SVG](./assets/ldc-transition.svg) · Verify all current transition dates and trade preferences from official sources.
+
+### Official maps, charts and current data portals
+
+- **Export composition, destination and trade statistics:** [Export Promotion Bureau](https://epb.gov.bd/) and [WTO Statistics](https://stats.wto.org/). Always specify the reporting period; do not treat an illustrative diagram above as a statistical graph.
+- **Remittances, balance of payments and external sector:** [Bangladesh Bank](https://www.bb.org.bd/).
+- **GDP, labour and social indicators:** [Bangladesh Bureau of Statistics](https://bbs.gov.bd/).
+- **Global development and Bangladesh country data:** [World Bank Bangladesh overview](https://www.worldbank.org/en/country/bangladesh/overview) and [World Bank Data](https://data.worldbank.org/country/bangladesh).
+- **Human development:** [UNDP Human Development Reports](https://hdr.undp.org/).
+- **Decent work and labour standards:** [ILO](https://www.ilo.org/).
+- **LDC graduation status and transition context:** [United Nations LDC portal](https://www.un.org/ldcportal/).
+
+**Map accuracy note:** This chapter is about economic and institutional globalization, not physical geography. Use the official statistical portals for country, trade and development charts; a generic map image should not be presented as evidence of trade values or current tariff treatment.
+
+---
 
 <a id="concept"></a>
 ## ১. বিশ্বায়ন: ধারণা, বৈশিষ্ট্য ও মাত্রা
