@@ -436,6 +436,13 @@ Article 12 ধর্মনিরপেক্ষতার নীতিকে ব�
 
 #### আইনসভার বাস্তব চিত্র: জাতীয় সংসদের অধিবেশন
 
+#### নির্বাহী বিভাগের সাংবিধানিক প্রেক্ষাপট: বঙ্গভবন
+
+![বঙ্গভবন — রাষ্ট্রপতির সরকারি বাসভবন](https://commons.wikimedia.org/wiki/Special:FilePath/Bangabhaban.jpg)
+
+*চিত্র-পাঠ:* রাষ্ট্রপতির সাংবিধানিক ভূমিকা ও নির্বাহী ক্ষমতার বাস্তব প্রয়োগ ব্যাখ্যা করার সময় রাষ্ট্রপতি, প্রধানমন্ত্রী ও মন্ত্রিসভার সাংবিধানিক অবস্থান আলাদা করে লিখুন। [ছবির উৎস ও বর্ণনা](https://commons.wikimedia.org/wiki/File:Bangabhaban.jpg) · [রাষ্ট্রপতির কার্যালয়](https://bangabhaban.gov.bd/)
+
+
 ![২০২৬ সালের জাতীয় সংসদের অধিবেশনকক্ষের দৃশ্য](https://commons.wikimedia.org/wiki/Special:FilePath/Interior%20view%20of%20the%2013th%20National%20Parliament%20of%20Bangladesh.jpg)
 
 *চিত্র-পাঠ:* অধিবেশনকক্ষের ছবি আইন প্রণয়ন, প্রতিনিধিত্ব, বাজেট অনুমোদন ও নির্বাহী বিভাগের জবাবদিহি নিয়ে আলোচনার সঙ্গে যুক্ত করুন। এটি ৬ এপ্রিল ২০২৬-এর নির্দিষ্ট অধিবেশনের ছবি; সব সংসদীয় পরিস্থিতির প্রতীক নয়। [মূল ছবির উৎস ও বিবরণ](https://commons.wikimedia.org/wiki/File:Interior_view_of_the_13th_National_Parliament_of_Bangladesh.jpg) · [জাতীয় সংসদ](https://www.parliament.gov.bd/)
@@ -502,11 +509,11 @@ Article 94 সুপ্রিম কোর্ট প্রতিষ্ঠা ক
 <a id="institutions"></a>
 ## ১১. গুরুত্বপূর্ণ সাংবিধানিক প্রতিষ্ঠান
 
-#### নির্বাচন ও সাংবিধানিক নথি
+#### নির্বাচন কমিশনের বাস্তব চিত্র
 
-![মূল সংবিধানের নির্বাচন-সংক্রান্ত পৃষ্ঠা](https://commons.wikimedia.org/wiki/Special:FilePath/Page%2053%20of%20the%20constitution%20of%20Bangladesh%20in%201972.jpg)
+![বাংলাদেশ নির্বাচন কমিশন সচিবালয়, আগারগাঁও](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh%20Election%20Commission.jpg)
 
-*চিত্র-পাঠ:* নির্বাচন কমিশন, নির্বাচন-সংক্রান্ত সাংবিধানিক বিধান এবং নির্বাচনী আইনকে আলাদা স্তরে পড়ুন। Article 118–126 ও বর্তমান প্রাসঙ্গিক আইন যাচাই করতে [সরকারি Bangladesh Laws](http://bdlaws.minlaw.gov.bd/) এবং [Bangladesh Election Commission](https://ecs.gov.bd/) ব্যবহার করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:Page_53_of_the_constitution_of_Bangladesh_in_1972.jpg)
+*চিত্র-পাঠ:* নির্বাচন কমিশনের সাংবিধানিক অবস্থান, দায়িত্ব, নির্বাচন পরিচালনা এবং স্বাধীনতা নিয়ে পড়ার সময় বাস্তব প্রতিষ্ঠানের ছবিটি সহায়ক। ভবনের ছবি নিজে কমিশনের স্বাধীনতার প্রমাণ নয়। [ছবির উৎস, আলোকচিত্রী ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Bangladesh_Election_Commission.jpg) · [Bangladesh Election Commission](https://ecs.gov.bd/) · [সরকারি Bangladesh Laws](http://bdlaws.minlaw.gov.bd/)
 
 
 | প্রতিষ্ঠান | Article | প্রধান কাজ | BCS Written-এ ব্যবহার |
