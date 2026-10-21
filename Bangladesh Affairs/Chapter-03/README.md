@@ -6,7 +6,7 @@
 > **পাঠের লক্ষ্য:** ইতিহাসের ধারাবাহিকতা বোঝা, কারণ–ফল বিশ্লেষণ করা, উৎসসহ প্রবন্ধ লেখা এবং PYQ theme ধরে প্রস্তুতি।  
 > **Source review:** ২১ অক্টোবর ২০২৬।
 
-[← মূল সূচি](../README.md) · [Chapter 01 — ভূগোল](../Chapter-01/README.md) · [Chapter 06 — প্রাকৃতিক সম্পদ](../Chapter-06/README.md) · [📚 English Quotations + Sources](./QUOTATIONS.md) · [পূর্ণাঙ্গ Model Essays](./PYQ-BASED-ESSAYS.md) · [২৫টি Model Q&A + 35th–47th PYQ Audit](./QUESTION-ANSWERS.md)
+[← মূল সূচি](../README.md) · [Chapter 01 — ভূগোল](../Chapter-01/README.md) · [Chapter 06 — প্রাকৃতিক সম্পদ](../Chapter-06/README.md) · [📚 English Quotations + Sources](./QUOTATIONS.md) · [পূর্ণাঙ্গ Model Essays](./PYQ-BASED-ESSAYS.md) · [২৫টি Model Q&A + 35th–47th PYQ Audit](./QUESTION-ANSWERS.md) · [🗺️ Visual Atlas: Maps & Heritage](./VISUAL-ATLAS.md)
 
 > 📱 **Mobile-friendly:** এই অধ্যায়ে responsive SVG diagrams দেওয়া হয়েছে। ছবিতে tap/click করলে SVG আলাদা করে খোলা যাবে। কোনো external image load না হলেও মূল পাঠ ও diagrams কাজ করবে। দীর্ঘ টেবিল ফোনে প্রয়োজন হলে horizontal scroll করুন।
 
@@ -16,6 +16,8 @@
 > **ইতিহাস পড়ার সূত্র:** সময়কাল → প্রধান ঘটনা → কারণ → জনগণের ভূমিকা → ফলাফল → দীর্ঘমেয়াদি তাৎপর্য। শুধু সাল মুখস্থ করলে বিশ্লেষণধর্মী Written উত্তর তৈরি হয় না।
 
 ## বিষয়সূচি
+
+> **দ্রুত নেভিগেশন:** [মূল পাঠ](#syllabus) · [সময়রেখা ও ইতিহাস](#timeline) · [ভাষা আন্দোলন](#language-movement) · [মুক্তিযুদ্ধ](#liberation-war) · [সংস্কৃতি ও ঐতিহ্য](#culture) · [২৫টি প্রশ্নোত্তর](./QUESTION-ANSWERS.md) · [মডেল প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [উদ্ধৃতি](./QUOTATIONS.md) · [মানচিত্র ও ভিজ্যুয়াল](./VISUAL-ATLAS.md)
 
 | ভিত্তি ও ধারাবাহিকতা | গুরুত্বপূর্ণ ঐতিহাসিক অধ্যায় | পরীক্ষা ও পুনরালোচনা |
 |---|---|---|
