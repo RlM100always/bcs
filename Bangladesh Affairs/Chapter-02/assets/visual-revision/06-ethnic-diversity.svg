@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+<title id="title">বাংলাদেশের জাতিগত বৈচিত্র্য</title><desc id="desc">Census 2022 — গণনাকৃত শ্রেণি ও বিভাগভিত্তিক অংশ</desc>
+<rect width="1000" height="700" rx="24" fill="#f7fafc"/><rect width="1000" height="150" rx="24" fill="#123047"/><rect y="120" width="1000" height="30" fill="#123047"/>
+<text x="50" y="62" fill="#ffffff" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="32" font-weight="700">বাংলাদেশের জাতিগত বৈচিত্র্য</text>
+<text x="50" y="105" fill="#dbeafe" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="19">Census 2022 — গণনাকৃত শ্রেণি ও বিভাগভিত্তিক অংশ</text>
+
+<g font-family="Noto Sans Bengali, Noto Sans, sans-serif">
+<rect x="55" y="185" width="400" height="170" rx="18" fill="#dbeafe" stroke="#93c5fd" stroke-width="2"/><text x="82" y="225" fill="#1e3a8a" font-size="20">জাতিগত শ্রেণির গণনাকৃত মোট</text><text x="82" y="280" fill="#123047" font-size="42" font-weight="700">1,650,478</text><text x="82" y="322" fill="#334155" font-size="17">National Report, Table 3.2.35</text>
+<rect x="505" y="185" width="440" height="170" rx="18" fill="#dcfce7" stroke="#86efac" stroke-width="2"/><text x="530" y="225" fill="#166534" font-size="20">গণনাকৃত জাতিগত জনসংখ্যার অংশ</text><text x="530" y="280" fill="#123047" font-size="38" font-weight="700">60.04%</text><text x="530" y="322" fill="#334155" font-size="17">চট্টগ্রাম বিভাগে</text>
+<text x="70" y="405" fill="#123047" font-size="20" font-weight="700">নথিভুক্ত জনগোষ্ঠীর উদাহরণ</text>
+<text x="85" y="450" fill="#334155" font-size="18">চাকমা</text><text x="250" y="450" fill="#123047" font-size="18" font-weight="700">483k+</text>
+<text x="85" y="485" fill="#334155" font-size="18">মারমা</text><text x="250" y="485" fill="#123047" font-size="18" font-weight="700">224k+</text>
+<text x="85" y="520" fill="#334155" font-size="18">ত্রিপুরা</text><text x="250" y="520" fill="#123047" font-size="18" font-weight="700">156k+</text>
+<text x="85" y="555" fill="#334155" font-size="18">সাঁওতাল</text><text x="250" y="555" fill="#123047" font-size="18" font-weight="700">129k</text>
+</g>
+<line x1="48" y1="628" x2="952" y2="628" stroke="#cbd5e1" stroke-width="2"/>
+<text x="50" y="660" fill="#334155" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="15">উৎস: BBS Census 2022 National Report. Census categories ও self-identification-এর সীমা বিবেচনা করুন.</text>
+</svg>
