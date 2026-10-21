@@ -3,7 +3,7 @@
 > **মূল ভাষা:** বাংলা; প্রশ্ন ও টেকনিক্যাল টার্ম: English  
 > **Source review:** ২১ অক্টোবর ২০২৬ · **পাঠের বিন্যাস:** ধারণা → বাংলাদেশের প্রেক্ষাপট → আইন ও প্রতিষ্ঠান → সমালোচনামূলক বিশ্লেষণ → বিগত প্রশ্নের থিম → ৩৩টি Model Q&A → ৫/১০/২০ নম্বরের উত্তর।
 
-[← মূল ১৬ অধ্যায়ের সূচি](../README.md) · [PYQ-based Essays](./PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](./QUOTATIONS.md)
+[← মূল ১৬ অধ্যায়ের সূচি](../README.md) · [PYQ-based Essays](./PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](./QUOTATIONS.md) · [🖼️ Visual Atlas (10 diagrams + source-linked materials)](./VISUAL-ATLAS.md)
 
 > 📱 **Mobile-friendly visual notes:** diagram-গুলো আলাদা responsive SVG file হিসেবে রাখা হয়েছে। Mermaid render না হলেও ছবি দেখা যাবে। মোবাইলে ছবি content width অনুযায়ী সংকুচিত হবে; বড় সারণি প্রয়োজন হলে horizontal scroll করুন।
 
@@ -13,6 +13,8 @@
 > 🟢 **পড়ার পদ্ধতি:** প্রথমে সংজ্ঞা, তারপর বাংলাদেশভিত্তিক উদাহরণ, সাংবিধানিক ভিত্তি, ভূমিকা ও সীমাবদ্ধতা পড়ুন। প্রতিটি উত্তরে **ধারণা → প্রমাণ/উদাহরণ → বিশ্লেষণ → মূল্যায়ন → উপসংহার** রাখুন।
 
 ## 🧭 বিষয়সূচি — সরাসরি অংশে যান
+
+**দ্রুত নেভিগেশন:** [মূল ধারণা](#২-অধ্যায়ের-মূল-ধারণা--৮-মিনিটে) · [অনানুষ্ঠানিক প্রতিষ্ঠান](#৫-informal-institutions--অনানুষ্ঠানিক-প্রতিষ্ঠান-কী-ও-কেন-গুরুত্বপূর্ণ) · [Civil Society](#৬-civil-society--সুশীল-সমাজের-ধারণা-ভূমিকা) · [NGO in Bangladesh](#৭-ngos-in-bangladesh--বিকাশ-ধরন-ও-অবদান) · [আইন ও নিয়ন্ত্রণ](#৮-constitutional-and-legal-framework--সংবিধান-ngoab-ও-mra) · [৩৩টি Model Q&A](#১৪-important-english-questions--৩৩টি-বাংলা-model-answer) · [Visual Atlas](./VISUAL-ATLAS.md) · [Model Essays](./PYQ-BASED-ESSAYS.md) · [Quotations](./QUOTATIONS.md)
 
 | শেখার ধাপ | মূল অধ্যায় | প্রশ্ন ও পুনরালোচনা |
 |---|---|---|
