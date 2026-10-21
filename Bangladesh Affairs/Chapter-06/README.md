@@ -452,6 +452,29 @@ EIA হলো কোনো প্রস্তাবিত প্রকল্প�
 
 **প্রমাণ-সীমা:** প্রকাশ্য Satt Academy Written question-bank-এ ৪৬তম BCS Written-এর General Science অংশে biodiversity conservation এবং ৪৫তম BCS Written-এর General Science অংশে প্রাকৃতিক গ্যাসের জ্বালানি হিসেবে সুবিধা সম্পর্কিত প্রশ্ন তালিকাভুক্ত আছে। এগুলো প্রাকৃতিক সম্পদ বিষয়ের সঙ্গে **cross-paper overlap**; এগুলোকে Bangladesh Affairs-এর Unit 6-এ সরাসরি আসা প্রশ্ন বলে দাবি করা হচ্ছে না। কৃষি-সম্পদ প্রশ্নসংকলনও সহায়ক secondary source, মূল BPSC paper নয়। তাই নিচের অগ্রাধিকার-তালিকা হলো সরকারি সিলেবাস + প্রকাশ্য প্রশ্নসংকলনের থিম-ভিত্তিক প্রস্তুতি মানচিত্র; প্রতিটি item-এর মূল BPSC scan দিয়ে পূর্ণ যাচাই নয়। [S7–S8]
 
+### ১৩.১ প্রকাশ্য প্রশ্নসংকলনে পাওয়া প্রশ্ন — সরাসরি বনাম cross-paper
+
+নিচের প্রশ্নগুলোকে আলাদা করে চিহ্নিত করা হয়েছে, যাতে **Bangladesh Affairs-এর সরাসরি PYQ** এবং **General Science-এর cross-paper overlap** গুলিয়ে না যায়। প্রশ্নের ভাষা সংক্ষিপ্তভাবে paraphrase করা হয়েছে। এগুলো তৃতীয়-পক্ষের question-bank-এ রিপোর্ট করা; BPSC-এর মূল scan দিয়ে স্বাধীনভাবে যাচাই করা হয়নি।
+
+#### A. Bangladesh Affairs — সরাসরি প্রাসঙ্গিক প্রশ্ন
+
+| BCS Written | প্রশ্নের সারমর্ম | নম্বর | কীভাবে প্রস্তুতি নেবেন | উৎস |
+|---|---|---:|---|---|
+| **৪৭তম, Q30** | প্রাকৃতিক ও মানবসম্পদ, ভৌগোলিক অবস্থান এবং বৈশ্বিক অর্থনৈতিক প্রবণতা বিবেচনায় বাংলাদেশের টেকসই উন্নয়নের অগ্রাধিকার খাত বিশ্লেষণ করুন। | ২০ | সম্পদ → উৎপাদন → কর্মসংস্থান → পরিবেশগত সীমা → বাস্তবায়নযোগ্য সুপারিশ | [BCS EXAM — 47th Written](https://bcsexam.org/written-questions/47th-bcs-written) · [Satt Academy — Bangladesh Affairs](https://sattacademy.com/question-bank/%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%B8-%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%BF%E0%A6%A4/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%B2%E0%A7%80-25932/written) |
+| **৪৬তম, Q7** | বাংলাদেশের সমুদ্রসম্পদ আহরণ ও ব্যবহারের সমস্যা এবং সম্ভাবনা মূল্যায়ন করুন। | ২০ | মৎস্য, সামুদ্রিক খনিজ/জ্বালানি, বন্দর, প্রযুক্তি, পরিবেশ ও Blue Economy | [Satt Academy — Bangladesh Affairs](https://sattacademy.com/question-bank/%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%B8-%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%BF%E0%A6%A4/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%9F%E0%A6%BE%E0%A6%B2%E0%A7%80-25932/written) |
+
+#### B. General Science — একই বিষয়ের cross-paper প্রশ্ন
+
+| BCS Written | প্রশ্নের সারমর্ম | নম্বর/অবস্থা | কেন এই অধ্যায়ে রাখলাম | উৎস |
+|---|---|---|---|---|
+| **৪৭তম, General Science, Q47(b–c)** | বাংলাদেশের জন্য উপযোগী পানি-উৎস সংরক্ষণ পদ্ধতি লিখুন; দেশের অর্থনীতিতে গুরুত্বপূর্ণ প্রাকৃতিক সম্পদগুলো কীভাবে অবদান রাখে তা ব্যাখ্যা করুন। | উপ-প্রশ্ন; নম্বরের ক্ষেত্রে source transcription মিলিয়ে নিন | পানি, ভূমি, জ্বালানি ও অর্থনৈতিক ব্যবহারকে একসঙ্গে অনুশীলন | [BCS EXAM — 47th Written](https://bcsexam.org/written-questions/47th-bcs-written) · [Satt Academy — General Science](https://sattacademy.com/question-bank/%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%B8-%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%BF%E0%A6%A4/%E0%A6%B8%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8/written) |
+| **৪৬তম, General Science, Q3(c)** | বাংলাদেশের প্রাকৃতিক গ্যাসের প্রধান উপাদানগুলো শনাক্ত করুন। | ৩ নম্বর বলে archive-এ রিপোর্ট | খনিজ ও জ্বালানি সম্পদের বৈজ্ঞানিক ভিত্তি | [Satt Academy — Environmental Pollution / General Science archive](https://sattacademy.com/question-bank/%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%B8-%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%BF%E0%A6%A4/%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%A6%E0%A7%82%E0%A6%B7%E0%A6%A3/written) |
+| **৪৬তম, General Science, Q6(c)** | জীববৈচিত্র্য সংরক্ষণের গুরুত্ব ব্যাখ্যা করুন। | ২ নম্বর বলে archive-এ রিপোর্ট | বন, বাস্তুতন্ত্র ও টেকসই সম্পদ ব্যবস্থাপনা | [Satt Academy — General Science](https://sattacademy.com/question-bank/%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%B8-%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%BF%E0%A6%A4/%E0%A6%B8%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8/written) |
+
+**পরীক্ষায় সতর্কতা:** General Science-এর প্রশ্নগুলোকে Bangladesh Affairs-এর direct PYQ হিসেবে লিখবেন না। এগুলো বিষয়ভিত্তিক cross-paper practice। মূল প্রশ্নপত্র পাওয়া গেলে প্রশ্ন নম্বর ও নম্বরবণ্টন পুনরায় মিলিয়ে নিন।
+
+**উত্তর লেখার কাঠামো:** সম্পদের ধরন ও অবস্থান → বর্তমান ব্যবহার/অবদান → পরিবেশ ও জীবিকার প্রভাব → ব্যবস্থাপনার সীমাবদ্ধতা → আইন/প্রতিষ্ঠান → টেকসই সুপারিশ।
+
 ### প্রকাশ্য প্রশ্নসংকলন থেকে পাওয়া থিম
 
 | প্রশ্নের ধরন/সংকলনে রিপোর্ট হওয়া বিষয় | পরীক্ষার দক্ষতা | অগ্রাধিকার |
