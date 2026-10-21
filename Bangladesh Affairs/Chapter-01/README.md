@@ -29,6 +29,13 @@
 
 ### 🧭 Quick Navigation — Click to Jump
 
+### 💬 Important — Chapter 1 Quotation Bank
+
+> [!IMPORTANT]
+> **[➡️ CLICK HERE: English Quotations + বাংলা অর্থ + Source Links](./QUOTATIONS.md)**  
+> আলাদা পেজে সব উদ্ধৃতি ও উৎস রাখা হয়েছে, যাতে এই দীর্ঘ অধ্যায় স্ক্রল করতে না হয়।
+
+
 | শুরু ও শেখার ধাপ | বিষয়ভিত্তিক অধ্যায় | প্রশ্ন ও উৎস |
 |---|---|---|
 | [🎯 কী জানতে হবে](#start) | [১. Location ও Delta Story](#location) | [📚 Previous BCS Question Audit](#pyq) |
@@ -38,7 +45,7 @@
 | [🖼️ Visual Atlas](#visual-atlas) | [৫. Bay of Bengal & Maritime Law](#maritime) | [⚡ One-page Revision](#revision) |
 | [🗺️ Maps at a Glance](#maps) | [৬. BDP 2100: Policy](#delta-plan) | [🔗 Full Source Register](#sources) |
 | [📋 Memory Check](#memory-check) | [৭. People, Culture & Geography](#people) | [✅ Accuracy & Limitations](#accuracy) |
-| [💬 Quotations / উদ্ধৃতি](#quotations) | [৮. Exam-ready Source Lines](#quotations) | [🔗 Quote Source Register](#quote-sources) |
+| [💬 Quotations / উদ্ধৃতি](./QUOTATIONS.md) | [৮. Exam-ready Source Lines](./QUOTATIONS.md#quote-lines) | [🔗 Quote Source Register](./QUOTATIONS.md#quote-sources) |
 
 > [!TIP]
 > **Quick Tip:** যে টপিকের নাম ক্লিক করবেন, সরাসরি সেখানে চলে যাবেন। বড় সেকশন শেষ হলে থাকা **[⬆️ Go to Contents](#top)**-এ ক্লিক করুন। আর ছবিতে ক্লিক করলে পূর্ণ আকারে দেখবেন।
