@@ -4,7 +4,7 @@
 
 ## Visual Atlas — Maps, Official Records & Revision Diagrams
 
-এই অধ্যায়ে **১৭টি SVG visual resource** (আগের ১০টি diagram-সহ), বর্তমান ভোটার-তথ্যের chart, ২০২৬ সালের নির্বাচন-সংক্রান্ত বাস্তব ছবি এবং সরকারি constituency boundary records যুক্ত করা হয়েছে। আইনগত সীমানা যাচাইয়ের ক্ষেত্রে সরকারি গেজেট ও নির্বাচন কমিশনের constituency lookup-ই চূড়ান্ত reference; তৃতীয়-পক্ষের result map-কে আইনি boundary map হিসেবে ব্যবহার করবেন না। কোনো screenshot বা boundary image-কে বর্তমান আইনগত সীমানা হিসেবে ভুল বোঝা এড়াতে মানচিত্রের ক্ষেত্রে সরকারি গেজেটকে অগ্রাধিকার দিন।
+এই অধ্যায়ে **১৫টি SVG visual resource** (আগের ১০টি diagram-সহ), বর্তমান ভোটার-তথ্যের chart, ২০২৬ সালের নির্বাচন-সংক্রান্ত বাস্তব ছবি এবং সরকারি constituency boundary records যুক্ত করা হয়েছে। আইনগত সীমানা যাচাইয়ের ক্ষেত্রে সরকারি গেজেট ও নির্বাচন কমিশনের constituency lookup-ই চূড়ান্ত reference; তৃতীয়-পক্ষের result map-কে আইনি boundary map হিসেবে ব্যবহার করবেন না। কোনো screenshot বা boundary image-কে বর্তমান আইনগত সীমানা হিসেবে ভুল বোঝা এড়াতে মানচিত্রের ক্ষেত্রে সরকারি গেজেটকে অগ্রাধিকার দিন।
 
 ### ১. বাংলাদেশের নির্বাচনী ব্যবস্থার সাংবিধানিক মানচিত্র
 ![Expanded constitutional map for election management](./assets/constitutional-map-expanded.svg)
@@ -17,7 +17,7 @@
 [Open diagram separately](./assets/election-cycle-expanded.svg) · **Source:** Representation of the People Order, 1972, as amended; [official EC legal register](https://ecs.gov.bd/en/page/national-parliament-election-law).
 
 ### ৩. নির্বাচনী সততার ছয়টি স্তম্ভ
-![Election integrity pillars](./assets/election-integrity-pillars.svg)
+![Election integrity pillars](./assets/electoral-integrity-dashboard.svg)
 
 [Open diagram separately](./assets/election-integrity-pillars.svg). Independence, equal competition, secret ballot, verifiable counting, inclusion and remedies—এগুলোকে উত্তর লেখার analytical framework হিসেবে ব্যবহার করুন।
 
