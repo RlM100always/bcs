@@ -12,8 +12,8 @@
 | BCS | Question / theme visible in the public transcription | Marks | Preparation implication |
 |---|---|---:|---|
 | **35th** | Environmental degradation; causes of river pollution; waste-management framework; possible effects of sea-level rise on Bangladesh's climate. | Q23(a–d), 4 × 5 = 20 | Definitions, cause–effect, waste-hierarchy diagram and coastal adaptation. |
-| **36th** | No direct environment-specific item established by this topic-focused review from an authenticated paper scan. | Not verified | Do not infer absence; check the original paper if available. |
-| **37th** | No direct environment-specific item established by this topic-focused review from an authenticated paper scan. | Not verified | Do not infer absence; check the original paper if available. |
+| **36th** | Bangladesh Affairs: no direct environment-specific item identified in the public transcription reviewed; the Bangla paper includes an essay prompt on “বাংলাদেশে পরিবেশ বিপর্যয় ও তার প্রতিকার” (environmental degradation in Bangladesh and remedies). | Bangla essay, 40 marks | Cross-paper direct evidence for environment preparation, but do not mislabel it as a Bangladesh Affairs question. [Public transcription](https://bcsexam.org/written-questions/36th-bcs-written). |
+| **37th** | Bangladesh Affairs Q20(b): describe the likely adverse effects of climate change on Bangladesh. | 10 marks | Direct high-priority PYQ: impacts, vulnerable regions/groups, adaptation, mitigation and policy response. The Bangla paper also includes a river-filling construction prompt; Science section includes plastic pollution. [Public transcription](https://bcsexam.org/written-questions/37th-bcs-written). |
 | **38th** | Disaster management; Bangladesh's disaster-management capacity; whether environmental pollution contributes to natural disasters. | Q29(a–c), 5 + 10 + 5 | Disaster cycle, hazard–exposure–vulnerability and environmental governance. |
 | **39th** | A complete, verifiable transcription was not located in the archive index checked for this audit. | Not verified | No claim of absence. |
 | **40th** | Green Economy appears in the Bangladesh Affairs short-note list in the public transcription. | Short note | Green growth, cleaner production, resource efficiency and just transition. |
@@ -28,6 +28,8 @@
 ## 2. Public paper transcriptions checked
 
 - [35th BCS Written](https://bcsexam.org/written-questions/35th-bcs-written)
+- [36th BCS Written](https://bcsexam.org/written-questions/36th-bcs-written)
+- [37th BCS Written](https://bcsexam.org/written-questions/37th-bcs-written)
 - [38th BCS Written](https://bcsexam.org/written-questions/38th-bcs-written)
 - [40th BCS Written](https://bcsexam.org/written-questions/40th-bcs-written)
 - [41st BCS Written](https://bcsexam.org/written-questions/41st-bcs-written)
