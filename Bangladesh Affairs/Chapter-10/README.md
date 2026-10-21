@@ -186,9 +186,9 @@
 
 #### বাস্তব ছবি: ভোটদান ও নির্বাচনী অংশগ্রহণ
 
-![বাংলাদেশে ভোটদান ও নির্বাচনী অংশগ্রহণের দৃশ্য](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh%20Election.jpg)
+![বাংলাদেশে ভোটদান ও নির্বাচনী অংশগ্রহণের দৃশ্য](https://commons.wikimedia.org/wiki/Special:FilePath/2026-02-12%2013th%20National%20Parliament%20Election%20and%202026%20Referendum%2C%20voters%20in%20long%20lines%20at%20capital%20polling%20stations.jpg)
 
-*চিত্র-পাঠ:* নাগরিকের দাবি → রাজনৈতিক সংগঠন → নির্বাচনী প্রতিযোগিতা → প্রতিনিধিত্ব → নীতি ও জবাবদিহি—এই চক্রের সঙ্গে ছবিটি মিলিয়ে পড়ুন। [ছবির উৎস ও বিবরণ](https://commons.wikimedia.org/wiki/Category:Elections_in_Bangladesh) · [বাংলাদেশ নির্বাচন কমিশন](https://ecs.gov.bd/)
+*চিত্র-পাঠ:* নাগরিকের দাবি → রাজনৈতিক সংগঠন → নির্বাচনী প্রতিযোগিতা → প্রতিনিধিত্ব → নীতি ও জবাবদিহি—এই চক্রের সঙ্গে ছবিটি মিলিয়ে পড়ুন। [ছবির উৎস ও বিবরণ](https://commons.wikimedia.org/wiki/File:2026-02-12_13th_National_Parliament_Election_and_2026_Referendum,_voters_in_long_lines_at_capital_polling_stations.jpg) · [বাংলাদেশ নির্বাচন কমিশন](https://ecs.gov.bd/)
 
 
 ## ৪. Political Process — রাজনৈতিক প্রক্রিয়া কীভাবে কাজ করে?
@@ -232,9 +232,9 @@
 
 #### ঐতিহাসিক ছবি: ১৯৭১ সালের ৭ মার্চের ভাষণ
 
-![বঙ্গবন্ধুর ৭ মার্চের ভাষণ, ১৯৭১](https://commons.wikimedia.org/wiki/Special:FilePath/Sheikh%20Mujibur%20Rahman%207th%20March%20Speech.jpg)
+![বঙ্গবন্ধুর ৭ মার্চের ভাষণ, ১৯৭১](https://commons.wikimedia.org/wiki/Special:FilePath/Mujibur%20Rahman%207th%20March%20Speech%20Race%20Course%20Maidan%201971-03-07%20%28PID-h003%29.jpg)
 
-*চিত্র-পাঠ:* ভাষা আন্দোলন, ছয় দফা, গণ-অভ্যুত্থান, ১৯৭০ সালের নির্বাচন ও মুক্তিযুদ্ধকে বাংলাদেশের রাজনৈতিক সংগঠন ও গণ-অংশগ্রহণের ধারাবাহিকতায় বিশ্লেষণ করুন। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/Category:7_March_Speech_of_Sheikh_Mujibur_Rahman)
+*চিত্র-পাঠ:* ভাষা আন্দোলন, ছয় দফা, গণ-অভ্যুত্থান, ১৯৭০ সালের নির্বাচন ও মুক্তিযুদ্ধকে বাংলাদেশের রাজনৈতিক সংগঠন ও গণ-অংশগ্রহণের ধারাবাহিকতায় বিশ্লেষণ করুন। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Mujibur_Rahman_7th_March_Speech_Race_Course_Maidan_1971-03-07_(PID-h003).jpg)
 
 
 ## ৫. বাংলাদেশের রাজনৈতিক দল ও রাজনৈতিক প্রক্রিয়ার ঐতিহাসিক বিকাশ
@@ -328,9 +328,9 @@
 
 #### বাস্তব ছবি: নাগরিক সমাবেশ ও জন-অংশগ্রহণ
 
-![বাংলাদেশে নাগরিক সমাবেশ ও জনঅংশগ্রহণ](https://commons.wikimedia.org/wiki/Special:FilePath/Political%20rally%20in%20Bangladesh.jpg)
+![বাংলাদেশে নাগরিক সমাবেশ ও জনঅংশগ্রহণ](https://commons.wikimedia.org/wiki/Special:FilePath/1954%20public%20rally%20Shaheed%20Suhrawardy%20and%20Bangabandhu%2C%20Rajshahi%20%28PID-h008%29.jpg)
 
-*চিত্র-পাঠ:* রাজনৈতিক সংস্কৃতিতে অংশগ্রহণ, সহনশীলতা, বিরোধী মতের প্রতি শ্রদ্ধা, শান্তিপূর্ণ প্রতিযোগিতা এবং আইন মেনে চলার ভূমিকা আলোচনা করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/Category:Political_rallies_in_Bangladesh)
+*চিত্র-পাঠ:* রাজনৈতিক সংস্কৃতিতে অংশগ্রহণ, সহনশীলতা, বিরোধী মতের প্রতি শ্রদ্ধা, শান্তিপূর্ণ প্রতিযোগিতা এবং আইন মেনে চলার ভূমিকা আলোচনা করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:1954_public_rally_Shaheed_Suhrawardy_and_Bangabandhu,_Rajshahi_(PID-h008).jpg)
 
 
 ## ৭. Political Culture — বাংলাদেশের রাজনৈতিক সংস্কৃতি
@@ -370,7 +370,7 @@
 
 #### আইনগত উৎস: রাজনৈতিক দল নিবন্ধনের বিধান
 
-![বাংলাদেশ নির্বাচন কমিশনের প্রতীক](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_Election_Commission_logo.png)
+![বাংলাদেশ নির্বাচন কমিশনের প্রতীক](https://commons.wikimedia.org/wiki/Special:FilePath/Election%20Commission%20Logo.svg)
 
 *চিত্র-পাঠ:* রাজনৈতিক দল নিবন্ধন, নির্বাচনী প্রতীক ও আইনগত শর্তের জন্য বর্তমান নির্বাচন কমিশনের তালিকা এবং Representation of the People Order, 1972-এর 90A–90I ধারা পড়ুন। [সরকারি রাজনৈতিক দল নিবন্ধন আইন, ২০২০](https://ecs.gov.bd/page/political-parties-registration-law-2020) · [আইনের পূর্ণ পাঠ](https://bdlaws.minlaw.gov.bd/act-print-424.html)
 
@@ -433,9 +433,9 @@ RPO-এর Chapter VIA-তে রাজনৈতিক দলের নিবন
 
 #### বাস্তব ছবি: নির্বাচনে নারীর অংশগ্রহণ
 
-![বাংলাদেশে নারী ভোটারদের নির্বাচনী অংশগ্রহণ](https://commons.wikimedia.org/wiki/Special:FilePath/Women%20voters%20in%20Bangladesh.jpg)
+![বাংলাদেশে নারী ভোটারদের নির্বাচনী অংশগ্রহণ](https://commons.wikimedia.org/wiki/Special:FilePath/Women%20Voting%20in%20Dhaka%20Banani%20Model%20School%202018-12-30%20%28PID-0040849%29.jpg)
 
-*চিত্র-পাঠ:* ভোটার হিসেবে অংশগ্রহণ, প্রার্থী হওয়া, দলীয় নেতৃত্বে প্রতিনিধিত্ব, নিরাপত্তা এবং সিদ্ধান্ত গ্রহণে কার্যকর ভূমিকা—এই দিকগুলো আলাদা করে মূল্যায়ন করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/Category:Women_voters_in_Bangladesh) · [বাংলাদেশ নির্বাচন কমিশন](https://ecs.gov.bd/)
+*চিত্র-পাঠ:* ভোটার হিসেবে অংশগ্রহণ, প্রার্থী হওয়া, দলীয় নেতৃত্বে প্রতিনিধিত্ব, নিরাপত্তা এবং সিদ্ধান্ত গ্রহণে কার্যকর ভূমিকা—এই দিকগুলো আলাদা করে মূল্যায়ন করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:Women_Voting_in_Dhaka_Banani_Model_School_2018-12-30_(PID-0040849).jpg) · [বাংলাদেশ নির্বাচন কমিশন](https://ecs.gov.bd/)
 
 
 ## ৯. নারী, তরুণ, সংখ্যালঘু ও প্রান্তিক গোষ্ঠীর রাজনৈতিক অংশগ্রহণ
@@ -466,9 +466,9 @@ RPO-এর Chapter VIA-তে রাজনৈতিক দলের নিবন
 
 #### বাস্তব ছবি: নির্বাচনী পর্যবেক্ষণ ও ভোটকেন্দ্র
 
-![বাংলাদেশের একটি ভোটকেন্দ্র](https://commons.wikimedia.org/wiki/Special:FilePath/Polling%20station%20in%20Bangladesh.jpg)
+![বাংলাদেশের একটি ভোটকেন্দ্র](https://commons.wikimedia.org/wiki/Special:FilePath/2026-02-12%20Chief%20Election%20Commissioner%20A.%20M.%20M.%20Nasir%20Uddin%20visits%20polling%20stations%20in%20capital.jpg)
 
-*চিত্র-পাঠ:* নির্বাচনের বিশ্বাসযোগ্যতা মূল্যায়নে ভোটার তালিকা, ভোটকেন্দ্রের ব্যবস্থাপনা, সমান প্রতিযোগিতা, নিরাপত্তা, পর্যবেক্ষণ ও অভিযোগ নিষ্পত্তির বিষয়গুলো একসঙ্গে বিশ্লেষণ করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/Category:Polling_stations_in_Bangladesh) · [নির্বাচন কমিশন](https://ecs.gov.bd/)
+*চিত্র-পাঠ:* নির্বাচনের বিশ্বাসযোগ্যতা মূল্যায়নে ভোটার তালিকা, ভোটকেন্দ্রের ব্যবস্থাপনা, সমান প্রতিযোগিতা, নিরাপত্তা, পর্যবেক্ষণ ও অভিযোগ নিষ্পত্তির বিষয়গুলো একসঙ্গে বিশ্লেষণ করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:2026-02-12_Chief_Election_Commissioner_A._M._M._Nasir_Uddin_visits_polling_stations_in_capital.jpg) · [নির্বাচন কমিশন](https://ecs.gov.bd/)
 
 
 ## ১০. বাংলাদেশের রাজনৈতিক প্রক্রিয়ার প্রধান চ্যালেঞ্জ
