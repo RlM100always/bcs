@@ -128,7 +128,9 @@
 
 ### 🟨 ৫. Sundarbans & Mangroves — সুন্দরবন ও ম্যানগ্রোভ বন
 
-> **“one of the largest such forests in the world”**
+**Original English quotation (মূল ইংরেজি উদ্ধৃতি):**
+
+> “one of the largest such forests in the world”
 
 **বাংলা ভাবানুবাদ:** সুন্দরবন বিশ্বের বৃহত্তম ম্যানগ্রোভ বনগুলোর অন্যতম।
 
