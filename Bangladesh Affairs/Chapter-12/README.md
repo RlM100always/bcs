@@ -19,7 +19,7 @@
 - [৭. E-governance ও নাগরিককেন্দ্রিক সেবা](#egov)
 - [৮. Digital divide, misinformation, privacy ও cybersecurity](#risks)
 - [৯. নীতিগত চ্যালেঞ্জ ও সুপারিশ](#recommendations)
-- [১০. Quick revision visuals](#visuals) · [12-sheet Visual Atlas + real images/map](./VISUAL-ATLAS.md)
+- [১০. Quick revision visuals](#visuals) · [14-visual Atlas + real images/map](./VISUAL-ATLAS.md)
 - [১১. ৩৩টি Written practice question](#questions) · [২৫টি full model answer](./BCS-WRITTEN-QUESTION-BANK.md)
 - [১২. Answer-writing framework](#answer)
 - [১৩. Source register](#sources)
