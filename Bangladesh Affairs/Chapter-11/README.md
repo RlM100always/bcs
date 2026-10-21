@@ -77,6 +77,37 @@
 
 ### Official and real-world photo references
 
+#### Voting in the 2026 national election and referendum
+![Voters casting ballots during Bangladesh's 2026 election and referendum](https://commons.wikimedia.org/wiki/Special:FilePath/2026-02-12%20Thirteenth%20National%20Parliamentary%20Election%20and%20Referendum%202026%2C%20voting%20in%20the%20capital.jpg)
+
+**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:2026-02-12_Thirteenth_National_Parliamentary_Election_and_Referendum_2026,_voting_in_the_capital.jpg). Use this as a dated example of voting procedures, not as a measure of overall election quality.
+
+#### Chief Election Commissioner casting a vote
+![Chief Election Commissioner A. M. M. Nasir Uddin voting on 12 February 2026](https://commons.wikimedia.org/wiki/Special:FilePath/Chief%20Election%20Commissioner%20A.%20M.%20M.%20Nasir%20Uddin%20voting%20in%202026%20referendum%20and%2013th%20national%20parliamentary%20election%2C%20Eskaton%20Garden%20High%20School%2C%20Ramna%2C%20Dhaka%202026-02-12.jpg)
+
+**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Chief_Election_Commissioner_A._M._M._Nasir_Uddin_voting_in_2026_referendum_and_13th_national_parliamentary_election,_Eskaton_Garden_High_School,_Ramna,_Dhaka_2026-02-12.jpg). Useful for discussing universal franchise and institutional leadership; it does not imply endorsement.
+
+#### Election result collection and reporting centre
+![Officials at the Election Commission results collection and presentation centre, 13 February 2026](https://commons.wikimedia.org/wiki/Special:FilePath/Chief%20Election%20Commissioner%20A%2C%20M%2C%20M%2C%20Nasir%20Uddin%20briefed%20the%20results%20collection%20and%20presentation%20center%20of%20the%20%27Referendum%20and%20Thirteenth%20National%20Parliament%20Election%202026.jpg)
+
+**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Chief_Election_Commissioner_A,_M,_M,_Nasir_Uddin_briefed_the_results_collection_and_presentation_center_of_the_'Referendum_and_Thirteenth_National_Parliament_Election_2026.jpg). Link this visual to counting, tabulation, result publication and audit trails.
+
+#### Election result centre — inter-agency coordination
+![Information and Broadcasting Secretary at the Election Commission result centre, 12 February 2026](https://commons.wikimedia.org/wiki/Special:FilePath/Mahbuba%20Farzana%2C%20Information%20and%20Broadcasting%20Secretary%2C%20at%20Bangladesh%20Election%20Commission%20results%20center%2C%20Dhaka%2C%20for%202026%20Referendum%20and%20Thirteenth%20Parliament%20Election%2C%202026-02-12.jpg)
+
+**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Mahbuba_Farzana,_Information_and_Broadcasting_Secretary,_at_Bangladesh_Election_Commission_results_center,_Dhaka,_for_2026_Referendum_and_Thirteenth_Parliament_Election,_2026-02-12.jpg). Use to discuss public information, official results and coordinated communication.
+
+#### Voters queuing at polling stations in the capital
+![Voters at polling stations in Dhaka during the 2026 election and referendum](https://commons.wikimedia.org/wiki/Special:FilePath/Voters%20at%20polling%20stations%20in%20the%20capital%20during%2013th%20National%20Parliamentary%20Election%20and%20Referendum%202026%2C%202026-02-12.jpg)
+
+**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Voters_at_polling_stations_in_the_capital_during_13th_National_Parliamentary_Election_and_Referendum_2026,_2026-02-12.jpg). Use as a dated illustration of turnout logistics, not as a turnout statistic.
+
+#### Official Election Commission headquarters
+![Election Commission headquarters, Agargaon, Dhaka](https://asset.ecs.gov.bd/media/uploaded_files/configuration/carousel/2026/02/f2145a87-a861-4a65-bbc9-13cd3bda19d5.webp)
+
+**Source:** [Bangladesh Election Commission official website](https://ecs.gov.bd/en). This identifies the institution responsible for election management; legal powers must be sourced to the Constitution and statutes.
+
+
 #### Bangladesh Election Commission headquarters
 ![Bangladesh Election Commission headquarters in Agargaon, Dhaka](https://asset.ecs.gov.bd/media/uploaded_files/configuration/carousel/2026/02/f2145a87-a861-4a65-bbc9-13cd3bda19d5.webp)
 
