@@ -4,12 +4,33 @@
 > **পাঠের কাঠামো:** ঐতিহাসিক প্রেক্ষাপট → অর্থনৈতিক রূপান্তর → সমাজ ও মানব উন্নয়ন → সাহিত্য-সংস্কৃতি → বৈষম্য ও চ্যালেঞ্জ → নীতিগত বিশ্লেষণ → পরীক্ষার উত্তর।  
 > **সর্বশেষ উৎস-পর্যালোচনা:** ২১ অক্টোবর ২০২৬। পরিবর্তনশীল পরিসংখ্যানের পাশে উৎস ও বছর দেওয়া হয়েছে।
 
-[← Bangladesh Affairs-এর মূল সূচি](../README.md) · [Chapter 01 — ভূগোল](../Chapter-01/README.md) · [Chapter 02 — জনমিতি](../Chapter-02/README.md) · [📚 PYQ Analysis + গুরুত্বপূর্ণ প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [Source-backed Exam Lines](./QUOTATIONS.md)
+[← Bangladesh Affairs-এর মূল সূচি](../README.md) · [Chapter 01 — ভূগোল](../Chapter-01/README.md) · [Chapter 02 — জনমিতি](../Chapter-02/README.md) · [📚 PYQ Analysis + গুরুত্বপূর্ণ প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](./QUOTATIONS.md) · [📘 25 Model Questions & Answers](./QUESTIONS-ANSWERS.md)
 
 <a id="top"></a>
 
 > [!NOTE]
 > **এই অধ্যায় কীভাবে পড়বেন:** প্রতিটি বিষয়কে চার ধাপে বুঝুন—(১) কী পরিবর্তন ঘটেছে, (২) কেন ঘটেছে, (৩) কারা লাভবান বা ক্ষতিগ্রস্ত হয়েছে, (৪) কোন নীতি উন্নত ফল দিতে পারে। পরীক্ষায় শুধু অর্জনের তালিকা নয়, সীমাবদ্ধতা ও প্রমাণভিত্তিক সুপারিশও লিখবেন।
+
+## Visual study gallery — বাস্তব ছবি ও বিষয়ভিত্তিক চিত্র
+
+> ছবিগুলো বিষয় বোঝানোর জন্য। প্রতিটি ছবির মূল Wikimedia Commons পাতা থেকে লাইসেন্স ও attribution যাচাই করুন; এগুলো পরিসংখ্যানগত প্রমাণ নয়।
+
+### বাংলাদেশের তৈরি পোশাকশিল্প ও শ্রম
+![Working conditions of garment workers in Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/Working_conditions_of_Garment_workers_in_Bangladesh.jpg)
+
+**Source / licence:** [Wikimedia Commons — Working conditions of Garment workers in Bangladesh.jpg](https://commons.wikimedia.org/wiki/File:Working_conditions_of_Garment_workers_in_Bangladesh.jpg) · Fahad Faisal · CC BY-SA 4.0. ছবিটি শ্রমপরিবেশের একটি উদাহরণ; পুরো খাতের প্রতিনিধিত্বকারী নমুনা নয়।
+
+### বাংলা নববর্ষ ও সাংস্কৃতিক পরিচয়
+![Pohela Boishakh rally in Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/Pohela_boishakh_rally.jpg)
+
+**Source / licence:** [Wikimedia Commons — Pohela boishakh rally.jpg](https://commons.wikimedia.org/wiki/File:Pohela_boishakh_rally.jpg). ছবির পাতা থেকে বর্তমান লাইসেন্স/attribution দেখে ব্যবহার করুন।
+
+### আরও দ্রুত শেখার জন্য
+- [📊 09 — BCS Answer Framework](./assets/visual-revision/09-answer-framework.svg)
+- [📈 08 — Growth vs Inclusive Development](./assets/visual-revision/08-growth-vs-inclusion.svg)
+- [🧭 07 — Development Model](./assets/visual-revision/07-development-model.svg)
+- [📚 25 Model Questions + Answers](./QUESTIONS-ANSWERS.md)
+- [💬 16 English Quotations + Sources](./QUOTATIONS.md)
 
 ## বিষয়সূচি — সরাসরি অংশে যান
 
@@ -517,6 +538,8 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 ---
 
 <a id="questions"></a>
+> **Model-answer companion:** অনুশীলনী ছাড়াও ২৫টি প্রশ্নের বিস্তৃত নমুনা উত্তর পেতে [Chapter 04 — 25 High-Priority Questions with Model Answers](./QUESTIONS-ANSWERS.md) দেখুন।
+
 ## ২০. ৩৩টি English–বাংলা অনুশীলনী প্রশ্ন
 
 ### ৫ নম্বরের উপযোগী
