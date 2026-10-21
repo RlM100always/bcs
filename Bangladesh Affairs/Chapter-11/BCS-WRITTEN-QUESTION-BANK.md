@@ -119,6 +119,77 @@
 
 
 
+
+## Expanded 20-mark worked answers — লিখে অনুশীলনের জন্য
+
+নিচের চারটি উত্তর উচ্চ-অগ্রাধিকারের প্রশ্নের জন্য পূর্ণাঙ্গ model response। প্রশ্নের শব্দসংখ্যা ও সময় অনুযায়ী এগুলো সংক্ষিপ্ত বা বিস্তৃত করবেন। এগুলো practice answers; হুবহু BPSC past paper answer key নয়।
+
+### Worked Answer A — “What are the prerequisites for free, fair and credible elections in Bangladesh?” (20 marks)
+
+**Introduction.** A credible election is one in which eligible citizens can participate without unlawful exclusion or intimidation, candidates compete under clear and fairly applied rules, votes are cast secretly, results can be verified, and disputes are resolved through law. Credibility is a product of the entire electoral cycle, not merely the act of voting.
+
+**Constitutional foundation.** Articles 118 and 119 of the Constitution establish the Election Commission and its core mandate. Article 121 provides for one electoral roll for each constituency and prohibits separate rolls based on religion, race, caste or sex. Article 122 establishes the constitutional basis for adult franchise. Article 126 requires executive authorities to assist the EC in discharging its functions. The RPO and current election rules provide operational detail.
+
+**Institutional and administrative conditions.** The EC needs professional staff, adequate logistics, clear responsibilities and consistent decision-making. Electoral rolls should be updated through accessible procedures, with privacy and correction safeguards. Constituency boundaries, nomination scrutiny and campaign rules should be transparent and based on law. Polling stations should be accessible and safe; officials should be trained; ballot secrecy must be protected; and counting should use clear, documented reconciliation procedures.
+
+**Fair competition and information.** Candidates and parties should be subject to the same code of conduct and campaign-finance rules. Spending and disclosure provisions should be audited and enforced consistently. Voters need reliable information about the schedule, candidates, polling centres and complaint procedures. Media and observers can support scrutiny, but must follow the law, verify claims and avoid exposing voters’ secret choices.
+
+**Challenges and remedies.** Risks may include political violence, intimidation, disinformation, unequal resources, weak enforcement, administrative mistakes and delayed dispute resolution. Each problem requires a specific response: lawful security planning, rapid correction of false official information, consistent sanctions, transparent finance reporting, documented polling and counting records, accessible complaints and timely adjudication. Allegations should be investigated on evidence; an allegation alone is not proof.
+
+**Recommendations.** Publish clear rules and reasoned decisions; improve training and contingency planning; make voter services accessible; disclose legally required candidate and party finance information; provide transparent result records; establish clear timelines for complaints; and publish post-election reviews with measurable indicators.
+
+**Conclusion.** Credible elections require the combined operation of constitutional independence, administrative competence, equal competition, inclusive participation, transparent records and effective remedies. No single institution or procedure can deliver trust on its own.
+
+**Sources:** Constitution of Bangladesh, Articles 118–126; RPO 1972, as amended; International IDEA, *Electoral Management Design*.
+
+### Worked Answer B — “Discuss the role of the Election Commission and election observers in ensuring credible elections.” (15/20 marks)
+
+**Introduction.** The Election Commission is the constitutional administrator of national elections, while observers provide independent scrutiny within their legal mandate. These roles are complementary but not interchangeable.
+
+**Role of the Election Commission.** Under Articles 118–119, the EC is constitutionally established and assigned responsibilities relating to electoral rolls, elections and constituency delimitation. Operationally, it plans the schedule, prepares staff and logistics, supervises nominations and relevant campaign rules, arranges polling stations, trains officials, manages polling and counting procedures, publishes authorised results and provides or administers lawful complaint processes. Article 126 requires executive authorities to assist the Commission.
+
+**Role of observers.** Accredited observers may assess the process, document procedures, identify risks, monitor compliance and issue evidence-based findings and recommendations. Their presence can improve transparency and help identify recurring weaknesses. Observation is most valuable when the methodology is public, access is sufficient, observers are impartial, and reports distinguish verified facts from allegations.
+
+**Limits and safeguards.** Observers do not replace election officials, courts or election tribunals. They must respect voter secrecy, avoid interference, follow accreditation rules and report accurately. The EC must not treat observation as a substitute for its own supervision, and observer reports should not be accepted or rejected solely because they support a preferred political narrative.
+
+**How the roles reinforce each other.** The EC should provide clear procedures and lawful access; observers should document implementation; the media and civil society should communicate verified information; and competent legal bodies should determine disputes through evidence and due process. Recommendations should be considered through post-election review.
+
+**Conclusion.** The EC administers and enforces the legal process; observers independently assess it. Credibility improves when both roles are professional, impartial and transparent, and when findings lead to corrective action.
+
+**Past-question link:** This answer integrates the themes reported in 35th BCS (EC composition/functions), 36th BCS (observation teams), 37th BCS (election missions) and 41st/43rd BCS (EC role and functions). These are archive-reported themes, not a substitute for an authenticated original question paper.
+
+### Worked Answer C — “Analyse Bangladesh’s political culture and its relationship with electoral democracy.” (20 marks)
+
+**Introduction.** Political culture comprises citizens’ and political actors’ beliefs, expectations and habits regarding power, participation, opposition and public accountability. It affects whether elections are treated as a lawful contest among legitimate competitors or as a zero-sum struggle.
+
+**Democratic characteristics.** A democratic political culture values pluralism, peaceful competition, tolerance of dissent, constitutionalism, internal party democracy, evidence-based debate and acceptance of lawful remedies. Citizens should be able to support different candidates without fear, while public officials should apply rules consistently.
+
+**Possible deviations.** These may include personalisation of leadership, hostility towards opponents, political violence, intolerance of criticism, patronage, misinformation, weak internal party democracy and distrust of institutions. These should be analysed with evidence and care: a broad label should not replace specific examples, and allegations must not be presented as proven facts without support.
+
+**Relationship with elections.** Election rules can encourage fair competition, but rules alone cannot remove political intolerance. If parties treat every loss as illegitimate or opponents as enemies, disputes may move away from institutions. Conversely, consistent law enforcement, open information, peaceful opposition and timely legal remedies can reinforce democratic habits.
+
+**Recommendations.** Strengthen civic and voter education; encourage transparent party nomination and internal decision-making; enforce campaign-finance and conduct rules equally; protect peaceful political participation and independent journalism; publish reliable electoral data; improve complaint resolution; and evaluate reforms through measurable indicators. Parties and civil society should promote peaceful contestation and acknowledge lawful procedures even when they disagree with a decision.
+
+**Conclusion.** Electoral democracy is both an institutional process and a political culture. A credible EC and clear laws are essential, but durable trust also requires tolerance, accountability, civic participation and a shared commitment to resolving disputes through law.
+
+**Past-question link:** 47th BCS Written Bangladesh Affairs Q26, as reported in the public archive, asks candidates to analyse political culture, identify deviations from democratic ideals and recommend remedies. The original scan was not independently authenticated in this project.
+
+### Worked Answer D — “How should election expenditure be regulated, and how can historical changes be presented accurately?” (10 marks)
+
+**Introduction.** Campaign-finance regulation aims to limit hidden influence, discourage excessive expenditure and protect fair competition. It should allow legitimate campaigning while requiring transparent accounts and equal enforcement.
+
+**Legal framework.** The RPO contains provisions on election expenses, including Article 44B. Under the current consolidated text, a contesting candidate’s expenditure—including spending incurred for the candidate by the nominating party—must not exceed **Tk 10 per voter or Tk 25 lakh, whichever is higher**. Candidates should verify the current wording and any subsequent amendment before an exam.
+
+**Historical comparison.** The 35th BCS question asks for the sequence of changes since 2001. A reliable chart must identify the legal instrument and effective date for each change, then record the applicable fixed limit or formula. A fixed monetary ceiling cannot be compared mechanically with a per-voter formula. If a figure is not supported by the relevant amendment or gazette, do not memorise it from an undated guide.
+
+**Implementation challenges.** A formal ceiling is ineffective without accurate accounts, disclosure, audit, clear definitions of direct and indirect spending, and impartial investigation. Spending by a nominating party for its candidate must be considered where the law requires it. Rules should be applied consistently to all contestants and should include a fair process for appeals and sanctions.
+
+**Recommendations.** Publish a consolidated, dated rule summary; provide standard reporting forms; make required statements accessible to the public; audit a risk-based sample; investigate discrepancies through due process; and publish enforcement outcomes in aggregate. Post-election review should identify whether the limit is realistic and whether reporting rules can be monitored.
+
+**Conclusion.** The aim is not to stop political campaigning but to prevent hidden money from undermining equal competition. A historical chart is credible only when each data point is linked to the legal instrument that was in force at that time.
+
+**Sources:** Official consolidated RPO, Article 44B; Representation of the People (Amendment) Act, 2026; 35th BCS secondary question archive.
+
 ## ২০ নম্বরের উত্তর লেখার কাঠামো
 
 ### Model essay plan 1 — “An independent Election Commission is necessary but not sufficient for a credible election.”
