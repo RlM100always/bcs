@@ -79,39 +79,48 @@ Bangladesh Affairs (Subject Code 005)-এর প্রথম ইউনিটে 
 
 <a id="keywords"></a>
 
-### 🔑 Core Terminology — English Term, বাংলা অর্থ, মনে রাখার উদাহরণ
+### 🔑 Core Terminology — English Term, বাংলা অর্থ ও Easy English Meaning
 
-| English term | সহজ বাংলা অর্থ | মনে রাখার উদাহরণ |
-|---|---|---|
-| Geography | পৃথিবীর স্থান, পরিবেশ ও মানুষের স্থানিক সম্পর্কের অধ্যয়ন | নদী ও বসতি |
-| Absolute Location | অক্ষাংশ–দ্রাঘিমাংশ দিয়ে নির্দিষ্ট অবস্থান | ২০°৩৪′–২৬°৩৮′ উত্তর |
-| Relative Location | প্রতিবেশী ভূখণ্ড, নদী, সমুদ্রের তুলনায় অবস্থান | ভারতের পূর্বে বঙ্গোপসাগরসংলগ্ন দেশ |
-| Topography | ভূমির উচ্চতা, ঢাল ও বাহ্যিক রূপ | হাওর নিচু, বরেন্দ্র উঁচু |
-| Physiography | ভূগঠন ও ভূমিরূপ ধরে অঞ্চলবিভাগ | Floodplain–Terrace–Hill |
-| Geomorphology | ভূমিরূপ গঠন ও পরিবর্তনের বিজ্ঞান | চর সৃষ্টি ও নদীভাঙন |
-| Alluvium | নদীবাহিত পলিমাটি | যমুনার চর |
-| Sediment | নদী বা বাতাসে পরিবাহিত বালি–পলি–কাদা | বদ্বীপের নির্মাণ উপাদান |
-| Erosion | ভূমি বা তীরের ক্ষয় | নদীতীর ভাঙন |
-| Deposition / Accretion | পলি সঞ্চয় / নতুন ভূমি বৃদ্ধি | চর জাগা |
-| Floodplain | নদীর প্লাবনের সঙ্গে সম্পর্কিত সমতল ভূমি | পদ্মা–যমুনা প্লাবনভূমি |
-| Pleistocene Terrace | অপেক্ষাকৃত প্রাচীন উঁচু সোপানভূমি | বরেন্দ্রভূমি, মধুপুর গড় |
-| Tertiary Hills | ভূতাত্ত্বিকভাবে পুরোনো পাহাড়ি ভূমিরূপ | পার্বত্য চট্টগ্রাম |
-| Delta | নদী ও সাগরের সম্মিলিত প্রক্রিয়ায় গঠিত বদ্বীপ | গঙ্গা–ব্রহ্মপুত্র বদ্বীপ |
-| Active Delta | যেখানে পলি জমা ও নদীপ্রক্রিয়া সক্রিয় | পরিবর্তনশীল মোহনাভূমি |
-| Moribund Delta | অপেক্ষাকৃত নিষ্ক্রিয় পুরোনো বদ্বীপীয় এলাকা | পশ্চিমাঞ্চলের কিছু পুরোনো নদীখাত |
-| Tributary / Distributary | উপনদী / শাখানদী | নদীজালের শাখা-প্রশাখা |
-| Channel Migration | নদীখাত বা মূল প্রবাহের স্থানান্তর | ব্রহ্মপুত্র–যমুনা |
-| Char | নদী বা মোহনায় পলি জমে ওঠা ভূমি | যমুনার চর |
-| Haor / Beel / Baor | মৌসুমি অববাহিকা / নিচু জলাশয় / বিচ্ছিন্ন নদীবাঁক | সুনামগঞ্জের হাওর |
-| Flash Flood | স্বল্প সময়ে দ্রুত সৃষ্ট বন্যা | হাওরে আগাম পাহাড়ি ঢল |
-| Mangrove | জোয়ারভাটা ও লবণাক্ততায় অভিযোজিত বন | সুন্দরবন |
-| Estuary | নদী ও সাগরের মিলিত মোহনা | মেঘনা মোহনা |
-| Geopolitics | ভূঅবস্থান ও আন্তর্জাতিক সম্পর্কের সংযোগ | সমুদ্রসীমা ও যোগাযোগ |
-| Blue Economy | পরিবেশসম্মত সামুদ্রিক অর্থনৈতিক কার্যক্রম | বন্দর, মৎস্য, সামুদ্রিক গবেষণা |
-| Territorial Sea | উপকূলীয় রাষ্ট্রের নির্দিষ্ট সার্বভৌমত্বাধীন সমুদ্রাঞ্চল | সর্বোচ্চ ১২ nautical miles |
-| EEZ | সম্পদ-সম্পর্কিত বিশেষ সার্বভৌম অধিকারসম্পন্ন সমুদ্রাঞ্চল | সর্বোচ্চ ২০০ nautical miles |
-| Adaptive Delta Management | পরিবর্তিত ঝুঁকি ও তথ্য অনুযায়ী বদ্বীপ ব্যবস্থাপনা | Bangladesh Delta Plan 2100 |
-| Hotspot | একই ধরনের ভূপ্রাকৃতিক ঝুঁকিসম্পন্ন নীতিগত অঞ্চল | Haor and Flash Flood Areas |
+> [!TIP]
+> 🟢 **How to memorise:** প্রথমে **English Term** দেখুন → **সহজ বাংলা অর্থ** বুঝুন → **Easy English Meaning** নিজের ভাষায় বলুন → বাংলাদেশের উদাহরণ মনে করুন। ইংরেজি সংজ্ঞাগুলো মুখস্থযোগ্য সহজ ভাষায় লেখা; এগুলো সরকারি সংজ্ঞার হুবহু উদ্ধৃতি নয়।
+
+| English Term | সহজ বাংলা অর্থ | Easy English Meaning | বাংলাদেশের উদাহরণ |
+|---|---|---|---|
+| Geography | পৃথিবীর স্থান, পরিবেশ ও মানুষের স্থানিক সম্পর্কের অধ্যয়ন | The study of places, people, and the natural environment. | নদী ও বসতি |
+| Absolute Location | অক্ষাংশ–দ্রাঘিমাংশ দিয়ে নির্দিষ্ট অবস্থান | The exact position of a place using latitude and longitude. | ২০°৩৪′–২৬°৩৮′ উত্তর |
+| Relative Location | অন্য স্থান, দেশ বা সমুদ্রের তুলনায় অবস্থান | Where a place is in relation to other places. | ভারত ও মিয়ানমারের প্রতিবেশী; দক্ষিণে বঙ্গোপসাগর |
+| Topography | ভূমির উচ্চতা, ঢাল ও বাহ্যিক রূপ | The shape, height, and slope of the land. | হাওর নিচু, বরেন্দ্র উঁচু |
+| Physiography | ভূগঠন ও ভূমিরূপের ভিত্তিতে অঞ্চলবিভাগ | Grouping land into regions by its natural features and formation. | Floodplain–Terrace–Hill |
+| Geomorphology | ভূমিরূপের সৃষ্টি ও পরিবর্তনের বিজ্ঞান | The study of how landforms are made and changed. | চর সৃষ্টি ও নদীভাঙন |
+| Alluvium | নদীবাহিত পলি | Sand, silt, or clay left behind by flowing water. | যমুনার চর |
+| Sediment | পানি বা বাতাসে পরিবাহিত বালি–পলি–কাদা | Small pieces of material carried by water, wind, or ice. | বদ্বীপ গঠনের উপাদান |
+| Erosion | পানি, বাতাস ইত্যাদির প্রভাবে ভূমিক্ষয় | The wearing away or removal of soil and rock. | নদীতীর ভাঙন |
+| Deposition / Accretion | পলি জমা / পলি সঞ্চয়ে ভূমি বৃদ্ধি | Deposition: material settles. Accretion: land builds up gradually. | নতুন চর জাগা |
+| Floodplain | নদীর প্লাবনের সঙ্গে সম্পর্কিত সমতল ভূমি | Flat land beside a river that can be flooded. | পদ্মা–যমুনা প্লাবনভূমি |
+| Pleistocene Terrace | প্লাইস্টোসিন যুগের অপেক্ষাকৃত প্রাচীন উঁচু সোপান | Old, raised land formed during the Pleistocene period. | বরেন্দ্রভূমি ও মধুপুর গড় |
+| Tertiary Hills | প্রাচীন ভূতাত্ত্বিক স্তরের পাহাড়ি ভূমিরূপ | Hills formed from older rocks and sediments. | পার্বত্য চট্টগ্রাম |
+| Delta | নদীর মোহনায় পলি সঞ্চয়ে গঠিত বিস্তৃত ভূমি | Low land built by river sediment near the sea. | গঙ্গা–ব্রহ্মপুত্র বদ্বীপ |
+| Active Delta | পলি সঞ্চয় ও নদীপ্রক্রিয়ায় সক্রিয় বদ্বীপীয় অঞ্চল | A delta area where rivers still actively deposit sediment. | পরিবর্তনশীল মোহনাভূমি |
+| Moribund Delta | মূল নদীর সক্রিয় পলিপ্রবাহ কমে যাওয়া পুরোনো বদ্বীপ | An older delta area where active river deposition has greatly declined. | পশ্চিমাঞ্চলের কিছু পুরোনো নদীখাত |
+| Tributary / Distributary | উপনদী / মূল নদী থেকে বের হওয়া শাখানদী | Tributary: joins a larger river. Distributary: branches away from it. | নদীজালের শাখা-প্রশাখা |
+| Channel Migration | নদীখাত বা মূল প্রবাহের স্থান পরিবর্তন | The movement of a river channel to a new position. | ব্রহ্মপুত্র–যমুনা |
+| Char | নদী বা মোহনায় পলি জমে ওঠা ভূমি | New land or a sandbar formed by river sediment. | যমুনার চর |
+| Haor / Beel / Baor | মৌসুমি অববাহিকাজলাভূমি / নিচু জলাশয় / বিচ্ছিন্ন নদীবাঁকের জলাশয় | Haor: seasonal wetland basin. Beel: low-lying lake or wetland. Baor: an old river bend cut off from the river. | সুনামগঞ্জের হাওর ও দক্ষিণ-পশ্চিমের বাঁওড় |
+| Flash Flood | অল্প সময়ে দ্রুত সৃষ্ট আকস্মিক বন্যা | A flood that rises very quickly after heavy rain or sudden water flow. | হাওরে আগাম পাহাড়ি ঢল |
+| Mangrove | লবণাক্ত ও জোয়ারভাটার পরিবেশে অভিযোজিত বন | Coastal trees and forests adapted to salty, tidal water. | সুন্দরবন |
+| Estuary | নদীর মিঠাপানি ও সাগরের লবণপানির মিলনস্থল | A place where river water meets and mixes with seawater. | মেঘনা মোহনা |
+| Geopolitics | ভূঅবস্থান ও আন্তর্জাতিক রাজনীতির সম্পর্ক | How location and geography affect relations between countries. | সমুদ্রসীমা ও আঞ্চলিক যোগাযোগ |
+| Blue Economy | সমুদ্রসম্পদনির্ভর টেকসই অর্থনৈতিক কর্মকাণ্ড | Using ocean resources for economic growth while protecting the sea. | বন্দর, মৎস্য ও সামুদ্রিক গবেষণা |
+| Territorial Sea | উপকূলীয় রাষ্ট্রের সার্বভৌমত্বাধীন নির্দিষ্ট সমুদ্রাঞ্চল | Sea near a country's coast where it has sovereignty, subject to international law. | সর্বোচ্চ ১২ nautical miles |
+| EEZ (Exclusive Economic Zone) | সামুদ্রিক সম্পদ-সম্পর্কিত বিশেষ সার্বভৌম অধিকারের অঞ্চল | A sea zone where a country has special rights to explore and use resources. | সর্বোচ্চ ২০০ nautical miles |
+| Adaptive Delta Management | তথ্য ও ঝুঁকির পরিবর্তন অনুযায়ী বদ্বীপ ব্যবস্থাপনা | Planning a delta's future and changing plans when conditions change. | Bangladesh Delta Plan 2100 |
+| Hotspot | বিশেষ ঝুঁকি বা বৈশিষ্ট্যের ভিত্তিতে চিহ্নিত অঞ্চল | An area that needs special attention because of its risks. | Haor and Flash Flood Areas |
+
+> [!NOTE]
+> 🔵 **Source Basis:** **Banglapedia — Asiatic Society of Bangladesh, “Bangladesh Geography”**; **General Economics Division (GED), “Bangladesh Delta Plan 2100”**; **Ministry of Law, Justice and Parliamentary Affairs, “Territorial Waters and Maritime Zones Act, 1974” (amended 2021)**। [Banglapedia](https://en.banglapedia.org/index.php?title=Bangladesh_Geography) · [GED / BDP 2100](https://bcdp.gov.bd/) · [Maritime law](https://bdlaws.minlaw.gov.bd/act-print-467.html)।
+
+> [!IMPORTANT]
+> 🟣 **Exam Memory Tip:** **Delta = sediment builds land**; **Erosion = land is removed**; **Floodplain = flat flooded land**; **Terrace = old raised land**; **EEZ = resource rights, not complete sovereignty**।
 
 > [!TIP]
 > **Memory Trick:** **“স্থান–পলি–ভূমি–নদী–মানুষ–সমুদ্র–পরিকল্পনা”**। এই সাত শব্দ বলতে পারলেই পুরো অধ্যায়ের বিশ্লেষণের একটি মানসিক মানচিত্র তৈরি হবে।
