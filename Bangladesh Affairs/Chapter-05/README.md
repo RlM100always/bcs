@@ -400,6 +400,7 @@ PM2.5 হলো ব্যাস ২.৫ মাইক্রোমিটার ব
 ### Quick Jump — সরাসরি প্রয়োজনীয় চিত্রে যান
 
 - [Official protected-area map of Bangladesh](#map-protected)
+- [Official climate-risk maps (BAMIS)](#official-risk-maps)
 - [ECA legal framework](./assets/visuals/06-eca-framework.svg)
 - [Environmental risk model](./assets/visuals/07-risk-matrix.svg)
 - [Climate adaptation and mitigation](./assets/visuals/08-climate-pathway.svg)
@@ -475,6 +476,8 @@ PM2.5 হলো ব্যাস ২.৫ মাইক্রোমিটার ব
 - **ECA and legal documents:** [Ministry of Environment, Forest and Climate Change — ECA resources](https://moef.gov.bd/pages/static-pages/694032cb35ce18e1c0562861)
 - **Environment and pollution evidence:** [World Bank, Bangladesh Country Environmental Analysis 2023](https://www.worldbank.org/en/region/sar/publication/bangladesh-country-environmental-analysis-2023)
 - **Climate adaptation:** [National Adaptation Plan 2023–2050, UNDP Bangladesh](https://www.undp.org/bangladesh/publications/national-adaptation-plan-bangladesh-2023-2050)
+
+<a id="official-risk-maps"></a>
 
 ### Additional official risk maps — use the right map for the right claim
 
