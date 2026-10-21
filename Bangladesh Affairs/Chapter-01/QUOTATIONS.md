@@ -82,7 +82,9 @@
 
 ### 🟨 ৩. Bay of Bengal & Cyclones — বঙ্গোপসাগর ও ঘূর্ণিঝড়
 
-> **“The Bay of Bengal is well-known for its cyclones”**
+**Original English quotation (মূল ইংরেজি উদ্ধৃতি):**
+
+> “The Bay of Bengal is well-known for its cyclones”
 
 **বাংলা ভাবানুবাদ:** বঙ্গোপসাগর ঘূর্ণিঝড়ের জন্য পরিচিত; এর প্রভাব বাংলাদেশের উপকূলীয় অঞ্চলকে ঝুঁকির মুখে ফেলতে পারে।
 
