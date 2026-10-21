@@ -117,7 +117,7 @@
 
 ### অধ্যায় ১১-এর গুরুত্বপূর্ণ উদ্ধৃতি
 
-> “The Election Commission shall be independent in the exercise of its functions.”  
+> “In the exercise of his functions under this Constitution, the Election Commission shall be independent and subject only to this Constitution and any other law.”  
 > — Constitution of Bangladesh, Article 118(4)
 
 > “The power of voters is the liberation of Democracy.”  
