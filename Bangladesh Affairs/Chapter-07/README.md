@@ -5,7 +5,7 @@
 > **পাঠের বিন্যাস:** সংবিধান প্রণয়নের ইতিহাস → কাঠামো ও মূলনীতি → মৌলিক অধিকার → রাষ্ট্রের অঙ্গ → সংশোধনী ও বিচারিক ব্যাখ্যা → PYQ analysis → প্রবন্ধ ও অনুশীলন।  
 > **Source review:** ২১ অক্টোবর ২০২৬। সাম্প্রতিক সাংবিধানিক রায় ও সরকারি consolidated text-এর মধ্যে পার্থক্য থাকলে তা আলাদা করে উল্লেখ করা হয়েছে।
 
-[← Bangladesh Affairs-এর মূল সূচি](../README.md) · [📚 PYQ-ভিত্তিক গুরুত্বপূর্ণ প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [Source-backed Exam Lines](./QUOTATIONS.md) · [Chapter 01 — ভূগোল](../Chapter-01/README.md)
+[← Bangladesh Affairs-এর মূল সূচি](../README.md) · [৩৫তম–৪৭তম BCS PYQ Audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [৮টি পূর্ণ প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [২০টি English Quotations + Sources](./QUOTATIONS.md#verified-quotes) · [Chapter 01 — ভূগোল](../Chapter-01/README.md)
 
 > 📱 **Mobile-friendly chapter:** সব revision diagram responsive SVG। ছবি না খুললে [diagram folder](./assets/mobile-diagrams) খুলুন। বড় সারণি ফোনে প্রয়োজন হলে আড়াআড়ি scroll করুন।
 
@@ -18,11 +18,11 @@
 
 | ভিত্তি ও ইতিহাস | সংবিধানের বিধান | বিশ্লেষণ ও পরীক্ষা |
 |---|---|---|
-| [১. শিখনফল ও সিলেবাস](#start) | [৫. সংবিধানের কাঠামো](#structure) | [১২. গুরুত্বপূর্ণ সংশোধনী](#amendments) |
+| [১. শিখনফল ও সিলেবাস](#start) | [৫. সংবিধানের কাঠামো](#structure) | [১২. গুরুত্বপূর্ণ সংশোধনী](#amendment-process) |
 | [২. Previous BCS Written Question Analysis](#pyq) | [৬. প্রস্তাবনা ও রাষ্ট্রীয় আদর্শ](#preamble) | [১৩. সাম্প্রতিক সাংবিধানিক রায়](#recent-judgments) |
 | [৩. সংবিধান ও সাংবিধানিকতাবাদ](#concepts) | [৭. রাষ্ট্র পরিচালনার মূলনীতি](#principles) | [১৪. গুরুত্বপূর্ণ প্রবন্ধ](#essays) |
 | [৪. প্রণয়নের ইতিহাস](#history) | [৮. মৌলিক অধিকার](#rights) | [১৫. ৫/১০/২০ নম্বরের উত্তর কাঠামো](#answer-strategy) |
-| [দ্রুত Revision Visuals](#visuals) | [৯. রাষ্ট্রের তিন অঙ্গ](#organs) | [১৬. ৩৩টি অনুশীলনী](#questions) |
+| [দ্রুত Revision Visuals](#visuals) | [৯. রাষ্ট্রের তিন অঙ্গ](#organs) | [১৬. ৩৩টি অনুশীলনী](#questions) · [২৫টি উত্তরসহ প্রশ্ন](./BCS-WRITTEN-QUESTION-BANK.md) |
 | [গুরুত্বপূর্ণ Article Map](#article-map) | [১০. সাংবিধানিক প্রতিষ্ঠান](#institutions) | [১৭. সাধারণ ভুল](#common-mistakes) |
 |  | [১১. সংশোধন ও Basic Structure](#amendment-process) | [১৮. Memory Check](#memory-check) |
 |  |  | [১৯. Full Source Register](#sources) |
@@ -53,27 +53,37 @@
 
 ### ২.১ বিশ্লেষণের পদ্ধতি ও সতর্কতা
 
-নিচের টেবিলটি ৩৬তম, ৩৭তম, ৩৮তম, ৪০তম, ৪১তম, ৪৩তম, ৪৪তম ও ৪৫তম BCS Written-এর প্রকাশ্য question-bank transcript থেকে তৈরি। প্রশ্নব্যাংকটির নিজস্ব disclaimer অনুযায়ী প্রশ্নগুলো BPSC-এর মূল scan থেকে সরাসরি প্রকাশিত নয়; তাই এগুলোকে **archive-reported questions** হিসেবে চিহ্নিত করা হয়েছে, certified original scan হিসেবে নয়। এখানে পুনরাবৃত্ত বিষয় শনাক্ত করা হয়েছে—এটি কোনো ভবিষ্যৎ প্রশ্নের নিশ্চয়তা বা সব বছরের পূর্ণ পরিসংখ্যান নয়।
+এই অধ্যায়ের **সম্পূর্ণ ৩৫তম–৪৭তম BCS Written audit** আলাদা নেভিগেবল ফাইলে দেওয়া হয়েছে। এতে প্রতি বছরের Constitution/rights/amendment/Parliament/constitutional-institution theme, archive link, ৩৯তম ও ৪২তম special BCS-এর exclusion, ৪৬তমের direct-question status এবং source limitations আলাদা করা হয়েছে।
+
+**[➡️ 35th–47th BCS Constitution PYQ Audit খুলুন](./PYQ-35TH-47TH-AUDIT.md)** · **[২৫টি প্রশ্নের পূর্ণ মডেল উত্তর](./BCS-WRITTEN-QUESTION-BANK.md)**
+
+নিচের সারণি দ্রুত revision-এর জন্য মূল পুনরাবৃত্ত থিমের সারাংশ। প্রশ্নব্যাংকটির নিজস্ব disclaimer অনুযায়ী transcript-গুলো BPSC-এর মূল scan থেকে সরাসরি টাইপ করা certified copy নয়; তাই এগুলোকে **archive-reported** হিসেবে ধরুন। এই বিশ্লেষণ official frequency statistics বা ভবিষ্যৎ প্রশ্নের নিশ্চয়তা নয়।
 
 | BCS Written | সংবিধান-সম্পর্কিত প্রশ্নের বিষয় | নম্বর ও পরীক্ষার ইঙ্গিত |
 |---|---|---|
-| ৩৬তম | রাষ্ট্র পরিচালনার মূলনীতি, মৌলিক অধিকার, নারীর অধিকার, জনগণের সার্বভৌমত্ব; ৫ম, ১২তম, ১৫তম ও ১৬তম সংশোধনীর রাজনৈতিক প্রেক্ষাপট ও গুরুত্ব | চারটি ৫ নম্বরের অংশ এবং চারটি সংশোধনী নিয়ে আরও ২০ নম্বরের প্রশ্ন; অনুচ্ছেদ + ইতিহাস + মূল্যায়ন জরুরি |
-| ৩৭তম | রাষ্ট্র পরিচালনার মূলনীতি; Attorney-General-এর নিয়োগ ও দায়িত্ব; আইনসভা, নির্বাহী ও বিচার বিভাগের ভূমিকা | মূলনীতি নিয়ে ১৫ এবং রাষ্ট্রের অঙ্গ নিয়ে ২০ নম্বরের প্রশ্ন; বড় উত্তর লেখার অনুশীলন দরকার |
-| ৩৮তম | সংবিধানের সংজ্ঞা, অনুচ্ছেদের সংখ্যা, জাতীয় সংসদের গঠন/ক্ষমতা/কার্যাবলি, সংরক্ষিত নারী আসন | তথ্যভিত্তিক ৫ নম্বরের সঙ্গে বিশ্লেষণধর্মী ১০ নম্বরের প্রশ্ন |
-| ৪০তম | সংবিধানের মূলনীতি, সংশোধনের বিধান, পঞ্চদশ সংশোধনীর মূল বিষয় | ৫ + ৫ + ১০ নম্বর; Article 142 ও amendment analysis উচ্চ অগ্রাধিকার |
-| ৪১তম | সংবিধানের সংজ্ঞা, প্রথম কার্যকর হওয়ার তারিখ, মূলনীতি, বর্তমান সংবিধান-সংস্করণের তাৎপর্য | ১০ + ১০ নম্বর; তারিখ ও “বর্তমান সংস্করণ” বিষয়ে ধারণাগত নির্ভুলতা দরকার |
-| ৪৩তম | রাষ্ট্র পরিচালনার মূলনীতি, রাষ্ট্রের প্রধান অঙ্গ, স্থানীয় সরকার, নির্বাচন কমিশনের গঠন ও দায়িত্ব | সংবিধান শুধু বইয়ের তথ্য নয়; রাষ্ট্রীয় প্রতিষ্ঠান ও বাস্তব প্রয়োগও গুরুত্বপূর্ণ |
-| ৪৪তম | “সংবিধানই বাংলাদেশের সর্বোচ্চ আইন”, সংশোধন প্রক্রিয়া ও সংশ্লিষ্ট অনুচ্ছেদ, হাইকোর্ট বিভাগের বিচারপতি অপসারণ | ৫ + ১০ + ৫ নম্বর; supremacy, Article 142 ও Article 96 গুরুত্বপূর্ণ |
-| ৪৫তম | সংবিধানের প্রস্তাবনা ও গুরুত্ব; পঞ্চদশ সংশোধনীর পরিবর্তন ও প্রভাব | ২০ নম্বরের বিশ্লেষণধর্মী প্রশ্ন; ইতিহাস, আইন ও প্রভাব একসঙ্গে লিখতে হবে |
+| ৩৫তম | পঞ্চদশ সংশোধনীর পাঁচটি দিক; সংসদীয় সরকার; নির্বাচন কমিশন, Attorney-General ও Ombudsman | Amendment + constitutional institutions |
+| ৩৬তম | রাষ্ট্র পরিচালনার মূলনীতি, মৌলিক অধিকার, নারীর অধিকার, জনগণের সার্বভৌমত্ব; ৫ম, ১২তম, ১৫তম ও ১৬তম সংশোধনী | Article + history + evaluation |
+| ৩৭তম | রাষ্ট্র পরিচালনার মূলনীতি; Attorney-General; আইনসভা, নির্বাহী ও বিচার বিভাগের ভূমিকা | State principles + organs |
+| ৩৮তম | সংবিধানের সংজ্ঞা ও অনুচ্ছেদসংখ্যা; জাতীয় সংসদ; সংরক্ষিত নারী আসন | Definition + Parliament |
+| ৪০তম | মূলনীতি, সংশোধন প্রক্রিয়া, পঞ্চদশ সংশোধনী | Article 142 + amendment |
+| ৪১তম | সংবিধানের সংজ্ঞা, কার্যকর হওয়ার তারিখ, মূলনীতি ও অনুসৃত সংস্করণের তাৎপর্য | Date accuracy + legal interpretation |
+| ৪৩তম | মূলনীতি, রাষ্ট্রের অঙ্গ, স্থানীয় সরকার ও নির্বাচন কমিশন | Institutions + decentralisation |
+| ৪৪তম | সংবিধানের সর্বোচ্চতা, সংশোধন প্রক্রিয়া ও বিচারপতি অপসারণ | Articles 7, 96, 142 |
+| ৪৫তম | প্রস্তাবনার গুরুত্ব; পঞ্চদশ সংশোধনীর পরিবর্তন ও প্রভাব | Preamble + critical analysis |
+| ৪৬তম | সরাসরি Constitution prompt পাওয়া যায়নি; উন্নয়ন প্রকল্পে সুশাসন ছিল সংলগ্ন থিম | Adjacent governance, not a direct Constitution item |
+| ৪৭তম | চিন্তা, বিবেক, বাক্‌ ও সংবাদপত্রের স্বাধীনতার সাংবিধানিক বিধান এবং নাগরিক অভিজ্ঞতা | Article 39 + rights in practice |
 
-**প্রশ্নব্যাংকের সরাসরি উৎস:** [৩৬তম](https://bcsexam.org/written-questions/36th-bcs-written) · [৩৭তম](https://bcsexam.org/written-questions/37th-bcs-written) · [৩৮তম](https://bcsexam.org/written-questions/38th-bcs-written) · [৪০তম](https://bcsexam.org/written-questions/40th-bcs-written) · [৪১তম](https://bcsexam.org/written-questions/41st-bcs-written) · [৪৩তম](https://bcsexam.org/written-questions/43rd-bcs-written) · [৪৪তম](https://bcsexam.org/written-questions/44th-bcs-written) · [৪৫তম](https://bcsexam.org/written-questions/45th-bcs-written)। Question-bank-এর উৎস ও সীমাবদ্ধতা: [৩৫তম–৫০তম লিখিত প্রশ্নের সূচি](https://bcsexam.org/written-questions)।
+**বিশেষ নোট:** ৩৯তম ও ৪২তম ছিল special BCS series; সাধারণ ক্যাডারের নিয়মিত Bangladesh Affairs written paper-এর সঙ্গে সরাসরি তুলনাযোগ্য নয়। বিস্তারিত evidence, year links ও editorial coding chart: [পূর্ণ PYQ Audit](./PYQ-35TH-47TH-AUDIT.md)।
+  
+**প্রশ্নব্যাংকের সরাসরি উৎস:** [৩৫তম](https://bcsexam.org/written-questions/35th-bcs-written) · [৩৬তম](https://bcsexam.org/written-questions/36th-bcs-written) · [৩৭তম](https://bcsexam.org/written-questions/37th-bcs-written) · [৩৮তম](https://bcsexam.org/written-questions/38th-bcs-written) · [৪০তম](https://bcsexam.org/written-questions/40th-bcs-written) · [৪১তম](https://bcsexam.org/written-questions/41st-bcs-written) · [৪৩তম](https://bcsexam.org/written-questions/43rd-bcs-written) · [৪৪তম](https://bcsexam.org/written-questions/44th-bcs-written) · [৪৫তম](https://bcsexam.org/written-questions/45th-bcs-written) · [৪৬তম](https://bcsexam.org/written-questions/46th-bcs-written) · [৪৭তম](https://bcsexam.org/written-questions/47th-bcs-written)।
 
 ### ২.২ প্রশ্ন হিসেবে সরাসরি অনুশীলন করুন — Archive-reported PYQ
 
-নিচেরগুলো উপরের প্রশ্ন-থিমকে **লিখে অনুশীলন করার মতো প্রশ্নে** রূপ দিয়েছে। এগুলো উৎসের সারমর্ম/ভাবানুবাদ, হুবহু transcription নয়। সংশ্লিষ্ট প্রশ্নব্যাংক BPSC-এর মূল scan থেকে সরাসরি প্রকাশিত নয় বলে এগুলোকে archive-reported হিসেবে ধরুন; নম্বরবণ্টন উপরের সারণিতে দেওয়া আছে।
+নিচেরগুলো উপরের প্রশ্ন-থিমকে **লিখে অনুশীলন করার মতো প্রশ্নে** রূপ দিয়েছে। এগুলো উৎসের সারমর্ম/ভাবানুবাদ, হুবহু transcription নয়। ৩৫তম–৪৭তম সব বছরের year-by-year classification-এর জন্য [পূর্ণ audit](./PYQ-35TH-47TH-AUDIT.md) দেখুন; নম্বরবণ্টন মূল archive-এ মিলিয়ে নেবেন।
 
 | BCS Written | লিখে অনুশীলনের প্রশ্ন | মূল প্রশ্নের archive |
 |---|---|---|
+| **৩৫তম** | পঞ্চদশ সংশোধনীর পাঁচটি দিক লিখুন; সংসদীয় সরকার গঠনের পদ্ধতি ব্যাখ্যা করুন এবং নির্বাচন কমিশন/Attorney-General-এর সাংবিধানিক ভূমিকা সংক্ষেপে আলোচনা করুন। | [৩৫তম BCS Written](https://bcsexam.org/written-questions/35th-bcs-written) |
 | **৩৬তম** | রাষ্ট্র পরিচালনার মূলনীতি ও মৌলিক অধিকার ব্যাখ্যা করুন। জনগণের সার্বভৌমত্ব এবং নারীর সাংবিধানিক অধিকার কীভাবে সুরক্ষিত হয়—আলোচনা করুন। ৫ম, ১২তম, ১৫তম ও ১৬তম সংশোধনীর তাৎপর্য তুলনা করুন। | [৩৬তম BCS Written](https://bcsexam.org/written-questions/36th-bcs-written) |
 | **৩৭তম** | রাষ্ট্র পরিচালনার মূলনীতির তাৎপর্য ব্যাখ্যা করুন। আইনসভা, নির্বাহী বিভাগ ও বিচার বিভাগের সাংবিধানিক ভূমিকা বিশ্লেষণ করুন; Attorney-General-এর নিয়োগ ও দায়িত্বও সংক্ষেপে লিখুন। | [৩৭তম BCS Written](https://bcsexam.org/written-questions/37th-bcs-written) |
 | **৩৮তম** | সংবিধান বলতে কী বোঝায়? জাতীয় সংসদের গঠন, ক্ষমতা ও কার্যাবলি ব্যাখ্যা করুন এবং সংরক্ষিত নারী আসনের সাংবিধানিক ব্যবস্থার তাৎপর্য আলোচনা করুন। | [৩৮তম BCS Written](https://bcsexam.org/written-questions/38th-bcs-written) |
@@ -82,6 +92,7 @@
 | **৪৩তম** | রাষ্ট্র পরিচালনার মূলনীতি ও রাষ্ট্রের প্রধান অঙ্গগুলোর ভূমিকা আলোচনা করুন। স্থানীয় সরকার ও নির্বাচন কমিশনের সাংবিধানিক গঠন/দায়িত্ব ব্যাখ্যা করুন। | [৪৩তম BCS Written](https://bcsexam.org/written-questions/43rd-bcs-written) |
 | **৪৪তম** | “সংবিধান প্রজাতন্ত্রের সর্বোচ্চ আইন”—Article 7-এর আলোকে ব্যাখ্যা করুন। সংশোধনের পদ্ধতি এবং হাইকোর্ট বিভাগের বিচারপতি অপসারণ-সংক্রান্ত Article 96-এর বিধান আলোচনা করুন। | [৪৪তম BCS Written](https://bcsexam.org/written-questions/44th-bcs-written) |
 | **৪৫তম** | সংবিধানের প্রস্তাবনার গুরুত্ব ব্যাখ্যা করুন এবং পঞ্চদশ সংশোধনীর প্রধান পরিবর্তন ও সাংবিধানিক প্রভাব সমালোচনামূলকভাবে মূল্যায়ন করুন। | [৪৫তম BCS Written](https://bcsexam.org/written-questions/45th-bcs-written) |
+| **৪৭তম** | Article 39-এর আলোকে চিন্তা, বিবেক, বাক্‌স্বাধীনতা ও সংবাদপত্রের স্বাধীনতার সাংবিধানিক বিধান এবং নাগরিক অভিজ্ঞতা বিশ্লেষণ করুন। | [৪৭তম BCS Written](https://bcsexam.org/written-questions/47th-bcs-written) |
 
 **প্রতিটি প্রশ্নের জন্য ২০ নম্বরের কাঠামো:** ভূমিকা → প্রাসঙ্গিক Article → ঐতিহাসিক/আইনি প্রেক্ষাপট → বিশ্লেষণ → পাল্টা যুক্তি বা সীমাবদ্ধতা → সুপারিশ → উপসংহার। ৫ নম্বরের প্রশ্নে সংজ্ঞা + প্রাসঙ্গিক Article + ২–৩টি মূল পয়েন্ট যথেষ্ট।
 
@@ -212,6 +223,28 @@
 
 <img src="./assets/mobile-diagrams/07-answer-framework.svg" width="100%" alt="২০ নম্বরের সংবিধান-প্রবন্ধ লেখার কাঠামো"/>
 
+### ৫.৮ ৩৫তম–৪৭তম BCS Written: Constitution PYQ chart
+
+<img src="./assets/mobile-diagrams/09-pyq-coverage-35-47.svg" width="100%" alt="৩৫তম থেকে ৪৭তম BCS Written archive transcript-এ সংবিধান প্রশ্নের editorial coverage chart"/>
+
+এই চার্টটি public archive transcript-ভিত্তিক সম্পাদকীয় coding—official BPSC statistics নয়। ৩৯তম ও ৪২তম special series বাদ দিয়ে ১১টি regular general written paper বিবেচনায় সরাসরি সংবিধান-সম্পর্কিত প্রশ্ন ১০টিতে পাওয়া গেছে; ৪৬তমে direct prompt পাওয়া যায়নি। বিস্তারিত [audit file](./PYQ-35TH-47TH-AUDIT.md)।
+
+### ৫.৯ মৌলিক অধিকার বলবৎ করার পথ
+
+<img src="./assets/mobile-diagrams/10-rights-enforcement-flow.svg" width="100%" alt="Article 44 ও 102 অনুযায়ী মৌলিক অধিকার বলবৎ করার flowchart"/>
+
+### ৫.১০ সংবিধানের Article Map
+
+<img src="./assets/mobile-diagrams/11-constitution-article-map.svg" width="100%" alt="বাংলাদেশের সংবিধানের প্রধান ভাগ ও Article range-এর revision map"/>
+
+### ৫.১১ Checks and Balances
+
+<img src="./assets/mobile-diagrams/12-checks-and-balances.svg" width="100%" alt="আইনসভা, নির্বাহী ও বিচার বিভাগের checks and balances diagram"/>
+
+### ৫.১২ বাস্তব প্রতিষ্ঠান: সংসদ ভবন ও সুপ্রিম কোর্ট
+
+এই অধ্যায়ে ভৌগোলিক মানচিত্র প্রাসঙ্গিক নয়। তাই সংবিধানের **Article Map**, অধিকার বলবৎ করার flowchart, amendment process এবং checks-and-balances diagram-এর পাশাপাশি বাস্তব প্রতিষ্ঠানের ছবিও সংশ্লিষ্ট আলোচনায় দেওয়া হয়েছে: [জাতীয় সংসদ ভবন](#legislature-photo) · [বাংলাদেশ সুপ্রিম কোর্ট](#judiciary-photo)।
+
 ---
 
 <a id="article-map"></a>
@@ -219,6 +252,8 @@
 ## ৬. সংবিধানের কাঠামো: ভাগ, অনুচ্ছেদ ও তফসিল
 
 বাংলাদেশের সংবিধানের পরিচিত কাঠামো হলো—একটি প্রস্তাবনা, ১১টি ভাগ, ১৫৩টি সংখ্যায়িত অনুচ্ছেদ এবং সাতটি তফসিল নম্বর। দ্বিতীয় তফসিল রহিত হয়েছে; তাই “সাতটি তফসিল নম্বর” বলা আর “সাতটিই বর্তমানে কার্যকর”—দুটি এক কথা নয়। সংশোধনীতে কিছু অনুচ্ছেদে অক্ষর-সংযোজন হয়েছে, কিছু বিধান রহিত বা আদালতের রায়ে অকার্যকর হয়েছে। ফলে Article count-কে শুধু সরল যোগ-বিয়োগ হিসেবে পড়বেন না।
+
+<img src="./assets/mobile-diagrams/11-constitution-article-map.svg" width="100%" alt="সংবিধানের ভাগ ও Article range-এর visual map"/>
 
 | ভাগ | বিষয় | সাধারণ Article range | পরীক্ষার মূল গুরুত্ব |
 |---|---|---|---|
@@ -381,9 +416,10 @@ Article 12 ধর্মনিরপেক্ষতার নীতিকে ব�
 
 **Attorney-General — Article 64:** তিনি রাষ্ট্রের প্রধান আইন কর্মকর্তা হিসেবে সরকারের পক্ষে আইনগত বিষয়ে দায়িত্ব পালন করেন এবং সংবিধান ও আইন অনুযায়ী নির্ধারিত কার্যাবলি সম্পাদন করেন। ৩৭তম BCS Written-এর archive-reported প্রশ্নে তাঁর নিয়োগ ও দায়িত্ব নিয়ে প্রশ্ন এসেছে।
 
+<a id="legislature-photo"></a>
 ### ১০.২ আইনসভা — জাতীয় সংসদ (Legislature)
 
-![ঢাকার জাতীয় সংসদ ভবন](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Bangladesh_National_Parliament_Building%2C_Dhaka.jpg/1280px-Bangladesh_National_Parliament_Building%2C_Dhaka.jpg)
+![ঢাকার জাতীয় সংসদ ভবন](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bangladesh_National_Parliament_Building%2C_Dhaka.jpg/1280px-Bangladesh_National_Parliament_Building%2C_Dhaka.jpg)
 
 <sub>**ছবির উৎস ও কৃতিত্ব:** [Bangladesh National Parliament Building, Dhaka.jpg — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bangladesh_National_Parliament_Building,_Dhaka.jpg), Tanvir Rahat; CC BY-SA 4.0।</sub>
 
@@ -398,9 +434,10 @@ Article 65 জাতীয় সংসদ প্রতিষ্ঠা করে।
 
 **Article 70 — দলত্যাগ ও দলের বিপক্ষে ভোট:** Article 70 সংসদ-সদস্যের দলীয় অবস্থান ও সংসদে ভোটদানের বিষয়ে বিধিনিষেধ আরোপ করে। সমর্থকেরা একে দলীয় স্থিতি ও সরকার পরিচালনার ধারাবাহিকতার সুরক্ষা হিসেবে ব্যাখ্যা করেন; সমালোচকেরা বলেন, এটি সংসদ-সদস্যের স্বাধীন বিবেচনা এবং নির্বাহী বিভাগের ওপর সংসদের কার্যকর নিয়ন্ত্রণ দুর্বল করতে পারে। ভালো উত্তরে দুই যুক্তি তুলে ধরে প্রাতিষ্ঠানিক ভারসাম্যের প্রস্তাব দিন।
 
+<a id="judiciary-photo"></a>
 ### ১০.৩ বিচার বিভাগ (Judiciary)
 
-![বাংলাদেশ সুপ্রিম কোর্টের প্রধান ভবন](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Bangladesh_Supreme_Court_Main_Building.jpg/1280px-Bangladesh_Supreme_Court_Main_Building.jpg)
+![বাংলাদেশ সুপ্রিম কোর্টের প্রধান ভবন](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bangladesh_Supreme_Court_Main_Building.jpg/1280px-Bangladesh_Supreme_Court_Main_Building.jpg)
 
 <sub>**ছবির উৎস ও কৃতিত্ব:** [Bangladesh Supreme Court Main Building.jpg — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bangladesh_Supreme_Court_Main_Building.jpg), Basir Shikder; CC BY-SA 4.0।</sub>
 
@@ -555,6 +592,8 @@ Supreme Court-এর High Court Division Online Bulletin-এ প্রকাশ�
 
 **[➡️ Chapter 07 — PYQ Analysis + Source-backed Model Essays](./PYQ-BASED-ESSAYS.md)**
 
+**[➡️ ৩৫তম–৪৭তম BCS Constitution PYQ Audit](./PYQ-35TH-47TH-AUDIT.md)** · **[➡️ ২৫টি প্রশ্নের পূর্ণ মডেল উত্তর](./BCS-WRITTEN-QUESTION-BANK.md)** · **[➡️ ২০টি English quotation with real sources](./QUOTATIONS.md#verified-quotes)**
+
 ১. সংবিধানের সর্বোচ্চতা, Rule of Law ও জনগণের সার্বভৌমত্ব।  
 ২. প্রস্তাবনা ও রাষ্ট্র পরিচালনার চার মূলনীতি।  
 ৩. মৌলিক অধিকার, Article 44 ও judicial review।  
@@ -607,6 +646,8 @@ Supreme Court-এর High Court Division Online Bulletin-এ প্রকাশ�
 
 <a id="questions"></a>
 ## ১৬. ৩৩টি BCS Written অনুশীলনী
+
+এই ৩৩টি প্রশ্ন revision prompt হিসেবে সাজানো। প্রতিটির পূর্ণ লিখিত মডেল উত্তর চাইলে আলাদা [২৫টি Answered Model Question Bank](./BCS-WRITTEN-QUESTION-BANK.md) ব্যবহার করুন; অতিরিক্ত prompt ও year-by-year PYQ evidence-এর জন্য [35th–47th audit](./PYQ-35TH-47TH-AUDIT.md) দেখুন।
 
 ### প্রশ্নব্যাংকের বিষয়ভিত্তিক কভারেজ চার্ট
 
@@ -745,7 +786,7 @@ https://www.parliament.gov.bd/about/tenure-of-all-parliaments
 
 **[Q1] BCS EXAM, 35th–50th BCS Written Questions.**  
 https://bcsexam.org/written-questions  
-**সতর্কতা:** এটি প্রকাশ্য question-bank transcript; মূল BPSC scan-এর বিকল্প নয়। এই অধ্যায়ে ৩৬তম, ৩৭তম, ৩৮তম, ৪০তম, ৪১তম, ৪৩তম, ৪৪তম ও ৪৫তম প্রশ্নের যে theme analysis করা হয়েছে, তা ওই transcript-এর ভিত্তিতে। মূল প্রশ্নপত্র পাওয়া গেলে বছর, ভাষা ও নম্বর পুনরায় মিলিয়ে নেওয়া উচিত।
+**সতর্কতা:** এটি প্রকাশ্য question-bank transcript; মূল BPSC scan-এর বিকল্প নয়। এই অধ্যায়ের ৩৫তম–৪৭তম year-by-year theme audit [আলাদা ফাইলে](./PYQ-35TH-47TH-AUDIT.md) আছে। ৩৯তম ও ৪২তম special BCS series-কে regular general written-paper frequency-তে ধরা হয়নি; ৪৬তম transcript-এ সরাসরি Constitution prompt পাওয়া যায়নি। মূল প্রশ্নপত্র পাওয়া গেলে বছর, ভাষা ও নম্বর পুনরায় মিলিয়ে নেওয়া উচিত।
 
 ### C. সাংবিধানিক মামলার নাম—লিখিত উত্তরে ব্যবহারের জন্য
 
@@ -776,4 +817,4 @@ https://bcsexam.org/written-questions
 
 বাংলাদেশের সংবিধান বুঝতে হলে তিনটি স্তর একসঙ্গে পড়তে হবে: **(১) ১৯৭২ সালের মূল সাংবিধানিক অঙ্গীকার, (২) পরবর্তী সংশোধনী ও রাষ্ট্রীয় প্রতিষ্ঠানের বিকাশ, (৩) আদালতের বাধ্যতামূলক ব্যাখ্যা।** BCS Written-এ সর্বোচ্চ নম্বরের উপযোগী উত্তর শুধু Article নম্বরের তালিকা নয়; প্রতিটি বিধানের উদ্দেশ্য, প্রাতিষ্ঠানিক প্রভাব, সীমাবদ্ধতা ও বাস্তবসম্মত উন্নয়নের পথ দেখায়।
 
-[⬆️ বিষয়সূচিতে ফিরে যান](#top) · [PYQ-ভিত্তিক পূর্ণ প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [Source-backed Exam Lines](./QUOTATIONS.md)
+[⬆️ বিষয়সূচিতে ফিরে যান](#top) · [35th–47th PYQ Audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [PYQ-ভিত্তিক পূর্ণ প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [২০টি English Quotations + Sources](./QUOTATIONS.md#verified-quotes)

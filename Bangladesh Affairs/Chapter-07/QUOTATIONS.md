@@ -1,5 +1,5 @@
-# Chapter 07 — Source-backed Exam Lines for BCS Written
-[← মূল অধ্যায়: বাংলাদেশের সংবিধান](./README.md) · [PYQ-ভিত্তিক পূর্ণ প্রবন্ধ](./PYQ-BASED-ESSAYS.md)
+# Chapter 07 — English Quotations with Real Sources + Source-backed Exam Lines
+[← মূল অধ্যায়: বাংলাদেশের সংবিধান](./README.md) · [35th–47th PYQ audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি answered model question](./BCS-WRITTEN-QUESTION-BANK.md) · [PYQ-ভিত্তিক পূর্ণ প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [Verified quotations](#verified-quotes)
 
 > **ব্যবহারের নিয়ম:** নিচের বাক্যগুলো পরীক্ষার উত্তরে ব্যবহারযোগ্য paraphrased evidence lines—কোনো বক্তা বা বিচারকের হুবহু উদ্ধৃতি নয়। তাই quotation marks দিয়ে কারও নামে চালাবেন না। আইনি অবস্থান সময়ের সঙ্গে বদলাতে পারে; সাংবিধানিক প্রশ্নে Article-এর পাশাপাশি সর্বশেষ binding judgment মিলিয়ে নিন।
 
@@ -107,3 +107,174 @@ https://bcsexam.org/written-questions
 - *Source: BPSC, Syllabus for BCS Written Examination, Bangladesh Affairs, Subject Code 005.*
 
 **শেষ সতর্কতা:** এই ফাইলে দেওয়া বাক্যগুলো উৎসভিত্তিক paraphrase; এগুলোকে হুবহু উদ্ধৃতি হিসেবে কোনো বিচারক বা প্রতিষ্ঠানের নামে ব্যবহার করবেন না।
+
+
+---
+
+<a id="verified-quotes"></a>
+## ১০. ২০টি authentic English quotation — exact wording + source + exam use
+
+> **Citation rule:** এগুলো সংক্ষিপ্ত, যাচাইযোগ্য উদ্ধৃতি। উদ্ধৃতির পাশে মূল দলিল/বই/বক্তৃতা এবং অনলাইন উৎস দেওয়া হয়েছে। পরীক্ষার উত্তরে ১–২টি উদ্ধৃতি যথেষ্ট; quotation যেন যুক্তির বিকল্প না হয়। আইনগত বিধানের ক্ষেত্রে Article নম্বরকে অগ্রাধিকার দিন। কোনো বিচারিক রায়ের সারমর্মকে quotation marks-এর মধ্যে দেবেন না, যদি না মূল রায়ের exact wording যাচাই করা থাকে।
+
+### A. Bangladesh Constitution — সবচেয়ে সরাসরি প্রাসঙ্গিক
+
+**1. Popular sovereignty**
+> “All powers in the Republic belong to the people.”
+
+**Source:** Constitution of Bangladesh, Article 7(1), official consolidated text.  
+**Use:** জনগণের সার্বভৌমত্ব, সংবিধানের সর্বোচ্চতা, গণতন্ত্র ও রাষ্ট্রীয় ক্ষমতার বৈধতা।  
+**Link:** https://bdlaws.minlaw.gov.bd/act-print-367.html
+
+**2. Constitutional supremacy**
+> “This Constitution is, as the solemn expression of the will of the people, the supreme law of the Republic.”
+
+**Source:** Constitution of Bangladesh, Article 7(2), excerpt.  
+**Use:** Rule of law, unconstitutional laws, judicial review.  
+**Link:** https://bdlaws.minlaw.gov.bd/act-print-367.html
+
+**3. Equality before law**
+> “All citizens are equal before law and are entitled to equal protection of law.”
+
+**Source:** Constitution of Bangladesh, Article 27.  
+**Use:** Equality, non-discrimination, justice and access to remedies.  
+**Link:** https://bdlaws.minlaw.gov.bd/act-print-367.html
+
+**4. Freedom of thought and conscience**
+> “Freedom of thought and conscience is guaranteed.”
+
+**Source:** Constitution of Bangladesh, Article 39(1).  
+**Use:** Freedom of conscience, democracy, civic autonomy.  
+**Link:** https://bdlaws.minlaw.gov.bd/act-367/section-24587.html
+
+**5. Freedom of speech and the press**
+> “the right of every citizen to freedom of speech and expression; and freedom of the press, are guaranteed.”
+
+**Source:** Constitution of Bangladesh, Article 39(2)(a), excerpt.  
+**Use:** Freedom of expression, press freedom, accountability and the 47th BCS Written question theme.  
+**Link:** https://bdlaws.minlaw.gov.bd/act-367/section-24587.html
+
+### B. Universal Declaration of Human Rights (UDHR)
+
+**6. Equal dignity**
+> “All human beings are born free and equal in dignity and rights.”
+
+**Source:** Universal Declaration of Human Rights, Article 1, United Nations.  
+**Use:** Fundamental rights, equality, human dignity.  
+**Link:** https://www.un.org/en/about-us/universal-declaration-of-human-rights
+
+**7. Equal protection**
+> “All are equal before the law and are entitled without any discrimination to equal protection of the law.”
+
+**Source:** UDHR, Article 7.  
+**Use:** Equality before law and non-discrimination.  
+**Link:** https://www.un.org/en/about-us/universal-declaration-of-human-rights
+
+**8. Effective remedy**
+> “Everyone has the right to an effective remedy by the competent national tribunals”
+
+**Source:** UDHR, Article 8, excerpt.  
+**Use:** Article 44/102, judicial remedies and human-rights protection.  
+**Link:** https://www.un.org/en/about-us/universal-declaration-of-human-rights
+
+**9. Freedom of opinion and expression**
+> “Everyone has the right to freedom of opinion and expression.”
+
+**Source:** UDHR, Article 19.  
+**Use:** Article 39, press freedom and democratic debate.  
+**Link:** https://www.un.org/en/about-us/universal-declaration-of-human-rights
+
+**10. The will of the people**
+> “The will of the people shall be the basis of the authority of government.”
+
+**Source:** UDHR, Article 21(3).  
+**Use:** Popular sovereignty, credible elections and representative government.  
+**Link:** https://www.un.org/en/about-us/universal-declaration-of-human-rights
+
+### C. Constitutional design, limits on power and rule of law
+
+**11. Human nature and government**
+> “If men were angels, no government would be necessary.”
+
+**Source:** *The Federalist No. 51*, Alexander Hamilton or James Madison attribution in the Library of Congress guide; 8 February 1788.  
+**Use:** Checks and balances, constitutional restraints, institutional accountability.  
+**Link:** https://guides.loc.gov/federalist-papers/text-51-60
+
+**12. Public control of government**
+> “A dependence on the people is, no doubt, the primary control on the government”
+
+**Source:** *The Federalist No. 51*, excerpt.  
+**Use:** Elections, popular sovereignty, accountability and democratic control.  
+**Link:** https://guides.loc.gov/federalist-papers/text-51-60
+
+**13. Separation of powers**
+> “there is no liberty, if the power of judging be not separated from the legislative and executive powers.”
+
+**Source:** Montesquieu, *The Spirit of the Laws*, Book XI, Chapter 6; English translation.  
+**Use:** Judicial independence and separation of powers.  
+**Link:** https://sourcebooks.web.fordham.edu/mod/montesquieu-spirit.asp
+
+**14. Rule of law**
+> “no man is above the law”
+
+**Source:** A. V. Dicey, *Introduction to the Study of the Law of the Constitution* (1885), Chapter IV, short excerpt.  
+**Use:** Constitutional supremacy, equality and accountability of public officials.  
+**Link:** https://constitution.org/1-Constitution/cmt/avd/law_con.htm
+
+**15. Law as a limit on authority**
+> “Where-ever law ends, tyranny begins”
+
+**Source:** John Locke, *Second Treatise of Government*, §202; historical spelling retained.  
+**Use:** Arbitrary power, constitutional limits and protection of liberty.  
+**Link:** https://www.gutenberg.org/files/7370/7370-h/7370-h.htm
+
+**16. Concentrated power**
+> “Power tends to corrupt, and absolute power corrupts absolutely.”
+
+**Source:** John Emerich Edward Dalberg-Acton (Lord Acton), letter to Bishop Mandell Creighton, 5 April 1887.  
+**Use:** Checks and balances, anti-corruption, institutional safeguards.  
+**Link:** https://www.acton.org/publications/transatlantic/2017/09/29/lord-acton-liberty-power-and-light-conscience
+
+**17. Law and lived experience**
+> “The life of the law has not been logic; it has been experience.”
+
+**Source:** Oliver Wendell Holmes Jr., *The Common Law* (1881), opening chapter; quotation reproduced with scholarly attribution.  
+**Use:** Constitutional interpretation, judicial reasoning and social context.  
+**Link:** https://link.springer.com/chapter/10.1007/978-3-030-43582-0_3
+
+### D. Justice, civil liberty and democratic government
+
+**18. Justice is interconnected**
+> “Injustice anywhere is a threat to justice everywhere.”
+
+**Source:** Martin Luther King Jr., *Letter from Birmingham Jail*, 16 April 1963.  
+**Use:** Equal protection, human rights, justice and constitutional remedies.  
+**Link:** https://crmvet.lib.duke.edu/info/bhamjail.html
+
+**19. Representative government**
+> “government of the people, by the people, for the people”
+
+**Source:** Abraham Lincoln, *Gettysburg Address*, 19 November 1863; standard Bliss text.  
+**Use:** Democracy, popular sovereignty and representative government.  
+**Link:** https://www.nps.gov/linc/learn/historyculture/gettysburgaddress.htm
+
+**20. Justice must not be denied**
+> “To no one will we sell, to no one will we deny or delay right or justice.”
+
+**Source:** Magna Carta (1215), Clause 40, English translation; UK Parliament historical resource.  
+**Use:** Rule of law, access to justice and fair process.  
+**Link:** https://www.parliament.uk/about/living-heritage/evolutionofparliament/originsofparliament/birthofparliament/overview/magnacarta/magnacartaclauses/
+
+## কোন প্রশ্নে কোন quotation ব্যবহার করবেন?
+
+| BCS Written topic | সবচেয়ে উপযোগী quotation |
+|---|---|
+| “প্রজাতন্ত্রের সকল ক্ষমতার মালিক জনগণ” | 1, 10, 12, 19 |
+| সংবিধানের সর্বোচ্চতা ও Rule of Law | 2, 14, 15, 20 |
+| মৌলিক অধিকার ও সমতা | 3, 6, 7, 8 |
+| Article 39: বাক্‌ ও সংবাদপত্রের স্বাধীনতা | 4, 5, 9, 18 |
+| Separation of powers / judiciary | 11, 13, 16, 17 |
+| Article 44/102 ও access to justice | 8, 18, 20 |
+| সাংবিধানিক প্রতিষ্ঠান ও জবাবদিহি | 11, 12, 14, 16 |
+| 20-mark critical essay | প্রাসঙ্গিক একটি constitutional quote + একটি institutional analysis |
+
+> **Exam technique:** quotation-এর পরে নিজের বিশ্লেষণ লিখুন। উদাহরণ: *“All powers in the Republic belong to the people” (Article 7(1)). Therefore, public authority must be exercised within constitutional limits and remain answerable to citizens.* এভাবে উদ্ধৃতি, Article এবং যুক্তিকে একসঙ্গে ব্যবহার করুন।

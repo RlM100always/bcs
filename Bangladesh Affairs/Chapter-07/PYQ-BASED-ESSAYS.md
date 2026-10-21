@@ -1,7 +1,7 @@
 # Chapter 07 — PYQ Analysis + Source-backed Model Essays
 ## বাংলাদেশের সংবিধান | BCS Written · Subject Code 005
 
-[← মূল অধ্যায়: Chapter 07 — বাংলাদেশের সংবিধান](./README.md) · [Bangladesh Affairs সূচি](../README.md) · [Source-backed Exam Lines](./QUOTATIONS.md)
+[← মূল অধ্যায়: Chapter 07 — বাংলাদেশের সংবিধান](./README.md) · [35th–47th PYQ audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি answered model question](./BCS-WRITTEN-QUESTION-BANK.md) · [২০টি English Quotations + Sources](./QUOTATIONS.md#verified-quotes) · [Bangladesh Affairs সূচি](../README.md)
 
 > **ব্যবহারের নিয়ম:** নিচের উত্তরগুলো বিগত BCS Written প্রশ্নের পুনরাবৃত্ত theme, সংবিধানের সরকারি পাঠ এবং Supreme Court-এর প্রকাশিত রায়ের ভিত্তিতে তৈরি model essays। এগুলো পরীক্ষার জন্য অনুশীলনী; কোনো নির্দিষ্ট পরীক্ষার official answer key নয়। নিজের ভাষায় লিখুন, প্রশ্নের চাহিদা অনুযায়ী দৈর্ঘ্য কমান-বাড়ান, এবং সাম্প্রতিক সাংবিধানিক অবস্থান মূল উৎসে মিলিয়ে নিন।
 
