@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+<title id="title">জনমিতিক লভ্যাংশের শর্ত</title><desc id="desc">বয়স কাঠামো একটি সুযোগ; নীতি ও প্রতিষ্ঠান ফল নির্ধারণ করে</desc>
+<rect width="1000" height="700" rx="24" fill="#f7fafc"/><rect width="1000" height="150" rx="24" fill="#123047"/><rect y="120" width="1000" height="30" fill="#123047"/>
+<text x="50" y="62" fill="#ffffff" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="32" font-weight="700">জনমিতিক লভ্যাংশের শর্ত</text>
+<text x="50" y="105" fill="#dbeafe" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="19">বয়স কাঠামো একটি সুযোগ; নীতি ও প্রতিষ্ঠান ফল নির্ধারণ করে</text>
+
+<g font-family="Noto Sans Bengali, Noto Sans, sans-serif">
+<rect x="60" y="210" width="260" height="110" rx="16" fill="#dbeafe" stroke="#94a3b8"/><text x="190" y="252" text-anchor="middle" fill="#123047" font-size="21" font-weight="700">১. স্বাস্থ্য ও শিক্ষা</text><text x="190" y="286" text-anchor="middle" fill="#334155" font-size="17">পুষ্টি · শেখা · দক্ষতা</text>
+<rect x="370" y="210" width="260" height="110" rx="16" fill="#dcfce7" stroke="#94a3b8"/><text x="500" y="252" text-anchor="middle" fill="#123047" font-size="21" font-weight="700">২. মানসম্মত কাজ</text><text x="500" y="286" text-anchor="middle" fill="#334155" font-size="17">নিরাপদ · উৎপাদনশীল</text>
+<rect x="680" y="210" width="260" height="110" rx="16" fill="#fef3c7" stroke="#94a3b8"/><text x="810" y="252" text-anchor="middle" fill="#123047" font-size="21" font-weight="700">৩. অন্তর্ভুক্তি</text><text x="810" y="286" text-anchor="middle" fill="#334155" font-size="17">নারী · অঞ্চল · অধিকার</text>
+<path d="M320 265 L360 265 M630 265 L670 265" stroke="#64748b" stroke-width="4"/>
+<rect x="180" y="390" width="640" height="100" rx="18" fill="#123047"/><text x="500" y="430" text-anchor="middle" fill="#ffffff" font-size="24" font-weight="700">সম্ভাব্য অর্থনৈতিক লভ্যাংশ</text><text x="500" y="465" text-anchor="middle" fill="#dbeafe" font-size="18">উৎপাদনশীলতা + সঞ্চয় + বিনিয়োগ + সামাজিক সুরক্ষা</text>
+<text x="500" y="540" text-anchor="middle" fill="#9f1239" font-size="19" font-weight="700">দক্ষতার ঘাটতি, বেকারত্ব ও বৈষম্যে লভ্যাংশ বাস্তবায়িত নাও হতে পারে</text>
+</g>
+<line x1="48" y1="628" x2="952" y2="628" stroke="#cbd5e1" stroke-width="2"/>
+<text x="50" y="660" fill="#334155" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="15">উৎস: UNFPA Bangladesh, Demographic dividend. ধারণাগত নীতিচিত্র; মডেলভিত্তিক পরিমাপ নয়.</text>
+</svg>
