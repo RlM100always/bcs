@@ -2,7 +2,7 @@
 
 [← Main Chapter](./README.md) · [Model Essays](./PYQ-BASED-ESSAYS.md) · [English Quotations](./QUOTATIONS.md) · [All chapters](../README.md)
 
-> This chapter concerns institutions and civil society rather than physical geography, so an unrelated map would be misleading. The main chapter embeds 10 topic-matched internet photographs beside the relevant lessons; this atlas provides 10 explanatory SVG diagrams and the source/licence register for all photographs. Photos are not re-embedded here, keeping the chapter-wide total at 25 visual embeds (15 diagram embeds across the two files + 10 photos), below the 30-image limit. Conceptual diagrams are not statistical data.
+> This chapter concerns institutions and civil society rather than physical geography, so an unrelated map would be misleading. The main chapter embeds 10 topic-matched internet photographs beside the relevant lessons; this atlas provides 10 explanatory SVG diagrams and the source/licence register for all photographs. Photos are not re-embedded here, keeping the chapter-wide total at 29 visual embeds (19 diagram embeds across the two files + 10 photos), below the 30-image limit. Conceptual diagrams are not statistical data.
 
 ## Ten chapter-specific diagrams
 
