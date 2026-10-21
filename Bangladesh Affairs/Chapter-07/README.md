@@ -68,7 +68,24 @@
 
 **প্রশ্নব্যাংকের সরাসরি উৎস:** [৩৬তম](https://bcsexam.org/written-questions/36th-bcs-written) · [৩৭তম](https://bcsexam.org/written-questions/37th-bcs-written) · [৩৮তম](https://bcsexam.org/written-questions/38th-bcs-written) · [৪০তম](https://bcsexam.org/written-questions/40th-bcs-written) · [৪১তম](https://bcsexam.org/written-questions/41st-bcs-written) · [৪৩তম](https://bcsexam.org/written-questions/43rd-bcs-written) · [৪৪তম](https://bcsexam.org/written-questions/44th-bcs-written) · [৪৫তম](https://bcsexam.org/written-questions/45th-bcs-written)। Question-bank-এর উৎস ও সীমাবদ্ধতা: [৩৫তম–৫০তম লিখিত প্রশ্নের সূচি](https://bcsexam.org/written-questions)।
 
-### ২.২ PYQ থেকে বের হওয়া High-Priority Cluster
+### ২.২ প্রশ্ন হিসেবে সরাসরি অনুশীলন করুন — Archive-reported PYQ
+
+নিচেরগুলো উপরের প্রশ্ন-থিমকে **লিখে অনুশীলন করার মতো প্রশ্নে** রূপ দিয়েছে। এগুলো উৎসের সারমর্ম/ভাবানুবাদ, হুবহু transcription নয়। সংশ্লিষ্ট প্রশ্নব্যাংক BPSC-এর মূল scan থেকে সরাসরি প্রকাশিত নয় বলে এগুলোকে archive-reported হিসেবে ধরুন; নম্বরবণ্টন উপরের সারণিতে দেওয়া আছে।
+
+| BCS Written | লিখে অনুশীলনের প্রশ্ন | মূল প্রশ্নের archive |
+|---|---|---|
+| **৩৬তম** | রাষ্ট্র পরিচালনার মূলনীতি ও মৌলিক অধিকার ব্যাখ্যা করুন। জনগণের সার্বভৌমত্ব এবং নারীর সাংবিধানিক অধিকার কীভাবে সুরক্ষিত হয়—আলোচনা করুন। ৫ম, ১২তম, ১৫তম ও ১৬তম সংশোধনীর তাৎপর্য তুলনা করুন। | [৩৬তম BCS Written](https://bcsexam.org/written-questions/36th-bcs-written) |
+| **৩৭তম** | রাষ্ট্র পরিচালনার মূলনীতির তাৎপর্য ব্যাখ্যা করুন। আইনসভা, নির্বাহী বিভাগ ও বিচার বিভাগের সাংবিধানিক ভূমিকা বিশ্লেষণ করুন; Attorney-General-এর নিয়োগ ও দায়িত্বও সংক্ষেপে লিখুন। | [৩৭তম BCS Written](https://bcsexam.org/written-questions/37th-bcs-written) |
+| **৩৮তম** | সংবিধান বলতে কী বোঝায়? জাতীয় সংসদের গঠন, ক্ষমতা ও কার্যাবলি ব্যাখ্যা করুন এবং সংরক্ষিত নারী আসনের সাংবিধানিক ব্যবস্থার তাৎপর্য আলোচনা করুন। | [৩৮তম BCS Written](https://bcsexam.org/written-questions/38th-bcs-written) |
+| **৪০তম** | রাষ্ট্র পরিচালনার মূলনীতি ব্যাখ্যা করুন; Article 142 অনুযায়ী সংবিধান সংশোধনের পদ্ধতি লিখুন এবং পঞ্চদশ সংশোধনীর প্রধান পরিবর্তন ও প্রভাব মূল্যায়ন করুন। | [৪০তম BCS Written](https://bcsexam.org/written-questions/40th-bcs-written) |
+| **৪১তম** | সংবিধানের সংজ্ঞা, গৃহীত ও কার্যকর হওয়ার তারিখ এবং রাষ্ট্র পরিচালনার মূলনীতি ব্যাখ্যা করুন। বর্তমান সাংবিধানিক পাঠের তাৎপর্য মূল্যায়ন করুন। | [৪১তম BCS Written](https://bcsexam.org/written-questions/41st-bcs-written) |
+| **৪৩তম** | রাষ্ট্র পরিচালনার মূলনীতি ও রাষ্ট্রের প্রধান অঙ্গগুলোর ভূমিকা আলোচনা করুন। স্থানীয় সরকার ও নির্বাচন কমিশনের সাংবিধানিক গঠন/দায়িত্ব ব্যাখ্যা করুন। | [৪৩তম BCS Written](https://bcsexam.org/written-questions/43rd-bcs-written) |
+| **৪৪তম** | “সংবিধান প্রজাতন্ত্রের সর্বোচ্চ আইন”—Article 7-এর আলোকে ব্যাখ্যা করুন। সংশোধনের পদ্ধতি এবং হাইকোর্ট বিভাগের বিচারপতি অপসারণ-সংক্রান্ত Article 96-এর বিধান আলোচনা করুন। | [৪৪তম BCS Written](https://bcsexam.org/written-questions/44th-bcs-written) |
+| **৪৫তম** | সংবিধানের প্রস্তাবনার গুরুত্ব ব্যাখ্যা করুন এবং পঞ্চদশ সংশোধনীর প্রধান পরিবর্তন ও সাংবিধানিক প্রভাব সমালোচনামূলকভাবে মূল্যায়ন করুন। | [৪৫তম BCS Written](https://bcsexam.org/written-questions/45th-bcs-written) |
+
+**প্রতিটি প্রশ্নের জন্য ২০ নম্বরের কাঠামো:** ভূমিকা → প্রাসঙ্গিক Article → ঐতিহাসিক/আইনি প্রেক্ষাপট → বিশ্লেষণ → পাল্টা যুক্তি বা সীমাবদ্ধতা → সুপারিশ → উপসংহার। ৫ নম্বরের প্রশ্নে সংজ্ঞা + প্রাসঙ্গিক Article + ২–৩টি মূল পয়েন্ট যথেষ্ট।
+
+### ২.৩ PYQ থেকে বের হওয়া High-Priority Cluster
 
 **Priority A — আগে ভালোভাবে শেষ করুন**
 
