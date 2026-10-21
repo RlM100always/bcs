@@ -6,6 +6,9 @@
 
 [← মূল ১৬ অধ্যায়ের সূচি](../README.md)
 
+> 📱 **Mobile-friendly diagrams:** চিত্রগুলো এখন responsive SVG image হিসেবে দেখানো হচ্ছে, তাই Mermaid render না হলেও diagram দেখা যাবে। মূল Mermaid source প্রতিটি চিত্রের নিচে খুলে দেখা যাবে। ছবিগুলো উপলভ্য content width ব্যবহার করে; বড় সারণি ফোনে প্রয়োজন হলে horizontal scroll করা যাবে.
+
+
 
 <a id="top"></a>
 
@@ -187,7 +190,7 @@ Bangladesh Affairs (Subject Code 005)-এর প্রথম ইউনিটে 
 
 অধ্যায় ১-এর মূল তথ্য, BCS high-frequency triggers এবং answer-writing formula.
 
-<p align="center"><a href="./assets/visual-revision/bangladesh_geography_final_revision_infographic.png" title="Open bangladesh_geography_final_revision_infographic.png at full size"><img src="./assets/visual-revision/bangladesh_geography_final_revision_infographic.png" width="700" alt="বাংলাদেশ এক নজরে | Bangladesh Geography — Final Revision Sheet" /></a></p>
+<p align="center"><a href="./assets/visual-revision/bangladesh_geography_final_revision_infographic.png" title="Open bangladesh_geography_final_revision_infographic.png at full size"><img src="./assets/visual-revision/bangladesh_geography_final_revision_infographic.png" width="100%" alt="বাংলাদেশ এক নজরে | Bangladesh Geography — Final Revision Sheet" /></a></p>
 
 <p align="center"><a href="./assets/visual-revision/bangladesh_geography_final_revision_infographic.png">🔎 Open full-size PNG</a> · <a href="#quick-revision-visual-notes">⬆️ Back to Visual Revision index</a> · <a href="#top">⬆️ Chapter top</a></p>
 
@@ -199,7 +202,7 @@ Bangladesh Affairs (Subject Code 005)-এর প্রথম ইউনিটে 
 
 Floodplain, Pleistocene Terrace ও Tertiary Hills-এর বৈশিষ্ট্য, অবস্থান ও তুলনা.
 
-<p align="center"><a href="./assets/visual-revision/bangladesh_physiographic_regions_revision_poster.png" title="Open bangladesh_physiographic_regions_revision_poster.png at full size"><img src="./assets/visual-revision/bangladesh_physiographic_regions_revision_poster.png" width="700" alt="ভূপ্রাকৃতিক অঞ্চল ও ভূমিরূপ | Physiographic Regions & Landforms" /></a></p>
+<p align="center"><a href="./assets/visual-revision/bangladesh_physiographic_regions_revision_poster.png" title="Open bangladesh_physiographic_regions_revision_poster.png at full size"><img src="./assets/visual-revision/bangladesh_physiographic_regions_revision_poster.png" width="100%" alt="ভূপ্রাকৃতিক অঞ্চল ও ভূমিরূপ | Physiographic Regions & Landforms" /></a></p>
 
 <p align="center"><a href="./assets/visual-revision/bangladesh_physiographic_regions_revision_poster.png">🔎 Open full-size PNG</a> · <a href="#quick-revision-visual-notes">⬆️ Back to Visual Revision index</a> · <a href="#top">⬆️ Chapter top</a></p>
 
@@ -211,7 +214,7 @@ Floodplain, Pleistocene Terrace ও Tertiary Hills-এর বৈশিষ্ট�
 
 অবস্থান, সীমানা, নদী–বদ্বীপ, বঙ্গোপসাগর ও ভূপ্রকৃতির দ্রুত পুনরালোচনা.
 
-<p align="center"><a href="./assets/visual-revision/bangladesh_geography_visual_revision_sheet.png" title="Open bangladesh_geography_visual_revision_sheet.png at full size"><img src="./assets/visual-revision/bangladesh_geography_visual_revision_sheet.png" width="700" alt="বাংলাদেশের ভৌগোলিক পরিচিতি | Bangladesh Geography Overview" /></a></p>
+<p align="center"><a href="./assets/visual-revision/bangladesh_geography_visual_revision_sheet.png" title="Open bangladesh_geography_visual_revision_sheet.png at full size"><img src="./assets/visual-revision/bangladesh_geography_visual_revision_sheet.png" width="100%" alt="বাংলাদেশের ভৌগোলিক পরিচিতি | Bangladesh Geography Overview" /></a></p>
 
 <p align="center"><a href="./assets/visual-revision/bangladesh_geography_visual_revision_sheet.png">🔎 Open full-size PNG</a> · <a href="#quick-revision-visual-notes">⬆️ Back to Visual Revision index</a> · <a href="#top">⬆️ Chapter top</a></p>
 
@@ -223,7 +226,7 @@ Floodplain, Pleistocene Terrace ও Tertiary Hills-এর বৈশিষ্ট�
 
 ক্ষয়, পরিবহন, সঞ্চয়, চর গঠন এবং নদীর গতিপথ পরিবর্তনের প্রক্রিয়া.
 
-<p align="center"><a href="./assets/visual-revision/bangladesh_rivers_delta_dynamic_landforms_revision_sheet.png" title="Open bangladesh_rivers_delta_dynamic_landforms_revision_sheet.png at full size"><img src="./assets/visual-revision/bangladesh_rivers_delta_dynamic_landforms_revision_sheet.png" width="700" alt="নদী, বদ্বীপ ও পরিবর্তনশীল ভূমিরূপ | Rivers, Delta & Dynamic Landforms" /></a></p>
+<p align="center"><a href="./assets/visual-revision/bangladesh_rivers_delta_dynamic_landforms_revision_sheet.png" title="Open bangladesh_rivers_delta_dynamic_landforms_revision_sheet.png at full size"><img src="./assets/visual-revision/bangladesh_rivers_delta_dynamic_landforms_revision_sheet.png" width="100%" alt="নদী, বদ্বীপ ও পরিবর্তনশীল ভূমিরূপ | Rivers, Delta & Dynamic Landforms" /></a></p>
 
 <p align="center"><a href="./assets/visual-revision/bangladesh_rivers_delta_dynamic_landforms_revision_sheet.png">🔎 Open full-size PNG</a> · <a href="#quick-revision-visual-notes">⬆️ Back to Visual Revision index</a> · <a href="#top">⬆️ Chapter top</a></p>
 
@@ -235,7 +238,7 @@ Floodplain, Pleistocene Terrace ও Tertiary Hills-এর বৈশিষ্ট�
 
 চার ধরনের ভূমি/জলাভূমির গঠন, পানির অবস্থা, জীবিকা ও ঝুঁকির তুলনা.
 
-<p align="center"><a href="./assets/visual-revision/bangladesh_wetlands_revision_sheet.png" title="Open bangladesh_wetlands_revision_sheet.png at full size"><img src="./assets/visual-revision/bangladesh_wetlands_revision_sheet.png" width="700" alt="চর, হাওর, বিল ও বাঁওড় | Char, Haor, Beel & Baor" /></a></p>
+<p align="center"><a href="./assets/visual-revision/bangladesh_wetlands_revision_sheet.png" title="Open bangladesh_wetlands_revision_sheet.png at full size"><img src="./assets/visual-revision/bangladesh_wetlands_revision_sheet.png" width="100%" alt="চর, হাওর, বিল ও বাঁওড় | Char, Haor, Beel & Baor" /></a></p>
 
 <p align="center"><a href="./assets/visual-revision/bangladesh_wetlands_revision_sheet.png">🔎 Open full-size PNG</a> · <a href="#quick-revision-visual-notes">⬆️ Back to Visual Revision index</a> · <a href="#top">⬆️ Chapter top</a></p>
 
@@ -247,7 +250,7 @@ Floodplain, Pleistocene Terrace ও Tertiary Hills-এর বৈশিষ্ট�
 
 উপকূলীয় সুযোগ–সীমাবদ্ধতা, Blue Economy এবং সামুদ্রিক অঞ্চলের মূল ধারণা.
 
-<p align="center"><a href="./assets/visual-revision/bay_of_bengal_coastal_revision_sheet.png" title="Open bay_of_bengal_coastal_revision_sheet.png at full size"><img src="./assets/visual-revision/bay_of_bengal_coastal_revision_sheet.png" width="700" alt="বঙ্গোপসাগর, উপকূল ও সামুদ্রিক অঞ্চল | Bay of Bengal, Coast & Maritime Zones" /></a></p>
+<p align="center"><a href="./assets/visual-revision/bay_of_bengal_coastal_revision_sheet.png" title="Open bay_of_bengal_coastal_revision_sheet.png at full size"><img src="./assets/visual-revision/bay_of_bengal_coastal_revision_sheet.png" width="100%" alt="বঙ্গোপসাগর, উপকূল ও সামুদ্রিক অঞ্চল | Bay of Bengal, Coast & Maritime Zones" /></a></p>
 
 <p align="center"><a href="./assets/visual-revision/bay_of_bengal_coastal_revision_sheet.png">🔎 Open full-size PNG</a> · <a href="#quick-revision-visual-notes">⬆️ Back to Visual Revision index</a> · <a href="#top">⬆️ Chapter top</a></p>
 
@@ -259,7 +262,7 @@ Floodplain, Pleistocene Terrace ও Tertiary Hills-এর বৈশিষ্ট�
 
 বাংলাদেশের দুর্যোগপ্রবণতার কারণ, অভিযোজন ও Delta Plan-এর ছয়টি hotspot.
 
-<p align="center"><a href="./assets/visual-revision/bangladesh_delta_plan_disaster_study_note.png" title="Open bangladesh_delta_plan_disaster_study_note.png at full size"><img src="./assets/visual-revision/bangladesh_delta_plan_disaster_study_note.png" width="700" alt="দুর্যোগ, অভিযোজন ও ব-দ্বীপ পরিকল্পনা ২১০০ | Disaster Geography & BDP 2100" /></a></p>
+<p align="center"><a href="./assets/visual-revision/bangladesh_delta_plan_disaster_study_note.png" title="Open bangladesh_delta_plan_disaster_study_note.png at full size"><img src="./assets/visual-revision/bangladesh_delta_plan_disaster_study_note.png" width="100%" alt="দুর্যোগ, অভিযোজন ও ব-দ্বীপ পরিকল্পনা ২১০০ | Disaster Geography & BDP 2100" /></a></p>
 
 <p align="center"><a href="./assets/visual-revision/bangladesh_delta_plan_disaster_study_note.png">🔎 Open full-size PNG</a> · <a href="#quick-revision-visual-notes">⬆️ Back to Visual Revision index</a> · <a href="#top">⬆️ Chapter top</a></p>
 
@@ -271,7 +274,7 @@ Floodplain, Pleistocene Terrace ও Tertiary Hills-এর বৈশিষ্ট�
 
 ভূপ্রকৃতি, পানি ও জলবায়ু কীভাবে কৃষি, যোগাযোগ, সংস্কৃতি ও জীবনযাত্রাকে প্রভাবিত করে.
 
-<p align="center"><a href="./assets/visual-revision/geography_s_impact_in_bangladesh_visual_revision.png" title="Open geography_s_impact_in_bangladesh_visual_revision.png at full size"><img src="./assets/visual-revision/geography_s_impact_in_bangladesh_visual_revision.png" width="700" alt="ভূগোলের প্রভাব: কৃষি, পরিবহন ও সংস্কৃতি | Geography’s Impact" /></a></p>
+<p align="center"><a href="./assets/visual-revision/geography_s_impact_in_bangladesh_visual_revision.png" title="Open geography_s_impact_in_bangladesh_visual_revision.png at full size"><img src="./assets/visual-revision/geography_s_impact_in_bangladesh_visual_revision.png" width="100%" alt="ভূগোলের প্রভাব: কৃষি, পরিবহন ও সংস্কৃতি | Geography’s Impact" /></a></p>
 
 <p align="center"><a href="./assets/visual-revision/geography_s_impact_in_bangladesh_visual_revision.png">🔎 Open full-size PNG</a> · <a href="#quick-revision-visual-notes">⬆️ Back to Visual Revision index</a> · <a href="#top">⬆️ Chapter top</a></p>
 
@@ -361,17 +364,17 @@ Floodplain, Pleistocene Terrace ও Tertiary Hills-এর বৈশিষ্ট�
 
 ### ১.২ Bangladesh Maps — Relief Map ও বাস্তব মানচিত্র
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Bangladesh_physical_map.svg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_physical_map.svg?width=760" width="320" alt="Bangladesh physical relief map"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Bangladesh_physical_map.svg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_physical_map.svg?width=760" width="100%" alt="Bangladesh physical relief map"></a></p>
 
 **Figure 1 — Physical Relief Map of Bangladesh.** Creator: Urutseg; Wikimedia Commons, *Bangladesh physical map.svg*, 2011; License **CC0 1.0**. [Original file, author and license](https://commons.wikimedia.org/wiki/File:Bangladesh_physical_map.svg)। মানচিত্রটি ভূপ্রকৃতি শেখার জন্য; আধুনিক প্রশাসনিক বা সমুদ্রসীমার নিশ্চয়তার জন্য নয়।
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Map_of_Bangladesh-en.svg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Map_of_Bangladesh-en.svg?width=440" width="320" alt="Bangladesh topography and place names"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Map_of_Bangladesh-en.svg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Map_of_Bangladesh-en.svg?width=440" width="100%" alt="Bangladesh topography and place names"></a></p>
 
 **Figure 2 — Topographic Map of Bangladesh.** Creator: **Oona Räisänen (Mysid)**, 2010; sources include SRTM relief data, archival CIA cartography and NGDC bathymetry; Wikimedia Commons, **CC BY 3.0 / GFDL**. [Original file and terms](https://commons.wikimedia.org/wiki/File:Map_of_Bangladesh-en.svg)। কিছু স্থাননাম/পরিবহন স্তর পুরোনো; সাম্প্রতিক প্রশাসনিক মানচিত্র হিসেবে ব্যবহার নয়।
 
 <a id="physiography"></a>
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Ganges_Delta_ESA22274217.jpeg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ganges_Delta_ESA22274217.jpeg?width=760" width="520" alt="Ganges–Brahmaputra Delta from Space — source: European Space Agency / Copernicus Sentinel-3"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Ganges_Delta_ESA22274217.jpeg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ganges_Delta_ESA22274217.jpeg?width=760" width="100%" alt="Ganges–Brahmaputra Delta from Space — source: European Space Agency / Copernicus Sentinel-3"></a></p>
 
 *🖼️ Figure 2A — **Ganges–Brahmaputra Delta from Space**। **কী দেখবেন:** নদীর পলি, মোহনার প্রবাহ ও বদ্বীপের বিস্তার। **Credit:** European Space Agency / Copernicus Sentinel-3 (2020-03-31); **License:** Copernicus Sentinel attribution required; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Ganges_Delta_ESA22274217.jpeg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
@@ -404,6 +407,11 @@ Banglapedia অনুসারে দেশকে বৃহৎ তিনটি �
 
 একটি **বাংলাদেশ সরকারের ওয়েবসাইটে প্রকাশিত environmental and social baseline report** দেশের ভূমিকে ভূতাত্ত্বিক গঠনভিত্তিক মোটামুটি **<mark>Floodplain 80%, Pleistocene Terrace 8%, Tertiary Hills 12%</mark>**—এই অনুপাতে শ্রেণিবদ্ধ করেছে। এটি **ঐ রিপোর্টের classification**, সর্বশেষ ভূমি-জরিপের সমার্থক নয়; Banglapedia-র ভিন্ন শ্রেণিকাঠামোর সঙ্গে সংখ্যা বিনা ব্যাখ্যায় মিশিয়ে ফেলবেন না। [S5 — Wage Earners' Welfare Board-hosted *Environmental and Social Baseline Data*, land environment]
 
+<p><img src="./assets/mobile-diagrams/diagram-01.svg" alt="Mobile-friendly static diagram 01 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 pie showData
     title Bangladesh physiography (%) — historical baseline classification, S5
@@ -412,9 +420,16 @@ pie showData
     "Tertiary hills" : 12
 ```
 
+</details>
+
 **Exam caption:** *Figure: Approximate physiographic shares. Source: Government-hosted Environmental and Social Baseline Data, land-environment section (S5); figures are classification-dependent.*
 
 ### ২.২ Cause–Effect Flowchart — ভূমিরূপ থেকে জীবিকার সম্পর্ক
+
+<p><img src="./assets/mobile-diagrams/diagram-02.svg" alt="Mobile-friendly static diagram 02 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
 
 ```mermaid
 flowchart TD
@@ -427,6 +442,8 @@ E --> G["Spatial planning + sustainable livelihoods"]
 F --> G
 G --> H["Adaptive Delta Management"]
 ```
+
+</details>
 
 **Figure 3 — Conceptual causal diagram, editorial synthesis from Banglapedia [S2] and GED Delta Plan [S6].** এটি ব্যাখ্যামূলক, পরিমাপভিত্তিক data chart নয়।
 
@@ -449,6 +466,11 @@ G --> H["Adaptive Delta Management"]
 
 **Cause → Effect → Response (কারণ–ফল–করণীয়)**
 
+<p><img src="./assets/mobile-diagrams/diagram-03.svg" alt="Mobile-friendly static diagram 03 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
  A["ভূপ্রকৃতি ও অবস্থান"] --> B["পানি, মাটি ও পরিবেশগত প্রক্রিয়া"]
@@ -458,6 +480,8 @@ flowchart TD
  D --> E
  E --> F["অভিযোজন ও টেকসই ব্যবস্থাপনা"]
 ```
+
+</details>
 
 > [!WARNING]
 > 🟨 **পরীক্ষায় প্রয়োগ:** কেন বরেন্দ্রভূমিকে প্লাবনভূমি বলা যায় না? খরা মোকাবিলায় অঞ্চলভিত্তিক কী পরিকল্পনা প্রয়োজন?
@@ -491,6 +515,11 @@ flowchart TD
 
 **৬. করণীয় (Policy Response):** পানি সাশ্রয়ী সেচ, বৃষ্টির পানি সংরক্ষণ, ফসল বৈচিত্র্য, বৈজ্ঞানিক পানি-পর্যবেক্ষণ ও স্থানীয় অংশগ্রহণ। বাংলাদেশের ব-দ্বীপ পরিকল্পনা ২১০০-তে **Barind and Drought-prone Areas** পৃথক হটস্পট।
 
+<p><img src="./assets/mobile-diagrams/diagram-04.svg" alt="Mobile-friendly static diagram 04 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
 A["Older terrace and distinct soils"] --> B["Dry-season water-management challenges"]
@@ -498,6 +527,8 @@ B --> C["Irrigation demand and groundwater pressure"]
 C --> D["Efficient irrigation + crop choice + recharge"]
 D --> E["More resilient farming livelihoods"]
 ```
+
+</details>
 
 > [!TIP]
 > 🟩 **Memory Formula:** <mark>পুরোনো সোপান → ভিন্ন মাটি → শুষ্ক মৌসুমে পানির চাপ → দক্ষ সেচ → কৃষির স্থায়িত্ব</mark>।
@@ -525,7 +556,7 @@ D --> E["More resilient farming livelihoods"]
 
 <a id="barind-photo"></a>
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:The_Neon_Veil_of_Barind-_A_Twilight_Study_in_Naogaon.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/The_Neon_Veil_of_Barind-_A_Twilight_Study_in_Naogaon.jpg?width=760" width="520" alt="Barind Agricultural Landscape, Naogaon — source: S. H. Tanim"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:The_Neon_Veil_of_Barind-_A_Twilight_Study_in_Naogaon.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/The_Neon_Veil_of_Barind-_A_Twilight_Study_in_Naogaon.jpg?width=760" width="100%" alt="Barind Agricultural Landscape, Naogaon — source: S. H. Tanim"></a></p>
 
 *🖼️ Figure 3 — **Barind Agricultural Landscape, Naogaon**। **কী দেখবেন:** নওগাঁর বরেন্দ্র অঞ্চলের গ্রামীণ কৃষি; এটি মাটির ভূতাত্ত্বিক প্রমাণ নয়। **Credit:** S. H. Tanim (2026-03-12); **License:** CC BY-SA 4.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:The_Neon_Veil_of_Barind-_A_Twilight_Study_in_Naogaon.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
@@ -549,6 +580,11 @@ D --> E["More resilient farming livelihoods"]
 
 **Cause → Effect → Response (কারণ–ফল–করণীয়)**
 
+<p><img src="./assets/mobile-diagrams/diagram-03.svg" alt="Mobile-friendly static diagram 03 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
  A["ভূপ্রকৃতি ও অবস্থান"] --> B["পানি, মাটি ও পরিবেশগত প্রক্রিয়া"]
@@ -558,6 +594,8 @@ flowchart TD
  D --> E
  E --> F["অভিযোজন ও টেকসই ব্যবস্থাপনা"]
 ```
+
+</details>
 
 > [!WARNING]
 > 🟨 **পরীক্ষায় প্রয়োগ:** মধুপুর ও বরেন্দ্রের মিল-অমিল কী? ভূমিরূপ কীভাবে ভূমি ব্যবহার নিয়ন্ত্রণ করে?
@@ -622,7 +660,7 @@ flowchart TD
 > [!NOTE]
 > 🔵 **Source:** **Banglapedia — Asiatic Society of Bangladesh, “Bangladesh Geography”** [S2] ও **“ভূ-প্রকৃতি”** [S3]।
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Madhupur_tract_locator_map.svg"><img width="310" src="https://commons.wikimedia.org/wiki/Special:FilePath/Madhupur_tract_locator_map.svg?width=640" alt="Madhupur Tract locator map by Tanvir Anjum Adib, 2025"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Madhupur_tract_locator_map.svg"><img width="100%" src="https://commons.wikimedia.org/wiki/Special:FilePath/Madhupur_tract_locator_map.svg?width=640" alt="Madhupur Tract locator map by Tanvir Anjum Adib, 2025"></a></p>
 
 *🗺️ **Madhupur Tract Locator Map** — বাংলাদেশের মানচিত্রে মধুপুর গড়ের অবস্থান দেখুন। **Creator:** Tanvir Anjum Adib, 2025; **License:** CC BY-SA 4.0; [Original Wikimedia Commons map](https://commons.wikimedia.org/wiki/File:Madhupur_tract_locator_map.svg)। এটি অবস্থান বুঝতে সাহায্য করে; ভূতাত্ত্বিক মাটির বয়সের সরাসরি প্রমাণ নয়।*
 
@@ -631,7 +669,7 @@ flowchart TD
 
 <a id="madhupur-photo"></a>
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Madhupur_forest.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Madhupur_forest.jpg?width=760" width="440" alt="Madhupur National Park Forest — source: S. M. Tanim"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Madhupur_forest.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Madhupur_forest.jpg?width=760" width="100%" alt="Madhupur National Park Forest — source: S. M. Tanim"></a></p>
 
 *🖼️ Figure 4 — **Madhupur National Park Forest**। **কী দেখবেন:** মধুপুর অঞ্চলের বনভূমি ও ভূমি ব্যবহার। **Credit:** S. M. Tanim (2017-10-09); **License:** CC BY-SA 4.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Madhupur_forest.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
@@ -655,6 +693,11 @@ flowchart TD
 
 **Cause → Effect → Response (কারণ–ফল–করণীয়)**
 
+<p><img src="./assets/mobile-diagrams/diagram-03.svg" alt="Mobile-friendly static diagram 03 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
  A["ভূপ্রকৃতি ও অবস্থান"] --> B["পানি, মাটি ও পরিবেশগত প্রক্রিয়া"]
@@ -664,6 +707,8 @@ flowchart TD
  D --> E
  E --> F["অভিযোজন ও টেকসই ব্যবস্থাপনা"]
 ```
+
+</details>
 
 > [!WARNING]
 > 🟨 **পরীক্ষায় প্রয়োগ:** Flash flood কেন হয়? হাওরের অর্থনীতি ও পরিবেশের মধ্যে কী ভারসাম্য প্রয়োজন?
@@ -700,6 +745,11 @@ flowchart TD
 
 **৭. সমাধান:** আগাম বন্যার পূর্বাভাস, তথ্যভিত্তিক ফসল কাটার সময়সূচি, যথাযথ বাঁধ ও পানি চলাচলের পথ, দুর্যোগ-প্রস্তুতি এবং হাওরের পরিবেশগত ভারসাম্য রক্ষা। সব জায়গায় শুধু উঁচু বাঁধ তৈরি করলে স্থানীয় পানি নিষ্কাশনে ক্ষতি হতে পারে।
 
+<p><img src="./assets/mobile-diagrams/diagram-07.svg" alt="Mobile-friendly static diagram 07 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
 A["Hill catchment rainfall"] --> B["Rapid runoff"]
@@ -708,6 +758,8 @@ C --> D["Flash flood over low-lying haor"]
 D --> E["Boro crop and livelihood risk"]
 E --> F["Early warning + crop timing + drainage"]
 ```
+
+</details>
 
 > [!TIP]
 > 🟩 **Memory Formula:** <mark>নিচু অববাহিকা + উজানের ভারী বৃষ্টি → দ্রুত ঢল → আগাম বন্যা → বোরো ঝুঁকি</mark>।
@@ -736,7 +788,7 @@ E --> F["Early warning + crop timing + drainage"]
 
 <a id="haor-photo"></a>
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:%E0%A6%9F%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%B0.JPG"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%9F%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%B0.JPG?width=760" width="520" alt="Tanguar Haor — source: Sarkershuvro"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:%E0%A6%9F%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%B0.JPG"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%9F%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%B0.JPG?width=760" width="100%" alt="Tanguar Haor — source: Sarkershuvro"></a></p>
 
 *🖼️ Figure 5 — **Tanguar Haor**। **কী দেখবেন:** হাওরের মৌসুমি জলাভূমির দৃশ্য। **Credit:** Sarkershuvro (2015-03-09); **License:** CC BY-SA 4.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:%E0%A6%9F%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%B0.JPG)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
@@ -760,6 +812,11 @@ E --> F["Early warning + crop timing + drainage"]
 
 **Cause → Effect → Response (কারণ–ফল–করণীয়)**
 
+<p><img src="./assets/mobile-diagrams/diagram-03.svg" alt="Mobile-friendly static diagram 03 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
  A["ভূপ্রকৃতি ও অবস্থান"] --> B["পানি, মাটি ও পরিবেশগত প্রক্রিয়া"]
@@ -769,6 +826,8 @@ flowchart TD
  D --> E
  E --> F["অভিযোজন ও টেকসই ব্যবস্থাপনা"]
 ```
+
+</details>
 
 > [!WARNING]
 > 🟨 **পরীক্ষায় প্রয়োগ:** পার্বত্য অঞ্চল ও প্লাবনভূমির পার্থক্য কী? ভূমিধসের প্রাকৃতিক ও মানবসৃষ্ট কারণ কী?
@@ -796,14 +855,14 @@ flowchart TD
 
 <a id="cht-photo"></a>
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Sajek_Valley_00.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sajek_Valley_00.jpg?width=760" width="520" alt="Sajek Valley — Chattogram Hill Tracts — source: Ahnaf010"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Sajek_Valley_00.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sajek_Valley_00.jpg?width=760" width="100%" alt="Sajek Valley — Chattogram Hill Tracts — source: Ahnaf010"></a></p>
 
 *🖼️ Figure 6 — **Sajek Valley — Chattogram Hill Tracts**। **কী দেখবেন:** পাহাড়ের ঢাল ও শৈলশিরা। **Credit:** Ahnaf010 (2022-07-03); **License:** CC BY-SA 4.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Sajek_Valley_00.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
 > [!TIP]
  > **চিত্র পর্যবেক্ষণ:** পাহাড়ের ঢাল ও শৈলশিরা—ছবিতে দৃশ্যমান একটি বৈশিষ্ট্য চিহ্নিত করে তার একটি কারণ ও একটি সম্ভাব্য প্রভাব ব্যাখ্যা করুন।
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Chittagong_Hill_Tracts.PNG"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Chittagong_Hill_Tracts.PNG?width=760" width="280" alt="Chittagong Hill Tracts locator map — source: Armanaziz / AnonyLog"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Chittagong_Hill_Tracts.PNG"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Chittagong_Hill_Tracts.PNG?width=760" width="100%" alt="Chittagong Hill Tracts locator map — source: Armanaziz / AnonyLog"></a></p>
 
 *🖼️ Figure 6B — **Chittagong Hill Tracts locator map**। **কী দেখবেন:** পার্বত্য অঞ্চলের অবস্থান; পুরোনো জেলা সীমানা। **Credit:** Armanaziz / AnonyLog (2009); **License:** GFDL / CC license on file page; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Chittagong_Hill_Tracts.PNG)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
@@ -827,6 +886,11 @@ flowchart TD
 
 **Cause → Effect → Response (কারণ–ফল–করণীয়)**
 
+<p><img src="./assets/mobile-diagrams/diagram-03.svg" alt="Mobile-friendly static diagram 03 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
  A["ভূপ্রকৃতি ও অবস্থান"] --> B["পানি, মাটি ও পরিবেশগত প্রক্রিয়া"]
@@ -836,6 +900,8 @@ flowchart TD
  D --> E
  E --> F["অভিযোজন ও টেকসই ব্যবস্থাপনা"]
 ```
+
+</details>
 
 > [!WARNING]
 > 🟨 **পরীক্ষায় প্রয়োগ:** ম্যানগ্রোভ বন কেন গড়ে ওঠে? সুন্দরবন সংরক্ষণ কেন জাতীয় উন্নয়নের বিষয়?
@@ -863,7 +929,7 @@ flowchart TD
 
 <a id="coastal-photo"></a>
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Landset_9_image_of_Bangladesh_coast.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Landset_9_image_of_Bangladesh_coast.jpg?width=760" width="520" alt="Bangladesh Coast: Landsat-9 Natural Colour — source: NASA / USGS Landsat program"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Landset_9_image_of_Bangladesh_coast.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Landset_9_image_of_Bangladesh_coast.jpg?width=760" width="100%" alt="Bangladesh Coast: Landsat-9 Natural Colour — source: NASA / USGS Landsat program"></a></p>
 
 *🖼️ Figure 7 — **Bangladesh Coast: Landsat-9 Natural Colour**। **কী দেখবেন:** সুন্দরবনের বনভূমি, কৃষিজমি ও উপকূলের পার্থক্য। **Credit:** NASA / USGS Landsat program (2022-02-08); **License:** Public domain (NASA); **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Landset_9_image_of_Bangladesh_coast.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
@@ -887,6 +953,11 @@ flowchart TD
 
 **Cause → Effect → Response (কারণ–ফল–করণীয়)**
 
+<p><img src="./assets/mobile-diagrams/diagram-03.svg" alt="Mobile-friendly static diagram 03 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
  A["ভূপ্রকৃতি ও অবস্থান"] --> B["পানি, মাটি ও পরিবেশগত প্রক্রিয়া"]
@@ -896,6 +967,8 @@ flowchart TD
  D --> E
  E --> F["অভিযোজন ও টেকসই ব্যবস্থাপনা"]
 ```
+
+</details>
 
 > [!WARNING]
 > 🟨 **পরীক্ষায় প্রয়োগ:** চর কেন সৃষ্টি হয়? একই উপকূলে ভূমি বৃদ্ধি ও ক্ষয় একসঙ্গে কীভাবে ঘটে?
@@ -925,7 +998,7 @@ flowchart TD
 
 <a id="char-photo"></a>
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Cattle_on_a_Char_(27917537222).jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cattle_on_a_Char_(27917537222).jpg?width=760" width="520" alt="Livelihoods on a Jamuna River Char — source: David Stanley"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Cattle_on_a_Char_(27917537222).jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cattle_on_a_Char_(27917537222).jpg?width=760" width="100%" alt="Livelihoods on a Jamuna River Char — source: David Stanley"></a></p>
 
 *🖼️ Figure 8 — **Livelihoods on a Jamuna River Char**। **কী দেখবেন:** চরে গবাদিপশু পালন ও মানুষের জীবিকা; চর কীভাবে তৈরি তা দেখায় না। **Credit:** David Stanley (2016-02-10); **License:** CC BY 2.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Cattle_on_a_Char_(27917537222).jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
@@ -974,6 +1047,11 @@ flowchart TD
 - **Avulsion:** প্রধান প্রবাহ তুলনামূলক দ্রুত অন্য খাত গ্রহণ করতে পারে; কিন্তু নতুন খাতের বিস্তার ও পুরোনো খাতের পরিত্যাগ বহু বছর ধরে ঘটতে পারে।
 - নতুন নদীখাতের সঙ্গে পলি সঞ্চয়, নৌপথ, জনবসতি ও কৃষিজমির অবস্থানও পাল্টায়।
 
+<p><img src="./assets/mobile-diagrams/diagram-11.svg" alt="Mobile-friendly static diagram 11 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
 A["উজানে বৃষ্টি ও ভূমিক্ষয়"] --> B["নদীতে পানি ও পলি প্রবাহ"]
@@ -984,6 +1062,8 @@ D --> F["জীবিকা, জমি ও অবকাঠামো পরিব
 E --> F
 F --> G["স্থানিক পরিকল্পনা, পূর্বাভাস ও সহনশীল জীবনযাত্রা"]
 ```
+
+</details>
 
 *Conceptual teaching figure; based on [Banglapedia — Bangladesh Geography](https://en.banglapedia.org/index.php?title=Bangladesh_Geography) ও [GED — Bangladesh Delta Plan 2100](https://bdp2100kp.gov.bd/BDP2100/Overview)। এটি প্রকৃত নদীর গতিপথের বৈজ্ঞানিক simulation নয়।*
 
@@ -1019,7 +1099,7 @@ F --> G["স্থানিক পরিকল্পনা, পূর্বা�
 
 <a id="sediment-photo"></a>
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Meghna_River_sediment_in_the_Bay_of_Bengal_(MODIS_2019-11-24).jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Meghna_River_sediment_in_the_Bay_of_Bengal_(MODIS_2019-11-24).jpg?width=760" width="520" alt="NASA MODIS satellite view of Meghna sediment flowing into Bay of Bengal"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Meghna_River_sediment_in_the_Bay_of_Bengal_(MODIS_2019-11-24).jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Meghna_River_sediment_in_the_Bay_of_Bengal_(MODIS_2019-11-24).jpg?width=760" width="100%" alt="NASA MODIS satellite view of Meghna sediment flowing into Bay of Bengal"></a></p>
 
 *🛰️ **Satellite reading:** মেঘনা মোহনায় বিভিন্ন রঙের পানি ও পলির বিস্তার দেখুন। দৃশ্যমান রং থেকে **নির্দিষ্ট পরিমাণ পলি বা ক্ষয়ের হার গণনা করা যায় না**। Creator: NASA GSFC/MODIS; Wikimedia Commons [original & license](https://commons.wikimedia.org/wiki/File:Meghna_River_sediment_in_the_Bay_of_Bengal_(MODIS_2019-11-24).jpg)।*
 
@@ -1078,6 +1158,11 @@ F --> G["স্থানিক পরিকল্পনা, পূর্বা�
 - **লবণাক্ততা (Salinity):** নদীর মিঠাপানি ও সমুদ্রের লবণাক্ত পানির মিথস্ক্রিয়া; শুষ্ক মৌসুমের প্রবাহ, জোয়ার, ভূমি ব্যবহার ও অন্যান্য স্থানীয় বিষয় ভূমিকা রাখে।
 - **ঝুঁকির মাত্রা:** প্রাকৃতিক hazard এবং মানুষের **exposure** ও **vulnerability** একসঙ্গে বিচার করলে ক্ষতির প্রকৃত ধারণা মেলে।
 
+<p><img src="./assets/mobile-diagrams/diagram-12.svg" alt="Mobile-friendly static diagram 12 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart LR
 A["সমুদ্রতীর + নদীমোহনা"] --> B["বাণিজ্য, মাছ ও জীবিকা"]
@@ -1087,6 +1172,8 @@ C --> E["Risk Reduction"]
 D --> F["Sustainable Coastal Development"]
 E --> F
 ```
+
+</details>
 
 ### ৫.৬ ২০ নম্বরের প্রশ্নে কীভাবে মূল্যায়ন করবেন?
 
@@ -1160,6 +1247,11 @@ E --> F
 
 **ধাপ ৫: সমন্বয় (Coordinate)** — কৃষি, পানি, বন, দুর্যোগ, নগর ও স্থানীয় জনগণের অংশগ্রহণ একসঙ্গে রাখা।
 
+<p><img src="./assets/mobile-diagrams/diagram-13.svg" alt="Mobile-friendly static diagram 13 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
 A["OBSERVE: নদী ও জলবায়ু তথ্য"] --> B["COMPARE: বিভিন্ন Scenario"]
@@ -1169,6 +1261,8 @@ D --> E{"নতুন ঝুঁকি বা তথ্য?"}
 E -->|হ্যাঁ| B
 E -->|না| C
 ```
+
+</details>
 
 **এটি conceptual illustration**, GED-এর কোনও নির্দিষ্ট প্রকল্পের প্রত্যক্ষ output নয়।
 
@@ -1484,6 +1578,11 @@ E -->|না| C
 
 **চিত্র — অবস্থান কীভাবে সুযোগ ও ঝুঁকি তৈরি করে:**
 
+<p><img src="./assets/mobile-diagrams/diagram-14.svg" alt="Mobile-friendly static diagram 14 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart LR
     A["South Asian location"] --> B["GBM river basin"]
@@ -1493,6 +1592,8 @@ flowchart LR
     C --> F["Trade and maritime economy"]
     C --> G["Cyclone and salinity risk"]
 ```
+
+</details>
 
 #### তুলনামূলক সারণি
 
@@ -1548,6 +1649,11 @@ flowchart LR
 
 **ভিজ্যুয়াল — তিন ভূপ্রাকৃতিক স্তর:**
 
+<p><img src="./assets/mobile-diagrams/diagram-15.svg" alt="Mobile-friendly static diagram 15 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
     A["Bangladesh Physiography"] --> B["Floodplains: new alluvium"]
@@ -1557,6 +1663,8 @@ flowchart TD
     C --> F["Barind and Madhupur"]
     D --> G["Chattogram and Sylhet"]
 ```
+
+</details>
 
 **বিশ্লেষণ:** একই ধরনের উন্নয়ননীতি তিন অঞ্চলে সমান ফল দেয় না। প্লাবনভূমিতে বন্যা-সহনশীল বসতি, সোপানে পানি ব্যবস্থাপনা এবং পাহাড়ে ঢাল সংরক্ষণ জরুরি।
 
@@ -1610,6 +1718,11 @@ flowchart TD
 | সীমান্ত ও অবৈধ কার্যক্রম | নিরাপত্তা ও বাণিজ্য | সহযোগিতা, আইন প্রয়োগ, বৈধ বাণিজ্য |
 | সামুদ্রিক দূষণ | মৎস্য ও বাস্তুতন্ত্র | নজরদারি, পরিবেশ আইন ও আঞ্চলিক সমন্বয় |
 
+<p><img src="./assets/mobile-diagrams/diagram-16.svg" alt="Mobile-friendly static diagram 16 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart LR
     A["Strategic location"] --> B["Trade and transit"]
@@ -1619,6 +1732,8 @@ flowchart LR
     D --> F["Balanced regional cooperation"]
     E --> F
 ```
+
+</details>
 
 **মূল্যায়ন:** ভূরাজনৈতিক গুরুত্ব শুধু সামরিক অবস্থান নয়; **অর্থনৈতিক সুযোগ + মানবিক নিরাপত্তা + কূটনৈতিক ভারসাম্য** একসঙ্গে বিবেচনা করতে হয়। উন্নত নৌযোগাযোগ, বহুপক্ষীয় সংলাপ ও বাংলাদেশ ব-দ্বীপ পরিকল্পনা ২১০০-ভিত্তিক অভিযোজন এতে সহায়ক।
 
@@ -1671,6 +1786,11 @@ flowchart LR
 | পর্যটন | স্থানীয় ব্যবসা | উপকূল ও বর্জ্য ব্যবস্থাপনা |
 | গবেষণা | সম্পদের তথ্য | পরিবেশগত প্রভাব মূল্যায়ন |
 
+<p><img src="./assets/mobile-diagrams/diagram-17.svg" alt="Mobile-friendly static diagram 17 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart LR
     A["Bay of Bengal"] --> B["Ports and trade"]
@@ -1681,6 +1801,8 @@ flowchart LR
     D --> E
     F["Conservation and safety"] --> E
 ```
+
+</details>
 
 #### বিশ্লেষণ ও পরীক্ষায় প্রয়োগ — কী, কেন, কীভাবে এবং মূল্যায়ন
 
@@ -1726,6 +1848,11 @@ flowchart LR
 
 **কারণ:** নদীর গতিপথ বদলে গেলে পলি নতুন শাখায় বেশি পৌঁছায়; আগের শাখায় পলি কমলে সে অংশ তুলনামূলকভাবে মরিবান্ড হয়ে উঠতে পারে। তবে সাগরের জোয়ার, ভাঙন, জলাবদ্ধতা বা লবণাক্ততার প্রভাব দুই অবস্থাতেই থাকতে পারে।
 
+<p><img src="./assets/mobile-diagrams/diagram-18.svg" alt="Mobile-friendly static diagram 18 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
     A["River sediment supply"] --> B{"Supply and channel activity"}
@@ -1734,6 +1861,8 @@ flowchart TD
     C --> E["Landscape still changes"]
     D --> E
 ```
+
+</details>
 
 **ভুল এড়ান:** 'Active = সব জায়গায় ভূমি বাড়ে' কিংবা 'Moribund = কোনো ঝুঁকি নেই'—এ দুটো বক্তব্যই ভুল।
 
@@ -1785,6 +1914,11 @@ flowchart TD
 
 **প্রক্রিয়া-চিত্র:**
 
+<p><img src="./assets/mobile-diagrams/diagram-19.svg" alt="Mobile-friendly static diagram 19 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart LR
     A["Upstream erosion"] --> B["River sediment transport"]
@@ -1793,6 +1927,8 @@ flowchart LR
     E["Tides and waves"] --> D
     D --> F["New erosion and deposition"]
 ```
+
+</details>
 
 **কারণ–ফল:** পলল মাটি কৃষিকাজে সহায়ক এবং নদী–জলাভূমি মাছ ও জলজ বাস্তুতন্ত্রে অবদান রাখে। বিপরীতে, নদীভাঙন, বন্যা, চর হারানো ও উপকূলীয় লবণাক্ততা বসতি ও অবকাঠামোর ঝুঁকি তৈরি করে।
 
@@ -1851,6 +1987,11 @@ flowchart LR
 
 **ব্যাখ্যা:** প্লাবনভূমির নতুন পলির বিপরীতে দুই অঞ্চলের ভূমি তুলনামূলক প্রাচীন ও উঁচু। তবে বরেন্দ্রকে সম্পূর্ণ মরুভূমি বা মধুপুরকে সম্পূর্ণ বন—কোনোটিই বলা যায় না; উভয় এলাকায় কৃষি ও বসতি আছে।
 
+<p><img src="./assets/mobile-diagrams/diagram-20.svg" alt="Mobile-friendly static diagram 20 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
     A["Pleistocene terraces"] --> B["Barind: northwest"]
@@ -1858,6 +1999,8 @@ flowchart TD
     B --> D["Irrigation and drought stress"]
     C --> E["Forest and land-use pressure"]
 ```
+
+</details>
 
 #### বিশ্লেষণ ও পরীক্ষায় প্রয়োগ — কী, কেন, কীভাবে এবং মূল্যায়ন
 
@@ -1901,6 +2044,11 @@ flowchart TD
 4. **তাপ ও খরা:** শুষ্ক আবহাওয়া ও উচ্চ তাপমাত্রায় বাষ্পীভবন ও ফসলের পানি চাহিদা বাড়ে।
 5. **ব্যবস্থাপনার সীমাবদ্ধতা:** স্থানীয় জলাধার, পৃষ্ঠজল ব্যবহার ও দক্ষ সেচের ঘাটতি ঝুঁকি বাড়াতে পারে।
 
+<p><img src="./assets/mobile-diagrams/diagram-21.svg" alt="Mobile-friendly static diagram 21 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
     A["Dry-season water demand"] --> C["Drought stress"]
@@ -1909,6 +2057,8 @@ flowchart TD
     C --> E["Crop and livelihood risk"]
     E --> F["Efficient irrigation and storage"]
 ```
+
+</details>
 
 **সমাধান:** ড্রিপ/স্প্রিংকলার যেখানে উপযোগী, সেচের সময় ঠিক করা, কম পানি-নির্ভর ফসল, পুকুর–জলাধার সংরক্ষণ, বৃষ্টির পানি ধরে রাখা এবং পৃষ্ঠজল–ভূগর্ভস্থ পানির যৌথ ব্যবস্থাপনা।
 
@@ -1973,6 +2123,11 @@ flowchart TD
 
 **ইতিহাসের সরল টাইমলাইন (নির্দিষ্ট সমাপ্তি সাল দাবি নয়):**
 
+<p><img src="./assets/mobile-diagrams/diagram-22.svg" alt="Mobile-friendly static diagram 22 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart LR
     A["Old Brahmaputra was a major course"] --> B["Late 18th century shifts"]
@@ -1980,6 +2135,8 @@ flowchart LR
     C --> D["Long-term erosion and deposition"]
     D --> E["New settlement patterns"]
 ```
+
+</details>
 
 **মূল্যায়ন:** নদীর গতিপথ পরিবর্তনে পলি, প্রবাহবেগ, পুরোনো শাখানদীর পথ, বন্যা ও ভূ-আকৃতিগত অবস্থা কাজ করে। তাই **তিস্তার ১৭৮৭ সালের ঘটনা** এবং **ব্রহ্মপুত্র–যমুনার দীর্ঘমেয়াদি স্থানান্তর** আলাদা করে ব্যাখ্যা করুন।
 
@@ -2027,6 +2184,11 @@ flowchart LR
 
 **পার্থক্যের ব্যাখ্যা:** চর মূলত **পলি সঞ্চয়**, হাওর **অববাহিকাগত মৌসুমি প্লাবন**, বিল **স্থানীয় নিম্নভূমির জলধারণ**, আর বাঁওড় **নদীবাঁক বিচ্ছিন্ন হওয়ার** ফল। তাই একই 'জলাভূমি' নামে সবগুলোকে এক করলে গঠনগত পার্থক্য হারিয়ে যায়।
 
+<p><img src="./assets/mobile-diagrams/diagram-23.svg" alt="Mobile-friendly static diagram 23 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
     A["River and water landscapes"] --> B["Sediment builds land: Char"]
@@ -2034,6 +2196,8 @@ flowchart TD
     A --> D["Depression: Beel"]
     A --> E["Cut-off river bend: Baor"]
 ```
+
+</details>
 
 **ব্যবস্থাপনা:** চরে নিরাপদ বসতি ও ভূমি অধিকার, হাওরে আগাম বন্যার পূর্বাভাস, বিলে জলপ্রবাহ সংরক্ষণ এবং বাঁওড়ে টেকসই মৎস্য চাষ বেশি প্রাসঙ্গিক।
 
@@ -2085,6 +2249,11 @@ flowchart TD
 
 **কারণ–ফল চিত্র:**
 
+<p><img src="./assets/mobile-diagrams/diagram-24.svg" alt="Mobile-friendly static diagram 24 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
     A["Intense upstream rainfall"] --> B["Rapid hill runoff"]
@@ -2093,6 +2262,8 @@ flowchart TD
     D --> E["Boro crop and livelihood loss"]
     F["Early warning and timely harvest"] --> G["Risk reduction"]
 ```
+
+</details>
 
 | প্রতিরোধের স্তর | করণীয় |
 |---|---|
@@ -2145,6 +2316,11 @@ flowchart TD
 
 **দুই প্রক্রিয়া একসঙ্গে:**
 
+<p><img src="./assets/mobile-diagrams/diagram-25.svg" alt="Mobile-friendly static diagram 25 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart LR
     A["Changing river channel"] --> B["Bank erosion"]
@@ -2154,6 +2330,8 @@ flowchart LR
     D --> F["Settlement relocation"]
     E --> F
 ```
+
+</details>
 
 **অভিযোজনের পথ:** ভাঙনপ্রবণ তীরের নিয়মিত মানচিত্রায়ণ, বন্যাপ্রবাহের স্থান অক্ষত রাখা, স্থানভিত্তিক নদীশাসন, উপযুক্ত পুনর্বাসন, নিরাপদ আবাসন ও চরের শিক্ষা–স্বাস্থ্যসেবা জরুরি। সব নদীতে একই প্রকৌশল পদ্ধতি কার্যকর হবে না।
 
@@ -2215,6 +2393,11 @@ flowchart LR
 | Livelihoods | স্থানীয় আয়ের সুযোগ |
 | Conservation value | গবেষণা ও বিশ্ব ঐতিহ্য রক্ষা |
 
+<p><img src="./assets/mobile-diagrams/diagram-26.svg" alt="Mobile-friendly static diagram 26 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
     A["Tidal mangrove ecosystem"] --> B["Wildlife habitat"]
@@ -2222,6 +2405,8 @@ flowchart TD
     A --> D["Fishery and livelihoods"]
     A --> E["Sediment and carbon processes"]
 ```
+
+</details>
 
 **ঐতিহাসিক তথ্য:** UNESCO বাংলাদেশের **The Sundarbans** বিশ্ব ঐতিহ্য সম্পত্তি **১৯৯৭ সালে** তালিকাভুক্ত করে। গুরুত্বপূর্ণ পার্থক্য হলো, UNESCO-র নিবন্ধিত অংশটি পুরো বাংলাদেশ অংশের সুন্দরবনের সমার্থক নয় [S11]।
 
@@ -2272,6 +2457,11 @@ flowchart TD
 
 **কারণ–ফল ভিজ্যুয়াল:**
 
+<p><img src="./assets/mobile-diagrams/diagram-27.svg" alt="Mobile-friendly static diagram 27 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart LR
     A["Coastal geography"] --> B["Ports and fisheries"]
@@ -2281,6 +2471,8 @@ flowchart LR
     D --> F["Integrated coastal planning"]
     E --> F
 ```
+
+</details>
 
 **করণীয়:** উপকূলীয় আগাম সতর্কতা, আশ্রয়কেন্দ্র, দুর্যোগ-সহনশীল সড়ক–বন্দর, ম্যানগ্রোভ সংরক্ষণ, নিরাপদ পানীয় জল, ভূমি ব্যবহার পরিকল্পনা ও স্থানীয় জনগোষ্ঠীর অংশগ্রহণ। BDP 2100-এর Coastal Zone Hotspot এ ধরনের সমন্বিত পরিকল্পনাকে গুরুত্ব দেয় [S6]।
 
@@ -2329,12 +2521,19 @@ flowchart LR
 
 **দূরত্বের স্কিম্যাটিক (মাপ অনুপাতে আঁকা নয়):**
 
+<p><img src="./assets/mobile-diagrams/diagram-28.svg" alt="Mobile-friendly static diagram 28 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart LR
     A["Baseline: 0 NM"] --> B["Territorial Sea: up to 12 NM"]
     B --> C["Contiguous Zone: up to 24 NM"]
     C --> D["EEZ: up to 200 NM"]
 ```
+
+</details>
 
 **উদাহরণ:** কোনো উপকূলীয় রাষ্ট্র EEZ-তে মাছ ও অন্যান্য সামুদ্রিক সম্পদের ব্যবস্থাপনায় বিশেষ অধিকার পায়, কিন্তু তাই বলে বিদেশি জাহাজের সকল বৈধ চলাচল নির্বিচারে নিষিদ্ধ করতে পারে না।
 
@@ -2388,6 +2587,11 @@ flowchart LR
 3. **নৌনিরাপত্তা ও কূটনীতি:** বিরোধের আইনভিত্তিক নিষ্পত্তি শান্তিপূর্ণ সমাধানের একটি উদাহরণ।
 4. **পরিকল্পনা:** দীর্ঘমেয়াদি সামুদ্রিক পরিবেশ ও বন্দরকেন্দ্রিক নীতিতে আইনগত ভিত্তি পাওয়া যায়।
 
+<p><img src="./assets/mobile-diagrams/diagram-29.svg" alt="Mobile-friendly static diagram 29 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart LR
     A["2012: ITLOS / Myanmar"] --> C["Clearer maritime boundary"]
@@ -2395,6 +2599,8 @@ flowchart LR
     C --> D["Resource planning"]
     C --> E["Legal and diplomatic certainty"]
 ```
+
+</details>
 
 **বিশ্লেষণ:** এই সিদ্ধান্তগুলোকে 'সমুদ্রে নতুন সার্বভৌম ভূখণ্ড লাভ' হিসেবে সহজীকরণ করা উচিত নয়। Territorial Sea, EEZ এবং Continental Shelf-এর অধিকার আলাদা; বিচারিক সীমা নির্ধারণও সে ভিন্নতা বজায় রাখে [S8][S9][S10]।
 
@@ -2443,6 +2649,11 @@ flowchart LR
 
 **কারণ–ফল চিত্র:**
 
+<p><img src="./assets/mobile-diagrams/diagram-30.svg" alt="Mobile-friendly static diagram 30 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
     A["Soil and landform"] --> D["Crop choice"]
@@ -2450,6 +2661,8 @@ flowchart TD
     C["Flood and salinity"] --> D
     D --> E["Agricultural calendar and yield risk"]
 ```
+
+</details>
 
 **বিশ্লেষণ:** ভৌগোলিক অবস্থা ফসল নির্বাচন সীমিত বা সহায়ক করলেও সেচপ্রযুক্তি, উন্নত জাত, বাজার ও কৃষকের সিদ্ধান্ত ফল পাল্টাতে পারে। তাই 'ভূগোলই সব নির্ধারণ করে' বলা অযৌক্তিক।
 
@@ -2503,6 +2716,11 @@ flowchart TD
 | পাহাড় | আঞ্চলিক সড়ক সংযোগ | ঢাল স্থিতিশীলতা |
 | উপকূল | সমুদ্রবন্দর ও নৌপথ | জলোচ্ছ্বাস ও নাব্যতা |
 
+<p><img src="./assets/mobile-diagrams/diagram-31.svg" alt="Mobile-friendly static diagram 31 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart LR
     A["Rivers and plains"] --> B["Bridges, roads and waterways"]
@@ -2512,6 +2730,8 @@ flowchart LR
     D --> G
     F --> G
 ```
+
+</details>
 
 #### বিশ্লেষণ ও পরীক্ষায় প্রয়োগ — কী, কেন, কীভাবে এবং মূল্যায়ন
 
@@ -2555,6 +2775,11 @@ flowchart LR
 4. **পাহাড়ি সংস্কৃতি:** ভৌগোলিক বিচ্ছিন্নতা, বন–ঢাল–উপত্যকা ঐতিহ্যগত জীবিকায় ভূমিকা রাখে; তবে বিভিন্ন জাতিগোষ্ঠীর সংস্কৃতি বোঝার জন্য তাঁদের ইতিহাস, ভাষা ও নিজস্ব সিদ্ধান্তকেও সমান গুরুত্ব দিতে হবে।
 5. **বরেন্দ্র ও সমভূমি:** পানি প্রাপ্যতা ও মৌসুমি কৃষি কাজের ছন্দ নির্ধারণে ভূমিকা রাখে।
 
+<p><img src="./assets/mobile-diagrams/diagram-32.svg" alt="Mobile-friendly static diagram 32 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
     A["Geographical setting"] --> B["Livelihood and transport"]
@@ -2562,6 +2787,8 @@ flowchart TD
     D["History, language and social choice"] --> C
     C --> E["Diverse local cultures"]
 ```
+
+</details>
 
 **সমালোচনামূলক মূল্যায়ন:** একই নদীতীরের মানুষের ভাষা, পেশা, ধর্মীয় চর্চা বা উৎসব ভিন্ন হতে পারে। তাই **geographical influence ≠ geographical determinism**; সমাজ, প্রযুক্তি, ইতিহাস ও রাজনৈতিক–অর্থনৈতিক সিদ্ধান্ত সংস্কৃতি গড়ে।
 
@@ -2625,6 +2852,11 @@ flowchart TD
 | পরিবেশগত প্রভাব | প্রকৃতি সুযোগ ও সীমা দেয় | বাস্তবসম্মত |
 | অভিযোজন/Agency | মানুষ প্রযুক্তি ও নীতিতে প্রতিক্রিয়া দেয় | পূর্ণাঙ্গ ব্যাখ্যার অংশ |
 
+<p><img src="./assets/mobile-diagrams/diagram-33.svg" alt="Mobile-friendly static diagram 33 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart LR
     A["Natural environment"] --> C["Opportunities and constraints"]
@@ -2632,6 +2864,8 @@ flowchart LR
     C --> E["Actual social outcomes"]
     D --> E
 ```
+
+</details>
 
 #### বিশ্লেষণ ও পরীক্ষায় প্রয়োগ — কী, কেন, কীভাবে এবং মূল্যায়ন
 
@@ -2688,6 +2922,11 @@ flowchart LR
 | বরেন্দ্র | খরা ও পানিচাপ | দক্ষ সেচ ও পানির পুনর্ভরণ |
 | পাহাড় | ভূমিধস | ঢাল সংরক্ষণ ও নিরাপদ ভূমি ব্যবহার |
 
+<p><img src="./assets/mobile-diagrams/diagram-34.svg" alt="Mobile-friendly static diagram 34 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
     A["Delta location"] --> B["Flood and erosion"]
@@ -2697,6 +2936,8 @@ flowchart TD
     D --> G
     F --> G
 ```
+
+</details>
 
 #### বিশ্লেষণ ও পরীক্ষায় প্রয়োগ — কী, কেন, কীভাবে এবং মূল্যায়ন
 
@@ -2745,6 +2986,11 @@ flowchart TD
 
 **Adaptive pathway চিত্র:**
 
+<p><img src="./assets/mobile-diagrams/diagram-35.svg" alt="Mobile-friendly static diagram 35 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart LR
     A["Set long-term goals"] --> B["Select initial actions"]
@@ -2754,6 +3000,8 @@ flowchart LR
     D -->|Yes| E["Adjust projects or pathways"]
     E --> C
 ```
+
+</details>
 
 **সহজ উদাহরণ:** কোনো উপকূলে লবণাক্ততা প্রত্যাশার চেয়ে দ্রুত বাড়লে শুধু আগের বাঁধ পরিকল্পনা বজায় না রেখে পানীয় জল, কৃষি ও প্রাকৃতিক সুরক্ষার নতুন সংমিশ্রণ নেওয়া হতে পারে।
 
@@ -2814,6 +3062,11 @@ flowchart LR
 1. **হাওর:** পাহাড়ি ঢল ও নিচু অববাহিকা—Physical Geography; বোরো ধান কাটার সময়, মৌসুমি যাতায়াত ও বসতি—Human Geography।
 2. **উপকূল:** জোয়ার–ভাটা ও লবণাক্ততা—Physical Geography; মৎস্য, বন্দর, পর্যটন ও জলবায়ু অভিযোজন—Human Geography।
 
+<p><img src="./assets/mobile-diagrams/diagram-36.svg" alt="Mobile-friendly static diagram 36 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
     A["Geography"] --> B["Physical: rivers, soil, climate"]
@@ -2823,6 +3076,8 @@ flowchart TD
     D --> F["Integrated regional planning"]
     E --> F
 ```
+
+</details>
 
 **বিশ্লেষণ:** প্রকৃতি ও মানুষকে সম্পূর্ণ বিচ্ছিন্ন করলে একটি এলাকার বাস্তব সমস্যা বোঝা যায় না। যেমন শুধু বন্যার পানির গভীরতা নয়, কত পরিবার ও প্রতিষ্ঠান ক্ষতিগ্রস্ত হবে তাও গুরুত্বপূর্ণ।
 
@@ -2871,6 +3126,11 @@ flowchart TD
 
 **ব্যাখ্যা:** একই নদীর কাছে থেকেও একটি উঁচু পুরোনো সোপান প্রতি বর্ষায় নতুন পলিতে আবৃত নাও হতে পারে। অন্যদিকে সক্রিয় প্লাবনভূমিতে নদীখাত পরিবর্তন বা নতুন পলি সঞ্চয়ের প্রভাব বেশি দেখা যায়। মাটির জলধারণ, নিষ্কাশন ও কৃষির উপযোগিতা তাই ভিন্ন হতে পারে।
 
+<p><img src="./assets/mobile-diagrams/diagram-37.svg" alt="Mobile-friendly static diagram 37 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart LR
     A["Older land surface"] --> B["Terrace: Barind, Madhupur"]
@@ -2878,6 +3138,8 @@ flowchart LR
     B --> E["Different soil and water needs"]
     D --> E
 ```
+
+</details>
 
 #### বিশ্লেষণ ও পরীক্ষায় প্রয়োগ — কী, কেন, কীভাবে এবং মূল্যায়ন
 
@@ -2928,6 +3190,11 @@ flowchart LR
 | Fish habitat | খাদ্য ও স্থানীয় আয় | বিচ্ছিন্ন জলপ্রবাহ |
 | Seasonal wetland | জীববৈচিত্র্য | অপরিকল্পিত স্থাপনা |
 
+<p><img src="./assets/mobile-diagrams/diagram-38.svg" alt="Mobile-friendly static diagram 38 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
     A["Connected floodplain"] --> B["Temporary water storage"]
@@ -2937,6 +3204,8 @@ flowchart TD
     C --> E
     D --> E
 ```
+
+</details>
 
 **ঝুঁকি ও করণীয়:** প্লাবনভূমি ভরাট, নদীর স্বাভাবিক ছড়ানো প্রবাহ বন্ধ, দূষণ ও অতিরিক্ত অবকাঠামো পরিবেশগত সেবা কমাতে পারে। তাই ভূমি ব্যবহার পরিকল্পনা, নদী–জলাভূমির সংযোগ ও নিরাপদ বসতি একসঙ্গে বিবেচনা করা জরুরি।
 
@@ -2994,6 +3263,11 @@ flowchart TD
 3. **প্রতিষ্ঠান সমন্বয়:** পানি উন্নয়ন, কৃষি, পরিবেশ, স্থানীয় সরকার ও পরিবহন খাত একসঙ্গে কাজ করতে পারে।
 4. **দীর্ঘমেয়াদি অভিযোজন:** তথ্য বদলালে পরিকল্পনা ও প্রকল্প ধাপে ধাপে সংশোধন করা সম্ভব।
 
+<p><img src="./assets/mobile-diagrams/diagram-39.svg" alt="Mobile-friendly static diagram 39 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
     A["BDP 2100"] --> B["Coast"]
@@ -3003,6 +3277,8 @@ flowchart TD
     A --> F["Rivers and estuaries"]
     A --> G["Urban areas"]
 ```
+
+</details>
 
 #### বিশ্লেষণ ও পরীক্ষায় প্রয়োগ — কী, কেন, কীভাবে এবং মূল্যায়ন
 
@@ -3050,6 +3326,11 @@ flowchart TD
 
 **ভিজ্যুয়াল:**
 
+<p><img src="./assets/mobile-diagrams/diagram-40.svg" alt="Mobile-friendly static diagram 40 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
     A["Sediment supply"] --> B{"Local sediment balance"}
@@ -3058,6 +3339,8 @@ flowchart TD
     C --> E["Changing coastline"]
     D --> E
 ```
+
+</details>
 
 **ব্যবস্থাপনা:** পরিবর্তিত তীররেখার স্যাটেলাইট পর্যবেক্ষণ, চর ও মোহনার স্থানীয় সমীক্ষা, ম্যানগ্রোভ/প্রাকৃতিক সুরক্ষা এবং অবকাঠামোর ঝুঁকি-উপযোগী অবস্থান নির্বাচন জরুরি।
 
@@ -3110,6 +3393,11 @@ flowchart TD
 3. সড়ক, বসতি, পানি সংরক্ষণ ও পরিবেশ রক্ষার পরিকল্পনা করতে।
 4. ভিন্ন প্রকৃতির এলাকাকে একই উন্নয়ননীতিতে না ফেলতে।
 
+<p><img src="./assets/mobile-diagrams/diagram-41.svg" alt="Mobile-friendly static diagram 41 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
     A["Landform and geological evidence"] --> B["Physiographic classification"]
@@ -3120,6 +3408,8 @@ flowchart TD
     D --> F
     E --> F
 ```
+
+</details>
 
 **সূক্ষ্ম শ্রেণিবিন্যাস:** Banglapedia বাংলাদেশের **২৪টি উপ-অঞ্চল ও ৫৪টি একক**-এর একটি শ্রেণিবিন্যাস বর্ণনা করে [S2]। এগুলো তিন প্রধান শ্রেণির আরও বিস্তারিত ভৌগোলিক ভাগ, সমান্তরাল অন্য তিনটি শ্রেণি নয়।
 
@@ -3173,6 +3463,11 @@ flowchart TD
 | Soil and landform | অবকাঠামো ও কৃষির উপযোগিতা |
 | Settlement/Infrastructure | ঝুঁকিপূর্ণ মানুষ ও সম্পদ শনাক্ত |
 
+<p><img src="./assets/mobile-diagrams/diagram-42.svg" alt="Mobile-friendly static diagram 42 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart LR
     A["Landform and elevation data"] --> B["Geomorphological map"]
@@ -3180,6 +3475,8 @@ flowchart LR
     B --> D["Flood and erosion planning"]
     B --> E["Road and urban site selection"]
 ```
+
+</details>
 
 **সতর্কতা:** মানচিত্রের **Scale, Publication Year, Projection ও Data Source** যাচাই করতে হবে। পুরোনো মানচিত্র দিয়ে বর্তমান নদীখাত বা আধুনিক প্রশাসনিক সীমানা নিশ্চিত করা যায় না।
 
@@ -3235,6 +3532,11 @@ flowchart LR
 | পরিবেশগত | ঝড়, ক্ষয়, দূষণ | আগাম সতর্কতা ও সংরক্ষণ |
 | মানবিক | উপকূলীয় বসতি ও জীবিকা | নিরাপদ পানি, আশ্রয়, বিকল্প আয় |
 
+<p><img src="./assets/mobile-diagrams/diagram-43.svg" alt="Mobile-friendly static diagram 43 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
     A["Bay of Bengal"] --> B["Trade, fisheries and jobs"]
@@ -3244,6 +3546,8 @@ flowchart TD
     D --> F["Sustainable blue economy"]
     E --> F
 ```
+
+</details>
 
 **নীতিগত করণীয়:** বন্দর স্থিতিস্থাপকতা, টেকসই মৎস্যনীতি, আইনগত অধিকার রক্ষা, উপকূলীয় আগাম সতর্কতা, সুন্দরবন ও ম্যানগ্রোভ সংরক্ষণ এবং স্থানীয় জনগোষ্ঠীর অভিযোজনকে একসঙ্গে এগোতে হবে।
 
@@ -3300,9 +3604,14 @@ flowchart TD
 
 **কীভাবে সুরক্ষা (How):** উপকূলীয় বাস্তুসংস্থানের বৈজ্ঞানিক পর্যবেক্ষণ, বর্জ্য ও পয়োনিষ্কাশনের ব্যবস্থাপনা, নৌযানের পরিবেশগত আচরণ নিয়ন্ত্রণ, মিঠাপানির উৎস সুরক্ষা এবং স্থানীয় মানুষের জীবিকার সঙ্গে সামঞ্জস্য রেখে পর্যটন পরিচালনা করা দরকার।
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Coral_Reef_of_Saint_Martin_Island_Bangladesh.JPG"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Coral_Reef_of_Saint_Martin_Island_Bangladesh.JPG?width=720" width="480" alt="Coral reef formation on Saint Martin Island photographed by Fahad Faisal in 2012"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Coral_Reef_of_Saint_Martin_Island_Bangladesh.JPG"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Coral_Reef_of_Saint_Martin_Island_Bangladesh.JPG?width=720" width="100%" alt="Coral reef formation on Saint Martin Island photographed by Fahad Faisal in 2012"></a></p>
 
 *🖼️ **Real Photo — St Martin's coral reef, 2012.** Creator: **Fahad Faisal**; **Wikimedia Commons, CC BY-SA 4.0**। [মূল ছবি ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Coral_Reef_of_Saint_Martin_Island_Bangladesh.JPG)। এটি একটি নির্দিষ্ট সময়ের দৃশ্য; বর্তমান প্রবালের স্বাস্থ্য বা সংখ্যা এই ছবি দিয়ে নির্ণয় করা যাবে না।*
+
+<p><img src="./assets/mobile-diagrams/diagram-44.svg" alt="Mobile-friendly static diagram 44 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
 
 ```mermaid
 flowchart TD
@@ -3313,6 +3622,8 @@ C --> E["Fishing + tourism + habitat"]
 D --> F["Conservation and research"]
 E --> F
 ```
+
+</details>
 
 **সমালোচনামূলক মূল্যায়ন:** ‘বাংলাদেশের প্রবাল দ্বীপ’ পরিচয় থাকলেই পুরো দ্বীপ জীবন্ত প্রবালে গঠিত বা বর্তমান সব প্রবাল সুস্থ—এ কথা বলা যায় না। ভূতাত্ত্বিক স্তর ও বর্তমান জীবন্ত প্রবাল আলাদা প্রমাণ দাবি করে। অনিরীক্ষিত বর্তমান প্রজাতিসংখ্যা, জনসংখ্যা বা প্রবাল ধ্বংসের শতাংশ লিখবেন না।
 
@@ -3352,6 +3663,11 @@ E --> F
 | প্রয়োগ | কৃষি–সেচ–দুর্যোগ পরিকল্পনা | ঐতিহ্য সংরক্ষণ, শিক্ষা ও গবেষণা |
 | পরীক্ষার উত্তরে | Physiography | History, culture and heritage |
 
+<p><img src="./assets/mobile-diagrams/diagram-45.svg" alt="Mobile-friendly static diagram 45 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart LR
 A["Varendra / Barind Region"] --> B["Physical Landscape"]
@@ -3359,6 +3675,8 @@ A --> C["Historical Civilisation"]
 B --> D["Barind Tract: terrace + water use"]
 C --> E["Varendra Museum: artefacts + research"]
 ```
+
+</details>
 
 **কেন গুরুত্বপূর্ণ:** কোনো অঞ্চলের ভূগোল ও ইতিহাস একই সঙ্গে শেখা গেলে সম্পূর্ণ পরিচিতি তৈরি হয়। বরেন্দ্রের মাটি বা খরা দিয়ে রাজশাহীর প্রত্নতাত্ত্বিক ইতিহাস পুরো ব্যাখ্যা করা যায় না; আবার জাদুঘরের প্রতিষ্ঠার সাল জানলেই বরেন্দ্রের ভৌগোলিক বৈশিষ্ট্য জানা হয়ে যায় না।
 
@@ -3401,6 +3719,11 @@ C --> E["Varendra Museum: artefacts + research"]
 | পলি ও নদীখাতের পরিবর্তন | চর, তীরভাঙন ও কৃষিজমি | Basin-wide sediment study, river corridor management |
 | পানি নিয়ে পারস্পরিক অনিশ্চয়তা | দ্বিপক্ষীয় আলোচনায় চাপ | কার্যকর যৌথ প্রাতিষ্ঠানিক সংলাপ |
 
+<p><img src="./assets/mobile-diagrams/diagram-46.svg" alt="Mobile-friendly static diagram 46 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart LR
 A["Upstream Rainfall + River Flow"] --> B["Transboundary Teesta"]
@@ -3412,6 +3735,8 @@ D --> F
 E --> F
 F --> G["Predictable, fair and sustainable water governance"]
 ```
+
+</details>
 
 **ঐতিহাসিক নদী-পরিবর্তনের সঙ্গে সম্পর্ক:** Banglapedia-র *Tista River* নিবন্ধে **১৭৮৭ সালের বন্যা** এবং পুরোনো গঙ্গামুখী গতিপথ থেকে নদীর নতুন প্রবাহপথের ইতিহাস বর্ণিত। এটি উত্তরাঞ্চলের নদীভূগোল যে পরিবর্তনশীল, তার উদাহরণ; বর্তমান পানি বণ্টনের নির্দিষ্ট সংখ্যাগত প্রস্তাবের প্রমাণ নয়।
 
@@ -3513,6 +3838,11 @@ F --> G["Predictable, fair and sustainable water governance"]
 
 **৮. Visual summary।**
 
+<p><img src="./assets/mobile-diagrams/diagram-47.svg" alt="Mobile-friendly static diagram 47 — Chapter 1" width="100%" /></p>
+
+<details>
+<summary>ডায়াগ্রামের মূল Mermaid source দেখুন</summary>
+
 ```mermaid
 flowchart TD
 A["Bangladesh geographic position"] --> B["Opportunities"]
@@ -3523,6 +3853,8 @@ D --> F["Adaptive, evidence-based national planning"]
 E --> F
 F --> G["BDP 2100 hotspots + maritime legal governance"]
 ```
+
+</details>
 
 *Figure 8 — Geopolitical opportunity–risk synthesis. Editorial diagram from Banglapedia, GED, ITLOS/PCA and Bangladesh maritime law [S2, S6, S8–S10].*
 
