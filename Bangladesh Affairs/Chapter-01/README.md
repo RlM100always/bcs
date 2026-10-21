@@ -38,9 +38,9 @@
 
 | শুরু ও শেখার ধাপ | বিষয়ভিত্তিক অধ্যায় | প্রশ্ন ও উৎস |
 |---|---|---|
-| [🎯 কী জানতে হবে](#start) | [১. Location ও Delta Story](#location) | [📚 Previous BCS Question Audit](#pyq) |
+| [🎯 কী জানতে হবে](#start) | [১. Location ও Delta Formation](#location) | [📚 Previous BCS Question Audit](#pyq) |
 | [🔑 Key Terms বাংলা–English](#keywords) | [২. Physiography: তিন ভূমিরূপ](#physiography) | [✍️ Answer Writing Strategy](#strategy) |
-| [🧠 ৭টি Story Scene](#story) | [৩. Region-by-Region Journey](#regions) | [❓ ৩৩টি English–বাংলা Q&A](#questions) |
+| [অধ্যায়ের ৭টি মূল ধারণা](#story) | [৩. Region-by-Region Analysis](#regions) | [❓ ৩৩টি English–বাংলা Q&A](#questions) |
 | [📌 Syllabus Coverage](#syllabus-map) | [৪. Rivers & Changes Over Time](#rivers) | [📝 ৫/১০/২০ নম্বর Sample Answer](#worked) |
 | [🖼️ Visual Atlas & 8 Revision Images](#visual-revision-notes) | [৫. Bay of Bengal & Maritime Law](#maritime) | [⚡ One-page Revision](#revision) |
 | [🗺️ Maps at a Glance](#maps) | [৬. BDP 2100: Policy](#delta-plan) | [🔗 Full Source Register](#sources) |
@@ -122,7 +122,7 @@ Bangladesh Affairs (Subject Code 005)-এর প্রথম ইউনিটে 
 ### মূল পরিভাষা — English term, বাংলা অর্থ ও সংক্ষিপ্ত ব্যাখ্যা
 
 > [!TIP]
-> 🟢 **How to memorise:** প্রথমে **English Term** দেখুন → **সহজ বাংলা অর্থ** বুঝুন → **Easy English Meaning** নিজের ভাষায় বলুন → বাংলাদেশের উদাহরণ মনে করুন। ইংরেজি সংজ্ঞাগুলো মুখস্থযোগ্য সহজ ভাষায় লেখা; এগুলো সরকারি সংজ্ঞার হুবহু উদ্ধৃতি নয়।
+ > 🟢 **পরিভাষা শেখার পদ্ধতি:** প্রথমে **English Term** দেখুন → **সহজ বাংলা অর্থ** বুঝুন → **Easy English Meaning** নিজের ভাষায় বলুন → বাংলাদেশের উদাহরণ মনে করুন। ইংরেজি সংজ্ঞাগুলো মুখস্থযোগ্য সহজ ভাষায় লেখা; এগুলো সরকারি সংজ্ঞার হুবহু উদ্ধৃতি নয়।
 
 | English Term | সহজ বাংলা অর্থ | Easy English Meaning | বাংলাদেশের উদাহরণ |
 |---|---|---|---|
@@ -163,7 +163,7 @@ Bangladesh Affairs (Subject Code 005)-এর প্রথম ইউনিটে 
 > 🟣 **Exam Memory Tip:** **Delta = sediment builds land**; **Erosion = land is removed**; **Floodplain = flat flooded land**; **Terrace = old raised land**; **EEZ = resource rights, not complete sovereignty**।
 
 > [!TIP]
-> **স্মরণ-সহায়ক সূত্র:** **“স্থান–পলি–ভূমি–নদী–মানুষ–সমুদ্র–পরিকল্পনা”**। এই সাত শব্দ বলতে পারলেই পুরো অধ্যায়ের বিশ্লেষণের একটি মানসিক মানচিত্র তৈরি হবে।
+> **স্মরণ-সহায়ক সূত্র:** **“স্থান–পলি–ভূমি–নদী–মানুষ–সমুদ্র–পরিকল্পনা”**। এই সাতটি ধারণা অধ্যায়ের বিষয়গুলোকে পরস্পরের সঙ্গে যুক্ত করে।
 
 <a id="story"></a>
 
@@ -287,7 +287,7 @@ Territorial Sea, Contiguous Zone ও EEZ-এর ধারণা এবং ১২
 
 ### মানচিত্র, মাঠপর্যায়ের ছবি ও স্যাটেলাইট চিত্র
 
-**ছবি আগে দেখুন, তারপর গল্পটি পড়ুন।** প্রতিটি ছবি সংশ্লিষ্ট বিষয়ের মধ্যেও রাখা আছে। এখানে দ্রুত যাওয়ার পথ:
+**প্রথমে ছবি পর্যবেক্ষণ করুন, তারপর সংশ্লিষ্ট ব্যাখ্যা পড়ুন।** প্রতিটি ছবি সংশ্লিষ্ট বিষয়ের মধ্যেও রাখা আছে। এখানে দ্রুত যাওয়ার পথ:
 
 | Topic / Image | Click to learn |
 |---|---|
@@ -338,7 +338,7 @@ Territorial Sea, Contiguous Zone ও EEZ-এর ধারণা এবং ১২
 
 উত্তর দিক থেকে প্রবাহিত নদীগুলো পাহাড় ও সমভূমি পেরিয়ে বাংলাদেশের নিম্ন অববাহিকায় প্রবেশ করে। নদীগুলো বালি, পলি ও কাদা বহন করে। ঋতুভেদে পানির পরিমাণ পরিবর্তিত হয়; কোথাও চর গঠিত হয়, কোথাও নদীতীর ক্ষয়প্রাপ্ত হয়, আবার কোথাও পুরোনো নদীখাত দেখা যায়। দক্ষিণে নদীগুলো বঙ্গোপসাগরের জোয়ার-ভাটার প্রভাবে প্রভাবিত হয়। **এটাই বাংলাদেশের ভূপ্রকৃতির সবচেয়ে বড় কেন্দ্রীয় ধারণা: ভূখণ্ডটি স্থির নয়, একটি পরিবর্তনশীল river–delta system।** [S2 — Banglapedia, ‘Bangladesh Geography’; S3 — Banglapedia, ‘ভূ-প্রকৃতি’]
 
-এখানে তিন ধরনের বাস্তবতা পাশাপাশি: পদ্মা–যমুনা–মেঘনার সদ্য জমা পললভূমি; বরেন্দ্র–মধুপুরের অপেক্ষাকৃত পুরোনো ও উঁচু সোপান; চট্টগ্রাম ও সিলেটের পাহাড়-টিলা। একই দেশে কোথাও নদীভাঙনের চিন্তা, কোথাও খরার, কোথাও আগাম বন্যা বা ভূমিধসের। তাই ভৌগোলিক পরিচিতি শুধু অবস্থান মুখস্থ করাই নয়; উন্নয়ন, রাজনীতি, কৃষি, পরিবেশ ও জনগণের জীবনকে ব্যাখ্যা করার একটি framework। [S2; S6 — GED, Bangladesh Delta Plan 2100]
+এখানে তিন ধরনের বাস্তবতা পাশাপাশি: পদ্মা–যমুনা–মেঘনার সদ্য জমা পললভূমি; বরেন্দ্র–মধুপুরের অপেক্ষাকৃত পুরোনো ও উঁচু সোপান; চট্টগ্রাম ও সিলেটের পাহাড়-টিলা। একই দেশে কোথাও নদীভাঙনের চিন্তা, কোথাও খরার, কোথাও আগাম বন্যা বা ভূমিধসের। তাই ভৌগোলিক পরিচিতি কেবল অবস্থান ও সীমানা বর্ণনায় সীমাবদ্ধ নয়; এটি উন্নয়ন, রাজনীতি, কৃষি, পরিবেশ ও মানুষের জীবন ব্যাখ্যা করতেও সহায়তা করে। [S2; S6 — GED, Bangladesh Delta Plan 2100]
 
 ### ১.১ Location & Boundaries — ভৌগোলিক অবস্থান ও সীমানা
 
@@ -374,12 +374,12 @@ Territorial Sea, Contiguous Zone ও EEZ-এর ধারণা এবং ১২
 *🖼️ Figure 2A — **Ganges–Brahmaputra Delta from Space**। **কী দেখবেন:** নদীর পলি, মোহনার প্রবাহ ও বদ্বীপের বিস্তার। **Credit:** European Space Agency / Copernicus Sentinel-3 (2020-03-31); **License:** Copernicus Sentinel attribution required; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Ganges_Delta_ESA22274217.jpeg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
 > [!TIP]
-> **Picture Memory:** নদীর পলি, মোহনার প্রবাহ ও বদ্বীপের বিস্তার—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
+ > **চিত্র পর্যবেক্ষণ:** নদীর পলি, মোহনার প্রবাহ ও বদ্বীপের বিস্তার—ছবিতে দৃশ্যমান একটি বৈশিষ্ট্য চিহ্নিত করে তার একটি কারণ ও একটি সম্ভাব্য প্রভাব ব্যাখ্যা করুন।
 
 
 
 > [!IMPORTANT]
-> 🟣 **Exam Snapshot — বারবার কাজে লাগবে:** বাংলাদেশ একটি গতিশীল বদ্বীপীয় দেশ। ভৌগোলিক অবস্থান থেকে নদীপথ ও সাগর, নদীপথ থেকে ভূমিরূপ, ভূমিরূপ থেকে মানুষের জীবিকা এবং জীবিকা থেকে রাষ্ট্রীয় পরিকল্পনার সম্পর্ক ব্যাখ্যা করা—এটাই এই ইউনিটের মূল দক্ষতা।
+> 🟣 **পরীক্ষায় গুরুত্বপূর্ণ সারাংশ:** বাংলাদেশ একটি গতিশীল বদ্বীপীয় দেশ। ভৌগোলিক অবস্থান থেকে নদীপথ ও সাগর, নদীপথ থেকে ভূমিরূপ, ভূমিরূপ থেকে মানুষের জীবিকা এবং জীবিকা থেকে রাষ্ট্রীয় পরিকল্পনার সম্পর্ক ব্যাখ্যা করা—এটাই এই ইউনিটের মূল দক্ষতা।
 
 > [!NOTE]
 > 🔵 **Primary Reference:** **Banglapedia — Asiatic Society of Bangladesh, “Bangladesh Geography”**, [মূল নিবন্ধ](https://en.banglapedia.org/index.php?title=Bangladesh_Geography); **Food and Agriculture Organization of the United Nations (FAO)**, [“Bangladesh” country paper](https://www.fao.org/4/x6900e/x6900e06.htm)। প্রথমটি অঞ্চলের ব্যাখ্যায়, দ্বিতীয়টি 80/8/12 আনুপাতিক শ্রেণিবিন্যাসের উৎস হিসেবে ব্যবহার করুন।
@@ -430,7 +430,7 @@ G --> H["Adaptive Delta Management"]
 
 <a id="regions"></a>
 
-## ৩. Region-by-Region Journey — বরেন্দ্র থেকে বঙ্গোপসাগর
+## ৩. Region-by-Region Analysis — বাংলাদেশের প্রধান ভূপ্রাকৃতিক অঞ্চল
 
 ### ৩.১ Barind Tract — উত্তর-পশ্চিমের বরেন্দ্রভূমি ও পানির চাপ
 
@@ -470,7 +470,7 @@ flowchart TD
 
 #### বিস্তারিত বিশ্লেষণ — বরেন্দ্রভূমি: কী, কোথায়, কেন, কীভাবে ও প্রভাব
 
-**গল্প দিয়ে শুরু:** যমুনার চরে সদ্য জমা পলির ওপর দাঁড়িয়ে আছেন। এবার উত্তর-পশ্চিমে এগিয়ে অপেক্ষাকৃত উঁচু, পুরোনো ভূমিতে পৌঁছালেন। দুই জায়গায় কৃষি হয়, কিন্তু মাটির বয়স, পানির চলাচল ও সেচের সমস্যায় পার্থক্য আছে। এ তুলনা থেকেই বরেন্দ্রভূমি বোঝা যায়।
+**তুলনামূলক উদাহরণ:** যমুনার চর সাধারণত নবীন পললভূমি; বরেন্দ্রভূমি অপেক্ষাকৃত প্রাচীন ও উঁচু সোপানভূমি। উভয় অঞ্চলে কৃষিকাজ হলেও মাটির বয়স, পানি নিষ্কাশন ও সেচের প্রয়োজন ভিন্ন। এই তুলনা বরেন্দ্রভূমির স্বতন্ত্র বৈশিষ্ট্য ব্যাখ্যা করে।
 
 **১. কী? (What is the Barind Tract?)** <mark>বরেন্দ্রভূমি একটি প্রাচীন প্লাইস্টোসিন সোপানভূমি (Pleistocene Terrace)</mark>। এটি সদ্য সৃষ্ট নদীচর নয়। এখানকার পুরোনো পলিতে দীর্ঘ সময়ের আবহবিকারের (Weathering) প্রভাব পড়েছে। এ জন্য অনেক স্থানে লালচে-বাদামি মাটি দেখা যায়। সব জায়গায় একই রঙ, উচ্চতা বা ভূগঠন থাকে না।
 
@@ -528,7 +528,7 @@ D --> E["More resilient farming livelihoods"]
 *🖼️ Figure 3 — **Barind Agricultural Landscape, Naogaon**। **কী দেখবেন:** নওগাঁর বরেন্দ্র অঞ্চলের গ্রামীণ কৃষি; এটি মাটির ভূতাত্ত্বিক প্রমাণ নয়। **Credit:** S. H. Tanim (2026-03-12); **License:** CC BY-SA 4.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:The_Neon_Veil_of_Barind-_A_Twilight_Study_in_Naogaon.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
 > [!TIP]
-> **Picture Memory:** নওগাঁর বরেন্দ্র অঞ্চলের গ্রামীণ কৃষি; এটি মাটির ভূতাত্ত্বিক প্রমাণ নয়—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
+ > **চিত্র পর্যবেক্ষণ:** নওগাঁর বরেন্দ্র অঞ্চলের গ্রামীণ কৃষি; এটি মাটির ভূতাত্ত্বিক প্রমাণ নয়—ছবিতে দৃশ্যমান একটি বৈশিষ্ট্য চিহ্নিত করে তার একটি কারণ ও একটি সম্ভাব্য প্রভাব ব্যাখ্যা করুন।
 
  [⬆️ Go to Contents](#top)
 
@@ -602,7 +602,7 @@ flowchart TD
 > [!NOTE]
 > 🔵 **Sources:** **Banglapedia, Asiatic Society of Bangladesh — [“Alluvium”](https://en.banglapedia.org/index.php/Alluvium)**; **Bangladesh Bank, [project baseline “Physiography / Madhupur Tract”, §4.1.2](https://www.bb.org.bd/aboutus/dept/ipff/ipffproject/rtl_executive_summary.pdf)**; **Bangladesh Climate Development Partnership, [BDP 2100 Hotspots](https://bcdp.gov.bd/)**।
 
-**Exam Transfer:** *What?*—সোপানভূমি; *Where?*—মধ্যবাংলা; *Why?*—পুরোনো পলি ও ভূমিগঠন; *How?*—মাটি ও ভূমি ব্যবহার; *Impact?*—কৃষি–বন–বসতি; *Solution?*—অঞ্চলভিত্তিক ভূমি পরিকল্পনা।
+**পরীক্ষায় প্রয়োগ:** *What?*—সোপানভূমি; *Where?*—মধ্যবাংলা; *Why?*—পুরোনো পলি ও ভূমিগঠন; *How?*—মাটি ও ভূমি ব্যবহার; *Impact?*—কৃষি–বন–বসতি; *Solution?*—অঞ্চলভিত্তিক ভূমি পরিকল্পনা।
 
 ---
 
@@ -634,7 +634,7 @@ flowchart TD
 *🖼️ Figure 4 — **Madhupur National Park Forest**। **কী দেখবেন:** মধুপুর অঞ্চলের বনভূমি ও ভূমি ব্যবহার। **Credit:** S. M. Tanim (2017-10-09); **License:** CC BY-SA 4.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Madhupur_forest.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
 > [!TIP]
-> **Picture Memory:** মধুপুর অঞ্চলের বনভূমি ও ভূমি ব্যবহার—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
+ > **চিত্র পর্যবেক্ষণ:** মধুপুর অঞ্চলের বনভূমি ও ভূমি ব্যবহার—ছবিতে দৃশ্যমান একটি বৈশিষ্ট্য চিহ্নিত করে তার একটি কারণ ও একটি সম্ভাব্য প্রভাব ব্যাখ্যা করুন।
 
  [⬆️ Go to Contents](#top)
 
@@ -739,7 +739,7 @@ E --> F["Early warning + crop timing + drainage"]
 *🖼️ Figure 5 — **Tanguar Haor**। **কী দেখবেন:** হাওরের মৌসুমি জলাভূমির দৃশ্য। **Credit:** Sarkershuvro (2015-03-09); **License:** CC BY-SA 4.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:%E0%A6%9F%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%B0.JPG)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
 > [!TIP]
-> **Picture Memory:** হাওরের মৌসুমি জলাভূমির দৃশ্য—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
+ > **চিত্র পর্যবেক্ষণ:** হাওরের মৌসুমি জলাভূমির দৃশ্য—ছবিতে দৃশ্যমান একটি বৈশিষ্ট্য চিহ্নিত করে তার একটি কারণ ও একটি সম্ভাব্য প্রভাব ব্যাখ্যা করুন।
 
  [⬆️ Go to Contents](#top)
 
@@ -799,14 +799,14 @@ flowchart TD
 *🖼️ Figure 6 — **Sajek Valley — Chattogram Hill Tracts**। **কী দেখবেন:** পাহাড়ের ঢাল ও শৈলশিরা। **Credit:** Ahnaf010 (2022-07-03); **License:** CC BY-SA 4.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Sajek_Valley_00.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
 > [!TIP]
-> **Picture Memory:** পাহাড়ের ঢাল ও শৈলশিরা—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
+ > **চিত্র পর্যবেক্ষণ:** পাহাড়ের ঢাল ও শৈলশিরা—ছবিতে দৃশ্যমান একটি বৈশিষ্ট্য চিহ্নিত করে তার একটি কারণ ও একটি সম্ভাব্য প্রভাব ব্যাখ্যা করুন।
 
 <p align="center"><a href="https://commons.wikimedia.org/wiki/File:Chittagong_Hill_Tracts.PNG"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Chittagong_Hill_Tracts.PNG?width=760" width="280" alt="Chittagong Hill Tracts locator map — source: Armanaziz / AnonyLog"></a></p>
 
 *🖼️ Figure 6B — **Chittagong Hill Tracts locator map**। **কী দেখবেন:** পার্বত্য অঞ্চলের অবস্থান; পুরোনো জেলা সীমানা। **Credit:** Armanaziz / AnonyLog (2009); **License:** GFDL / CC license on file page; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Chittagong_Hill_Tracts.PNG)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
 > [!TIP]
-> **Picture Memory:** পার্বত্য অঞ্চলের অবস্থান; পুরোনো জেলা সীমানা—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
+ > **চিত্র পর্যবেক্ষণ:** পার্বত্য অঞ্চলের অবস্থান; পুরোনো জেলা সীমানা—ছবিতে দৃশ্যমান একটি বৈশিষ্ট্য চিহ্নিত করে তার একটি কারণ ও একটি সম্ভাব্য প্রভাব ব্যাখ্যা করুন।
 
 [⬆️ Go to Contents](#top)
 
@@ -866,7 +866,7 @@ flowchart TD
 *🖼️ Figure 7 — **Bangladesh Coast: Landsat-9 Natural Colour**। **কী দেখবেন:** সুন্দরবনের বনভূমি, কৃষিজমি ও উপকূলের পার্থক্য। **Credit:** NASA / USGS Landsat program (2022-02-08); **License:** Public domain (NASA); **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Landset_9_image_of_Bangladesh_coast.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
 > [!TIP]
-> **Picture Memory:** সুন্দরবনের বনভূমি, কৃষিজমি ও উপকূলের পার্থক্য—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
+ > **চিত্র পর্যবেক্ষণ:** সুন্দরবনের বনভূমি, কৃষিজমি ও উপকূলের পার্থক্য—ছবিতে দৃশ্যমান একটি বৈশিষ্ট্য চিহ্নিত করে তার একটি কারণ ও একটি সম্ভাব্য প্রভাব ব্যাখ্যা করুন।
 
  [⬆️ Go to Contents](#top)
 
@@ -928,7 +928,7 @@ flowchart TD
 *🖼️ Figure 8 — **Livelihoods on a Jamuna River Char**। **কী দেখবেন:** চরে গবাদিপশু পালন ও মানুষের জীবিকা; চর কীভাবে তৈরি তা দেখায় না। **Credit:** David Stanley (2016-02-10); **License:** CC BY 2.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Cattle_on_a_Char_(27917537222).jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
 > [!TIP]
-> **Picture Memory:** চরে গবাদিপশু পালন ও মানুষের জীবিকা; চর কীভাবে তৈরি তা দেখায় না—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
+ > **চিত্র পর্যবেক্ষণ:** চরে গবাদিপশু পালন ও মানুষের জীবিকা; চর কীভাবে তৈরি তা দেখায় না—ছবিতে দৃশ্যমান একটি বৈশিষ্ট্য চিহ্নিত করে তার একটি কারণ ও একটি সম্ভাব্য প্রভাব ব্যাখ্যা করুন।
 
  [⬆️ Go to Contents](#top)
 
@@ -1519,7 +1519,7 @@ flowchart LR
 **উপসংহার:** বাংলাদেশের ভৌগোলিক অবস্থান একই সঙ্গে **অর্থনৈতিক সংযোগের সম্পদ** এবং **জলবায়ু–দুর্যোগ ব্যবস্থাপনার দায়িত্ব**। তাই খাতায় একটি ছোট মানচিত্র এঁকে দক্ষিণে বঙ্গোপসাগর, তিন নদী ও প্রতিবেশী রাষ্ট্র চিহ্নিত করলে উত্তর স্পষ্ট হয়।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh (অবস্থান, আয়তন ও সীমান্ত)* [S4]; Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh (অবস্থান, আয়তন ও সীমান্ত)* [S4]; Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]।
 
 > [!TIP]
 > 🟢 **Q01 · Recall in 10 Seconds:** **South Asia → GBM Rivers → Bay of Bengal**। অবস্থান বোঝাতে মানচিত্র+সুযোগ+ঝুঁকি লিখুন।
@@ -1576,7 +1576,7 @@ flowchart TD
 **উপসংহার:** **Floodplain–Terrace–Hill**—প্রতিটির *অবস্থান + গঠন + ব্যবহার + ঝুঁকি* উল্লেখ করলেই উত্তর পূর্ণাঙ্গ হয়। [S2]-এর ২৪টি উপঅঞ্চল ও ৫৪টি একক আরও সূক্ষ্ম শ্রেণিবিন্যাস; এই তিনটি প্রধান ভাগের বিকল্প নয়।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *ভূ-প্রকৃতি (বাংলা)* [S3]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *ভূ-প্রকৃতি (বাংলা)* [S3]।
 
 > [!TIP]
 > 🟢 **Q02 · Recall in 10 Seconds:** **Floodplain → Terrace → Hills**। প্রতিটির একটি উদাহরণ ও একটি ঝুঁকি লিখুন।
@@ -1638,7 +1638,7 @@ flowchart LR
 **উপসংহার:** বাংলাদেশের অবস্থান একটি সম্ভাবনাময় সংযোগকেন্দ্র, কিন্তু সুযোগ পেতে হলে পরিবেশগত ঝুঁকি ও প্রতিবেশী সহযোগিতার প্রশ্নও কার্যকরভাবে সামলাতে হবে।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]; Ministry of Law, Justice and Parliamentary Affairs — Laws of Bangladesh — *The Territorial Waters and Maritime Zones Act, 1974 (as amended in 2021)* [S8]; International Tribunal for the Law of the Sea (ITLOS) — *Case No.16, Bangladesh/Myanmar, Judgment, 14 March 2012* [S9]; Permanent Court of Arbitration (PCA) — *Bay of Bengal Maritime Boundary Arbitration (Bangladesh v India), Award, 7 July 2014* [S10]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]; Ministry of Law, Justice and Parliamentary Affairs — Laws of Bangladesh — *The Territorial Waters and Maritime Zones Act, 1974 (as amended in 2021)* [S8]; International Tribunal for the Law of the Sea (ITLOS) — *Case No.16, Bangladesh/Myanmar, Judgment, 14 March 2012* [S9]; Permanent Court of Arbitration (PCA) — *Bay of Bengal Maritime Boundary Arbitration (Bangladesh v India), Award, 7 July 2014* [S10]।
 
 > [!TIP]
 > 🟢 **Q03 · Recall in 10 Seconds:** **Trade → River Cooperation → Coastal Risks**। সুযোগ ও ঝুঁকি দুটিই দেখান।
@@ -1698,7 +1698,7 @@ flowchart LR
 **উপসংহার:** বঙ্গোপসাগরের প্রকৃত অর্থনৈতিক মূল্য শুধু সম্পদ আহরণে নয়; **টেকসই ব্যবস্থাপনা, নিরাপদ বন্দর ও সুনীল অর্থনীতির সুশাসনে** নিহিত।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Ministry of Law, Justice and Parliamentary Affairs — Laws of Bangladesh — *The Territorial Waters and Maritime Zones Act, 1974 (as amended in 2021)* [S8]; International Tribunal for the Law of the Sea (ITLOS) — *Case No.16, Bangladesh/Myanmar, Judgment, 14 March 2012* [S9]; Permanent Court of Arbitration (PCA) — *Bay of Bengal Maritime Boundary Arbitration (Bangladesh v India), Award, 7 July 2014* [S10]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Ministry of Law, Justice and Parliamentary Affairs — Laws of Bangladesh — *The Territorial Waters and Maritime Zones Act, 1974 (as amended in 2021)* [S8]; International Tribunal for the Law of the Sea (ITLOS) — *Case No.16, Bangladesh/Myanmar, Judgment, 14 March 2012* [S9]; Permanent Court of Arbitration (PCA) — *Bay of Bengal Maritime Boundary Arbitration (Bangladesh v India), Award, 7 July 2014* [S10]।
 
 > [!TIP]
 > 🟢 **Q04 · Recall in 10 Seconds:** **Port → Fish → Maritime Law → Conservation**। শুধু সম্পদ নয়, সুশাসনও লিখুন।
@@ -1753,7 +1753,7 @@ flowchart TD
 **উপসংহার:** বদ্বীপের শ্রেণি বুঝতে **পলি সরবরাহ, নদীপথ ও ভূমিরূপের পরিবর্তন**—এই তিনটি সূচক তুলনা করতে হয়।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]।
 
 > [!TIP]
 > 🟢 **Q05 · Recall in 10 Seconds:** **Active = new sediment; Moribund = reduced active deposition**।
@@ -1822,7 +1822,7 @@ flowchart LR
 **উপসংহার:** পরীক্ষায় **ক্ষয় → পরিবহন → সঞ্চয় → জোয়ারের পুনর্গঠন** ধারাটি একটি সরল চিত্রে দেখালে উৎপত্তি ও চলমান পরিবর্তন—দুই দিকই ব্যাখ্যা করা যায়। [S2][S3]
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *ভূ-প্রকৃতি (বাংলা)* [S3]; UNESCO World Heritage Centre — *The Sundarbans (Bangladesh), World Heritage List no.798; inscribed 1997* [S11]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *ভূ-প্রকৃতি (বাংলা)* [S3]; UNESCO World Heritage Centre — *The Sundarbans (Bangladesh), World Heritage List no.798; inscribed 1997* [S11]।
 
 > [!TIP]
 > 🟢 **Q06 · Recall in 10 Seconds:** **Upstream sediments → river transport → delta deposition**।
@@ -1875,7 +1875,7 @@ flowchart TD
 **উপসংহার:** **উৎপত্তি একই ধরনের পুরোনো সোপান; অবস্থান ও ব্যবস্থাপনা-অগ্রাধিকার ভিন্ন**—এই তুলনাই উত্তরের মূল বক্তব্য।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *ভূ-প্রকৃতি (বাংলা)* [S3]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *ভূ-প্রকৃতি (বাংলা)* [S3]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]।
 
 > [!TIP]
 > 🟢 **Q07 · Recall in 10 Seconds:** **Barind = NW; Madhupur = central; both = old terraces**।
@@ -1939,7 +1939,7 @@ flowchart TD
 **উপসংহার:** বরেন্দ্রের খরা মূলত **প্রাকৃতিক পানির সীমাবদ্ধতা ও ব্যবহারের চাপের যৌথ ফল**; সমাধানও সমন্বিত হতে হবে।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]; Bangladesh Water Development Board (BWDB) — *ব-দ্বীপ পরিকল্পনা বাস্তবায়নে বাংলাদেশ পানি উন্নয়ন বোর্ড, updated 2023* [S7]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]; Bangladesh Water Development Board (BWDB) — *ব-দ্বীপ পরিকল্পনা বাস্তবায়নে বাংলাদেশ পানি উন্নয়ন বোর্ড, updated 2023* [S7]।
 
 > [!TIP]
 > 🟢 **Q08 · Recall in 10 Seconds:** **Drought pressure → irrigation planning → efficient water use**।
@@ -1999,7 +1999,7 @@ flowchart LR
 **উপসংহার:** এ ইতিহাসের শিক্ষা হলো, নদীর বর্তমান পথকে চিরস্থায়ী ধরে অবকাঠামো নির্মাণ বা ভূমি পরিকল্পনা করা নিরাপদ নয়।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *Brahmaputra-Jamuna River System; history of the Tista and Brahmaputra course shifts* [S12]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *Brahmaputra-Jamuna River System; history of the Tista and Brahmaputra course shifts* [S12]।
 
 > [!TIP]
 > 🟢 **Q09 · Recall in 10 Seconds:** **Historic river course change → bank erosion → shifting settlements**।
@@ -2053,7 +2053,7 @@ flowchart TD
 **উপসংহার:** পরীক্ষায় **গঠন + অবস্থান + জীবিকা + ঝুঁকি**—এই চারটি কলামে তুলনা করলে চার পরিভাষার বিভ্রান্তি দূর হয়। [S2][S3]
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *ভূ-প্রকৃতি (বাংলা)* [S3]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *ভূ-প্রকৃতি (বাংলা)* [S3]।
 
 > [!TIP]
 > 🟢 **Q10 · Recall in 10 Seconds:** **Char = new river land; Haor = seasonal basin; Beel = wetland; Baor = cut-off bend**।
@@ -2117,7 +2117,7 @@ flowchart TD
 **উপসংহার:** হাওরের বন্যা কেবল অতিবৃষ্টি নয়; **উজানের দ্রুত প্রবাহ + নিচু অববাহিকা + কৃষির মৌসুমি সময়**—এই সমন্বিত প্রক্রিয়া। BDP 2100-এ এ অঞ্চল আলাদা hotspot [S6]।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]; Bangladesh Water Development Board (BWDB) — *ব-দ্বীপ পরিকল্পনা বাস্তবায়নে বাংলাদেশ পানি উন্নয়ন বোর্ড, updated 2023* [S7]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]; Bangladesh Water Development Board (BWDB) — *ব-দ্বীপ পরিকল্পনা বাস্তবায়নে বাংলাদেশ পানি উন্নয়ন বোর্ড, updated 2023* [S7]।
 
 > [!TIP]
 > 🟢 **Q11 · Recall in 10 Seconds:** **Upland rain → rapid runoff → early flash flood → crop risk**।
@@ -2181,7 +2181,7 @@ flowchart LR
 **উপসংহার:** নদীর পলি **নতুন ভূমি তৈরি** করে, আর ভাঙন **পুরোনো বসতি বিলীন** করে; তাই উন্নয়ন পরিকল্পনায় দুটোকেই ধরতে হয়।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]।
 
 > [!TIP]
 > 🟢 **Q12 · Recall in 10 Seconds:** **Erosion → displacement; deposition → char; both → land-use planning**।
@@ -2241,7 +2241,7 @@ flowchart TD
 **উপসংহার:** সুন্দরবনকে শুধু বনজ সম্পদের উৎস না ভেবে **প্রাকৃতিক প্রতিরক্ষা + জীববৈচিত্র্য + জীবিকা**—এই তিনটির সমন্বিত ব্যবস্থা হিসেবে রক্ষা করতে হবে।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** UNESCO World Heritage Centre — *The Sundarbans (Bangladesh), World Heritage List no.798; inscribed 1997* [S11]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** UNESCO World Heritage Centre — *The Sundarbans (Bangladesh), World Heritage List no.798; inscribed 1997* [S11]।
 
 > [!TIP]
 > 🟢 **Q13 · Recall in 10 Seconds:** **Sundarbans = tidal mangrove + habitat + 1997 UNESCO**।
@@ -2300,7 +2300,7 @@ flowchart LR
 **উপসংহার:** উপকূল উন্নয়নের সঠিক পথ হলো **অর্থনৈতিক ব্যবহার ও প্রকৃতির সহনক্ষমতার ভারসাম্য**।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]; Bangladesh Water Development Board (BWDB) — *ব-দ্বীপ পরিকল্পনা বাস্তবায়নে বাংলাদেশ পানি উন্নয়ন বোর্ড, updated 2023* [S7]; UNESCO World Heritage Centre — *The Sundarbans (Bangladesh), World Heritage List no.798; inscribed 1997* [S11]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]; Bangladesh Water Development Board (BWDB) — *ব-দ্বীপ পরিকল্পনা বাস্তবায়নে বাংলাদেশ পানি উন্নয়ন বোর্ড, updated 2023* [S7]; UNESCO World Heritage Centre — *The Sundarbans (Bangladesh), World Heritage List no.798; inscribed 1997* [S11]।
 
 > [!TIP]
 > 🟢 **Q14 · Recall in 10 Seconds:** **Coastal opportunity + cyclone/salinity risk → integrated management**।
@@ -2354,7 +2354,7 @@ flowchart LR
 **উপসংহার:** **১২ = সার্বভৌমত্ব, ২৪ = নির্দিষ্ট আইন প্রয়োগ, ২০০ = সম্পদ-সংক্রান্ত অধিকার**—এই স্মরণসূত্রের সঙ্গে আইনি পার্থক্য ব্যাখ্যা করুন।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Ministry of Law, Justice and Parliamentary Affairs — Laws of Bangladesh — *The Territorial Waters and Maritime Zones Act, 1974 (as amended in 2021)* [S8]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Ministry of Law, Justice and Parliamentary Affairs — Laws of Bangladesh — *The Territorial Waters and Maritime Zones Act, 1974 (as amended in 2021)* [S8]।
 
 > [!TIP]
 > 🟢 **Q15 · Recall in 10 Seconds:** **12/24/200 NM ≠ equal sovereignty**।
@@ -2414,7 +2414,7 @@ flowchart LR
 **উপসংহার:** ২০১২ ও ২০১৪ বাংলাদেশের **সমুদ্রসীমার আইনভিত্তিক নিশ্চয়তা** বৃদ্ধির মাইলফলক।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** International Tribunal for the Law of the Sea (ITLOS) — *Case No.16, Bangladesh/Myanmar, Judgment, 14 March 2012* [S9]; Permanent Court of Arbitration (PCA) — *Bay of Bengal Maritime Boundary Arbitration (Bangladesh v India), Award, 7 July 2014* [S10]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** International Tribunal for the Law of the Sea (ITLOS) — *Case No.16, Bangladesh/Myanmar, Judgment, 14 March 2012* [S9]; Permanent Court of Arbitration (PCA) — *Bay of Bengal Maritime Boundary Arbitration (Bangladesh v India), Award, 7 July 2014* [S10]।
 
 > [!TIP]
 > 🟢 **Q16 · Recall in 10 Seconds:** **ITLOS 2012 → Myanmar; PCA 2014 → India**।
@@ -2471,7 +2471,7 @@ flowchart TD
 **উপসংহার:** **Landform + Water + Climate → Cropping Pattern**—এই সূত্র কৃষির আঞ্চলিক বৈচিত্র্য ব্যাখ্যা করে [S2][S6]।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]।
 
 > [!TIP]
 > 🟢 **Q17 · Recall in 10 Seconds:** **Landform → water → crop pattern → livelihood**।
@@ -2529,7 +2529,7 @@ flowchart LR
 **উপসংহার:** বাংলাদেশের পরিবহন পরিকল্পনায় **মাল্টিমোডাল সংযোগের পাশাপাশি নদীর স্বাভাবিক প্রবাহ ও দুর্যোগঝুঁকি** বিবেচনা অপরিহার্য।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]।
 
 > [!TIP]
 > 🟢 **Q18 · Recall in 10 Seconds:** **River networks → transport opportunity + channel hazards**।
@@ -2590,7 +2590,7 @@ flowchart TD
 **উপসংহার:** বাংলাদেশের সংস্কৃতি বুঝতে **প্রাকৃতিক পরিবেশ + মানুষের ইতিহাস + সামাজিক সৃজনশীলতা**—সবই প্রয়োজন।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *ভূ-প্রকৃতি (বাংলা)* [S3]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *ভূ-প্রকৃতি (বাংলা)* [S3]।
 
 > [!TIP]
 > 🟢 **Q19 · Recall in 10 Seconds:** **Geographical influence does not mean cultural determinism**।
@@ -2649,7 +2649,7 @@ flowchart LR
 **উপসংহার:** বাংলাদেশের উদাহরণ প্রমাণ করে, ভূগোল গুরুত্বপূর্ণ **প্রভাবক**, কিন্তু মানুষের সমাজের **অপরিবর্তনীয় নিয়ন্তা নয়**। সমালোচনামূলক উত্তরে প্রভাব স্বীকার করার সঙ্গে মানবিক agency-ও দেখাতে হবে।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]।
 
 > [!TIP]
 > 🟢 **Q20 · Recall in 10 Seconds:** **Environment shapes choices; history, policy and technology also matter**।
@@ -2714,7 +2714,7 @@ flowchart TD
 **উপসংহার:** বাংলাদেশের দুর্যোগ একরকম নয়। তাই **স্থানভিত্তিক পূর্বাভাস, নিরাপদ অবকাঠামো ও সামাজিক সুরক্ষা** একসঙ্গে দরকার [S2][S6]।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]; Bangladesh Water Development Board (BWDB) — *ব-দ্বীপ পরিকল্পনা বাস্তবায়নে বাংলাদেশ পানি উন্নয়ন বোর্ড, updated 2023* [S7]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]; Bangladesh Water Development Board (BWDB) — *ব-দ্বীপ পরিকল্পনা বাস্তবায়নে বাংলাদেশ পানি উন্নয়ন বোর্ড, updated 2023* [S7]।
 
 > [!TIP]
 > 🟢 **Q21 · Recall in 10 Seconds:** **Delta + monsoon + Bay → region-specific disaster risks**।
@@ -2783,7 +2783,7 @@ flowchart LR
 **উপসংহার:** BDP 2100-এর মূল শিক্ষা **Plan → Monitor → Learn → Adapt**।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]; Bangladesh Water Development Board (BWDB) — *ব-দ্বীপ পরিকল্পনা বাস্তবায়নে বাংলাদেশ পানি উন্নয়ন বোর্ড, updated 2023* [S7]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]; Bangladesh Water Development Board (BWDB) — *ব-দ্বীপ পরিকল্পনা বাস্তবায়নে বাংলাদেশ পানি উন্নয়ন বোর্ড, updated 2023* [S7]।
 
 > [!TIP]
 > 🟢 **Q22 · Recall in 10 Seconds:** **Monitor → adapt → invest → review (BDP 2100)**।
@@ -2842,7 +2842,7 @@ flowchart TD
 **উপসংহার:** **Physical = Environment; Human = People and Activities**—দুটির সমন্বয়ে কার্যকর আঞ্চলিক পরিকল্পনা হয়।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *Bangladesh (অবস্থান, আয়তন ও সীমান্ত)* [S4]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *Bangladesh (অবস্থান, আয়তন ও সীমান্ত)* [S4]।
 
 > [!TIP]
 > 🟢 **Q23 · Recall in 10 Seconds:** **Physical = land/water; Human = settlement/livelihood**।
@@ -2895,7 +2895,7 @@ flowchart LR
 **উপসংহার:** **পুরোনো–উঁচু–আবহবিকারকৃত সোপান** বনাম **নবীন–পলি জমা–নদীপ্রভাবিত সমভূমি**—এই তুলনা ভূতাত্ত্বিক পার্থক্য পরিষ্কার করে।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *ভূ-প্রকৃতি (বাংলা)* [S3]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *ভূ-প্রকৃতি (বাংলা)* [S3]।
 
 > [!TIP]
 > 🟢 **Q24 · Recall in 10 Seconds:** **Terrace = older raised land; Floodplain = younger river alluvium**।
@@ -2956,7 +2956,7 @@ flowchart TD
 **উপসংহার:** প্লাবনভূমিকে শুধু 'বন্যার সমস্যা' নয়, **প্রাকৃতিক পানি ব্যবস্থাপনা ও জীবিকা-সহায়ক সম্পদ** হিসেবে দেখতে হবে।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]।
 
 > [!TIP]
 > 🟢 **Q25 · Recall in 10 Seconds:** **Floodplain = flood storage + nutrients + fisheries**।
@@ -3020,7 +3020,7 @@ flowchart TD
 **উপসংহার:** **Coast–Barind–Haor–Hill–River–Urban** স্মরণসূত্রটি মুখস্থ করুন; সঙ্গে প্রতিটির **একটি ঝুঁকি ও একটি প্রতিকার** লিখলে উত্তর সম্পূর্ণ হয়। এখানে কোনো কল্পিত শতাংশ বা হটস্পটের আয়তন দেওয়া হয়নি।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]; Bangladesh Water Development Board (BWDB) — *ব-দ্বীপ পরিকল্পনা বাস্তবায়নে বাংলাদেশ পানি উন্নয়ন বোর্ড, updated 2023* [S7]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]; Bangladesh Water Development Board (BWDB) — *ব-দ্বীপ পরিকল্পনা বাস্তবায়নে বাংলাদেশ পানি উন্নয়ন বোর্ড, updated 2023* [S7]।
 
 > [!TIP]
 > 🟢 **Q26 · Recall in 10 Seconds:** **Coast–Barind–Haor–CHT–Rivers–Urban**।
@@ -3077,7 +3077,7 @@ flowchart TD
 **উপসংহার:** **সঞ্চয় মানে সর্বত্র স্থায়ী ভূমিবৃদ্ধি নয়; ক্ষয় মানেও পুরো দেশের উপকূল সর্বত্র কমছে নয়**। স্থান ও সময়ভেদে দুই প্রক্রিয়াই সত্য হতে পারে [S2]।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; UNESCO World Heritage Centre — *The Sundarbans (Bangladesh), World Heritage List no.798; inscribed 1997* [S11]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; UNESCO World Heritage Centre — *The Sundarbans (Bangladesh), World Heritage List no.798; inscribed 1997* [S11]।
 
 > [!TIP]
 > 🟢 **Q27 · Recall in 10 Seconds:** **Accretion builds; erosion removes. Both can occur on one coast**।
@@ -3139,7 +3139,7 @@ flowchart TD
 **উপসংহার:** ভূপ্রাকৃতিক অঞ্চল বুঝতে **মাটি + উচ্চতা + গঠন + নদীপ্রভাব** দেখুন; তারপর বাংলাদেশের উপযুক্ত উদাহরণ দিন।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *ভূ-প্রকৃতি (বাংলা)* [S3]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; Banglapedia — Asiatic Society of Bangladesh — *ভূ-প্রকৃতি (বাংলা)* [S3]।
 
 > [!TIP]
 > 🟢 **Q28 · Recall in 10 Seconds:** **Physiographic Region = formation + landform + drainage + relief**।
@@ -3199,7 +3199,7 @@ flowchart LR
 **উপসংহার:** ভূ-আকৃতিগত মানচিত্র প্রাকৃতিক বৈশিষ্ট্যকে **প্রমাণভিত্তিক স্থানিক সিদ্ধান্তে** রূপ দেয়।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Banglapedia — Asiatic Society of Bangladesh — *Bangladesh Geography (ভূপ্রকৃতি, বদ্বীপ, নদী ও অঞ্চল)* [S2]; General Economics Division (GED), Bangladesh Planning Commission — *Bangladesh Delta Plan 2100, investment plan / six hotspot descriptions* [S6]।
 
 > [!TIP]
 > 🟢 **Q29 · Recall in 10 Seconds:** **Map → flood risk → land-use decisions → resilient investment**।
@@ -3263,7 +3263,7 @@ flowchart TD
 **উপসংহার:** **Sea as opportunity + Sea as hazard = Integrated Maritime Security**। অর্থনৈতিক প্রবৃদ্ধি টেকসই হবে তখনই, যখন পরিবেশ ও মানুষের নিরাপত্তা রক্ষা পাবে।
 
 > [!NOTE]
-> 🔵 **Source you can cite in the exam:** Ministry of Law, Justice and Parliamentary Affairs — Laws of Bangladesh — *The Territorial Waters and Maritime Zones Act, 1974 (as amended in 2021)* [S8]; International Tribunal for the Law of the Sea (ITLOS) — *Case No.16, Bangladesh/Myanmar, Judgment, 14 March 2012* [S9]; Permanent Court of Arbitration (PCA) — *Bay of Bengal Maritime Boundary Arbitration (Bangladesh v India), Award, 7 July 2014* [S10]; UNESCO World Heritage Centre — *The Sundarbans (Bangladesh), World Heritage List no.798; inscribed 1997* [S11]।
+> 🔵 **পরীক্ষায় উল্লেখযোগ্য তথ্যসূত্র:** Ministry of Law, Justice and Parliamentary Affairs — Laws of Bangladesh — *The Territorial Waters and Maritime Zones Act, 1974 (as amended in 2021)* [S8]; International Tribunal for the Law of the Sea (ITLOS) — *Case No.16, Bangladesh/Myanmar, Judgment, 14 March 2012* [S9]; Permanent Court of Arbitration (PCA) — *Bay of Bengal Maritime Boundary Arbitration (Bangladesh v India), Award, 7 July 2014* [S10]; UNESCO World Heritage Centre — *The Sundarbans (Bangladesh), World Heritage List no.798; inscribed 1997* [S11]।
 
 > [!TIP]
 > 🟢 **Q30 · Recall in 10 Seconds:** **Bay = trade + resources + maritime rights + environmental security**।
@@ -3564,7 +3564,7 @@ F --> G["BDP 2100 hotspots + maritime legal governance"]
 
 ### 🧠 Memory Check — ১০ মিনিটে পরীক্ষা
 
-**Step 1 — ১ মিনিট:** Location → Sediment → Delta → Three Landforms → Changes → People → Policy গল্পটি না দেখে বলুন।
+**ধাপ ১ — ১ মিনিট:** Location → Sediment → Delta → Three Landforms → Changes → People → Policy ধারাটি না দেখে সংক্ষেপে ব্যাখ্যা করুন।
 
 **Step 2 — ৩ মিনিট:** খাতায় বাংলাদেশ আঁকুন। পশ্চিমে বরেন্দ্র, মধ্যাঞ্চলে মধুপুর, উত্তর-পূর্বে হাওর, দক্ষিণ-পূর্বে পাহাড় এবং দক্ষিণে বঙ্গোপসাগর চিহ্নিত করুন।
 
@@ -3616,7 +3616,7 @@ F --> G["BDP 2100 hotspots + maritime legal governance"]
 এই অংশে বাংলাদেশের ভৌগোলিক পরিচিতি, ভূপ্রকৃতি, বঙ্গোপসাগর, সুন্দরবন ও বদ্বীপ পরিকল্পনা বিষয়ে **সংক্ষিপ্ত, যাচাইযোগ্য English quotation** এবং পরীক্ষায় ব্যবহারযোগ্য বাংলা ভাবানুবাদ দেওয়া হলো। প্রতিটি উদ্ধৃতির পাশে **প্রতিষ্ঠানের নাম, মূল উৎসের শিরোনাম ও সরাসরি লিংক** রাখা হয়েছে।
 
 > [!IMPORTANT]
-> 🟨 **Exam rule:** English quotation-টি হুবহু লিখবেন কেবল যখন quotation marks ব্যবহার করছেন। বাংলা বাক্যটি ভাবানুবাদ—এটিকে মূল উৎসের হুবহু বাংলা উদ্ধৃতি হিসেবে দেখাবেন না। পরীক্ষায় source name লিখুন; URL মুখস্থ করার প্রয়োজন নেই। উদ্ধৃতি যেন উত্তরের সঙ্গে সরাসরি সম্পর্কিত হয়।
+> 🟨 **উদ্ধৃতি ব্যবহারের নিয়ম:** English quotation-টি হুবহু লিখবেন কেবল যখন quotation marks ব্যবহার করছেন। বাংলা বাক্যটি ভাবানুবাদ—এটিকে মূল উৎসের হুবহু বাংলা উদ্ধৃতি হিসেবে দেখাবেন না। পরীক্ষায় source name লিখুন; URL মুখস্থ করার প্রয়োজন নেই। উদ্ধৃতি যেন উত্তরের সঙ্গে সরাসরি সম্পর্কিত হয়।
 
 ### 🧭 Quick Jump — উদ্ধৃতি থেকে সরাসরি যান
 
@@ -3663,7 +3663,7 @@ F --> G["BDP 2100 hotspots + maritime legal governance"]
 
 **বাংলা ভাবানুবাদ:** বাংলাদেশের ভূপ্রকৃতিকে তিনটি স্বতন্ত্র অঞ্চলে ভাগ করা যায়।
 
-**Exam-ready explanation:** এই তিনটি প্রধান শ্রেণি হলো **Floodplains (প্লাবনভূমি), Terraces (সোপানভূমি) এবং Hills (পাহাড়ি অঞ্চল)**। এগুলোর ভূমির উচ্চতা, মাটি, গঠন, পানি নিষ্কাশন, কৃষি ও বসতির ধরন এক নয়।
+**পরীক্ষা-উপযোগী ব্যাখ্যা:** এই তিনটি প্রধান শ্রেণি হলো **Floodplains (প্লাবনভূমি), Terraces (সোপানভূমি) এবং Hills (পাহাড়ি অঞ্চল)**। এগুলোর ভূমির উচ্চতা, মাটি, গঠন, পানি নিষ্কাশন, কৃষি ও বসতির ধরন এক নয়।
 
 **পরীক্ষায় ব্যবহার:** “Describe the physiographic features of Bangladesh” / “বাংলাদেশের ভূপ্রকৃতির প্রধান বৈশিষ্ট্য বর্ণনা করুন।”
 
@@ -3725,7 +3725,7 @@ F --> G["BDP 2100 hotspots + maritime legal governance"]
 
 **বাংলা ভাবানুবাদ:** সুন্দরবন বিশ্বের বৃহত্তম ম্যানগ্রোভ বনগুলোর অন্যতম।
 
-**Exam-ready explanation:** সুন্দরবন গঙ্গা–ব্রহ্মপুত্র–মেঘনা বদ্বীপ ও বঙ্গোপসাগর-সংলগ্ন জোয়ার-ভাটাপ্রভাবিত পরিবেশের অংশ। ম্যানগ্রোভ বন উপকূলীয় বাস্তুতন্ত্র, জীববৈচিত্র্য এবং স্থানীয় জীবিকার জন্য গুরুত্বপূর্ণ।
+**পরীক্ষা-উপযোগী ব্যাখ্যা:** সুন্দরবন গঙ্গা–ব্রহ্মপুত্র–মেঘনা বদ্বীপ ও বঙ্গোপসাগর-সংলগ্ন জোয়ার-ভাটাপ্রভাবিত পরিবেশের অংশ। ম্যানগ্রোভ বন উপকূলীয় বাস্তুতন্ত্র, জীববৈচিত্র্য এবং স্থানীয় জীবিকার জন্য গুরুত্বপূর্ণ।
 
 **পরীক্ষায় ব্যবহার:** বাংলাদেশের প্রাকৃতিক বৈশিষ্ট্য, বদ্বীপ, বনসম্পদ, জীববৈচিত্র্য ও পরিবেশ সংরক্ষণ।
 
@@ -3801,7 +3801,7 @@ F --> G["BDP 2100 hotspots + maritime legal governance"]
 
 **বাংলা ভাবানুবাদ:** একটি নিরাপদ, জলবায়ু-সহনশীল ও সমৃদ্ধ বদ্বীপ গড়ে তোলা।
 
-**Exam-ready explanation:** বাংলাদেশ ডেলটা প্ল্যান ২১০০ (Bangladesh Delta Plan 2100) পানি, খাদ্যনিরাপত্তা, অর্থনৈতিক প্রবৃদ্ধি, পরিবেশগত স্থায়িত্ব এবং দুর্যোগঝুঁকি মোকাবিলাকে দীর্ঘমেয়াদি পরিকল্পনার মধ্যে যুক্ত করে।
+**পরীক্ষা-উপযোগী ব্যাখ্যা:** বাংলাদেশ ডেলটা প্ল্যান ২১০০ (Bangladesh Delta Plan 2100) পানি, খাদ্যনিরাপত্তা, অর্থনৈতিক প্রবৃদ্ধি, পরিবেশগত স্থায়িত্ব এবং দুর্যোগঝুঁকি মোকাবিলাকে দীর্ঘমেয়াদি পরিকল্পনার মধ্যে যুক্ত করে।
 
 **পরীক্ষায় ব্যবহার:** BDP 2100, বদ্বীপ ব্যবস্থাপনা, জলবায়ু-সহনশীল উন্নয়ন ও দীর্ঘমেয়াদি নীতি।
 
