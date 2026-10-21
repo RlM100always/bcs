@@ -426,6 +426,16 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 > [!NOTE]
 > এগুলো অধ্যায়ের মূল যুক্তি মনে রাখার জন্য নিজস্বভাবে তৈরি schematic diagrams। এগুলো কোনো ঐতিহাসিক ছবির বিকল্প নয়। প্রতিটি ঐতিহাসিক তথ্যের উৎস Source Register-এ দেওয়া হয়েছে।
 
+### ঐতিহাসিক ছবি ও দলিলের জন্য অনলাইন সংগ্রহ
+
+- **৭ মার্চের ভাষণ ও documentary heritage:** [UNESCO Memory of the World](https://www.unesco.org/en/memory-world) — ভাষণের নথি/রেজিস্টার তথ্য দেখুন।
+- **মুজিবনগর সরকার ও মুক্তিযুদ্ধের দলিল:** [মুক্তিযুদ্ধ বিষয়ক মন্ত্রণালয় — সংগ্রাম থেকে স্বাধীনতা](https://molwa.gov.bd/pages/static-pages/694032b335ce18e1c0560d16)।
+- **মুজিবনগর সরকারের সমকালীন দলিল ও মন্ত্রিসভার নথি:** [চিরন্তন ১৯৭১ — মুজিবনগর সরকার](https://1971.prothomalo.com/mujibnagar-government)।
+- **পাহাড়পুরের প্রত্নস্থল:** [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/322/)।
+- **প্রাথমিক কূটনৈতিক নথি, ১৯৭১:** [U.S. Department of State, FRUS Volume XI](https://history.state.gov/historicaldocuments/frus1969-76v11)।
+
+> বাহ্যিক ছবি অন্য কাজে ব্যবহার করলে সংশ্লিষ্ট ছবির নিজস্ব licence, creator/photographer ও attribution শর্ত যাচাই করুন। সরকারি বা UNESCO পৃষ্ঠার সব ছবি স্বয়ংক্রিয়ভাবে public domain নয়।
+
 ---
 
 <a id="pyq"></a>
