@@ -1,6 +1,8 @@
 # Chapter 09 — English Quotations + বাংলা অর্থ + Source Links
 ## Foreign Policy and External Relations of Bangladesh | BCS Written
 
+**১৮টি source-linked English quotations** — exact wording, source attribution, বাংলা ভাবার্থ এবং exam-use guidance.
+
 [← Chapter 09 মূল অধ্যায়](./README.md) · [35th–47th PYQ audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [PYQ-ভিত্তিক গুরুত্বপূর্ণ প্রবন্ধ](./PYQ-BASED-ESSAYS.md)
 
 <a id="verified-quotes"></a>
