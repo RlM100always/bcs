@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+<title id="title">বাংলাদেশের জনমিতি: এক নজরে</title><desc id="desc">Census 2022 এবং SVRS 2023 — ভিত্তি ও বছর আলাদা করে পড়ুন</desc>
+<rect width="1000" height="700" rx="24" fill="#f7fafc"/><rect width="1000" height="150" rx="24" fill="#123047"/><rect y="120" width="1000" height="30" fill="#123047"/>
+<text x="50" y="62" fill="#ffffff" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="32" font-weight="700">বাংলাদেশের জনমিতি: এক নজরে</text>
+<text x="50" y="105" fill="#dbeafe" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="19">Census 2022 এবং SVRS 2023 — ভিত্তি ও বছর আলাদা করে পড়ুন</text>
+
+<g font-family="Noto Sans Bengali, Noto Sans, sans-serif">
+<rect x="50" y="185" width="425" height="170" rx="18" fill="#dbeafe" stroke="#93c5fd" stroke-width="2"/>
+<text x="78" y="228" fill="#1e3a8a" font-size="20">PEC-সমন্বিত জনসংখ্যা · Census 2022</text><text x="78" y="288" fill="#123047" font-size="43" font-weight="700">169.83 million</text><text x="78" y="325" fill="#334155" font-size="17">গণনাকৃত মোট: 165.16 million</text>
+<rect x="525" y="185" width="425" height="170" rx="18" fill="#dcfce7" stroke="#86efac" stroke-width="2"/>
+<text x="553" y="228" fill="#166534" font-size="20">গ্রাম · শহর · Census 2022 adjusted</text><text x="553" y="278" fill="#123047" font-size="30" font-weight="700">68.34% rural</text><text x="553" y="322" fill="#123047" font-size="30" font-weight="700">31.66% urban</text>
+<rect x="50" y="385" width="425" height="185" rx="18" fill="#fef3c7" stroke="#fcd34d" stroke-width="2"/>
+<text x="78" y="428" fill="#92400e" font-size="20">মোট প্রজনন হার · SVRS 2023</text><text x="78" y="490" fill="#123047" font-size="42" font-weight="700">TFR 2.17</text><text x="78" y="530" fill="#334155" font-size="17">নমুনাভিত্তিক estimate</text>
+<rect x="525" y="385" width="425" height="185" rx="18" fill="#f3e8ff" stroke="#d8b4fe" stroke-width="2"/>
+<text x="553" y="428" fill="#6b21a8" font-size="20">জন্মকালীন প্রত্যাশিত আয়ু · SVRS 2023</text><text x="553" y="490" fill="#123047" font-size="42" font-weight="700">72.3 years</text><text x="553" y="530" fill="#334155" font-size="17">নমুনাভিত্তিক estimate</text>
+</g>
+<line x1="48" y1="628" x2="952" y2="628" stroke="#cbd5e1" stroke-width="2"/>
+<text x="50" y="660" fill="#334155" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="15">উৎস: BBS Census 2022 National Report; BBS SVRS 2023. গণনাকৃত ও adjusted মোট এক নয়.</text>
+</svg>
