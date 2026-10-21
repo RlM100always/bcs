@@ -1,6 +1,6 @@
 # Chapter 12 — যোগাযোগ, ICT, গণমাধ্যম, তথ্য অধিকার (RTI) ও ই-গভর্ন্যান্স
 > **BCS Written · Bangladesh Affairs · Subject Code 005 · Unit 12**  
-> বাংলা ব্যাখ্যা + English terminology + 35th–47th BCS question audit + ২৫টি detailed model answer + ৮টি source-backed essay + ১২টি SVG visual + source-linked real images/map + English quotations.
+> বাংলা ব্যাখ্যা + English terminology + 35th–47th BCS question audit + ২৫টি detailed model answer + ৮টি source-backed essay + ১৪টি SVG visual + source-linked real images/map + English quotations.
 
 [← ১৬ অধ্যায়ের সূচি](../README.md) · [🔎 35th–47th PYQ audit](./PYQ-ANALYSIS-35TH-47TH.md) · [✍️ ২৫টি answered question](./BCS-WRITTEN-QUESTION-BANK.md) · [🗺️ Visual Atlas + images/maps](./VISUAL-ATLAS.md) · [📚 ৮টি Model Essay](./PYQ-BASED-ESSAYS.md) · [💬 English Quotations + Sources](./QUOTATIONS.md)
 
@@ -142,7 +142,7 @@ AI বা automated decision-এ bias, ভুল data ও explainability-র ঝ
 
 ## ১০. Quick Revision Visuals <a id="visuals"></a>
 
-> **সম্পূর্ণ গ্যালারি:** [🗺️ Visual Atlas — ১২টি SVG diagram, historical submarine-cable map, ৭টি real-world image এবং official data/map portals](./VISUAL-ATLAS.md)। Geographic map-এর ক্ষেত্রে তারিখ ও source দেখুন; schematic diagram-কে মানচিত্র হিসেবে ব্যবহার করবেন না।
+> **সম্পূর্ণ গ্যালারি:** [🗺️ Visual Atlas — ১৪টি SVG diagram, historical submarine-cable map, ৭টি real-world image এবং official data/map portals](./VISUAL-ATLAS.md)। Geographic map-এর ক্ষেত্রে তারিখ ও source দেখুন; schematic diagram-কে মানচিত্র হিসেবে ব্যবহার করবেন না।
 
 ### Communication process
 [![Communication process](./assets/communication-process.svg)](./assets/communication-process.svg)
@@ -173,7 +173,7 @@ AI বা automated decision-এ bias, ভুল data ও explainability-র ঝ
 - [তথ্য অধিকার আইন, ২০০৯](https://bdlaws.minlaw.gov.bd/act-print-1011.html)
 - [তথ্য কমিশন — RTI আইন ও নির্দেশনা](https://infocom.gov.bd/)
 - [ICT Division — National ICT Policy 2018](https://ictd.gov.bd/pages/policies)
-- [BTRC — Internet subscribers](https://btrc.gov.bd/pages/static-pages/6922e0a393eb65569e27f59)
+- [BTRC — Internet subscribers](https://btrc.gov.bd/pages/static-pages/6922e0a3933eb65569e27f59)
 - [BSCPLC — official submarine-cable information](https://bscplc.portal.gov.bd/pages/static-pages/6922de55933eb65569e19f01)
 - [Bangladesh National Portal — Digital Centre](https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e65)
 - [Digital Centre portal](https://digitalcentre.gov.bd/)
