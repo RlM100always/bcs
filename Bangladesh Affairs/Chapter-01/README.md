@@ -130,7 +130,7 @@ Bangladesh Affairs (Subject Code 005)-এর প্রথম ইউনিটে 
 | 🌍 বাংলাদেশের উচ্চতা ও Relief Map | [Map & location](#maps) |
 | 🛰️ ESA Satellite: GBM Delta | [How the delta formed](#location) |
 | 🌾 বরেন্দ্রভূমি, নওগাঁ — বাস্তব কৃষিভূমি | [Barind Tract](#barind-photo) |
-| 🌳 মধুপুরের বনাঞ্চল | [Madhupur Tract](#madhupur-photo) |
+| 🌳 মধুপুরের বন ও Locator Map | [Madhupur Tract](#madhupur-photo) |
 | 🌊 টাঙ্গুয়ার হাওর | [Haor Basin](#haor-photo) |
 | ⛰️ সাজেকের পাহাড় ও locator map | [Chattogram Hill Tracts](#cht-photo) |
 | 🌿 NASA Landsat 9: বাংলাদেশের উপকূল ও সুন্দরবন | [Coastal ecosystem](#coastal-photo) |
@@ -282,6 +282,13 @@ G --> H["Adaptive Delta Management"]
 ### ৩.২ Madhupur Tract — মধ্যাঞ্চলের মধুপুর গড়
 মধুপুর গড় মধ্য বাংলাদেশের উচ্চতর প্লাইস্টোসিন ভূমিখণ্ড। পার্শ্ববর্তী নদীপললভূমি থেকে এর আলাদা মাটি ও ভূমিরূপ রয়েছে। বনাঞ্চল, ভূমি-ব্যবহার পরিবর্তন, পরিবহন ও নগর বিস্তার—এসবের সঙ্গে এ অঞ্চলের ভূপ্রকৃতির সম্পর্ক ব্যাখ্যা করুন। বরেন্দ্রের সঙ্গে তুলনায় ‘same broad geological-age category; different geographical setting’ লিখলে বিশ্লেষণ পরিষ্কার হয়। [S2; S3]
 
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Madhupur_tract_locator_map.svg"><img width="310" src="https://commons.wikimedia.org/wiki/Special:FilePath/Madhupur_tract_locator_map.svg?width=640" alt="Madhupur Tract locator map by Tanvir Anjum Adib, 2025"></a></p>
+
+*🗺️ **Madhupur Tract Locator Map** — বাংলাদেশের মানচিত্রে মধুপুর গড়ের অবস্থান দেখুন। **Creator:** Tanvir Anjum Adib, 2025; **License:** CC BY-SA 4.0; [Original Wikimedia Commons map](https://commons.wikimedia.org/wiki/File:Madhupur_tract_locator_map.svg)। এটি অবস্থান বুঝতে সাহায্য করে; ভূতাত্ত্বিক মাটির বয়সের সরাসরি প্রমাণ নয়।*
+
+> [!NOTE]
+> 🔵 **Official Physio Map (important source): Bangladesh Agricultural Research Council (BARC), “Physiography — Land Resources Information Map Products of Bangladesh”**। [সরকারি রঙিন Physiographic Units Map (PDF)](https://apps.barc.gov.bd/maps/LRI-Map%20Products-Bangladesh.pdf)। **BARC-এর উপ-একক (units) এবং Banglapedia-এর ২৪টি sub-region/৫৪টি unit একই শ্রেণিবিন্যাস নয়**—উৎসভেদে পদ্ধতি পৃথক। বরেন্দ্র, মধুপুর, নদীর প্লাবনভূমি ও উপকূল একসঙ্গে চিহ্নিত করতে সরকারি মানচিত্রটি ব্যবহার করুন।
+
 <a id="madhupur-photo"></a>
 
 <p align="center"><a href="https://commons.wikimedia.org/wiki/File:Madhupur_forest.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Madhupur_forest.jpg?width=760" width="440" alt="Madhupur National Park Forest — source: S. M. Tanim"></a></p>
@@ -314,7 +321,7 @@ G --> H["Adaptive Delta Management"]
 
 <p align="center"><a href="https://commons.wikimedia.org/wiki/File:Sajek_Valley_00.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sajek_Valley_00.jpg?width=760" width="520" alt="Sajek Valley — Chattogram Hill Tracts — source: Ahnaf010"></a></p>
 
-*🖼️ Figure 6 — **Sajek Valley — Chattogram Hill Tracts**। **কী দেখবেন:** পাহাড়ের ঢাল ও শৈলশিরা। **Credit:** Ahnaf010 (2022-07-03); **License:** Wikimedia Commons free-licensed image (see file page); **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Sajek_Valley_00.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
+*🖼️ Figure 6 — **Sajek Valley — Chattogram Hill Tracts**। **কী দেখবেন:** পাহাড়ের ঢাল ও শৈলশিরা। **Credit:** Ahnaf010 (2022-07-03); **License:** CC BY-SA 4.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Sajek_Valley_00.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
 > [!TIP]
 > **Picture Memory:** পাহাড়ের ঢাল ও শৈলশিরা—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
