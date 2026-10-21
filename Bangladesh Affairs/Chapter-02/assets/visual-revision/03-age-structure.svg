@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+<title id="title">বয়স কাঠামো ও পরিকল্পনা</title><desc id="desc">Census 2022 broad age groups — আনুমানিক শতাংশ</desc>
+<rect width="1000" height="700" rx="24" fill="#f7fafc"/><rect width="1000" height="150" rx="24" fill="#123047"/><rect y="120" width="1000" height="30" fill="#123047"/>
+<text x="50" y="62" fill="#ffffff" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="32" font-weight="700">বয়স কাঠামো ও পরিকল্পনা</text>
+<text x="50" y="105" fill="#dbeafe" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="19">Census 2022 broad age groups — আনুমানিক শতাংশ</text>
+
+<g font-family="Noto Sans Bengali, Noto Sans, sans-serif">
+<text x="70" y="220" fill="#123047" font-size="23" font-weight="700">0–14 বছর</text><rect x="285" y="192" width="600" height="48" rx="10" fill="#e2e8f0"/><rect x="285" y="192" width="250" height="48" rx="10" fill="#60a5fa"/><text x="550" y="224" fill="#123047" font-size="20" font-weight="700">28.61%</text>
+<text x="70" y="330" fill="#123047" font-size="23" font-weight="700">15–59 বছর</text><rect x="285" y="302" width="600" height="48" rx="10" fill="#e2e8f0"/><rect x="285" y="302" width="540" height="48" rx="10" fill="#34d399"/><text x="830" y="334" fill="#123047" font-size="20" font-weight="700">62.14%</text>
+<text x="70" y="440" fill="#123047" font-size="23" font-weight="700">60+ বছর</text><rect x="285" y="412" width="600" height="48" rx="10" fill="#e2e8f0"/><rect x="285" y="412" width="82" height="48" rx="10" fill="#fbbf24"/><text x="380" y="444" fill="#123047" font-size="20" font-weight="700">প্রায় 9.25%</text>
+<rect x="70" y="500" width="860" height="72" rx="12" fill="#fff7ed" stroke="#fdba74" stroke-width="2"/><text x="95" y="530" fill="#9a3412" font-size="18">শিশুদের শিক্ষা + কর্মক্ষম বয়সের দক্ষতা/চাকরি + প্রবীণদের স্বাস্থ্য ও সুরক্ষা</text><text x="95" y="555" fill="#9a3412" font-size="15">Rounded age-group shares; small rounding differences may occur.</text>
+</g>
+<line x1="48" y1="628" x2="952" y2="628" stroke="#cbd5e1" stroke-width="2"/>
+<text x="50" y="660" fill="#334155" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="15">উৎস: BBS Census 2022 age tables. বয়সভিত্তিক অংশ rounded; সারণির সংজ্ঞা দেখুন.</text>
+</svg>
