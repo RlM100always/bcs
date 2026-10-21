@@ -243,19 +243,9 @@
 
 ### ৫.১২ বাস্তব প্রতিষ্ঠান: সংসদ ভবন ও সুপ্রিম কোর্ট
 
-এই অধ্যায়ে ভৌগোলিক মানচিত্র প্রাসঙ্গিক নয়; তাই article map, constitutional process diagram, rights-enforcement flowchart এবং প্রকৃত সাংবিধানিক প্রতিষ্ঠানের ছবি ব্যবহার করা হয়েছে।
+এই অধ্যায়ে ভৌগোলিক মানচিত্র প্রাসঙ্গিক নয়। তাই সংবিধানের **Article Map**, অধিকার বলবৎ করার flowchart, amendment process এবং checks-and-balances diagram-এর পাশাপাশি বাস্তব প্রতিষ্ঠানের ছবিও সংশ্লিষ্ট আলোচনায় দেওয়া হয়েছে: [জাতীয় সংসদ ভবন](#legislature-photo) · [বাংলাদেশ সুপ্রিম কোর্ট](#judiciary-photo)।
 
-<figure>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bangladesh_National_Parliament_Building%2C_Dhaka.jpg/1280px-Bangladesh_National_Parliament_Building%2C_Dhaka.jpg" width="100%" alt="জাতীয় সংসদ ভবন, ঢাকা"/>
-<figcaption>জাতীয় সংসদ ভবন — আইনসভা ও Article 65-সংক্রান্ত আলোচনার জন্য। ছবি: Wikimedia Commons; [ফাইল ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Bangladesh_National_Parliament_Building,_Dhaka.jpg), CC BY-SA 4.0।</figcaption>
-</figure>
-
-<figure>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bangladesh_Supreme_Court_Main_Building.jpg/1280px-Bangladesh_Supreme_Court_Main_Building.jpg" width="100%" alt="বাংলাদেশ সুপ্রিম কোর্টের প্রধান ভবন, ঢাকা"/>
-<figcaption>বাংলাদেশ সুপ্রিম কোর্ট — judicial review, Article 102 ও বিচার বিভাগের স্বাধীনতার আলোচনায়। ছবি: Wikimedia Commons; [ফাইল ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Bangladesh_Supreme_Court_Main_Building.jpg), CC BY-SA 4.0।</figcaption>
-</figure>
-
----
+------
 
 <a id="article-map"></a>
 <a id="structure"></a>
@@ -426,9 +416,10 @@ Article 12 ধর্মনিরপেক্ষতার নীতিকে ব�
 
 **Attorney-General — Article 64:** তিনি রাষ্ট্রের প্রধান আইন কর্মকর্তা হিসেবে সরকারের পক্ষে আইনগত বিষয়ে দায়িত্ব পালন করেন এবং সংবিধান ও আইন অনুযায়ী নির্ধারিত কার্যাবলি সম্পাদন করেন। ৩৭তম BCS Written-এর archive-reported প্রশ্নে তাঁর নিয়োগ ও দায়িত্ব নিয়ে প্রশ্ন এসেছে।
 
+<a id="legislature-photo"></a>
 ### ১০.২ আইনসভা — জাতীয় সংসদ (Legislature)
 
-![ঢাকার জাতীয় সংসদ ভবন](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Bangladesh_National_Parliament_Building%2C_Dhaka.jpg/1280px-Bangladesh_National_Parliament_Building%2C_Dhaka.jpg)
+![ঢাকার জাতীয় সংসদ ভবন](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bangladesh_National_Parliament_Building%2C_Dhaka.jpg/1280px-Bangladesh_National_Parliament_Building%2C_Dhaka.jpg)
 
 <sub>**ছবির উৎস ও কৃতিত্ব:** [Bangladesh National Parliament Building, Dhaka.jpg — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bangladesh_National_Parliament_Building,_Dhaka.jpg), Tanvir Rahat; CC BY-SA 4.0।</sub>
 
@@ -443,9 +434,10 @@ Article 65 জাতীয় সংসদ প্রতিষ্ঠা করে।
 
 **Article 70 — দলত্যাগ ও দলের বিপক্ষে ভোট:** Article 70 সংসদ-সদস্যের দলীয় অবস্থান ও সংসদে ভোটদানের বিষয়ে বিধিনিষেধ আরোপ করে। সমর্থকেরা একে দলীয় স্থিতি ও সরকার পরিচালনার ধারাবাহিকতার সুরক্ষা হিসেবে ব্যাখ্যা করেন; সমালোচকেরা বলেন, এটি সংসদ-সদস্যের স্বাধীন বিবেচনা এবং নির্বাহী বিভাগের ওপর সংসদের কার্যকর নিয়ন্ত্রণ দুর্বল করতে পারে। ভালো উত্তরে দুই যুক্তি তুলে ধরে প্রাতিষ্ঠানিক ভারসাম্যের প্রস্তাব দিন।
 
+<a id="judiciary-photo"></a>
 ### ১০.৩ বিচার বিভাগ (Judiciary)
 
-![বাংলাদেশ সুপ্রিম কোর্টের প্রধান ভবন](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Bangladesh_Supreme_Court_Main_Building.jpg/1280px-Bangladesh_Supreme_Court_Main_Building.jpg)
+![বাংলাদেশ সুপ্রিম কোর্টের প্রধান ভবন](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bangladesh_Supreme_Court_Main_Building.jpg/1280px-Bangladesh_Supreme_Court_Main_Building.jpg)
 
 <sub>**ছবির উৎস ও কৃতিত্ব:** [Bangladesh Supreme Court Main Building.jpg — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bangladesh_Supreme_Court_Main_Building.jpg), Basir Shikder; CC BY-SA 4.0।</sub>
 
