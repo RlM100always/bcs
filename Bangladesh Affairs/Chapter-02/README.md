@@ -7,6 +7,8 @@
 
 [← Bangladesh Affairs-এর অধ্যায়সূচি](../README.md) · [Chapter 01 — ভৌগোলিক পরিচিতি](../Chapter-01/README.md) · [Source-backed Lines](./QUOTATIONS.md)
 
+> 📱 **Mobile-friendly visuals:** সব ৮টি revision diagram responsive SVG image হিসেবে পুরো content width-এ দেখানো হয়। কোনো diagram না খুললে ছবিতে ক্লিক করে full-size version খুলুন। চওড়া সারণি ফোনে আড়াআড়ি scroll করা যাবে.
+
 <a id="top"></a>
 
 > [!NOTE]
@@ -554,28 +556,28 @@ F --> A
 প্রতিটি SVG আলাদা ফাইল; ছবিতে ক্লিক করলে পূর্ণ আকারে খুলবে। বিভিন্ন উৎসের সূচক একই চিত্রে থাকলে বছর আলাদা করে লেখা হয়েছে।
 
 ### Sheet 01 — জনমিতির মূল সূচক
-<p align="center"><a href="./assets/visual-revision/01-demographic-dashboard.svg"><img src="./assets/visual-revision/01-demographic-dashboard.svg" width="560" alt="Bangladesh demographic dashboard"></a></p>
+<p><a href="./assets/visual-revision/01-demographic-dashboard.svg"><img src="./assets/visual-revision/01-demographic-dashboard.svg" width="100%" alt="Bangladesh demographic dashboard"></a></p>
 
 ### Sheet 02 — জনসংখ্যার প্রবণতা
-<p align="center"><a href="./assets/visual-revision/02-population-trend.svg"><img src="./assets/visual-revision/02-population-trend.svg" width="560" alt="Population trend from 1974 to 2022"></a></p>
+<p><a href="./assets/visual-revision/02-population-trend.svg"><img src="./assets/visual-revision/02-population-trend.svg" width="100%" alt="Population trend from 1974 to 2022"></a></p>
 
 ### Sheet 03 — বয়স কাঠামো
-<p align="center"><a href="./assets/visual-revision/03-age-structure.svg"><img src="./assets/visual-revision/03-age-structure.svg" width="560" alt="Broad age structure in Bangladesh"></a></p>
+<p><a href="./assets/visual-revision/03-age-structure.svg"><img src="./assets/visual-revision/03-age-structure.svg" width="100%" alt="Broad age structure in Bangladesh"></a></p>
 
 ### Sheet 04 — জনমিতিক রূপান্তর
-<p align="center"><a href="./assets/visual-revision/04-demographic-transition.svg"><img src="./assets/visual-revision/04-demographic-transition.svg" width="560" alt="Conceptual demographic transition chart"></a></p>
+<p><a href="./assets/visual-revision/04-demographic-transition.svg"><img src="./assets/visual-revision/04-demographic-transition.svg" width="100%" alt="Conceptual demographic transition chart"></a></p>
 
 ### Sheet 05 — জনমিতিক লভ্যাংশ
-<p align="center"><a href="./assets/visual-revision/05-demographic-dividend.svg"><img src="./assets/visual-revision/05-demographic-dividend.svg" width="560" alt="Conditions for demographic dividend"></a></p>
+<p><a href="./assets/visual-revision/05-demographic-dividend.svg"><img src="./assets/visual-revision/05-demographic-dividend.svg" width="100%" alt="Conditions for demographic dividend"></a></p>
 
 ### Sheet 06 — জাতিগত বৈচিত্র্য
-<p align="center"><a href="./assets/visual-revision/06-ethnic-diversity.svg"><img src="./assets/visual-revision/06-ethnic-diversity.svg" width="560" alt="Ethnic diversity in Census 2022"></a></p>
+<p><a href="./assets/visual-revision/06-ethnic-diversity.svg"><img src="./assets/visual-revision/06-ethnic-diversity.svg" width="100%" alt="Ethnic diversity in Census 2022"></a></p>
 
 ### Sheet 07 — ভাষা ও সাংস্কৃতিক ঐতিহ্য
-<p align="center"><a href="./assets/visual-revision/07-language-heritage.svg"><img src="./assets/visual-revision/07-language-heritage.svg" width="560" alt="Language diversity and heritage"></a></p>
+<p><a href="./assets/visual-revision/07-language-heritage.svg"><img src="./assets/visual-revision/07-language-heritage.svg" width="100%" alt="Language diversity and heritage"></a></p>
 
 ### Sheet 08 — অন্তর্ভুক্তিমূলক নীতি
-<p align="center"><a href="./assets/visual-revision/08-inclusive-policy.svg"><img src="./assets/visual-revision/08-inclusive-policy.svg" width="560" alt="Inclusive demographic policy"></a></p>
+<p><a href="./assets/visual-revision/08-inclusive-policy.svg"><img src="./assets/visual-revision/08-inclusive-policy.svg" width="100%" alt="Inclusive demographic policy"></a></p>
 
 ### Diagram-to-Answer Practice
 
