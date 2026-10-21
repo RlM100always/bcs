@@ -475,3 +475,137 @@ Election-related information should be verified before publication, and legal re
 ---
 
 **Final reminder:** source-backed wording helps make an answer credible, but relevance matters more than the number of quotations. Use a quotation only when it supports the exact point you are making.
+
+---
+
+<a id="authentic-quotations"></a>
+
+## ২১. 13 Authentic English Quotations — Exact Wording, Real Sources
+
+**এই অংশে হুবহু quotation এবং উৎস আলাদা করে দেওয়া হয়েছে।** প্রথম কয়েকটি আইন ও আন্তর্জাতিক মানদণ্ডের ভাষা; এগুলো বিখ্যাত ব্যক্তির সাহিত্যিক উক্তি নয়, বরং নির্বাচনী ব্যবস্থাপনা বিষয়ে নির্ভরযোগ্য primary-source lines। প্রশ্নের সঙ্গে প্রাসঙ্গিক হলে একটি উদ্ধৃতি ব্যবহার করুন, তারপর নিজের বিশ্লেষণ লিখুন।
+
+### 1. Constitutional independence — Constitution of Bangladesh
+> “The Election Commission shall be independent in the exercise of its functions”
+
+**বাংলা ভাবার্থ:** দায়িত্ব পালনের ক্ষেত্রে নির্বাচন কমিশন স্বাধীন থাকবে।
+
+**Use in:** Election Commission independence, constitutional safeguards, impartiality.
+
+**Source:** Constitution of Bangladesh, Article 118(4). [Official law text](https://bdlaws.minlaw.gov.bd/act-print-367.html)
+
+### 2. The people’s will — Universal Declaration of Human Rights
+> “The will of the people shall be the basis of the authority of government”
+
+**বাংলা ভাবার্থ:** জনগণের ইচ্ছাই সরকারের কর্তৃত্বের ভিত্তি।
+
+**Use in:** popular sovereignty, legitimacy, meaningful elections.
+
+**Source:** Universal Declaration of Human Rights, Article 21(3). [United Nations](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
+
+### 3. Genuine elections — International Covenant on Civil and Political Rights
+> “To vote and to be elected at genuine periodic elections”
+
+**বাংলা ভাবার্থ:** প্রকৃত ও নিয়মিত নির্বাচনে ভোট দেওয়া এবং নির্বাচিত হওয়ার অধিকার।
+
+**Use in:** universal suffrage, participation, international standards.
+
+**Source:** ICCPR, Article 25(b). [OHCHR](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights)
+
+### 4. The executive’s duty — Constitution of Bangladesh
+> “It shall be the duty of all executive authorities to assist the Election Commission in the discharge of its functions.”
+
+**বাংলা ভাবার্থ:** নির্বাচন কমিশনকে দায়িত্ব পালনে সহায়তা করা সব নির্বাহী কর্তৃপক্ষের কর্তব্য।
+
+**Use in:** Article 126, election-day coordination, institutional accountability.
+
+**Source:** Constitution of Bangladesh, Article 126. [Official law text](https://bdlaws.minlaw.gov.bd/act-print-367.html)
+
+### 5. Election Commission mandate — Constitution of Bangladesh
+> “The conduct of such elections shall vest in the Election Commission”
+
+**বাংলা ভাবার্থ:** সংশ্লিষ্ট নির্বাচন পরিচালনার দায়িত্ব নির্বাচন কমিশনের ওপর ন্যস্ত।
+
+**Use in:** Article 119 and the constitutional role of the EC.
+
+**Source:** Constitution of Bangladesh, Article 119(1). [Official law text](https://bdlaws.minlaw.gov.bd/act-print-367.html)
+
+### 6. Voters and democracy — Bangladesh Election Commission
+> “The power of voters is the liberation of Democracy”
+
+**বাংলা ভাবার্থ:** ভোটারের ক্ষমতা গণতন্ত্রের মুক্তির শক্তি।
+
+**Use in:** voter participation, public awareness, democratic accountability.
+
+**Source:** Theme for the 8th National Voters Day–2026. [Bangladesh Election Commission](https://ecs.gov.bd/en)
+
+### 7. Professional election management — International IDEA
+> “Electoral management bodies (EMBs) need to become more professional if they are to retain the trust of voters.”
+
+**বাংলা ভাবার্থ:** ভোটারের আস্থা ধরে রাখতে নির্বাচনী ব্যবস্থাপনা প্রতিষ্ঠানকে আরও পেশাদার হতে হবে।
+
+**Use in:** capacity-building, training, institutional reform, public trust.
+
+**Source:** International IDEA, *Electoral Management Design: Revised Edition*. [Official publication page](https://www.idea.int/publications/catalogue/electoral-management-design-revised-edition?lang=en)
+
+### 8. Election standards — OSCE Copenhagen Document
+> “The will of the people, freely and fairly expressed through periodic and genuine elections, is the basis of the authority and legitimacy of all government.”
+
+**বাংলা ভাবার্থ:** নিয়মিত ও প্রকৃত নির্বাচনে স্বাধীনভাবে প্রকাশিত জনগণের ইচ্ছাই সরকারের কর্তৃত্ব ও বৈধতার ভিত্তি।
+
+**Use in:** legitimacy, periodic elections, international electoral standards.
+
+**Source:** OSCE, Copenhagen Document (1990). [Official OSCE resource](https://www.osce.org/odihr/elections/14304)
+
+### 9. Women’s political participation — CEDAW
+> “States Parties shall take all appropriate measures to eliminate discrimination against women in the political and public life of the country”
+
+**বাংলা ভাবার্থ:** দেশের রাজনৈতিক ও জনজীবনে নারীর প্রতি বৈষম্য দূর করতে রাষ্ট্রকে উপযুক্ত ব্যবস্থা নিতে হবে।
+
+**Use in:** women’s representation, equal participation, reserved seats and party nominations.
+
+**Source:** Convention on the Elimination of All Forms of Discrimination against Women, Article 7. [OHCHR](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-elimination-all-forms-discrimination-against-women)
+
+### 10. Equal participation for persons with disabilities — CRPD
+> “States Parties shall guarantee to persons with disabilities political rights and the opportunity to enjoy them on an equal basis with others.”
+
+**বাংলা ভাবার্থ:** প্রতিবন্ধী ব্যক্তিদের রাজনৈতিক অধিকার এবং অন্যদের সমানভাবে তা ভোগের সুযোগ নিশ্চিত করতে হবে।
+
+**Use in:** accessible polling stations, inclusive voter education, equal political participation.
+
+**Source:** Convention on the Rights of Persons with Disabilities, Article 29. [OHCHR](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-persons-disabilities)
+
+### 11. Principles of electoral heritage — Venice Commission
+> “The five principles underlying Europe's electoral heritage are universal, equal, free, secret and direct suffrage.”
+
+**বাংলা ভাবার্থ:** ইউরোপের নির্বাচনী ঐতিহ্যের পাঁচটি নীতি হলো সর্বজনীন, সমান, স্বাধীন, গোপন ও প্রত্যক্ষ ভোটাধিকার।
+
+**Use in:** comparing electoral principles; explain that this is a European standards formulation, not Bangladesh’s Constitution.
+
+**Source:** Venice Commission, *Code of Good Practice in Electoral Matters*. [Official document](https://www.venice.coe.int/webforms/documents/?pdf=CDL-AD(2002)023rev2-cor-e)
+
+### 12. Government by the people — Abraham Lincoln
+> “government of the people, by the people, for the people”
+
+**বাংলা ভাবার্থ:** জনগণের সরকার, জনগণের দ্বারা পরিচালিত সরকার, জনগণের কল্যাণের সরকার।
+
+**Use in:** introductory or concluding lines on democratic legitimacy and representation. Explain the idea in your own words rather than using it as a substitute for analysis.
+
+**Source:** Abraham Lincoln, Gettysburg Address (1863). [U.S. National Park Service](https://www.nps.gov/gett/learn/historyculture/gettysburg-address.htm)
+
+### 13. Electoral system design — International IDEA
+> “Building trust and professionalism in the management of electoral processes remains a major challenge”
+
+**বাংলা ভাবার্থ:** নির্বাচনী প্রক্রিয়া পরিচালনায় আস্থা ও পেশাদারিত্ব গড়ে তোলা এখনও একটি বড় চ্যালেঞ্জ।
+
+**Use in:** election-administration reform, capacity, credibility and institutional learning.
+
+**Source:** International IDEA, *Electoral Management Design: The International IDEA Handbook*. [Official publication page](https://www.idea.int/publications/catalogue/electoral-management-design-international-idea-handbook-2006)
+
+---
+
+### Quotation-use rule for BCS Written
+- **৫ নম্বর:** একটি short quote বা constitutional article যথেষ্ট; সময় নষ্ট করে quote list লিখবেন না।
+- **১০ নম্বর:** একটি উদ্ধৃতি দিয়ে তার অর্থ ও বাংলাদেশের প্রেক্ষাপট ব্যাখ্যা করুন।
+- **২০ নম্বর:** সর্বোচ্চ ১–২টি relevant quote ব্যবহার করুন; মূল নম্বর আসে analysis, evidence and recommendations থেকে।
+- উদ্ধৃতির source ও context না জানলে quotation marks-এর বদলে নিজের ভাষায় লিখুন।
+- আইন/চুক্তির wording উদ্ধৃত করলে সংশ্লিষ্ট article উল্লেখ করুন; কোনো paraphrase-কে হুবহু quote বলবেন না।
