@@ -3,7 +3,7 @@
 # 💬 Chapter 10 — English Quotations & Source Bank
 ## Political Parties and Political Process | BCS Written Revision
 
-[← Back to Chapter 10](./README.md#top) · [Previous BCS Question Analysis](./README.md#pyq) · [Model Essays](./README.md#essays)
+[← Back to Chapter 10](./README.md#top) · [35th–47th BCS PYQ Map](./PYQ-35-47-MAP.md) · [25 Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [Model Essays](./README.md#essays) · [Bangladesh Affairs Index](../README.md)
 
 > [!IMPORTANT]
 > এই পেজে রাজনৈতিক দল, গণতন্ত্র, রাজনৈতিক অংশগ্রহণ, রাজনৈতিক সংস্কৃতি, দলীয় অভ্যন্তরীণ গণতন্ত্র ও জবাবদিহি বিষয়ে সংক্ষিপ্ত English quotation, বাংলা ভাবানুবাদ, পরীক্ষায় ব্যবহারের উপায় এবং source link দেওয়া হয়েছে।
