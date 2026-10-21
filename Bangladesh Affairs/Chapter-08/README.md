@@ -3,12 +3,35 @@
 > **মূল ভাষা:** বাংলা; গুরুত্বপূর্ণ টার্ম ও প্রশ্ন: English  
 > **পাঠের বিন্যাস:** সংবিধানভিত্তিক ধারণা → অঙ্গভিত্তিক বিশ্লেষণ → ক্ষমতার ভারসাম্য → বিগত প্রশ্নের থিম → মডেল উত্তর → পুনরালোচনা।
 
-[← মূল ১৬ অধ্যায়ের সূচি](../README.md)
+[← মূল ১৬ অধ্যায়ের সূচি](../README.md) · [🧾 35th–47th PYQ Map](./PYQ-35-47-MAP.md) · [📘 25 Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [💬 English Quotations](./QUOTATIONS.md) · [📝 Model Essays](./PYQ-BASED-ESSAYS.md)
 
 > [!NOTE]
 > 📱 **মোবাইল-ফ্রেন্ডলি অধ্যায়:** ছোট অনুচ্ছেদ, responsive Markdown tables, সহজ text-diagram এবং সরাসরি section navigation রাখা হয়েছে। বড় সারণি ফোনে প্রয়োজন হলে horizontal scroll করুন।
 
 <a id="top"></a>
+
+## Visual Atlas — বাস্তব প্রতিষ্ঠান ও সংবিধানভিত্তিক চিত্র
+
+> **ছবি ব্যবহারের নোট:** Wikimedia Commons-এর উৎস ও লাইসেন্সের পাতা লিংক করা আছে। ছবিগুলো প্রতিষ্ঠান চেনার সহায়ক, আইনগত ক্ষমতার প্রমাণ নয়।
+
+### জাতীয় সংসদ ভবন — Legislature
+![Jatiya Sangsad Bhaban, Dhaka](https://commons.wikimedia.org/wiki/Special:FilePath/Jatiya_Sangsad_Bhaban%2C_Dhaka%2C_Bangladesh.jpg)
+
+**Attribution:** Subarashitours, [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Jatiya_Sangsad_Bhaban,_Dhaka,_Bangladesh.jpg), CC BY-SA 4.0.
+
+### বাংলাদেশ সুপ্রিম কোর্ট — Judiciary
+![Bangladesh Supreme Court Main Building](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_Supreme_Court_Main_Building.jpg)
+
+**Attribution:** Basir Shikder, [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Bangladesh_Supreme_Court_Main_Building.jpg), CC BY-SA 4.0.
+
+### সংবিধান ও প্রতিষ্ঠান বুঝতে SVG visual
+- [🧭 Three Organs of the State](./assets/three-organs-map.svg)
+- [⚖️ Checks and Balances](./assets/checks-balances.svg)
+- [📝 Constitutional Remedy Flowchart](./assets/constitutional-remedy-flow.svg)
+- [আগের responsive diagram](./assets/state-organs.svg)
+
+**নোট:** এই অধ্যায়ে ভৌগোলিক মানচিত্র মূল বিষয় নয়; তাই অপ্রাসঙ্গিক map না দিয়ে প্রতিষ্ঠান, সাংবিধানিক ক্ষমতা ও প্রতিকার-প্রক্রিয়ার diagram দেওয়া হয়েছে।
+
 
 > [!TIP]
 > 🟢 **পড়ার পদ্ধতি:** ধারণা বুঝুন → অনুচ্ছেদ/অনুচ্ছেদ নম্বর মিলিয়ে নিন → আইনসভা, নির্বাহী ও বিচার বিভাগের তুলনা করুন → ২০ নম্বরের একটি উত্তর লিখুন → শেষে Quick Revision দেখুন।
@@ -22,6 +45,7 @@
 | [সংবিধানের ভিত্তি](#constitution) | [নির্বাহী বিভাগ](#executive) | [মডেল প্রশ্ন ও উত্তর](#questions) |
 | [তিন অঙ্গের সম্পর্ক](#checks) | [বিচার বিভাগ](#judiciary) | [দ্রুত পুনরালোচনা](#revision) |
 | [চিত্র ও তুলনা](#visuals) | [চ্যালেঞ্জ ও সংস্কার](#reform) | [উৎস তালিকা](#sources) |
+| [35th–47th PYQ Map](./PYQ-35-47-MAP.md) | [২৫টি Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) | [English Quotations](./QUOTATIONS.md) |
 
 <a id="start"></a>
 ## ১. শিখনফল ও অধ্যায়ের সারকথা
@@ -178,6 +202,8 @@
 
 ![রাষ্ট্রের তিন অঙ্গ ও পারস্পরিক জবাবদিহির responsive diagram](./assets/state-organs.svg)
 
+**অতিরিক্ত চিত্র:** [তিন অঙ্গের মানচিত্র](./assets/three-organs-map.svg) · [Checks & Balances](./assets/checks-balances.svg) · [Constitutional Remedy Flow](./assets/constitutional-remedy-flow.svg)
+
 
 ```text
                  জনগণ ও সংবিধান
@@ -199,6 +225,8 @@
 ## ১০. বিগত BCS Written প্রশ্নের থিম অডিট
 
 **গুরুত্বপূর্ণ পদ্ধতিগত নোট:** BPSC-এর প্রতিটি মূল প্রশ্নপত্রের স্ক্যান এই অধ্যায়ে আলাদাভাবে সংযুক্ত ও line-by-line যাচাই করা হয়নি। তাই নিচের অগ্রাধিকারকে “এই প্রশ্ন নিশ্চিতভাবে এসেছে” বলা হচ্ছে না। এটি BPSC-এর Bangladesh Affairs syllabus, প্রকাশ্য লিখিত প্রশ্ন-আর্কাইভ এবং রাষ্ট্রের অঙ্গসমূহের পুনরাবৃত্তিযোগ্য সাংবিধানিক ধারণার ভিত্তিতে প্রস্তুতির মানচিত্র। মূল প্রশ্নপত্র যাচাই ছাড়া কোনো নির্দিষ্ট বছর/প্রশ্নকে verified PYQ হিসেবে উদ্ধৃত করবেন না।
+
+**বছরভিত্তিক audit ও source links:** [Chapter 08 — 35th–47th BCS Question Map](./PYQ-35-47-MAP.md). ৩৫তম, ৪৫তম ও ৪৭তম পরীক্ষার প্রাসঙ্গিক থিম আলাদা করে দেখানো হয়েছে; অন্য বছরের item-level verification বাকি থাকলে তা স্পষ্টভাবে চিহ্নিত।
 
 ### প্রশ্নের ধরন অনুযায়ী প্রস্তুতি
 
@@ -327,6 +355,9 @@ https://bdlaws.minlaw.gov.bd/act-print-367.html
 
 
 <a id="question-bank"></a>
+
+> **সম্পূর্ণ আলাদা question-bank file:** [২৫টি Model Question & Answer](./BCS-WRITTEN-QUESTION-BANK.md) · [English Quotation Bank](./QUOTATIONS.md) · [35th–47th PYQ Map](./PYQ-35-47-MAP.md)
+
 ## ১৭. ৩৩টি English–বাংলা অনুশীলনী প্রশ্ন ও নমুনা উত্তর
 
 > **ব্যবহারবিধি:** এগুলো BCS Written-এর সিলেবাসভিত্তিক practice questions; BPSC-এর মূল প্রশ্নপত্র থেকে হুবহু নেওয়া বলে দাবি করা হচ্ছে না। ৫ নম্বরের জন্য উত্তর সংক্ষেপ করুন, ১০ নম্বরে অনুচ্ছেদ ও উদাহরণ বাড়ান, আর ২০ নম্বরে সমস্যা–মূল্যায়ন–সুপারিশ যুক্ত করুন।
