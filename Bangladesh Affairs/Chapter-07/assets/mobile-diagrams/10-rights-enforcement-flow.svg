@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+<title id="title">Fundamental rights enforcement in Bangladesh</title>
+<desc id="desc">A flowchart from a claimed fundamental-rights violation through constitutional provisions and a High Court Division petition under Articles 44 and 102, followed by judicial review and remedy subject to legal conditions.</desc>
+<rect width="1200" height="700" rx="28" fill="#f8fafc"/>
+<text x="600" y="56" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#172033">FUNDAMENTAL RIGHTS: ENFORCEMENT PATH</text>
+<g stroke="#64748b" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M600 175 L600 220"/><path d="M600 305 L600 350"/><path d="M600 435 L600 480"/>
+<path d="M588 207 L600 220 L612 207"/><path d="M588 337 L600 350 L612 337"/><path d="M588 467 L600 480 L612 467"/>
+</g>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<rect x="300" y="95" width="600" height="80" rx="20" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+<text x="600" y="128" font-size="25" font-weight="700" fill="#1d4ed8">1. Identify the right</text><text x="600" y="155" font-size="19" fill="#1e293b">Part III • Articles 26–47A • facts and evidence</text>
+<rect x="300" y="220" width="600" height="85" rx="20" fill="#dcfce7" stroke="#16a34a" stroke-width="3"/>
+<text x="600" y="254" font-size="25" font-weight="700" fill="#166534">2. Constitutional route</text><text x="600" y="282" font-size="19" fill="#14532d">Article 44: right to seek enforcement in HCD</text>
+<rect x="300" y="350" width="600" height="85" rx="20" fill="#fef3c7" stroke="#d97706" stroke-width="3"/>
+<text x="600" y="384" font-size="25" font-weight="700" fill="#92400e">3. High Court Division</text><text x="600" y="412" font-size="19" fill="#78350f">Article 102 • applicable writ / direction / order</text>
+<rect x="300" y="480" width="600" height="85" rx="20" fill="#f3e8ff" stroke="#9333ea" stroke-width="3"/>
+<text x="600" y="514" font-size="25" font-weight="700" fill="#6b21a8">4. Judicial review and remedy</text><text x="600" y="542" font-size="19" fill="#581c87">Court assesses jurisdiction, facts and legal conditions</text>
+<rect x="100" y="595" width="1000" height="55" rx="16" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+<text x="600" y="629" font-size="20" font-weight="700" fill="#334155">Important: a remedy is not automatic; standing, facts, legal limits and judicial discretion matter.</text>
+</g>
+</svg>
