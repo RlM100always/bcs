@@ -42,7 +42,7 @@
 | [🔑 Key Terms বাংলা–English](#keywords) | [২. Physiography: তিন ভূমিরূপ](#physiography) | [✍️ Answer Writing Strategy](#strategy) |
 | [অধ্যায়ের ৭টি মূল ধারণা](#story) | [৩. Region-by-Region Analysis](#regions) | [❓ ৩৩টি English–বাংলা Q&A](#questions) |
 | [📌 Syllabus Coverage](#syllabus-map) | [৪. Rivers & Changes Over Time](#rivers) | [📝 ৫/১০/২০ নম্বর Sample Answer](#worked) |
-| [🖼️ Visual Atlas & 8 Revision Images](#visual-revision-notes) | [৫. Bay of Bengal & Maritime Law](#maritime) | [⚡ One-page Revision](#revision) |
+| [🖼️ Quick Revision Visual Notes](#quick-revision-visual-notes) | [৫. Bay of Bengal & Maritime Law](#maritime) | [⚡ One-page Revision](#revision) |
 | [🗺️ Maps at a Glance](#maps) | [৬. BDP 2100: Policy](#delta-plan) | [🔗 Full Source Register](#sources) |
 | [📋 Memory Check](#memory-check) | [৭. People, Culture & Geography](#people) | [✅ Accuracy & Limitations](#accuracy) |
 | [💬 Quotations / উদ্ধৃতি](./QUOTATIONS.md) | [৮. Exam-ready Source Lines](./QUOTATIONS.md#quote-lines) | [🔗 Quote Source Register](./QUOTATIONS.md#quote-sources) |
@@ -169,8 +169,9 @@ Bangladesh Affairs (Subject Code 005)-এর প্রথম ইউনিটে 
 
 
 <a id="visual-revision-notes"></a>
+<a id="quick-revision-visual-notes"></a>
 
-### চিত্রভিত্তিক পুনরালোচনা — ধারাবাহিক ৮টি ছবি
+### Quick Revision Visual Notes — চিত্রভিত্তিক পুনরালোচনা
 
 **Chapter 1 দ্রুত revise করার জন্য ৮টি আলাদা visual note।** প্রতিটি ছবি একই অনুপাতের (portrait), আলাদা SVG ফাইল, এবং পূর্ণ আকারে খুলতে ছবিতে ক্লিক করুন। আগে 01–03 দিয়ে ভূগোলের ভিত্তি, তারপর 04–06 দিয়ে জলাভূমি ও সামুদ্রিক অঞ্চল, শেষে 07–08 দিয়ে নীতি ও বাস্তব প্রভাব revise করুন।
 
