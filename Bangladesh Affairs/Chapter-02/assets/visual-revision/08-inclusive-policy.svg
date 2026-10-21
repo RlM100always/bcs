@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+<title id="title">অন্তর্ভুক্তিমূলক জনমিতিক নীতি</title><desc id="desc">সঠিক তথ্য থেকে সেবা, অংশগ্রহণ ও ফলাফল পর্যবেক্ষণ</desc>
+<rect width="1000" height="700" rx="24" fill="#f7fafc"/><rect width="1000" height="150" rx="24" fill="#123047"/><rect y="120" width="1000" height="30" fill="#123047"/>
+<text x="50" y="62" fill="#ffffff" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="32" font-weight="700">অন্তর্ভুক্তিমূলক জনমিতিক নীতি</text>
+<text x="50" y="105" fill="#dbeafe" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="19">সঠিক তথ্য থেকে সেবা, অংশগ্রহণ ও ফলাফল পর্যবেক্ষণ</text>
+
+<g font-family="Noto Sans Bengali, Noto Sans, sans-serif">
+<rect x="70" y="205" width="400" height="90" rx="16" fill="#dbeafe" stroke="#94a3b8"/><text x="270" y="240" text-anchor="middle" fill="#123047" font-size="22" font-weight="700">১. নির্ভরযোগ্য তথ্য</text><text x="270" y="270" text-anchor="middle" fill="#334155" font-size="17">উৎস · বছর · সংজ্ঞা · গোপনীয়তা</text>
+<rect x="530" y="205" width="400" height="90" rx="16" fill="#dcfce7" stroke="#94a3b8"/><text x="730" y="240" text-anchor="middle" fill="#123047" font-size="22" font-weight="700">২. মানবসম্পদ</text><text x="730" y="270" text-anchor="middle" fill="#334155" font-size="17">শিক্ষা · স্বাস্থ্য · দক্ষতা · চাকরি</text>
+<rect x="70" y="345" width="400" height="90" rx="16" fill="#fef3c7" stroke="#94a3b8"/><text x="270" y="380" text-anchor="middle" fill="#123047" font-size="22" font-weight="700">৩. স্থানিক পরিকল্পনা</text><text x="270" y="410" text-anchor="middle" fill="#334155" font-size="17">নগর · গ্রাম · অভিবাসন · জলবায়ু</text>
+<rect x="530" y="345" width="400" height="90" rx="16" fill="#f3e8ff" stroke="#94a3b8"/><text x="730" y="380" text-anchor="middle" fill="#123047" font-size="22" font-weight="700">৪. সাংস্কৃতিক অন্তর্ভুক্তি</text><text x="730" y="410" text-anchor="middle" fill="#334155" font-size="17">ভাষা · পরিচয় · অধিকার · ঐতিহ্য</text>
+<rect x="180" y="485" width="640" height="70" rx="16" fill="#123047"/><text x="500" y="528" text-anchor="middle" fill="#ffffff" font-size="23" font-weight="700">ফলাফল মাপুন → বৈষম্য শনাক্ত করুন → নীতি সংশোধন করুন</text>
+</g>
+<line x1="48" y1="628" x2="952" y2="628" stroke="#cbd5e1" stroke-width="2"/>
+<text x="50" y="660" fill="#334155" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="15">এটি নীতিগত কাঠামো; কোনও একক সরকারি কর্মসূচির সংগঠনচিত্র নয়.</text>
+</svg>
