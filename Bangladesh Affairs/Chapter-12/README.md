@@ -67,10 +67,44 @@ Information and Communication Technology (ICT) হলো তথ্য সংগ�
 
 **সীমাবদ্ধতা:** দুর্বল internet/বিদ্যুৎ, device cost, digital literacy gap, বাংলা ও স্থানীয় ভাষার ঘাটতি, disability accessibility, privacy risk, cyber fraud এবং service downtime. শুধু online channel চালু করে offline/assisted option বন্ধ করলে vulnerable users বাদ পড়তে পারেন।
 
+
+
+#### বাস্তব ছবি: বাংলাদেশের আন্তর্জাতিক internet connectivity
+
+![Cox's Bazar submarine cable landing station during an official inspection, 29 December 2025](https://commons.wikimedia.org/wiki/Special:FilePath/Foyez%20Ahmad%20Tayyeb%2C%20Special%20Assistant%20to%20Chief%20Adviser%2C%20Ministry%20of%20Post%2C%20Telecommunication%2C%20and%20Information%20Technology%2C%20inspects%20Bangladesh%20Submarine%20Cable%20PLC%20landing%20station%2C%20Cox%27s%20Bazar%2C%202025-12-29.jpg)
+
+*চিত্র-পাঠ:* সাবমেরিন কেবল আন্তর্জাতিক data traffic-এর একটি গুরুত্বপূর্ণ পথ। এই ছবিটি ২৯ ডিসেম্বর ২০২৫-এ Cox's Bazar landing station-এ সরকারি পরিদর্শনের সময় তোলা। এটি infrastructure-এর উদাহরণ—capacity বা uptime-এর পরিসংখ্যান নয়। [মূল ছবি ও public-domain তথ্য](https://commons.wikimedia.org/wiki/File:Foyez_Ahmad_Tayyeb,_Special_Assistant_to_Chief_Adviser,_Ministry_of_Post,_Telecommunication,_and_Information_Technology,_inspects_Bangladesh_Submarine_Cable_PLC_landing_station,_Cox%27s_Bazar,_2025-12-29.jpg).
+
+#### বাস্তব ছবি: কক্সবাজার cable landing station
+
+![Submarine cable landing station entrance, Cox's Bazar](https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2024-02/1bac1da4-a4c6-4c5f-ba58-6021257a5ae9/coxsbazar_submarine_cable_280224_01.jpg)
+
+*চিত্র-পাঠ:* আন্তর্জাতিক connectivity-র physical landing point বোঝাতে ছবিটি ব্যবহার করুন। [মূল সংবাদ ও ছবির উৎস](https://bdnews24.com/technology/bp4721l17g). ছবিটি publisher-এর; পুনঃপ্রকাশের আগে অনুমতি/licence যাচাই করুন।
+
+#### বাস্তব ছবি: Cloud ও data-centre infrastructure
+
+![Meghna Cloud data-centre building](https://www.thedailystar.net/sites/default/files/images/2023/01/07/bangladesh_data_centre.jpg)
+
+*চিত্র-পাঠ:* cloud services-এর পেছনে physical servers, power, cooling, connectivity ও resilience-এর প্রয়োজন বোঝায়। এটি Meghna Cloud-এর উদাহরণ; সরকারি National Data Centre বলে ধরে নেবেন না। [মূল প্রতিবেদন](https://www.thedailystar.net/tech-startup/news/meghna-cloud-bangladeshs-first-cloud-data-centre-starts-operation-3544496).
+
 ### Digital divide
 Digital divide হলো প্রযুক্তি, internet, device, skills ও meaningful use-এর সুযোগে ব্যক্তি বা গোষ্ঠীর ব্যবধান। এটি শুধু internet connection নয়; আয়, বয়স, লিঙ্গ, প্রতিবন্ধিতা, ভাষা, শিক্ষা ও নিরাপদ ব্যবহারের ক্ষমতাও এতে ভূমিকা রাখে।
 
 **সমাধান:** affordable connectivity, community access points, digital skills training, বাংলা content, accessible interface, screen-reader support, assisted service desk এবং জরুরি সেবার offline বিকল্প।
+
+
+
+#### বাস্তব ছবি: Rural Digital Centre ও last-mile access
+
+![Rural Digital Service Centre in Bangladesh](https://gov-web.s3.ap-northeast-1.amazonaws.com/uploads/2018/09/a2i.jpg)
+
+*চিত্র-পাঠ:* assisted digital service এমন নাগরিকদের সাহায্য করতে পারে যাদের নিজস্ব device, internet, দক্ষতা বা অনলাইন পেমেন্টের সুবিধা সীমিত। ছবিটি ঐতিহাসিক উদাহরণ; বর্তমান কেন্দ্রের সংখ্যা বা অবস্থা বোঝায় না। [ছবির উৎস ও প্রতিবেদন](https://govinsider.asia/intl-en/article/inside-the-digital-bangladesh-2021-vision).
+
+#### বাস্তব ছবি: সেবা গ্রহণে নাগরিক ও সহায়তাপ্রাপ্ত ডিজিটাল প্রবেশাধিকার
+
+![Rural Digital Centre service user in Bangladesh](https://www.undp.org/sites/g/files/zskgke326/files/migration/bd/b44a9e2fa301742cacce3fa18dc2f8ed196dd80acaf301c86840869d7f1b41e0.jpg)
+
+*চিত্র-পাঠ:* digital inclusion শুধু internet coverage নয়—সহজ ভাষা, সহায়তা, accessibility ও সেবা শেষ করার সক্ষমতাও জরুরি। [UNDP Bangladesh-এর ছবির উৎস](https://www.undp.org/bangladesh/stories/a2is-public-service-innovation-network-made-partner-month-south-south-galaxy).
 
 ## ৫. গণমাধ্যম: ভূমিকা, স্বাধীনতা ও দায়িত্ব <a id="media"></a>
 গণমাধ্যমের প্রধান ভূমিকা: **তথ্য প্রদান**, **watchdog/investigative scrutiny**, **জনমত ও বিতর্কের ক্ষেত্র তৈরি**, **প্রান্তিক গোষ্ঠীর কণ্ঠ তুলে ধরা**, **দুর্যোগে যাচাইকৃত বার্তা ছড়ানো**, এবং **আইন ও নাগরিক দায়িত্ব সম্পর্কে সচেতনতা**।
@@ -82,6 +116,14 @@ Digital divide হলো প্রযুক্তি, internet, device, skills �
 - **Malinformation:** সত্য তথ্যকে ক্ষতিকর প্রেক্ষাপটে বা গোপনীয়তা ভেঙে ব্যবহার।
 
 সমাধানে independent fact-checking, দ্রুত correction, transparent sourcing, media literacy, editorial standards এবং সময়মতো সরকারি তথ্যপ্রকাশ একসঙ্গে প্রয়োজন। শুধু content removal দীর্ঘমেয়াদি সমাধান নয়।
+
+
+
+#### বাস্তব ছবি: বাংলাদেশের নারী সাংবাদিকদের একটি সমাবেশ
+
+![A group of Bangladeshi women journalists at a programme](https://commons.wikimedia.org/wiki/Special:FilePath/A%20group%20of%20Bangladeshi%20women%20journalist%20in%20a%20program%20%281%29.jpg)
+
+*চিত্র-পাঠ:* গণমাধ্যমে প্রতিনিধিত্ব, newsroom diversity এবং নারীর পেশাগত অংশগ্রহণ নিয়ে আলোচনায় ছবিটি ব্যবহার করুন। এটি ৮ মার্চ ২০১৮-এর একটি অনুষ্ঠানের ছবি; সামগ্রিক কর্মসংস্থান বা প্রতিনিধিত্বের পরিসংখ্যান নয়। **Attribution:** Nurunnaby Chowdhury (Hasive), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ফাইল ও licence](https://commons.wikimedia.org/wiki/File:A_group_of_Bangladeshi_women_journalist_in_a_program_(1).jpg).
 
 ## ৬. Right to Information (RTI) Act, 2009 <a id="rti"></a>
 RTI হলো আইন ও প্রযোজ্য নিয়মের অধীনে কর্তৃপক্ষের কাছে থাকা তথ্য জানার নাগরিক অধিকার। বাংলাদেশের *তথ্য অধিকার আইন, ২০০৯*-এর ধারা ৪-এ আইনের বিধান সাপেক্ষে নাগরিকের তথ্য পাওয়ার অধিকার এবং ধারা ৫-এ তথ্যের catalogue/index প্রস্তুত ও যথাযথভাবে সংরক্ষণের কথা বলা হয়েছে। [S2]
@@ -120,6 +162,20 @@ RTI স্বচ্ছতা, accountability, citizen empowerment ও service mo
 
 কেন শুধু website যথেষ্ট নয়? যদি একই তথ্য বারবার দিতে হয়, status দেখা না যায়, ভুল সংশোধনের পথ না থাকে, বা online form-এর পরও কাগজ নিয়ে বারবার অফিসে যেতে হয়, তবে শুধু front-end digitisation হয়েছে—process transformation নয়। আইন, records, staff training, data quality ও accountability না বদলালে প্রত্যাশিত ফল আসে না।
 
+
+
+#### বাস্তব ছবি: নাগরিক সেবা-কেন্দ্রে passport service
+
+![Passport service kiosk at a citizen service centre](https://www.migrationconcern.com/uploads/news_photos/2025/09/04/Web_Passport-service-launched-in-Gulshan_MC_05-68b9e57fc1f3e.png)
+
+*চিত্র-পাঠ:* e-governance-এর মান যাচাই করতে শুধু online form নয়—সহায়তা, সময়, accessibility, status tracking ও অভিযোগ নিষ্পত্তিও দেখুন। [মূল প্রতিবেদন ও ছবির উৎস](https://www.migrationconcern.com/bangladesh/2622). নীতিগত/আইনি বিবরণের জন্য সংশ্লিষ্ট সরকারি কর্তৃপক্ষের তথ্য ব্যবহার করুন।
+
+#### বাস্তব ছবি: Union Digital Centre-এ সেবা প্রদান
+
+![Union Digital Centre service session in Bangladesh](https://www.observerbd.com/2021/05/28/observerbd.com_1622219234.jpg)
+
+*চিত্র-পাঠ:* G2C service delivery-তে স্থানীয় সহায়তা কেন্দ্র কীভাবে নাগরিকের অনলাইন সেবা ব্যবহারে সহায়তা করতে পারে, তা বোঝায়। ছবিটি ২০২১ সালের; বর্তমান কেন্দ্রসংখ্যা বা service quality-এর পরিমাপ নয়। [মূল সংবাদ ও ছবির উৎস](https://www.observerbd.com/news.php?id=314592).
+
 ## ৮. Privacy, cybersecurity ও AI risks <a id="risks"></a>
 ডিজিটাল সেবা পরিচয়, ঠিকানা, আর্থিক তথ্য ও নথি প্রক্রিয়া করতে পারে। তাই security ও privacy শুরু থেকেই design-এর অংশ হওয়া উচিত।
 
@@ -128,6 +184,14 @@ RTI স্বচ্ছতা, accountability, citizen empowerment ও service mo
 **ঝুঁকি:** phishing, password reuse, ransomware, insider misuse, database leak, fake portal, identity fraud ও service outage. কর্মীদের cyber hygiene training এবং tested backup জরুরি।
 
 AI বা automated decision-এ bias, ভুল data ও explainability-র ঝুঁকি আছে। গুরুত্বপূর্ণ সিদ্ধান্তে human review, কারণ ব্যাখ্যা, correction/appeal এবং regular audit থাকা উচিত।
+
+
+
+#### বাস্তব ছবি: Disaster Recovery Data Centre
+
+![Disaster Recovery Data Center in Bangladesh](https://www.rupalibangladesh.com/media/imgAll/2025July/tecnoloty-20250820195810.jpg)
+
+*চিত্র-পাঠ:* backup, disaster recovery, redundancy ও service continuity কেন গুরুত্বপূর্ণ—তা বোঝাতে ছবিটি ব্যবহার করুন। নির্দিষ্ট প্রতিষ্ঠানের বর্তমান operational capacity সম্পর্কে সিদ্ধান্ত নেওয়ার আগে সরকারি technical source যাচাই করুন। [মূল প্রতিবেদন ও ছবির উৎস](https://www.rupalibangladesh.com/economy-business-news/68300).
 
 ## ৯. চ্যালেঞ্জ ও নীতিগত সুপারিশ <a id="recommendations"></a>
 
