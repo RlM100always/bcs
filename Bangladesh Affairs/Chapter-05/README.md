@@ -5,7 +5,7 @@
 > **পাঠের লক্ষ্য:** পরিবেশগত সমস্যা কারণ–ফলসহ বোঝা, সরকারি নীতি ও আইনের সঙ্গে সমাধান যুক্ত করা এবং পরীক্ষায় উৎসসমৃদ্ধ বিশ্লেষণধর্মী প্রবন্ধ লেখা।  
 > **Source review:** ২১ অক্টোবর ২০২৬।
 
-[← মূল সূচি](../README.md) · [Chapter 01 — ভূগোল](../Chapter-01/README.md) · [Chapter 06 — প্রাকৃতিক সম্পদ](../Chapter-06/README.md) · [📚 English Quotations + Sources](./QUOTATIONS.md) · [৩০টি Answered Questions](./BCS-WRITTEN-QUESTION-BANK.md) · [35th–47th PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) · [পূর্ণাঙ্গ Model Essays](./PYQ-BASED-ESSAYS.md)
+[← মূল সূচি](../README.md) · [Chapter 01 — ভূগোল](../Chapter-01/README.md) · [Chapter 06 — প্রাকৃতিক সম্পদ](../Chapter-06/README.md) · [🗺️ Visual Atlas](#visuals) · [📚 English Quotations + Sources](./QUOTATIONS.md) · [৩০টি Answered Questions](./BCS-WRITTEN-QUESTION-BANK.md) · [35th–47th PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) · [পূর্ণাঙ্গ Model Essays](./PYQ-BASED-ESSAYS.md)
 
 > 📱 **Mobile-friendly:** এই অধ্যায়ে responsive SVG diagrams দেওয়া হয়েছে। এগুলো আলাদা SVG ফাইল; মোবাইলে Mermaid render-এর ওপর নির্ভরশীল নয়। মূল লেখার জন্য external image load হওয়া জরুরি নয়।
 
@@ -475,6 +475,17 @@ PM2.5 হলো ব্যাস ২.৫ মাইক্রোমিটার ব
 - **ECA and legal documents:** [Ministry of Environment, Forest and Climate Change — ECA resources](https://moef.gov.bd/pages/static-pages/694032cb35ce18e1c0562861)
 - **Environment and pollution evidence:** [World Bank, Bangladesh Country Environmental Analysis 2023](https://www.worldbank.org/en/region/sar/publication/bangladesh-country-environmental-analysis-2023)
 - **Climate adaptation:** [National Adaptation Plan 2023–2050, UNDP Bangladesh](https://www.undp.org/bangladesh/publications/national-adaptation-plan-bangladesh-2023-2050)
+
+### Additional official risk maps — use the right map for the right claim
+
+| Map / portal | What it helps you explain in a BCS answer | How to cite it safely |
+|---|---|---|
+| **Bangladesh Climate Risk Maps — BAMIS / Department of Agricultural Extension**: [official risk-map portal](https://www.bamis.gov.bd/risk-map/) | Cyclone, flash flood, river flood, storm surge, salinity intrusion, heat-wave, cold-wave and drought vulnerability layers. Use it to compare regional exposure and agricultural risk. | Name the exact layer, period/model if shown, and the portal access date. Do not treat a vulnerability layer as a forecast of a particular event. |
+| **Risk Mapping for Climate Vulnerability of 487 Upazilas**: [World Bank-hosted technical map report (PDF)](https://thedocs.worldbank.org/en/doc/689601574710171334-0310022019/render/MazharulAziz.pdf) | A historical technical reference containing flood-status, inundation and vulnerability maps. It can illustrate the logic of spatial risk mapping. | This is a historical report, not a current live risk map. State its report context and do not present it as 2026 conditions. |
+| **Bangladesh Forest Information System**: [BFIS map catalogue](https://bfis.bforest.gov.bd/library/category/maps/) | Forest inventory, national-park locations and conservation-related map resources. | Record the map title, publisher, publication year and scale where provided. |
+| **Ecologically Critical Areas (ECA)**: [Ministry of Environment, Forest and Climate Change — law, rules and Gazette resources](https://moef.gov.bd/pages/static-pages/694032cb35ce18e1c0562861) | Legal status and conservation context for ECAs. | For an ECA boundary, name or designation date, consult the applicable Gazette; do not infer legal boundaries from a general protected-area map. |
+
+> **Map-reading rule for written answers:** distinguish (1) an official legal/designation map, (2) a hazard or vulnerability map, (3) a conceptual revision diagram, and (4) a measured statistical chart. They answer different questions. Always note the publisher, date/period, legend and geographic scale where available.
 
 > **Image-use note:** the embedded protected-area map is a real government-hosted map. The SVGs are original study diagrams, not official boundary maps or numerical datasets. Check licensing and attribution before reusing third-party images elsewhere.
 
