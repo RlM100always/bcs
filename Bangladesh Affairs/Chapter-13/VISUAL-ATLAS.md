@@ -2,7 +2,7 @@
 
 [← Main Chapter](./README.md) · [Model Essays](./PYQ-BASED-ESSAYS.md) · [English Quotations](./QUOTATIONS.md) · [All chapters](../README.md)
 
-> This chapter concerns institutions and civil society rather than physical geography, so an unrelated map would be misleading. This atlas provides ten explanatory diagrams and source-linked institutional visuals. Conceptual diagrams are not statistical data.
+> This chapter concerns institutions and civil society rather than physical geography, so an unrelated map would be misleading. The main chapter embeds 10 topic-matched internet photographs beside the relevant lessons; this atlas provides 10 explanatory SVG diagrams and the source/licence register for all photographs. Photos are not re-embedded here, keeping the chapter-wide total at 25 visual embeds (15 diagram embeds across the two files + 10 photos), below the 30-image limit. Conceptual diagrams are not statistical data.
 
 ## Ten chapter-specific diagrams
 
@@ -36,9 +36,26 @@
 ### 10. Accountability dashboard
 ![Accountability dashboard](./assets/visual-10-accountability-dashboard.svg)
 
-## Source-linked image and institutional references
+## Ten topic-matched internet photographs — source and licence register
 
-These links lead to official or first-party sources. Open the source page and use its credited image/caption rather than an unattributed social-media picture.
+The photographs are embedded beside the matching topic in [the main chapter](./README.md). This table is a source register only; it does not embed extra images. Attribution and licence links are included for reuse checks.
+
+| No. | Topic / visual | Original source and attribution | Licence / note |
+|---:|---|---|---|
+| 1 | Informal institutions, women’s collective action | [Women’s group in BRAC’s Special Targeting Ultra Poor programme](https://commons.wikimedia.org/wiki/File:A_women%27s_group_from_Rodrodha_village_gather_for_a_meeting._They_all_graduated_through_BRACs_Special_Targeting_Ultra_Poor_program_they_are_now_known_as_graduates_and_are_taking_part_in_a_project_called_group_home_visits._(10664330215).jpg) · Department of Foreign Affairs and Trade (DFAT), Australia | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| 2 | Civil society and voluntary networks | [Creative Commons Bangladesh first chapter meeting](https://commons.wikimedia.org/wiki/File:CC_Bangladesh_First_Chapter_Meeting_Group_Photo.jpg) · Nasir Khan Saikat | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 3 | NGO sector and institutional presence | [BRAC Centre, Dhaka](https://commons.wikimedia.org/wiki/File:Brac_Centre,_Dhaka.jpg) · ANKAN | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 4 | Microfinance and livelihoods | [Bangladesh microfinance loan beneficiary](https://commons.wikimedia.org/wiki/File:Bangladesh_microfinance_%2810676772556%29.jpg) · DFAT photo library | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) |
+| 5 | Community health services | [Community health worker in Korail, Dhaka](https://commons.wikimedia.org/wiki/File:A_community_health_worker_conducting_a_survey_in_the_Korail_slum,_Bangladesh_(8630810827).jpg) · Lucy Milmo/DFID | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/); historical photo from 2011 |
+| 6 | NGO-supported primary education | [Group learning in a BRAC primary school, Manikganj](https://commons.wikimedia.org/wiki/File:Children_take_part_in_an_exercise_in_groups_inside_a_BRAC_primary_school_in_Manikganj._DFAT_funds_a_range_of_core_programs_including_its_education_work_primarily_in_formal_education._(10684966815).jpg) · DFAT, Australia | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); historical photo from 2012 |
+| 7 | Education support and service delivery | [Education materials distribution, Needy Foundation](https://commons.wikimedia.org/wiki/File:Education_materials_distribution_among_needy_students_under_Education_Project_of_Needy_Foundation_01.jpg) · Needy Foundation (NF) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 8 | Women’s empowerment and child-marriage prevention | [No-child-marriage pledge at Hajiganj Girls High School](https://commons.wikimedia.org/wiki/File:No_child_marrige_oath_in_Hajiganj_girls_high_school,_Bangladesh.jpg) · DelwarHossain | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 9 | Humanitarian partnership and Rohingya children’s learning | [Displaced Rohingya children in Bangladesh](https://commons.wikimedia.org/wiki/File:Displaced_Rohingya_children_in_Bangladesh_-_000189753.jpg) · Australian Humanitarian Partnership (AHP) Bangladesh | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); photo dated 2025 |
+| 10 | Disaster response and cross-sector coordination | [Humanitarian assistance after Cyclone Sidr](https://commons.wikimedia.org/wiki/File:Bangladesh_Humanitarian_Assistance-Disaster_Relief_mission_DVIDS66788.jpg) · U.S. Navy | Public domain as a U.S. federal government work; depicts a U.S. Navy mission, not an NGO-only operation |
+
+## Source-linked institutional references
+
+These links lead to official or first-party sources for institutional facts, regulation and development context.
 
 | No. | Visual reference | Exam relevance | Source |
 |---:|---|---|---|
