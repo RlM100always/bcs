@@ -479,6 +479,101 @@ I --> P
 
 **Sources for exam:** Ministry of Law, Justice and Parliamentary Affairs — Laws of Bangladesh — *The Territorial Waters and Maritime Zones Act, 1974 (as amended in 2021)* [S8]; International Tribunal for the Law of the Sea (ITLOS) — *Case No.16, Bangladesh/Myanmar, Judgment, 14 March 2012* [S9]; Permanent Court of Arbitration (PCA) — *Bay of Bengal Maritime Boundary Arbitration (Bangladesh v India), Award, 7 July 2014* [S10]; UNESCO World Heritage Centre — *The Sundarbans (Bangladesh), World Heritage List no.798; inscribed 1997* [S11]।
 
+
+## ১০A. Full-length examiner-style worked answers — তিন ধরনের প্রশ্নে বাড়তি depth
+
+> এখানে বড় প্রশ্নের উত্তরে **কী লিখবেন** তা শুধু outline হিসেবে নয়, পূর্ণ অনুচ্ছেদে দেখানো হয়েছে। অন্য model answer-এর মতোই প্রত্যেক পরিসংখ্যান ও গুরুত্বপূর্ণ claim-এর উৎসের নাম দেওয়া আছে। নিচের উত্তরগুলো পরীক্ষামুখী শিক্ষণীয় রচনা; BPSC-এর অনুমোদিত নমুনা নয়।
+
+### Worked Answer A (5 marks) — What is the geographical location of Bangladesh?
+
+**ভূমিকা।** বাংলাদেশ দক্ষিণ এশিয়ার একটি নদীবিধৌত বদ্বীপীয় রাষ্ট্র। ভৌগোলিক অবস্থান বলতে অক্ষাংশ–দ্রাঘিমাংশের পাশাপাশি চারদিকের প্রতিবেশী ও প্রাকৃতিক অবস্থানকেও বোঝায়।
+
+**অবস্থান।** Banglapedia, *Bangladesh* নিবন্ধ অনুযায়ী বাংলাদেশ ২০°৩৪′ থেকে ২৬°৩৮′ উত্তর অক্ষাংশ এবং ৮৮°০১′ থেকে ৯২°৪১′ পূর্ব দ্রাঘিমাংশের মধ্যে অবস্থিত। দেশের উত্তর ও পশ্চিমে ভারত, পূর্বে ভারত ও মিয়ানমার এবং দক্ষিণে বঙ্গোপসাগর রয়েছে। দেশটি গঙ্গা–ব্রহ্মপুত্র–মেঘনা নদীব্যবস্থার নিম্নাংশে অবস্থিত। **[S4 — Banglapedia, Asiatic Society of Bangladesh]**
+
+**তাৎপর্য।** একদিকে উজান থেকে আসা পলি বাংলাদেশে কৃষি ও জনবসতির ভিত্তি তৈরি করেছে; অন্যদিকে মোহনা ও সমুদ্রসীমা সামুদ্রিক যোগাযোগ, মাছ ও নৌবাণিজ্যের সুযোগ দিয়েছে। এ অবস্থানের কারণেই নদীভাঙন, বন্যা ও ঘূর্ণিঝড়-সংশ্লিষ্ট ঝুঁকিও নীতিনির্ধারণের মূল বিষয়। **[S2 — Banglapedia, Bangladesh Geography; S6 — GED, Bangladesh Delta Plan 2100]**
+
+**উপসংহার।** বাংলাদেশের অবস্থান একটি ভূগোলগত পরিচয়ই নয়; এটি জাতীয় অর্থনীতি, যোগাযোগ ও দুর্যোগ ব্যবস্থাপনার মৌলিক প্রেক্ষাপট।
+
+**Exam citation line:** *Source: Banglapedia (Asiatic Society of Bangladesh), “Bangladesh” and “Bangladesh Geography”.*
+
+---
+
+### Worked Answer B (10 marks) — Describe the topographical features of different regions of Bangladesh.
+
+**ভূমিকা।** বাংলাদেশের ভূমিরূপকে একটি অখণ্ড সমতল বলা ভুল। তিনটি প্রধান অঞ্চলের গঠন, বয়স, উচ্চতা ও জলপ্রবাহে মৌলিক পার্থক্য রয়েছে। Banglapedia, *Bangladesh Geography* ও *ভূ-প্রকৃতি* এই অঞ্চলগুলোকে **Floodplain, Pleistocene Terrace ও Tertiary Hills** হিসেবে শ্রেণিবদ্ধ করে। **[S2; S3]**
+
+**প্রথমত—নবীন প্লাবনভূমি।** গঙ্গা–পদ্মা, ব্রহ্মপুত্র–যমুনা ও মেঘনা নদীব্যবস্থার পলল এই অঞ্চলের ভূমি গঠনে প্রধান ভূমিকা রাখে। চর, বন্যা-প্লাবিত সমভূমি, হাওর ও মোহনার নানা ভূমিরূপ এখানে পাওয়া যায়। নতুন পলি জমার কারণে কৃষির সুযোগ তৈরি হয়; কিন্তু flood risk, erosion ও নদীখাত পরিবর্তন জমি ও বসতিকে অনিশ্চিত করে। উত্তর-পূর্বের হাওর অঞ্চলে আকস্মিক বন্যা বিশেষ গুরুত্বপূর্ণ। **[S2 — Banglapedia, Bangladesh Geography]**
+
+**দ্বিতীয়ত—প্লাইস্টোসিন সোপান।** বরেন্দ্রভূমি, মধুপুর গড় এবং লালমাই এলাকার পুরোনো অপেক্ষাকৃত উঁচু ভূমিরূপ সাধারণ নদী-প্লাবনভূমি থেকে স্বতন্ত্র। বরেন্দ্রে শুষ্ক মৌসুমের পানি ব্যবস্থাপনা এবং মধুপুরে বন–ভূমি ব্যবহার গুরুত্বপূর্ণ উদাহরণ। **[S2; S3]**
+
+**তৃতীয়ত—টারশিয়ারি পাহাড়।** পূর্ব ও দক্ষিণ-পূর্বের পার্বত্য চট্টগ্রাম এবং উত্তর-পূর্বের সিলেটের কিছু টিলা-পাহাড় এই শ্রেণিতে অন্তর্ভুক্ত। উচ্চতা ও ঢালের পার্থক্য বন, বসতি ও যোগাযোগ পরিকল্পনাকে প্রভাবিত করে; অপরিকল্পিত পাহাড় কাটায় ভূমিধসের ঝুঁকি বাড়তে পারে। **[S2; S6]**
+
+**তুলনামূলক সারণি।**
+
+| বৈশিষ্ট্য | Floodplain | Pleistocene terrace | Tertiary hills |
+|---|---|---|---|
+| সাধারণ রূপ | নবীন পলল সমতল | পুরোনো উঁচু সোপান | ঢাল, পাহাড় ও উপত্যকা |
+| উদাহরণ | যমুনা–মেঘনা প্লাবনভূমি | বরেন্দ্র–মধুপুর | পার্বত্য চট্টগ্রাম |
+| মূল ব্যবহারের সম্ভাবনা | কৃষি ও নৌপথ | কৃষি, বন, বসতি | বন, পাহাড়ি অর্থনীতি |
+| ব্যবস্থাপনা চ্যালেঞ্জ | বন্যা–ভাঙন | পানির চাপ–ভূমি ব্যবহার | ঢালক্ষয়–ভূমিধস |
+
+**পরিবর্তনশীলতার বিশ্লেষণ।** বাংলাদেশের ভূপ্রকৃতি সময়ের সঙ্গে বদলায়—উদাহরণস্বরূপ, আঠারো শতকের শেষভাগে ব্রহ্মপুত্রের প্রবাহ যমুনা চ্যানেলে সরে আসার দীর্ঘস্থায়ী প্রভাব। ফলে ‘topographical development over time’ বোঝাতে নদীর গতিপথ ও পলি-পরিবহন বাধ্যতামূলক আলোচ্য। **[S12 — Banglapedia, Brahmaputra-Jamuna River System]**
+
+**উপসংহার।** এই ভৌগোলিক পার্থক্যের কারণেই উন্নয়ন-পরিকল্পনায় একটিমাত্র সমাধান যথেষ্ট নয়; GED-এর *Bangladesh Delta Plan 2100* অঞ্চলভিত্তিক hotspot চিহ্নিত করেছে। **[S6 — GED, Planning Commission]**
+
+**Exam citation line:** *Source: Banglapedia (Asiatic Society of Bangladesh), “Bangladesh Geography”; GED, Bangladesh Delta Plan 2100.*
+
+---
+
+### Worked Answer C (20 marks) — Evaluate the geopolitical importance and geographical risks of Bangladesh and suggest a sustainable development strategy.
+
+**ভূমিকা ও thesis।** বাংলাদেশের কৌশলগত গুরুত্বকে কেবল দুটি প্রতিবেশী রাষ্ট্রের মাঝামাঝি অবস্থান দিয়ে ব্যাখ্যা করা যথেষ্ট নয়। দক্ষিণ এশিয়ার নদী অববাহিকার নিম্নাংশ, বঙ্গোপসাগরঘেঁষা উপকূল, আন্তর্জাতিক বাণিজ্যের সম্ভাবনা ও দুর্যোগসংবেদনশীল বদ্বীপ—এই চারটির সম্মিলনে দেশটির geopolitical geography গঠিত। এ অবস্থান একই সঙ্গে **connectivity dividend** ও **climate-security challenge**। **[S2 — Banglapedia; S6 — GED]**
+
+**১. আঞ্চলিক সংযোগের সুযোগ।** বাংলাদেশ ভারতের বিভিন্ন রাজ্য ও মিয়ানমার-সংলগ্ন দক্ষিণ এশিয়ার একটি গুরুত্বপূর্ণ স্থানিক অবস্থানে রয়েছে। স্থল, নদী, রেল ও সমুদ্রভিত্তিক যোগাযোগ ব্যবস্থার সমন্বয় আমদানি-রপ্তানি ও আঞ্চলিক বাণিজ্যকে সহায়তা করতে পারে। তবে বাস্তব সংযোগের ফল নির্ভর করে অবকাঠামো, বাণিজ্যনীতি, সীমান্ত ব্যবস্থাপনা ও পারস্পরিক সমঝোতার ওপর; অবস্থান একাই স্বয়ংক্রিয় লাভ নিশ্চিত করে না। **[S4 — Banglapedia, Bangladesh; S6 — GED, Delta Plan]**
+
+**২. বঙ্গোপসাগর ও maritime economy।** বন্দর, নৌবাণিজ্য, মৎস্য, পর্যবেক্ষণ, গবেষণা ও সম্ভাব্য সামুদ্রিক শক্তি বঙ্গোপসাগরকে উন্নয়নের একটি ক্ষেত্র করে। বাংলাদেশের Territorial Waters and Maritime Zones Act 1974, সংশোধিত ২০২১ অনুযায়ী territorial sea, contiguous zone ও EEZ-র অধিকার ভিন্ন। সুতরাং পরীক্ষায় **12 NM–24 NM–200 NM** লিখলেও সংশ্লিষ্ট *sovereignty* বনাম *sovereign rights* পার্থক্যটি অবশ্যই লিখতে হবে। **[S8 — Ministry of Law, Laws of Bangladesh]**
+
+**৩. বিরোধ নিষ্পত্তিতে আন্তর্জাতিক আইনের ভূমিকা।** ITLOS, *Bangladesh/Myanmar*, ১৪ মার্চ ২০১২ এবং PCA, *Bangladesh v. India*, ৭ জুলাই ২০১৪—এই দুটি বিচারিক সিদ্ধান্ত বাংলাদেশের সামুদ্রিক সীমানা নির্ধারণে গুরুত্বপূর্ণ। যুক্তিসংগত বক্তব্য: আইনগত নির্ধারণ বিনিয়োগ ও সামুদ্রিক ব্যবস্থাপনায় নিশ্চয়তা দিতে সহায়ক; তবে রায় পাওয়া এবং তেল–গ্যাসের প্রমাণিত মজুত পাওয়া সমার্থক নয়। **[S9 — ITLOS; S10 — PCA]**
+
+**৪. আন্তঃসীমান্ত নদীর ভূরাজনীতি।** বাংলাদেশ একটি প্রধান downstream delta state। উজানের নদীর পানি, বৃষ্টিপাত ও পলি-পরিবহনের পরিবর্তন কৃষি, নাব্যতা, জলজ পরিবেশ ও বন্যা ব্যবস্থাপনাকে প্রভাবিত করে। তাই hydrological data sharing, basin cooperation, forecast systems ও নদীর স্বাভাবিক প্রবাহ নিয়ে নিয়মিত সহযোগিতা রাষ্ট্রীয় স্বার্থের অংশ। **[S2 — Banglapedia; S6 — GED]**
+
+**৫. জলবায়ু ও ভূপ্রাকৃতিক ঝুঁকি।** নিম্নভূমি ও মোহনাকে বন্যা–জলোচ্ছ্বাস, উত্তর-পূর্বের হাওরকে আকস্মিক বন্যা, বরেন্দ্রকে খরা-পানির চাপ এবং পার্বত্য অঞ্চলকে ঢাল-সম্পর্কিত ঝুঁকি মোকাবিলা করতে হয়। এই অমিলের কারণে একই প্রকল্প বা একক জাতীয় ‘disaster solution’ অসম্পূর্ণ। **[S6 — GED, BDP 2100; S7 — BWDB]**
+
+**৬. পরিবেশ ও জীবিকা।** সুন্দরবন কেবল একটি প্রাকৃতিক সম্পদ নয়; নদী–জোয়ার–লবণাক্ততার সংযোগস্থলে দাঁড়িয়ে থাকা ম্যানগ্রোভ বাস্তুতন্ত্র। UNESCO-এর World Heritage Centre ১৯৯৭ সালে বাংলাদেশের বিশ্ব ঐতিহ্য সম্পত্তি হিসেবে সুন্দরবন তালিকাভুক্ত করে। ecosystem protection-কে অর্থনীতি থেকে বিচ্ছিন্ন করলে উপকূলের দীর্ঘমেয়াদি স্থিতিস্থাপকতা কমে। **[S11 — UNESCO, The Sundarbans]**
+
+**৭. নীতি সুপারিশ (Policy Matrix)।**
+
+| উন্নয়ন লক্ষ্য | বাস্তবায়নযোগ্য কৌশল | প্রাতিষ্ঠানিক যুক্তি |
+|---|---|---|
+| জল ও খাদ্যনিরাপত্তা | basin data sharing, irrigation efficiency, crop adaptation | পানি ও ভূমি পরিকল্পনায় সমন্বয় |
+| বন্দর ও বাণিজ্য | climate-resilient ports, multimodal connectivity | দুর্যোগকালে supply chain সচল |
+| উপকূল রক্ষা | mangrove conservation, coastal zoning, early warning | পরিবেশ ও নিরাপত্তা একসঙ্গে |
+| চর ও নদীভাঙন | remote-sensing monitoring, rehabilitation, flexible land use | স্থায়ী নয় এমন নদীসীমার স্বীকৃতি |
+| পাহাড় ও হাওর | স্থানভিত্তিক slope planning, flood forecasting | hotspot-specific governance |
+| সামুদ্রিক সম্পদ | scientific stock assessment, ecosystem safeguards | blue economy-র sustainability |
+
+**৮. Visual summary।**
+
+```mermaid
+flowchart TD
+A["Bangladesh geographic position"] --> B["Opportunities"]
+A --> C["Risks"]
+B --> D["Port access + trade + marine resources"]
+C --> E["Floods + cyclones + erosion + drought"]
+D --> F["Adaptive, evidence-based national planning"]
+E --> F
+F --> G["BDP 2100 hotspots + maritime legal governance"]
+```
+
+*Figure 8 — Geopolitical opportunity–risk synthesis. Editorial diagram from Banglapedia, GED, ITLOS/PCA and Bangladesh maritime law [S2, S6, S8–S10].*
+
+**সমালোচনামূলক মূল্যায়ন।** ‘বঙ্গোপসাগর আছে, তাই স্বয়ংক্রিয়ভাবে উন্নয়ন হবে’ বা ‘নদীবহুল হওয়ায় বাংলাদেশ সর্বদা পিছিয়ে থাকবে’—কোনোটিই সম্পূর্ণ সত্য নয়। মানুষের প্রযুক্তি, প্রতিষ্ঠান, কূটনীতি, স্থানীয় অংশগ্রহণ ও বৈজ্ঞানিক তথ্য একই ভৌগোলিক অবস্থানকে উন্নয়নের সম্পদ বা ঝুঁকিতে রূপান্তর করতে পারে।
+
+**উপসংহার।** বাংলাদেশের কৌশলগত শ্রেষ্ঠ সম্পদ শুধু অবস্থান নয়; **সেই অবস্থানকে টেকসইভাবে পরিচালনার সক্ষমতা**। নদী–ভূমি–সমুদ্র–জীবিকার সমন্বিত কৌশলই একটি নিরাপদ ও কার্যকর বদ্বীপ রাষ্ট্র নির্মাণের ভিত্তি।
+
+**Exam citations:** *Banglapedia, “Bangladesh Geography”; General Economics Division, Bangladesh Delta Plan 2100; ITLOS, Bangladesh/Myanmar Judgment (2012); PCA, Bangladesh/India Award (2014); Territorial Waters and Maritime Zones Act, 1974 (amended 2021); UNESCO World Heritage Centre, “The Sundarbans”.*
+
+
 ## ১১. Revision Matrix — একটি পাতায় অধ্যায়
 
 | Subtopic | Must-write keywords | Best visual | Source |
