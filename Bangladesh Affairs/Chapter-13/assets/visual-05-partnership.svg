@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<title id="title">Government NGO citizen partnership</title><desc id="desc">Government, NGO and citizens form a partnership with clear roles and shared accountability.</desc>
+<rect width="1200" height="650" rx="28" fill="#f8fafc"/>
+<text x="600" y="58" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#172033">GOVERNMENT • NGO • CITIZENS</text>
+<path d="M320 230 L600 470 L880 230 Z" fill="none" stroke="#94a3b8" stroke-width="8" stroke-linejoin="round"/>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<rect x="80" y="120" width="400" height="155" rx="25" fill="#dbeafe" stroke="#2563eb" stroke-width="4"/><text x="280" y="170" font-size="30" font-weight="700" fill="#1d4ed8">GOVERNMENT</text><text x="280" y="210" font-size="22" fill="#1e293b">Rights • standards • public duty</text><text x="280" y="242" font-size="22" fill="#1e293b">Scale • continuity • oversight</text>
+<rect x="720" y="120" width="400" height="155" rx="25" fill="#dcfce7" stroke="#16a34a" stroke-width="4"/><text x="920" y="170" font-size="30" font-weight="700" fill="#166534">NGOs / CSOs</text><text x="920" y="210" font-size="22" fill="#14532d">Local knowledge • innovation</text><text x="920" y="242" font-size="22" fill="#14532d">Service • research • advocacy</text>
+<rect x="400" y="400" width="400" height="155" rx="25" fill="#fef3c7" stroke="#d97706" stroke-width="4"/><text x="600" y="450" font-size="30" font-weight="700" fill="#92400e">CITIZENS</text><text x="600" y="490" font-size="22" fill="#78350f">Needs • voice • feedback</text><text x="600" y="522" font-size="22" fill="#78350f">Participation • social audit</text>
+</g>
+<text x="600" y="610" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#334155">Clear roles + shared evidence + public accountability = better partnership</text>
+</svg>

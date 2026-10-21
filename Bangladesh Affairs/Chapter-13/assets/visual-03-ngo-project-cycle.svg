@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<title id="title">NGO project cycle</title><desc id="desc">A six-step cycle: listen, design, implement, monitor, evaluate, learn and adapt.</desc>
+<rect width="1200" height="650" rx="28" fill="#f8fafc"/>
+<text x="600" y="58" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#172033">NGO PROJECT CYCLE</text>
+<g stroke="#94a3b8" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M320 190 L440 190"/><path d="M600 235 L600 330"/><path d="M760 385 L870 385"/><path d="M870 430 L760 510"/><path d="M440 510 L320 430"/><path d="M270 330 L270 235"/>
+<path d="M426 178 L440 190 L426 202"/><path d="M588 315 L600 330 L612 315"/><path d="M855 373 L870 385 L855 397"/><path d="M774 494 L760 510 L779 512"/><path d="M334 418 L320 430 L339 434"/><path d="M258 250 L270 235 L282 250"/>
+</g>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<rect x="90" y="130" width="290" height="105" rx="22" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/><text x="235" y="172" font-size="27" font-weight="700" fill="#1d4ed8">1. LISTEN</text><text x="235" y="205" font-size="20" fill="#1e293b">Community needs and baseline</text>
+<rect x="430" y="130" width="340" height="105" rx="22" fill="#dcfce7" stroke="#16a34a" stroke-width="3"/><text x="600" y="172" font-size="27" font-weight="700" fill="#166534">2. DESIGN</text><text x="600" y="205" font-size="20" fill="#14532d">Goals, roles, budget, safeguards</text>
+<rect x="820" y="130" width="290" height="105" rx="22" fill="#fef3c7" stroke="#d97706" stroke-width="3"/><text x="965" y="172" font-size="27" font-weight="700" fill="#92400e">3. IMPLEMENT</text><text x="965" y="205" font-size="20" fill="#78350f">Services and activities</text>
+<rect x="820" y="330" width="290" height="105" rx="22" fill="#fce7f3" stroke="#db2777" stroke-width="3"/><text x="965" y="372" font-size="27" font-weight="700" fill="#9d174d">4. MONITOR</text><text x="965" y="405" font-size="20" fill="#831843">Data, feedback, risk checks</text>
+<rect x="430" y="455" width="340" height="105" rx="22" fill="#e0e7ff" stroke="#4f46e5" stroke-width="3"/><text x="600" y="497" font-size="27" font-weight="700" fill="#3730a3">5. EVALUATE</text><text x="600" y="530" font-size="20" fill="#312e81">Outputs, outcomes, impact</text>
+<rect x="90" y="330" width="290" height="105" rx="22" fill="#f3e8ff" stroke="#9333ea" stroke-width="3"/><text x="235" y="372" font-size="27" font-weight="700" fill="#6b21a8">6. LEARN</text><text x="235" y="405" font-size="20" fill="#581c87">Adapt and share findings</text>
+</g>
+<text x="600" y="610" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#334155">A good project cycle repeats: community feedback changes the next design.</text>
+</svg>
