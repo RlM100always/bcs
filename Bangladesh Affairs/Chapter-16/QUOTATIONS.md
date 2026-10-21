@@ -1,124 +1,177 @@
-# Chapter 16 — English Quotations, Documentary Lines & Source Bank
-[← Chapter 16 মূল অধ্যায়](./README.md#top) · [PYQ-based Essays](./PYQ-BASED-ESSAYS.md) · [Bangladesh Affairs সূচি](../README.md)
+# Chapter 16 — English Quotations with Real Sources
+[← Chapter 16 main text](./README.md#top) · [PYQ audit](./PYQ-35TH-47TH-AUDIT.md) · [25 model answers](./BCS-WRITTEN-QUESTION-BANK.md) · [Essays](./PYQ-BASED-ESSAYS.md)
 
-> **ব্যবহারের নিয়ম:** এখানে short English excerpts, attributed quotations এবং exam-ready paraphrases আলাদা করে দেওয়া হয়েছে। quotation marks-এর মধ্যে কেবল উৎসে যাচাই করা wording ব্যবহার করুন। ব্যাখ্যামূলক বাক্যকে direct quote হিসেবে লিখবেন না। বাংলা অংশগুলো ভাবানুবাদ, হুবহু অনুবাদ নয়।
+> **Use in BCS Written:** Pick 1–2 short, relevant quotations; cite the source; then explain how the line supports your argument. Historical speech translations vary. The quotation attributed to Bangabandhu below is a widely used English translation, not an English-language original script.
 
-## ১. The Historic 7 March Speech
+## 1. The historic 7 March speech
 
 > “The struggle this time is the struggle for our emancipation; the struggle this time is the struggle for our independence.”
 
-**Attribution:** Bangabandhu Sheikh Mujibur Rahman, historic speech of 7 March 1971.  
-**বাংলা ভাবার্থ:** এই সংগ্রাম মুক্তির সংগ্রাম; এই সংগ্রাম স্বাধীনতার সংগ্রাম।  
-**কোথায় ব্যবহার করবেন:** ৭ মার্চের ভাষণের রাজনৈতিক তাৎপর্য, বাঙালি জাতীয়তাবাদ, স্বাধীনতার প্রস্তুতি, গণসংগঠন।  
-**Source:** UNESCO, Memory of the World — [UNESCO portal](https://www.unesco.org/en/memory-world); ভাষণের স্বীকৃত transcript/recording-এর সঙ্গে wording মিলিয়ে নিন।
+**Source:** Sheikh Mujibur Rahman, speech delivered 7 March 1971; English translation. UNESCO confirms the speech was extempore and survives in audio-visual form, so exact English wording depends on the translation used.  
+**Use:** causes of Liberation War, mass mobilisation, independence and leadership.  
+**Source link:** [UNESCO — Historic 7th March Speech](https://www.unesco.org/en/memory-world/historic-7th-march-speech-bangabandhu-sheikh-mujibur-rahman)
 
-## ২. “Our Struggle for Freedom”
+## 2. Popular sovereignty
 
-> “The struggle now is the struggle for our freedom.”
+> “The will of the people shall be the basis of the authority of government.”
 
-**Attribution:** Widely reproduced English translation of the 7 March 1971 speech; translation wording varies by transcript.  
-**বাংলা ভাবার্থ:** এখনকার সংগ্রাম আমাদের মুক্তির সংগ্রাম।  
-**ব্যবহার:** অসহযোগ আন্দোলন থেকে মুক্তিযুদ্ধের দিকে উত্তরণ।  
-**Source:** UNESCO Memory of the World materials; [Bangladesh Liberation War Museum](https://www.liberationwarmuseumbd.org/). **Note:** অনুবাদের wording ভিন্ন হতে পারে; নির্দিষ্ট সংস্করণের পাঠ অনুসরণ করুন।
+**Source:** Universal Declaration of Human Rights (UDHR), Article 21(3), United Nations.  
+**Use:** 1970 election, democratic mandate and transfer of power.  
+[UN official text](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
-## ৩. Language, Identity and Recognition
+## 3. Human dignity
 
-**Exam-ready line (paraphrase, not a direct quotation):**  
-*The Language Movement transformed the demand for linguistic recognition into a wider struggle for cultural dignity and democratic rights.*
+> “All human beings are born free and equal in dignity and rights.”
 
-**বাংলা অর্থ:** ভাষা আন্দোলন ভাষার স্বীকৃতির দাবিকে সাংস্কৃতিক মর্যাদা ও গণতান্ত্রিক অধিকারের বৃহত্তর সংগ্রামে রূপ দেয়।  
-**ব্যবহার:** ভাষা আন্দোলনের তাৎপর্য, বাঙালি জাতীয়তাবাদ, ১৯৫২ থেকে ১৯৭১-এর ধারাবাহিকতা।  
-**Source:** Banglapedia, Asiatic Society of Bangladesh — [Banglapedia](https://en.banglapedia.org/); UNESCO — [International Mother Language Day](https://www.unesco.org/en/days/mother-language).
+**Source:** UDHR, Article 1.  
+**Use:** equality, human rights and civilian protection.  
+[UN official text](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
-## ৪. The Six-Point Programme
+## 4. Right to life and security
 
-**Exam-ready line (paraphrase):**  
-*The Six-Point Programme articulated a constitutional and economic framework for greater autonomy for East Pakistan.*
+> “Everyone has the right to life, liberty and security of person.”
 
-**বাংলা অর্থ:** ছয় দফা পূর্ব পাকিস্তানের অধিকতর স্বায়ত্তশাসনের জন্য সাংবিধানিক ও অর্থনৈতিক কাঠামো তুলে ধরে।  
-**ব্যবহার:** ছয় দফার গুরুত্ব, স্বায়ত্তশাসন, অর্থনৈতিক বৈষম্য, মুক্তিযুদ্ধের পটভূমি।  
-**Source:** Banglapedia — [Banglapedia portal](https://en.banglapedia.org/); Bangladesh Liberation War Museum — [Official website](https://www.liberationwarmuseumbd.org/).
+**Source:** UDHR, Article 3.  
+**Use:** mass atrocities, refugee protection and human rights.  
+[UN official text](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
-## ৫. The 1970 Election and Democratic Mandate
+## 5. Protection from torture
 
-**Exam-ready line (paraphrase):**  
-*The 1970 election gave the Awami League a clear democratic mandate, but the failure to transfer power deepened the constitutional and political crisis.*
+> “No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.”
 
-**বাংলা অর্থ:** ১৯৭০ সালের নির্বাচন আওয়ামী লীগকে স্পষ্ট গণতান্ত্রিক ম্যান্ডেট দেয়; কিন্তু ক্ষমতা হস্তান্তর না হওয়ায় সাংবিধানিক ও রাজনৈতিক সংকট গভীর হয়।  
-**ব্যবহার:** ১৯৭০ নির্বাচন, অসহযোগ আন্দোলন, স্বাধীনতার তাৎক্ষণিক কারণ।  
-**Source:** Banglapedia — [Banglapedia portal](https://en.banglapedia.org/); Bangladesh Liberation War Museum — [Official website](https://www.liberationwarmuseumbd.org/).
+**Source:** UDHR, Article 5.  
+**Use:** wartime violence, accountability and protection of civilians.  
+[UN official text](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
-## ৬. The Proclamation of Independence
+## 6. Justice and accountability
 
-**Exam-ready line (paraphrase):**  
-*The Proclamation of Independence provided a foundational legal and political basis for the emerging state of Bangladesh.*
+> “Everyone has the right to an effective remedy by the competent national tribunals”
 
-**বাংলা অর্থ:** স্বাধীনতার ঘোষণাপত্র বাংলাদেশের উদীয়মান রাষ্ট্রের জন্য মৌলিক আইনি ও রাজনৈতিক ভিত্তি প্রদান করে।  
-**ব্যবহার:** ১০ এপ্রিলের ঘোষণাপত্র, মুজিবনগর সরকার, রাষ্ট্রের বৈধতা।  
-**Source:** Government of Bangladesh, legal portal — [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/); দলিলের সঠিক পাঠ দেখে লিখুন।
+**Source:** UDHR, Article 8 (short excerpt).  
+**Use:** post-war justice, documentation, prosecution and remedy.  
+[UN official text](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
-## ৭. The Mujibnagar Government
+## 7. Freedom of opinion
 
-**Exam-ready line (paraphrase):**  
-*The Mujibnagar Government coordinated political leadership, military resistance, diplomacy and the institutional continuity of the liberation struggle.*
+> “Everyone has the right to freedom of opinion and expression.”
 
-**বাংলা অর্থ:** মুজিবনগর সরকার রাজনৈতিক নেতৃত্ব, সামরিক প্রতিরোধ, কূটনীতি এবং মুক্তিসংগ্রামের প্রাতিষ্ঠানিক ধারাবাহিকতা সমন্বয় করে।  
-**ব্যবহার:** মুজিবনগর সরকারের গঠন ও কার্যাবলি, মুক্তিযুদ্ধের সংগঠন।  
-**Source:** Bangladesh Liberation War Museum — [Official website](https://www.liberationwarmuseumbd.org/); Banglapedia — [Banglapedia portal](https://en.banglapedia.org/).
+**Source:** UDHR, Article 19.  
+**Use:** cultural identity, democratic rights and historical memory.  
+[UN official text](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
-## ৮. Humanitarian Crisis and Refugees
+## 8. The scourge of war
 
-**Exam-ready line (paraphrase):**  
-*The 1971 refugee crisis gave the Liberation War a major regional and international humanitarian dimension.*
+> “to save succeeding generations from the scourge of war”
 
-**বাংলা অর্থ:** ১৯৭১ সালের শরণার্থী সংকট মুক্তিযুদ্ধকে বড় আঞ্চলিক ও আন্তর্জাতিক মানবিক সংকটে পরিণত করে।  
-**ব্যবহার:** ভারতের ভূমিকা, শরণার্থী, মানবিক বিপর্যয়, আন্তর্জাতিক প্রতিক্রিয়া।  
-**Source:** UNHCR — [Official website](https://www.unhcr.org/); UN Digital Library — [Official records](https://digitallibrary.un.org/). নির্দিষ্ট পরিসংখ্যানের জন্য নির্দিষ্ট প্রতিবেদন ও বছর cite করুন।
+**Source:** Charter of the United Nations, Preamble (excerpt).  
+**Use:** humanitarian consequences, peace and prevention of future conflict.  
+[UN Charter](https://www.un.org/en/about-us/un-charter/full-text)
 
-## ৯. International Diplomacy and the Cold War
+## 9. Human rights and dignity
 
-**Exam-ready line (paraphrase):**  
-*The diplomatic response to the 1971 crisis was shaped by humanitarian concerns as well as Cold War alignments among major powers.*
+> “to reaffirm faith in fundamental human rights, in the dignity and worth of the human person”
 
-**বাংলা অর্থ:** ১৯৭১ সালের সংকটে আন্তর্জাতিক কূটনীতি মানবিক উদ্বেগের পাশাপাশি প্রধান শক্তিগুলোর শীতল যুদ্ধকালীন অবস্থান দ্বারা প্রভাবিত হয়।  
-**ব্যবহার:** ভারত, সোভিয়েত ইউনিয়ন, যুক্তরাষ্ট্র, চীন ও জাতিসংঘের ভূমিকা।  
-**Source:** UN Digital Library — [Official records](https://digitallibrary.un.org/); U.S. Department of State, Office of the Historian — [FRUS archive](https://history.state.gov/historicaldocuments).
+**Source:** Charter of the United Nations, Preamble (excerpt).  
+**Use:** human dignity, liberation, rights and rebuilding institutions.  
+[UN Charter](https://www.un.org/en/about-us/un-charter/full-text)
 
-## ১০. Victory and Statehood
+## 10. Justice is interconnected
 
-**Exam-ready line (paraphrase):**  
-*The victory of 16 December 1971 fulfilled the Bengali people's aspiration for an independent state, while opening the difficult task of post-war reconstruction.*
+> “Injustice anywhere is a threat to justice everywhere.”
 
-**বাংলা অর্থ:** ১৬ ডিসেম্বর ১৯৭১-এর বিজয় স্বাধীন রাষ্ট্রের আকাঙ্ক্ষা পূরণ করে, একই সঙ্গে যুদ্ধোত্তর পুনর্গঠনের কঠিন কাজ শুরু করে।  
-**ব্যবহার:** বিজয় দিবসের তাৎপর্য, স্বাধীনতার অর্জন, যুদ্ধোত্তর চ্যালেঞ্জ।  
-**Source:** Bangladesh Liberation War Museum — [Official website](https://www.liberationwarmuseumbd.org/); Banglapedia — [Banglapedia portal](https://en.banglapedia.org/).
+**Source:** Martin Luther King Jr., *Letter from Birmingham Jail*, 16 April 1963; King Institute, Stanford University.  
+**Use:** mass violence, international response, justice and solidarity.  
+[Stanford King Institute](https://kinginstitute.stanford.edu/letter-birmingham-jail)
 
-## ১১. Exam-ready Source-backed Lines
+## 11. Representative government
 
-নিচের বাক্যগুলো **নিজস্ব ব্যাখ্যামূলক বাক্য**, direct quotations নয়:
+> “government of the people, by the people, for the people”
 
-| English line | বাংলা পরীক্ষামুখী প্রয়োগ | Source |
-|---|---|---|
-| The Liberation War emerged from the interaction of long-term structural grievances and an immediate political crisis. | মুক্তিযুদ্ধ দীর্ঘমেয়াদি কাঠামোগত অসন্তোষ ও তাৎক্ষণিক রাজনৈতিক সংকটের সম্মিলিত ফল। | Banglapedia; Liberation War Museum |
-| The Language Movement made linguistic dignity central to Bengali political identity. | ভাষা আন্দোলন ভাষাগত মর্যাদাকে বাঙালির রাজনৈতিক পরিচয়ের কেন্দ্রে স্থাপন করে। | Banglapedia; UNESCO |
-| The Six-Point Programme gave a concrete constitutional form to the demand for autonomy. | ছয় দফা স্বায়ত্তশাসনের দাবিকে নির্দিষ্ট সাংবিধানিক রূপ দেয়। | Banglapedia |
-| The 1970 election created a democratic mandate that the ruling authorities failed to honour. | ১৯৭০-এর নির্বাচন যে গণতান্ত্রিক ম্যান্ডেট তৈরি করেছিল, শাসক কর্তৃপক্ষ তা বাস্তবায়ন করেনি। | Banglapedia; Liberation War Museum |
-| The 7 March Speech combined political demands, public mobilisation and preparation for resistance. | ৭ মার্চের ভাষণ রাজনৈতিক দাবি, জনসংগঠন ও প্রতিরোধের প্রস্তুতিকে একত্রিত করে। | UNESCO Memory of the World |
-| The Mujibnagar Government linked the struggle for independence with the functions of an emerging state. | মুজিবনগর সরকার স্বাধীনতার সংগ্রামকে উদীয়মান রাষ্ট্রের কার্যাবলির সঙ্গে যুক্ত করে। | Liberation War Museum; government legal portal |
-| The refugee crisis internationalised the humanitarian consequences of the war. | শরণার্থী সংকট যুদ্ধের মানবিক পরিণতিকে আন্তর্জাতিক পর্যায়ে নিয়ে যায়। | UNHCR; UN Digital Library |
-| The victory of 1971 was followed by the demanding work of reconstruction and rehabilitation. | ১৯৭১-এর বিজয়ের পর পুনর্গঠন ও পুনর্বাসনের কঠিন দায়িত্ব শুরু হয়। | Liberation War Museum; Banglapedia |
+**Source:** Abraham Lincoln, Gettysburg Address, 19 November 1863.  
+**Use:** 1970 election, people's mandate and democratic self-determination.  
+[US National Park Service](https://www.nps.gov/linc/learn/historyculture/gettysburgaddress.htm)
 
-## 12. Quote Source Register
+## 12. Liberty and equality
 
-1. **UNESCO — Memory of the World**: [UNESCO portal](https://www.unesco.org/en/memory-world) — ৭ মার্চের ভাষণের documentary recognition ও নথি।
-2. **UNESCO — International Mother Language Day**: [UNESCO portal](https://www.unesco.org/en/days/mother-language) — ভাষা আন্দোলনের আন্তর্জাতিক তাৎপর্য।
-3. **Banglapedia, Asiatic Society of Bangladesh**: [Banglapedia](https://en.banglapedia.org/) — ভাষা আন্দোলন, ছয় দফা, গণঅভ্যুত্থান, নির্বাচন ও মুক্তিযুদ্ধ।
-4. **Bangladesh Liberation War Museum**: [Official website](https://www.liberationwarmuseumbd.org/) — দলিল, সাক্ষ্য ও ঐতিহাসিক উপকরণ।
-5. **United Nations Digital Library**: [UN Digital Library](https://digitallibrary.un.org/) — ১৯৭১-এর আন্তর্জাতিক নথি।
-6. **UNHCR**: [Official website](https://www.unhcr.org/) — শরণার্থী সংকটের ঐতিহাসিক/মানবিক প্রেক্ষাপট।
-7. **U.S. Department of State, Office of the Historian, FRUS**: [Historical Documents](https://history.state.gov/historicaldocuments) — মার্কিন কূটনীতির প্রাথমিক দলিল।
-8. **Government of Bangladesh legal portal**: [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/) — স্বাধীনতার ঘোষণাপত্র ও আইনগত দলিল অনুসন্ধান।
+> “all men are created equal”
 
-> **Exam tip:** ইংরেজি quotation-এর পর এক বাক্যে অর্থ ব্যাখ্যা করুন, তারপর বাংলাদেশের ঐতিহাসিক উদাহরণ দিন। URL মুখস্থ করার প্রয়োজন নেই; প্রতিষ্ঠানের নাম ও দলিলের নাম মনে রাখুন। উদ্ধৃতির wording যাচাই করতে না পারলে direct quote না লিখে paraphrase ব্যবহার করুন।
+**Source:** United States Declaration of Independence (1776), second paragraph.  
+**Use:** equality, political rights and self-determination.  
+[US National Archives](https://www.archives.gov/founding-docs/declaration-transcript)
 
-[⬆ Chapter 16-এ ফিরে যান](./README.md#top)
+## 13. Cultural diversity
+
+> “Cultural diversity is as necessary for humankind as biodiversity is for nature.”
+
+**Source:** UNESCO, *Universal Declaration on Cultural Diversity* (2001), Article 1.  
+**Use:** Bengali language, cultural identity and linguistic rights.  
+[UNESCO text](https://www.unesco.org/en/legal-affairs/unesco-universal-declaration-cultural-diversity)
+
+## 14. Genocide — legal definition excerpt
+
+> “intent to destroy, in whole or in part, a national, ethnical, racial or religious group”
+
+**Source:** Convention on the Prevention and Punishment of the Crime of Genocide (1948), Article II (excerpt).  
+**Use:** legal distinction between genocide, war crimes and crimes against humanity.  
+[UN official text](https://www.un.org/en/genocideprevention/genocide-convention.shtml)
+
+## 15. Civilian protection in armed conflict
+
+> “Persons taking no active part in the hostilities”
+
+**Source:** Common Article 3 of the four Geneva Conventions (opening phrase of the protected-persons clause).  
+**Use:** civilian protection and international humanitarian law.  
+[ICRC — Geneva Conventions](https://www.icrc.org/en/war-and-law/treaties-customary-law/geneva-conventions)
+
+## 16. A voice against violence
+
+> “The world must be made safe for democracy.”
+
+**Source:** Woodrow Wilson, address to the US Congress requesting a declaration of war, 2 April 1917. Use as a historical political statement, not as an objective description of any particular state.  
+**Use:** democracy and international order.  
+[US National Archives — Wilson's war message](https://www.archives.gov/milestone-documents/president-woodrow-wilsons-14-points)
+
+## 17. Education and peace
+
+> “since wars begin in the minds of men and women it is in the minds of men and women that the defences of peace must be constructed”
+
+**Source:** UNESCO Constitution, Preamble.  
+**Use:** history education, memory, peace-building and prevention of mass violence.  
+[UNESCO Constitution](https://www.unesco.org/en/legal-affairs/constitution)
+
+## 18. Truth and historical memory — exam-ready paraphrase, not a direct quotation
+
+*Historical memory becomes meaningful when testimony, archival evidence and critical inquiry are preserved together.*
+
+**Source note:** Original exam-ready wording composed for this chapter; do not place in quotation marks as a historical quotation.  
+**Use:** museums, memorials, historical research and education.
+
+## 19. Unity and collective action — exam-ready paraphrase, not a direct quotation
+
+*The Liberation War joined political leadership, popular participation, military resistance, cultural expression and international diplomacy in a common struggle.*
+
+**Source note:** Analytical synthesis based on the chapter's cited historical sources; not a quotation attributed to an individual.  
+**Use:** integrated 20-mark essay on causes and success of the Liberation War.
+
+## 20. Independence and responsibility — exam-ready paraphrase, not a direct quotation
+
+*Independence is secured in history and sustained through accountable institutions, equal citizenship and respect for human dignity.*
+
+**Source note:** Original analytical sentence for exam practice; not a historical quotation.  
+**Use:** “Liberation War values and state commitment” essays.
+
+---
+
+## Quick matching table
+
+| BCS question theme | Use quotation |
+|---|---|
+| 1947–1971 background / democratic mandate | 1, 2, 11 |
+| Language Movement / Bengali identity | 13, 17 |
+| 7 March speech | 1 |
+| Mujibnagar Government / state formation | 2, 11 |
+| Genocide, war crimes, refugee crisis | 3, 4, 5, 14, 15 |
+| International diplomacy / peace | 8, 9, 10, 16, 17 |
+| Liberation War values / national development | 3, 9, 11, 18, 19, 20 |
+
+**Exam rule:** One accurate quotation with a clear explanation is stronger than a list of decorative quotations. Keep translation caveats for translated historical speeches.
