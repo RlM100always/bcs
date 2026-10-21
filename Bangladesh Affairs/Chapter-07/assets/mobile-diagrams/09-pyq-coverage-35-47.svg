@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780" role="img" aria-labelledby="title desc">
+<title id="title">Constitution questions in BCS Written 35th–47th archive</title>
+<desc id="desc">Editorial coding of available public question-bank transcripts: direct Constitution-related questions were identified in ten of eleven regular general written papers. The 39th and 42nd special BCS series are excluded; no direct Constitution item was found in the 46th transcript.</desc>
+<rect width="1200" height="780" rx="28" fill="#f8fafc"/>
+<text x="600" y="54" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#172033">BCS WRITTEN 35th–47th: CONSTITUTION PYQ AUDIT</text>
+<text x="600" y="91" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#475569">Editorial coding of public archive transcripts — not official BPSC frequency statistics</text>
+<rect x="75" y="125" width="1050" height="100" rx="20" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="125" y="169" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#1d4ed8">10 / 11</text>
+<text x="125" y="198" font-family="Arial,sans-serif" font-size="18" fill="#1e293b">regular general written papers with a direct Constitution-related question</text>
+<rect x="500" y="155" width="560" height="28" rx="14" fill="#cbd5e1"/>
+<rect x="500" y="155" width="509" height="28" rx="14" fill="#2563eb"/>
+<text x="1072" y="176" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#1d4ed8">91%</text>
+<g font-family="Arial,sans-serif" font-size="21" fill="#172033">
+<text x="100" y="277" font-weight="700">Year</text><text x="250" y="277" font-weight="700">Constitution item found?</text><text x="630" y="277" font-weight="700">Dominant theme in archive transcript</text>
+</g>
+<g font-family="Arial,sans-serif" font-size="20">
+<g><rect x="75" y="295" width="1050" height="37" rx="8" fill="#eff6ff"/><text x="110" y="320" fill="#172033">35th</text><text x="250" y="320" fill="#1d4ed8" font-weight="700">YES</text><text x="630" y="320" fill="#172033">15th Amendment, Parliament, institutions</text></g>
+<g><rect x="75" y="338" width="1050" height="37" rx="8" fill="#ffffff"/><text x="110" y="363" fill="#172033">36th</text><text x="250" y="363" fill="#1d4ed8" font-weight="700">YES</text><text x="630" y="363" fill="#172033">Principles, rights, popular sovereignty, amendments</text></g>
+<g><rect x="75" y="381" width="1050" height="37" rx="8" fill="#eff6ff"/><text x="110" y="406" fill="#172033">37th</text><text x="250" y="406" fill="#1d4ed8" font-weight="700">YES</text><text x="630" y="406" fill="#172033">Principles, Attorney-General, state organs</text></g>
+<g><rect x="75" y="424" width="1050" height="37" rx="8" fill="#ffffff"/><text x="110" y="449" fill="#172033">38th</text><text x="250" y="449" fill="#1d4ed8" font-weight="700">YES</text><text x="630" y="449" fill="#172033">Definition, Parliament, reserved women’s seats</text></g>
+<g><rect x="75" y="467" width="1050" height="37" rx="8" fill="#f1f5f9"/><text x="110" y="492" fill="#172033">39th</text><text x="250" y="492" fill="#64748b" font-weight="700">SPECIAL BCS</text><text x="630" y="492" fill="#475569">Excluded from regular written-paper denominator</text></g>
+<g><rect x="75" y="510" width="1050" height="37" rx="8" fill="#eff6ff"/><text x="110" y="535" fill="#172033">40th</text><text x="250" y="535" fill="#1d4ed8" font-weight="700">YES</text><text x="630" y="535" fill="#172033">State principles, Article 142, 15th Amendment</text></g>
+<g><rect x="75" y="553" width="1050" height="37" rx="8" fill="#ffffff"/><text x="110" y="578" fill="#172033">41st</text><text x="250" y="578" fill="#1d4ed8" font-weight="700">YES</text><text x="630" y="578" fill="#172033">Definition, commencement date, current version</text></g>
+<g><rect x="75" y="596" width="1050" height="37" rx="8" fill="#f1f5f9"/><text x="110" y="621" fill="#172033">42nd</text><text x="250" y="621" fill="#64748b" font-weight="700">SPECIAL BCS</text><text x="630" y="621" fill="#475569">Excluded from regular written-paper denominator</text></g>
+<g><rect x="75" y="639" width="1050" height="37" rx="8" fill="#eff6ff"/><text x="110" y="664" fill="#172033">43rd–45th</text><text x="250" y="664" fill="#1d4ed8" font-weight="700">YES</text><text x="630" y="664" fill="#172033">Principles, EC/local government, supremacy, preamble</text></g>
+<g><rect x="75" y="682" width="1050" height="37" rx="8" fill="#ffffff"/><text x="110" y="707" fill="#172033">46th</text><text x="250" y="707" fill="#b45309" font-weight="700">NO DIRECT ITEM</text><text x="630" y="707" fill="#172033">Adjacent governance theme; no direct constitutional prompt</text></g>
+<g><rect x="75" y="725" width="1050" height="37" rx="8" fill="#eff6ff"/><text x="110" y="750" fill="#172033">47th</text><text x="250" y="750" fill="#1d4ed8" font-weight="700">YES</text><text x="630" y="750" fill="#172033">Article 39: thought, conscience, speech and press</text></g>
+</g>
+</svg>
