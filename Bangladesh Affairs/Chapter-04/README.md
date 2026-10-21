@@ -4,7 +4,7 @@
 > **পাঠের কাঠামো:** ঐতিহাসিক প্রেক্ষাপট → অর্থনৈতিক রূপান্তর → সমাজ ও মানব উন্নয়ন → সাহিত্য-সংস্কৃতি → বৈষম্য ও চ্যালেঞ্জ → নীতিগত বিশ্লেষণ → পরীক্ষার উত্তর।  
 > **সর্বশেষ উৎস-পর্যালোচনা:** ২১ অক্টোবর ২০২৬। পরিবর্তনশীল পরিসংখ্যানের পাশে উৎস ও বছর দেওয়া হয়েছে।
 
-[← Bangladesh Affairs-এর মূল সূচি](../README.md) · [Chapter 01 — ভূগোল](../Chapter-01/README.md) · [Chapter 02 — জনমিতি](../Chapter-02/README.md)
+[← Bangladesh Affairs-এর মূল সূচি](../README.md) · [Chapter 01 — ভূগোল](../Chapter-01/README.md) · [Chapter 02 — জনমিতি](../Chapter-02/README.md) · [📚 PYQ Analysis + গুরুত্বপূর্ণ প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [Source-backed Exam Lines](./QUOTATIONS.md)
 
 <a id="top"></a>
 
