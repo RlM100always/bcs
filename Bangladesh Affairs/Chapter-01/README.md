@@ -16,8 +16,8 @@
 
 | রং | GitHub-এ কী দেখবেন | কী করবেন |
 |---|---|---|
-| 🟨 **Exact Yellow · `#FFF200`** | ৩০টি উত্তরে গুরুত্বপূর্ণ তথ্যের পেছনে নির্দিষ্ট হলুদ রঙের হাইলাইট ছবি | হলুদ অংশ পড়ুন, তারপর নিচের টেক্সট বুঝুন |
-| 🟩 **Green · Memory TIP** | সবুজ-চিহ্নিত TIP বক্সে স্মরণসূত্র | ১০ সেকেন্ডে না দেখে বলুন |
+| 🟨 **Yellow · Key Facts** | গুরুত্বপূর্ণ বাক্যের **পেছনে একই inline highlight** | সাল, সংখ্যা ও মূল ধারণা আগে পড়ুন |
+| 🟩 **Green · Memory Trick** | সবুজ GitHub **TIP** callout-এ এক লাইনের সূত্র | ১০ সেকেন্ড না দেখে মনে করুন |
 | 🟦 **Blue · Source Evidence** | নীল **NOTE** তথ্যবক্স | প্রতিষ্ঠানের নাম + প্রকাশনার নাম শিখুন |
 | 🟪 **Purple · Must Know** | **IMPORTANT** তথ্যবক্স | সংজ্ঞা ও মূল ব্যাখ্যা ভালোভাবে বুঝুন |
 
@@ -25,7 +25,7 @@
 > 🟢 **পড়ার সহজ নিয়ম (Chunk → Recall → Repeat):** ১টি ছোট অংশ পড়ুন → ১০ সেকেন্ড চোখ বন্ধ করে ৩টি keyword বলুন → নিচের ছবি/টেবিল দেখে মিলিয়ে নিন → শেষে একটি ইংরেজি প্রশ্নের বাংলা উত্তর নিজে বলুন।
 
 > [!WARNING]
-> 🟡 **একটি সতর্কতা:** সব লাইন রঙিন করলে গুরুত্বপূর্ণ লাইন আর আলাদা করে চোখে পড়ে না। তাই **শুধু পরীক্ষায় প্রয়োজনীয় সংখ্যা/ভুল হলুদ**, **মুখস্থের সূত্র সবুজ**, এবং **উৎস নীল** রাখা হয়েছে। GitHub README-তে নির্দিষ্ট inline CSS রং সমর্থিত নয়; তাই ৩০টি প্রশ্নের গুরুত্বপূর্ণ অংশে #FFF200 হলুদ ব্যাকগ্রাউন্ডসহ SVG highlight যোগ করা হয়েছে। মূল উত্তরও কপি-যোগ্য টেক্সট হিসাবে নিচে রয়েছে।
+> 🟡 **একটি সতর্কতা:** সব লাইন রঙিন করলে গুরুত্বপূর্ণ লাইন আর আলাদা করে চোখে পড়ে না। তাই **শুধু পরীক্ষায় প্রয়োজনীয় সংখ্যা/ভুল হলুদ**, **মুখস্থের সূত্র সবুজ**, এবং **উৎস নীল** রাখা হয়েছে। GitHub README-তে নিজের পছন্দমতো CSS background রং নির্ভরযোগ্য নয়। তাই গুরুত্বপূর্ণ বাক্যের পেছনে সর্বত্র একই HTML marker ব্যবহার করা হয়েছে। GitHub-এর light/dark theme অনুযায়ী marker-এর নির্দিষ্ট রং কিছুটা বদলাতে পারে; তবে **এক ধরনের তথ্যের জন্য একটি অভিন্ন highlighting পদ্ধতিই ব্যবহার করা হয়েছে**। লেখা কপি করা যাবে।
 
 ### 🧭 Quick Navigation — Click to Jump
 
@@ -385,9 +385,6 @@ D --> E["More resilient farming livelihoods"]
 ---
 
 
-**🟩 Remember:** ![BARIND: OLD-TERRACE](https://img.shields.io/badge/BARIND-OLD-TERRACE-228B22?style=flat-square)
-
-
 **একটি দৃশ্য কল্পনা করুন:** উত্তর-পশ্চিমে তুলনামূলক উঁচু, প্রাচীন ভূমি—যেখানে বর্ষা ও শুষ্ক মৌসুমে পানির ব্যবস্থাপনা এক রকম নয়। এখানেই বরেন্দ্রভূমির ধারণা স্পষ্ট হয়।
 
 - 🧭 **কোথায় (Location):** রাজশাহী–নওগাঁ–চাঁপাইনবাবগঞ্জসহ উত্তর-পশ্চিমের বিস্তৃত অঞ্চলের সঙ্গে বরেন্দ্রভূমির সম্পর্ক রয়েছে। **ভূপ্রাকৃতিক সীমানা** ও জেলার প্রশাসনিক সীমানা এক নয়।
@@ -487,13 +484,10 @@ flowchart TD
 ---
 
 
-**🟩 Remember:** ![MADHUPUR: OLD-RAISED-LAND](https://img.shields.io/badge/MADHUPUR-OLD-RAISED-LAND-228B22?style=flat-square)
-
-
 **বরেন্দ্র থেকে এবার মধ্যবাংলায় আসুন।** এখানেও একটি অপেক্ষাকৃত পুরোনো উঁচু ভূমিখণ্ড আছে—মধুপুর গড়। কিন্তু দুটির অবস্থান ও ভূমি ব্যবহারের প্রেক্ষাপট এক নয়।
 
 - 🧭 **অবস্থান:** মধ্যবাংলার মধুপুর অঞ্চল।
-- 🪨 **ভূপ্রকৃতি:** <mark>**Pleistocene Terrace**</mark>—চারপাশের নবীন নদীপললভূমি থেকে আলাদা।
+- 🪨 **ভূপ্রকৃতি:** **<mark>Pleistocene Terrace</mark>**—চারপাশের নবীন নদীপললভূমি থেকে আলাদা।
 - 🌳 **বৈশিষ্ট্য:** বনভূমি, মাটি ও ভূমি ব্যবহারের পরিবর্তন বোঝার জন্য গুরুত্বপূর্ণ।
 - 🏙️ **চ্যালেঞ্জ:** বন রক্ষা, বসতি ও অবকাঠামো সম্প্রসারণের মধ্যে ভারসাম্য।
 
@@ -601,9 +595,6 @@ E --> F["Early warning + crop timing + drainage"]
 ---
 
 
-**🟩 Remember:** ![HAOR: BORO-AND-FLASH-FLOOD](https://img.shields.io/badge/HAOR-BORO-AND-FLASH-FLOOD-228B22?style=flat-square)
-
-
 **এবার উত্তর-পূর্বের নিচু হাওরে পৌঁছালেন।** শুষ্ক মৌসুমে বিস্তৃত জমিতে <mark>বোরো ধান</mark> হতে পারে; বর্ষাকালে একই জায়গা পানিতে ভরে যায়। ফসল কাটার আগে পাহাড়ি ঢল এলে ক্ষতি কেন হয়—এবার বিষয়টি সহজে বোঝা যায়।
 
 - 🧭 **অবস্থান:** উত্তর-পূর্বাঞ্চলের নিচু অববাহিকাগুলো; সুনামগঞ্জের হাওর পরিচিত উদাহরণ।
@@ -663,9 +654,6 @@ flowchart TD
 > [!NOTE]
 > 🟦 **Named sources (মূল আলোচনা যাচাইয়ের জন্য):** Banglapedia — Asiatic Society of Bangladesh, Bangladesh Geography; GED — Bangladesh Delta Plan 2100। মূল নথির লিংক [Sources & Evidence](#sources) অংশে রয়েছে।
 
-
-
-**🟩 Remember:** ![HILLS: SLOPE-AND-LANDSLIDE](https://img.shields.io/badge/HILLS-SLOPE-AND-LANDSLIDE-228B22?style=flat-square)
 
 
 **সমতল ছেড়ে পাহাড়ে উঠুন।** একই বৃষ্টিপাত সমতলে জমে থাকতে পারে, কিন্তু ঢালু পাহাড়ে দ্রুত নেমে যায়; অপরিকল্পিত পাহাড় কাটায় সেই ঢাল আরও ঝুঁকিপূর্ণ হতে পারে।
@@ -735,9 +723,6 @@ flowchart TD
 
 
 
-**🟩 Remember:** ![SUNDARBANS: MANGROVE-AND-TIDE](https://img.shields.io/badge/SUNDARBANS-MANGROVE-AND-TIDE-228B22?style=flat-square)
-
-
 **এবার নদীর মিঠাপানি ও সাগরের লবণাক্ত পানির মিলনস্থলে আসুন।** জোয়ার-ভাটার সঙ্গে মানিয়ে নেওয়া ম্যানগ্রোভ বন—সুন্দরবন—এই ভূপ্রাকৃতিক প্রক্রিয়ার পরিচিত উদাহরণ।
 
 - 🌊 **পরিবেশ:** <mark>Tidal Floodplain</mark>—জোয়ারভাটা, লবণাক্ততা ও নদীর পলির সম্মিলিত প্রভাব।
@@ -796,9 +781,6 @@ flowchart TD
 > [!NOTE]
 > 🟦 **Named sources (মূল আলোচনা যাচাইয়ের জন্য):** Banglapedia — Asiatic Society of Bangladesh, Bangladesh Geography; GED — Bangladesh Delta Plan 2100। মূল নথির লিংক [Sources & Evidence](#sources) অংশে রয়েছে।
 
-
-
-**🟩 Remember:** ![COAST: SEDIMENT-AND-WAVES](https://img.shields.io/badge/COAST-SEDIMENT-AND-WAVES-228B22?style=flat-square)
 
 
 **শেষে বঙ্গোপসাগরের দিকে তাকান।** নদী পলি নিয়ে আসে; সাগরের তরঙ্গ, জোয়ার ও স্রোত সেই পলি কোথায় জমবে বা কোথায় ক্ষয় হবে, তা প্রভাবিত করে। তাই উপকূল একটানা একই রকম থাকে না।
@@ -931,7 +913,7 @@ F --> G["স্থানিক পরিকল্পনা, পূর্বা�
 
 ### ৫.২ Maritime Legal Zones — ১২/২৪/২০০ কোথা থেকে মাপা হয়, অধিকার কী?
 
-<mark>**12 / 24 / 200 nautical miles**</mark> তিনটি পৃথক সামুদ্রিক আইনগত অঞ্চল বোঝায়। সব দূরত্ব সমুদ্রসীমা নির্ধারণে প্রযোজ্য **baseline** থেকে বিবেচিত হয়; প্রতিবেশী দেশের সঙ্গে overlap থাকলে ঘোষিত সর্বোচ্চ দূরত্ব স্বয়ংক্রিয়ভাবে কার্যকর দ্বিপক্ষীয় সীমানা নয়।
+**<mark>12 / 24 / 200 nautical miles</mark>** তিনটি পৃথক সামুদ্রিক আইনগত অঞ্চল বোঝায়। সব দূরত্ব সমুদ্রসীমা নির্ধারণে প্রযোজ্য **baseline** থেকে বিবেচিত হয়; প্রতিবেশী দেশের সঙ্গে overlap থাকলে ঘোষিত সর্বোচ্চ দূরত্ব স্বয়ংক্রিয়ভাবে কার্যকর দ্বিপক্ষীয় সীমানা নয়।
 
 | Zone | Maximum distance from baseline | রাষ্ট্রের অধিকার ও সীমা | False claim to avoid |
 |---|---|---|---|
@@ -1334,11 +1316,7 @@ E -->|না| C
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q01**
-
-![Q01 facts highlighted with exact yellow background](./assets/highlights/q01-yellow.svg)
-
-**ভূমিকা:** বাংলাদেশ দক্ষিণ এশিয়ার উত্তর-পূর্বাংশে, গঙ্গা–ব্রহ্মপুত্র–মেঘনা নদীব্যবস্থার নিম্ন অববাহিকায় অবস্থিত একটি ব-দ্বীপীয় রাষ্ট্র। অবস্থান বোঝাতে **Absolute Location** (অক্ষাংশ–দ্রাঘিমাংশ) এবং **Relative Location** (প্রতিবেশী ও সমুদ্রের তুলনায় অবস্থান)—দুটিই বলতে হবে।
+**ভূমিকা:** <mark>বাংলাদেশ দক্ষিণ এশিয়ার উত্তর-পূর্বাংশে, গঙ্গা–ব্রহ্মপুত্র–মেঘনা নদীব্যবস্থার নিম্ন অববাহিকায়</mark> অবস্থিত একটি ব-দ্বীপীয় রাষ্ট্র। অবস্থান বোঝাতে **Absolute Location** (অক্ষাংশ–দ্রাঘিমাংশ) এবং **Relative Location** (প্রতিবেশী ও সমুদ্রের তুলনায় অবস্থান)—দুটিই বলতে হবে।
 
 **অবস্থান ও সীমানা:**
 1. **জ্যোতির্বৈজ্ঞানিক অবস্থান:** প্রায় **২০°৩৪′–২৬°৩৮′ উত্তর অক্ষাংশ** ও **৮৮°০১′–৯২°৪১′ পূর্ব দ্রাঘিমাংশ** [S4]।
@@ -1377,11 +1355,7 @@ flowchart LR
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q02**
-
-![Q02 facts highlighted with exact yellow background](./assets/highlights/q02-yellow.svg)
-
-**ভূমিকা:** ভূমির উচ্চতা, গঠন, বয়স, ঢাল ও মাটির বৈশিষ্ট্য অনুযায়ী বাংলাদেশের ভূপ্রকৃতিকে তিনটি প্রধান ভাগে বিশ্লেষণ করা যায়—**নবীন প্লাবনভূমি**, **প্লাইস্টোসিন সোপান** এবং **পাহাড়ি অঞ্চল** [S2][S3]।
+**ভূমিকা:** <mark>ভূমির উচ্চতা, গঠন, বয়স, ঢাল ও মাটির বৈশিষ্ট্য অনুযায়ী বাংলাদেশের ভূপ্রকৃতিকে তিনটি প্রধান ভাগে</mark> বিশ্লেষণ করা যায়—**নবীন প্লাবনভূমি**, **প্লাইস্টোসিন সোপান** এবং **পাহাড়ি অঞ্চল** [S2][S3]।
 
 | প্রধান ভূমিরূপ | কোথায় দেখা যায় | বৈশিষ্ট্য | জীবিকা ও ঝুঁকি |
 |---|---|---|---|
@@ -1423,11 +1397,7 @@ flowchart TD
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q03**
-
-![Q03 important facts highlighted with exact yellow background](./assets/highlights/q03-yellow.svg)
-
-**ভূমিকা:** কোনো দেশের **ভূরাজনৈতিক অবস্থান** বলতে তার ভূগোল কীভাবে নিরাপত্তা, বাণিজ্য, প্রতিবেশী সম্পর্ক ও রাষ্ট্রীয় নীতিকে প্রভাবিত করে তা বোঝায়। বাংলাদেশ দক্ষিণ এশিয়ার স্থলভাগ ও বঙ্গোপসাগরের সামুদ্রিক পথের সংযোগস্থলে গুরুত্বপূর্ণ অবস্থানে রয়েছে।
+**ভূমিকা:** <mark>কোনো দেশের **ভূরাজনৈতিক অবস্থান** বলতে তার ভূগোল কীভাবে নিরাপত্তা</mark>, বাণিজ্য, প্রতিবেশী সম্পর্ক ও রাষ্ট্রীয় নীতিকে প্রভাবিত করে তা বোঝায়। বাংলাদেশ দক্ষিণ এশিয়ার স্থলভাগ ও বঙ্গোপসাগরের সামুদ্রিক পথের সংযোগস্থলে গুরুত্বপূর্ণ অবস্থানে রয়েছে।
 
 **কৌশলগত সুযোগ:**
 1. **সমুদ্রবন্দর ও বাণিজ্য:** চট্টগ্রাম, মোংলা ও পায়রা-সংলগ্ন বন্দর অবকাঠামো আন্তর্জাতিক বাণিজ্যের সম্ভাবনা তৈরি করে; বাস্তব সুবিধা নির্ভর করে সক্ষমতা ও সংযোগের ওপর।
@@ -1474,11 +1444,7 @@ flowchart LR
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q04**
-
-![Q04 facts highlighted with exact yellow background](./assets/highlights/q04-yellow.svg)
-
-**ভূমিকা:** বঙ্গোপসাগর বাংলাদেশের দক্ষিণের সমুদ্রসীমা এবং আন্তর্জাতিক নৌপথ, উপকূলীয় জীবন ও সামুদ্রিক সম্পদের সঙ্গে দেশের অর্থনীতিকে যুক্ত করে। **Blue Economy** বলতে সামুদ্রিক সম্পদ ব্যবহারের সঙ্গে দীর্ঘমেয়াদি পরিবেশ সংরক্ষণের সমন্বয় বোঝায়।
+**ভূমিকা:** <mark>বঙ্গোপসাগর বাংলাদেশের দক্ষিণের সমুদ্রসীমা এবং আন্তর্জাতিক নৌপথ, উপকূলীয় জীবন ও সামুদ্রিক</mark> সম্পদের সঙ্গে দেশের অর্থনীতিকে যুক্ত করে। **Blue Economy** বলতে সামুদ্রিক সম্পদ ব্যবহারের সঙ্গে দীর্ঘমেয়াদি পরিবেশ সংরক্ষণের সমন্বয় বোঝায়।
 
 **অর্থনৈতিক গুরুত্ব:**
 1. **বৈদেশিক বাণিজ্য:** সমুদ্রপথে পণ্য পরিবহন, বন্দর-লজিস্টিকস ও কনটেইনার সেবা আমদানি–রপ্তানির গুরুত্বপূর্ণ অবকাঠামো।
@@ -1523,11 +1489,7 @@ flowchart LR
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q05**
-
-![Q05 facts highlighted with exact yellow background](./assets/highlights/q05-yellow.svg)
-
-**ভূমিকা:** বদ্বীপের সব অংশে নদীর পলি সঞ্চয়ের মাত্রা এক নয়। এ পার্থক্য বোঝাতে **Active Delta** এবং **Moribund/Inactive Delta** পরিভাষা ব্যবহৃত হয় [S2]।
+**ভূমিকা:** <mark>বদ্বীপের সব অংশে নদীর পলি সঞ্চয়ের মাত্রা এক নয়</mark>। এ পার্থক্য বোঝাতে **Active Delta** এবং **Moribund/Inactive Delta** পরিভাষা ব্যবহৃত হয় [S2]।
 
 | বিচার্য বিষয় | সক্রিয় বদ্বীপ | অপেক্ষাকৃত নিষ্ক্রিয়/মরিবান্ড বদ্বীপ |
 |---|---|---|
@@ -1571,11 +1533,7 @@ flowchart TD
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q06**
-
-![Q06 facts highlighted with exact yellow background](./assets/highlights/q06-yellow.svg)
-
-**ভূমিকা:** গঙ্গা–ব্রহ্মপুত্র–মেঘনা (GBM) বদ্বীপ নদী, পলি, সমুদ্রের জোয়ার এবং ভূ-অবনমনের দীর্ঘমেয়াদি যৌথ প্রক্রিয়ায় গড়ে উঠেছে। এটি একবার তৈরি হয়ে স্থির থাকা ভূমি নয়।
+**ভূমিকা:** <mark>গঙ্গা–ব্রহ্মপুত্র–মেঘনা (GBM) বদ্বীপ নদী, পলি, সমুদ্রের জোয়ার এবং ভূ-অবনমনের দীর্ঘমেয়াদি যৌথ</mark> প্রক্রিয়ায় গড়ে উঠেছে। এটি একবার তৈরি হয়ে স্থির থাকা ভূমি নয়।
 
 **গঠনের ধাপ:**
 1. **পলি উৎপাদন:** হিমালয় ও বৃহত্তর অববাহিকার শিলা–মাটির ক্ষয় থেকে বালি, পলি ও কাদা তৈরি হয়।
@@ -1615,11 +1573,7 @@ flowchart LR
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q07**
-
-![Q07 facts highlighted with exact yellow background](./assets/highlights/q07-yellow.svg)
-
-**ভূমিকা:** বরেন্দ্রভূমি ও মধুপুর গড়—উভয়ই বাংলাদেশের **প্লাইস্টোসিন সোপানভূমি**। তবে অবস্থান, প্রাকৃতিক পরিবেশ ও ভূমি ব্যবহারে পার্থক্য রয়েছে [S2][S3]।
+**ভূমিকা:** <mark>বরেন্দ্রভূমি ও মধুপুর গড়—উভয়ই বাংলাদেশের</mark> **প্লাইস্টোসিন সোপানভূমি**। তবে অবস্থান, প্রাকৃতিক পরিবেশ ও ভূমি ব্যবহারে পার্থক্য রয়েছে [S2][S3]।
 
 | তুলনার বিষয় | বরেন্দ্রভূমি (Barind) | মধুপুর গড় (Madhupur) |
 |---|---|---|
@@ -1657,11 +1611,7 @@ flowchart TD
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q08**
-
-![Q08 facts highlighted with exact yellow background](./assets/highlights/q08-yellow.svg)
-
-**ভূমিকা:** বরেন্দ্র অঞ্চলের পানিসংকটকে শুধু কম বৃষ্টিপাত দিয়ে বোঝানো যায় না। ভূমিরূপ, মৌসুমি বৃষ্টির বণ্টন, ভূগর্ভস্থ পানি উত্তোলন এবং কৃষির পানিচাহিদা একসঙ্গে খরাজনিত চাপ বাড়ায়।
+**ভূমিকা:** <mark>বরেন্দ্র অঞ্চলের পানিসংকটকে শুধু কম বৃষ্টিপাত দিয়ে বোঝানো যায় না</mark>। ভূমিরূপ, মৌসুমি বৃষ্টির বণ্টন, ভূগর্ভস্থ পানি উত্তোলন এবং কৃষির পানিচাহিদা একসঙ্গে খরাজনিত চাপ বাড়ায়।
 
 **প্রধান কারণ:**
 1. **উঁচু সোপান ও মাটি:** কিছু পুরোনো সোপানভূমিতে পানি দ্রুত নেমে যায় বা মাটির স্তরের কারণে বৃষ্টির পানি ধারণ–প্রবেশ সীমিত হয়; অবস্থাভেদে ভিন্নতা আছে।
@@ -1701,11 +1651,7 @@ flowchart TD
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q09**
-
-![Q09 facts highlighted with exact yellow background](./assets/highlights/q09-yellow.svg)
-
-**ভূমিকা:** বাংলাদেশের নদীখাত স্থির নয়। ব্রহ্মপুত্র নদীর প্রধান প্রবাহ একসময় বর্তমান **পুরাতন ব্রহ্মপুত্র** পথে প্রবাহিত হলেও সময়ের সঙ্গে পশ্চিমদিকে যমুনা পথ গুরুত্বপূর্ণ হয়ে ওঠে [S12]।
+**ভূমিকা:** <mark>বাংলাদেশের নদীখাত স্থির নয়</mark>। ব্রহ্মপুত্র নদীর প্রধান প্রবাহ একসময় বর্তমান **পুরাতন ব্রহ্মপুত্র** পথে প্রবাহিত হলেও সময়ের সঙ্গে পশ্চিমদিকে যমুনা পথ গুরুত্বপূর্ণ হয়ে ওঠে [S12]।
 
 **ঐতিহাসিক বিবর্তন:**
 1. **পুরোনো প্রবাহপথ:** ব্রহ্মপুত্র ময়মনসিংহ অঞ্চলের দিকে দক্ষিণে বয়ে ভৈরববাজার-সংলগ্ন দিকে মেঘনা ব্যবস্থার সঙ্গে যুক্ত হতো।
@@ -1743,11 +1689,7 @@ flowchart LR
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q10**
-
-![Q10 facts highlighted with exact yellow background](./assets/highlights/q10-yellow.svg)
-
-**ভূমিকা:** চর, হাওর, বিল ও বাঁওড়—চারটি শব্দই বাংলাদেশের জল–ভূমির সঙ্গে সম্পর্কিত, কিন্তু **উৎপত্তি, আকৃতি, মৌসুম ও ব্যবহার** এক নয়।
+**ভূমিকা:** <mark>চর, হাওর, বিল ও বাঁওড়—চারটি শব্দই বাংলাদেশের জল–ভূমির সঙ্গে সম্পর্কিত, কিন্তু</mark> **উৎপত্তি, আকৃতি, মৌসুম ও ব্যবহার** এক নয়।
 
 | ধরন | সহজ সংজ্ঞা ও গঠন | প্রধান উদাহরণ/অঞ্চল | জীবিকা ও ঝুঁকি |
 |---|---|---|---|
@@ -1790,11 +1732,7 @@ flowchart TD
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q11**
-
-![Q11 facts highlighted with exact yellow background](./assets/highlights/q11-yellow.svg)
-
-**ভূমিকা:** হাওর হলো বাংলাদেশের উত্তর-পূর্বাঞ্চলের বিস্তৃত নিচু অববাহিকা, যেখানে বর্ষায় বড় জলরাশি সৃষ্টি হয় এবং শুষ্ক মৌসুমে জমিতে বোরো ধান চাষ হয়। তাই **আগাম আকস্মিক বন্যা (Flash Flood)** কৃষি ও জীবিকার বড় ঝুঁকি।
+**ভূমিকা:** <mark>হাওর হলো বাংলাদেশের উত্তর-পূর্বাঞ্চলের বিস্তৃত নিচু অববাহিকা, যেখানে বর্ষায় বড় জলরাশি সৃষ্টি</mark> হয় এবং শুষ্ক মৌসুমে জমিতে বোরো ধান চাষ হয়। তাই **আগাম আকস্মিক বন্যা (Flash Flood)** কৃষি ও জীবিকার বড় ঝুঁকি।
 
 **কেন ঝুঁকি বেশি?**
 1. **অববাহিকার আকৃতি:** চারপাশের তুলনায় নিচু হাওরে বন্যার পানি দ্রুত জমা হতে পারে।
@@ -1839,11 +1777,7 @@ flowchart TD
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q12**
-
-![Q12 facts highlighted with exact yellow background](./assets/highlights/q12-yellow.svg)
-
-**ভূমিকা:** নদীভাঙন (Erosion) নদীতীর থেকে মাটি সরিয়ে নেয়; পলি সঞ্চয় (Deposition/Accretion) অন্য জায়গায় নতুন ভূমি বা চর গড়ে। বাংলাদেশের বসতি ও জীবিকা এই দুই বিপরীত অথচ সম্পর্কযুক্ত প্রক্রিয়ায় বদলায় [S2]।
+**ভূমিকা:** <mark>নদীভাঙন (Erosion) নদীতীর থেকে মাটি সরিয়ে নেয়; পলি সঞ্চয় (Deposition/Accretion) অন্য জায়গায়</mark> নতুন ভূমি বা চর গড়ে। বাংলাদেশের বসতি ও জীবিকা এই দুই বিপরীত অথচ সম্পর্কযুক্ত প্রক্রিয়ায় বদলায় [S2]।
 
 **বসতিতে প্রভাব:**
 1. **ভিটা ও জমি হারানো:** ভাঙনে বাড়িঘর, কৃষিজমি ও স্থানীয় রাস্তা বিলীন হলে পরিবার স্থানান্তরে বাধ্য হতে পারে।
@@ -1884,11 +1818,7 @@ flowchart LR
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q13**
-
-![Q13 facts highlighted with exact yellow background](./assets/highlights/q13-yellow.svg)
-
-**ভূমিকা:** সুন্দরবন বাংলাদেশের দক্ষিণ-পশ্চিমে গঙ্গা–ব্রহ্মপুত্র–মেঘনা বদ্বীপের মোহনা-সংলগ্ন একটি জোয়ারভাটা-প্রভাবিত **ম্যানগ্রোভ প্রতিবেশব্যবস্থা**। এটি জীববৈচিত্র্য, উপকূলীয় সুরক্ষা ও মানুষের জীবিকার সঙ্গে যুক্ত [S11]।
+**ভূমিকা:** <mark>সুন্দরবন বাংলাদেশের দক্ষিণ-পশ্চিমে গঙ্গা–ব্রহ্মপুত্র–মেঘনা বদ্বীপের মোহনা-সংলগ্ন একটি</mark> জোয়ারভাটা-প্রভাবিত **ম্যানগ্রোভ প্রতিবেশব্যবস্থা**। এটি জীববৈচিত্র্য, উপকূলীয় সুরক্ষা ও মানুষের জীবিকার সঙ্গে যুক্ত [S11]।
 
 **প্রধান গুরুত্ব:**
 1. **জীববৈচিত্র্যের আবাস:** বাঘ, কুমির, হরিণ, পাখি, মাছ ও নানা ম্যানগ্রোভ উদ্ভিদের জন্য বিশেষ পরিবেশ।
@@ -1933,11 +1863,7 @@ flowchart TD
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q14**
-
-![Q14 facts highlighted with exact yellow background](./assets/highlights/q14-yellow.svg)
-
-**ভূমিকা:** বাংলাদেশের উপকূলীয় ভূগোল বঙ্গোপসাগর, মোহনা, জোয়ারভাটা, পলি সঞ্চয়, ঘূর্ণিঝড় ও লবণাক্ততার দ্বারা গঠিত। ফলে একদিকে অর্থনৈতিক সুযোগ, অন্যদিকে ঝুঁকি ও পরিবেশগত সীমা আছে।
+**ভূমিকা:** <mark>বাংলাদেশের উপকূলীয় ভূগোল বঙ্গোপসাগর, মোহনা, জোয়ারভাটা, পলি সঞ্চয়, ঘূর্ণিঝড় ও লবণাক্ততার দ্বারা</mark> গঠিত। ফলে একদিকে অর্থনৈতিক সুযোগ, অন্যদিকে ঝুঁকি ও পরিবেশগত সীমা আছে।
 
 | ক্ষেত্র | সুযোগ | সীমাবদ্ধতা |
 |---|---|---|
@@ -1981,11 +1907,7 @@ flowchart LR
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q15**
-
-![Q15 facts highlighted with exact yellow background](./assets/highlights/q15-yellow.svg)
-
-**ভূমিকা:** একটি রাষ্ট্রের সমুদ্র-অধিকার সব জলরাশিতে সমান নয়। **Territorial Sea**, **Contiguous Zone** এবং **Exclusive Economic Zone (EEZ)** ভিন্ন আইনি অঞ্চল। নিচের দূরত্বগুলো সাধারণভাবে **Territorial Sea Baseline** থেকে মাপা হয় [S8]।
+**ভূমিকা:** <mark>একটি রাষ্ট্রের সমুদ্র-অধিকার সব জলরাশিতে সমান নয়</mark>। **Territorial Sea**, **Contiguous Zone** এবং **Exclusive Economic Zone (EEZ)** ভিন্ন আইনি অঞ্চল। নিচের দূরত্বগুলো সাধারণভাবে **Territorial Sea Baseline** থেকে মাপা হয় [S8]।
 
 | বৈশিষ্ট্য | Territorial Sea | Contiguous Zone | EEZ |
 |---|---|---|---|
@@ -2028,11 +1950,7 @@ flowchart LR
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q16**
-
-![Q16 facts highlighted with exact yellow background](./assets/highlights/q16-yellow.svg)
-
-**ভূমিকা:** বঙ্গোপসাগরে প্রতিবেশী রাষ্ট্রের সঙ্গে ওভারল্যাপিং সমুদ্রসীমা নির্ধারণ বাংলাদেশের জন্য গুরুত্বপূর্ণ আইনগত ও কৌশলগত বিষয়। **২০১২** ও **২০১৪** সালের দুটি বিচারিক সিদ্ধান্ত এই প্রশ্নে বড় অগ্রগতি আনে।
+**ভূমিকা:** <mark>বঙ্গোপসাগরে প্রতিবেশী রাষ্ট্রের সঙ্গে ওভারল্যাপিং সমুদ্রসীমা নির্ধারণ বাংলাদেশের জন্য</mark> গুরুত্বপূর্ণ আইনগত ও কৌশলগত বিষয়। **২০১২** ও **২০১৪** সালের দুটি বিচারিক সিদ্ধান্ত এই প্রশ্নে বড় অগ্রগতি আনে।
 
 | সাল ও সংস্থা | কোন বিরোধ | মূল তাৎপর্য |
 |---|---|---|
@@ -2073,11 +1991,7 @@ flowchart LR
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q17**
-
-![Q17 facts highlighted with exact yellow background](./assets/highlights/q17-yellow.svg)
-
-**ভূমিকা:** বাংলাদেশের কৃষির ধরন নির্ভর করে ভূমির উচ্চতা, মাটির প্রকৃতি, পানির প্রাপ্যতা, বন্যার মৌসুম ও লবণাক্ততার ওপর। তাই দেশের সব স্থানে একই ফসল বা সেচব্যবস্থা উপযুক্ত নয়।
+**ভূমিকা:** <mark>বাংলাদেশের কৃষির ধরন নির্ভর করে ভূমির উচ্চতা, মাটির প্রকৃতি, পানির প্রাপ্যতা, বন্যার মৌসুম ও</mark> লবণাক্ততার ওপর। তাই দেশের সব স্থানে একই ফসল বা সেচব্যবস্থা উপযুক্ত নয়।
 
 | অঞ্চল | ভৌগোলিক প্রভাব | কৃষিতে তার প্রতিফলন |
 |---|---|---|
@@ -2119,11 +2033,7 @@ flowchart TD
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q18**
-
-![Q18 facts highlighted with exact yellow background](./assets/highlights/q18-yellow.svg)
-
-**ভূমিকা:** বাংলাদেশের পরিবহনব্যবস্থা নদীজাল, নিম্ন প্লাবনভূমি, সোপানভূমি, পাহাড় ও উপকূলের উপর দাঁড়িয়ে গড়ে উঠেছে। ভূপ্রকৃতি কোনো স্থানে যোগাযোগ সহজ করে, অন্য স্থানে ব্যয় ও ঝুঁকি বাড়ায়।
+**ভূমিকা:** <mark>বাংলাদেশের পরিবহনব্যবস্থা নদীজাল, নিম্ন প্লাবনভূমি, সোপানভূমি, পাহাড় ও উপকূলের উপর দাঁড়িয়ে গড়ে</mark> উঠেছে। ভূপ্রকৃতি কোনো স্থানে যোগাযোগ সহজ করে, অন্য স্থানে ব্যয় ও ঝুঁকি বাড়ায়।
 
 **ভৌগোলিক প্রভাব:**
 1. **নদীপথ:** পদ্মা–যমুনা–মেঘনাসহ নৌপথ পণ্য ও যাত্রী পরিবহনের ঐতিহ্যবাহী ভিত্তি; কিন্তু নাব্যতা ও খাত পরিবর্তন চলাচলে প্রভাব ফেলে।
@@ -2166,11 +2076,7 @@ flowchart LR
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q19**
-
-![Q19 facts highlighted with exact yellow background](./assets/highlights/q19-yellow.svg)
-
-**ভূমিকা:** ভৌগোলিক বৈশিষ্ট্য মানুষের খাদ্য, পেশা, চলাচল, উৎসব ও দৈনন্দিন জীবনের পরিবেশ তৈরি করে। বাংলাদেশের সংস্কৃতি নদী, হাওর, পাহাড়, বরেন্দ্র ও উপকূলের সঙ্গে গভীরভাবে সম্পর্কযুক্ত, তবে ভূগোল একমাত্র নির্ধারক নয়।
+**ভূমিকা:** <mark>ভৌগোলিক বৈশিষ্ট্য মানুষের খাদ্য, পেশা, চলাচল, উৎসব ও দৈনন্দিন জীবনের পরিবেশ তৈরি করে</mark>। বাংলাদেশের সংস্কৃতি নদী, হাওর, পাহাড়, বরেন্দ্র ও উপকূলের সঙ্গে গভীরভাবে সম্পর্কযুক্ত, তবে ভূগোল একমাত্র নির্ধারক নয়।
 
 **উদাহরণসহ প্রভাব:**
 1. **নদীমাতৃক জীবন:** নৌকা, নৌকার গান, নদীঘাট ও জলপথকেন্দ্রিক বাজার ঐতিহাসিকভাবে নদীপাড়ের জীবনের অংশ।
@@ -2207,11 +2113,7 @@ flowchart TD
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q20**
-
-![Q20 facts highlighted with exact yellow background](./assets/highlights/q20-yellow.svg)
-
-**সংজ্ঞা:** **Geographical Determinism** হলো সেই মতবাদ, যেখানে মানুষের সমাজ, সংস্কৃতি ও অর্থনৈতিক বিকাশকে প্রধানত প্রাকৃতিক পরিবেশের দ্বারা নির্ধারিত বলে বিবেচনা করা হয়। আধুনিক মানবভূগোল এই কঠোর মতকে সীমিত মনে করে।
+**সংজ্ঞা:** <mark>**Geographical Determinism** হলো সেই মতবাদ, যেখানে মানুষের সমাজ, </mark>সংস্কৃতি ও অর্থনৈতিক বিকাশকে প্রধানত প্রাকৃতিক পরিবেশের দ্বারা নির্ধারিত বলে বিবেচনা করা হয়। আধুনিক মানবভূগোল এই কঠোর মতকে সীমিত মনে করে।
 
 **বাংলাদেশে ভৌগোলিক প্রভাবের উদাহরণ:**
 1. নদী, পললমাটি ও মৌসুমি প্লাবন কৃষি, বসতি ও নৌযোগাযোগের সুযোগ তৈরি করেছে।
@@ -2259,10 +2161,6 @@ flowchart LR
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q21**
-
-![Q21 facts highlighted with exact yellow background](./assets/highlights/q21-yellow.svg)
-
 **মূল কথা:** <mark>উজান থেকে বৃহৎ নদীর প্রবাহ, নিম্ন উচ্চতার বিস্তৃত পললভূমি এবং বঙ্গোপসাগরের উপকূলীয় অবস্থান একত্রে বন্যা, নদীভাঙন,</mark> ঘূর্ণিঝড় ও জলোচ্ছ্বাসের ঝুঁকি তৈরি করে।
 
 - **পয়েন্ট 1 —** <mark>উত্তর-পূর্বের পাহাড়ঘেঁষা নিম্ন অববাহিকা আকস্মিক বন্যায় ঝুঁকিপূর্ণ</mark>; উত্তর-পশ্চিমের উচ্চতর সোপানভূমিতে খরার চাপ বেশি।
@@ -2283,10 +2181,6 @@ flowchart LR
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
-
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q22**
-
-![Q22 facts highlighted with exact yellow background](./assets/highlights/q22-yellow.svg)
 
 **মূল কথা:** <mark>Adaptive Delta Management মানে অনিশ্চিত জলবায়ু, নদীপ্রবাহ, ভূমি-ব্যবহার ও অর্থনৈতিক পরিবর্তন পর্যবেক্ষণ করে ধাপে</mark> ধাপে পরিকল্পনা সংশোধন করা।
 
@@ -2310,10 +2204,6 @@ flowchart LR
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q23**
-
-![Q23 facts highlighted with exact yellow background](./assets/highlights/q23-yellow.svg)
-
 **মূল কথা:** <mark>Physical Geography পৃথিবীর প্রাকৃতিক রূপ—পাহাড়, নদী, পলি, জলবায়ু ও উপকূল—বিশ্লেষণ করে</mark>।
 
 - **পয়েন্ট 1 —** <mark>Human Geography বসতি, কৃষি, পরিবহন, অর্থনৈতিক কার্যক্রম</mark> ও মানুষের স্থানিক আচরণ ব্যাখ্যা করে।
@@ -2336,10 +2226,6 @@ flowchart LR
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q24**
-
-![Q24 facts highlighted with exact yellow background](./assets/highlights/q24-yellow.svg)
-
 **মূল কথা:** <mark>প্লাইস্টোসিন সোপান হলো তুলনামূলক পুরোনো ও উঁচু ভূ-পৃষ্ঠ, যা বরেন্দ্র ও মধুপুর অঞ্চলে দেখা যায়</mark>।
 
 - **পয়েন্ট 1 —** <mark>Recent Floodplains বরং অপেক্ষাকৃত নবীন নদীবাহিত পলি</mark> ও বারবার প্লাবনের দ্বারা গঠিত; সেখানে সক্রিয় চ্যানেল পরিবর্তন ও নতুন অবক্ষেপণ বেশি।
@@ -2361,10 +2247,6 @@ flowchart LR
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
-
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q25**
-
-![Q25 facts highlighted with exact yellow background](./assets/highlights/q25-yellow.svg)
 
 **মূল কথা:** <mark>প্লাবনভূমি বন্যার অতিরিক্ত পানি বিস্তার ও সাময়িক সঞ্চয়ের জায়গা, পলি ও পুষ্টি বণ্টনের ক্ষেত্র এবং মাছ ও জলজ প্রাণীর</mark> আবাস।
 
@@ -2392,10 +2274,6 @@ flowchart LR
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q26**
-
-![Q26 facts highlighted with exact yellow background](./assets/highlights/q26-yellow.svg)
-
 **মূল কথা:** <mark>Delta Plan-এর ছয় hotspot হলো উপকূলীয় অঞ্চল; বরেন্দ্র ও খরাপ্রবণ অঞ্চল; হাওর ও আকস্মিক বন্যাপ্রবণ অঞ্চল; পার্বত্য</mark> চট্টগ্রাম; নদী ব্যবস্থা ও মোহনা; এবং নগরাঞ্চল।
 
 - **পয়েন্ট 1 —** এগুলোর সমস্যা ভিন্ন বলে একক প্রকল্প নয়, <mark>hotspot-based risk assessment</mark> দরকার।
@@ -2417,10 +2295,6 @@ flowchart LR
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
-
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q27**
-
-![Q27 facts highlighted with exact yellow background](./assets/highlights/q27-yellow.svg)
 
 **মূল কথা:** <mark>বদ্বীপ গঠন মানে নদীর পলি ও উপকূলীয় প্রক্রিয়ায় ভূমির সঞ্চয়ন ও নতুন ভূমিরূপের বিকাশ; উপকূলীয় ক্ষয় মানে তরঙ্গ, স্রোত,</mark> জোয়ার ও অন্যান্য প্রক্রিয়ায় ভূমির অপসারণ।
 
@@ -2444,10 +2318,6 @@ flowchart LR
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q28**
-
-![Q28 facts highlighted with exact yellow background](./assets/highlights/q28-yellow.svg)
-
 **মূল কথা:** <mark>Physiographic region হলো ভূমিরূপ, ভূতাত্ত্বিক বৈশিষ্ট্য, উচ্চতা, নিষ্কাশন ব্যবস্থা ও গঠন-প্রক্রিয়ায় সামঞ্জস্যপূর্ণ</mark> ভৌগোলিক অঞ্চল।
 
 - **পয়েন্ট 1 —** বাংলাদেশে <mark>প্লাবনভূমি, প্লাইস্টোসিন সোপান এবং পাহাড়ি অঞ্চল</mark> প্রধান উদাহরণ।
@@ -2470,10 +2340,6 @@ flowchart LR
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q29**
-
-![Q29 facts highlighted with exact yellow background](./assets/highlights/q29-yellow.svg)
-
 **মূল কথা:** <mark>Geomorphological Map বিভিন্ন ভূমিরূপ, নদীখাত, সোপান, চর ও পাহাড়ের স্থানিক অবস্থান দেখায়</mark>।
 
 - **পয়েন্ট 1 —** কৃষি-জমি মূল্যায়ন, সেতু বা সড়ক বসানো, <mark>বন্যা ঝুঁকি মানচিত্র, নদীভাঙন পর্যবেক্ষণ</mark> এবং শহরের উপযুক্ত ভূমি ব্যবহারের জন্য এগুলো দরকার।
@@ -2495,10 +2361,6 @@ flowchart LR
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
-
-**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q30**
-
-![Q30 facts highlighted with exact yellow background](./assets/highlights/q30-yellow.svg)
 
 **মূল কথা:** <mark>বঙ্গোপসাগর বন্দর ও বাণিজ্য, সামুদ্রিক পরিবহন, মাছ এবং উপকূলীয় কর্মসংস্থানের সুযোগ দেয়</mark>।
 
