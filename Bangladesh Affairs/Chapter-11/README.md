@@ -77,6 +77,22 @@
 
 ### Official and real-world photo references
 
+#### Postal ballot paper — 2026 referendum
+![Bangladesh Election Commission postal ballot paper for the 2026 constitutional referendum](https://commons.wikimedia.org/wiki/Special:FilePath/2026%20Bangladesh%20Constitutional%20Referendum%20Postal%20Ballot.png)
+
+**Source and licence:** Official Bangladesh Election Commission facsimile, hosted by Wikimedia Commons and marked public domain. [File page and licensing](https://commons.wikimedia.org/wiki/File:2026_Bangladesh_Constitutional_Referendum_Postal_Ballot.png) · [ECS postal voting information](https://www.ecs.gov.bd/page/postal-voting-it-supported?lang=en). Use to understand postal voting; the image relates to the 2026 referendum.
+
+#### Postal ballot sending envelope
+![Bangladesh postal ballot sending envelope for the 2026 election and referendum](https://commons.wikimedia.org/wiki/Special:FilePath/2026%20Bangladeshi%20general%20election%20and%20referendum%20postal%20ballot%20sending%20envelope.png)
+
+**Source and licence:** Official Election Commission facsimile, public domain as described on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2026_Bangladeshi_general_election_and_referendum_postal_ballot_sending_envelope.png). Link this visual to postal voting, ballot security and voter access.
+
+#### International election observation
+![European Union observation team visits a polling station during the 2026 Bangladesh election](https://commons.wikimedia.org/wiki/Special:FilePath/The%20European%20Union%20observation%20team%20visits%20the%20Siddheshwari%20Girls%20College%20polling%20station%20in%20the%20Dhaka%20in%202026%20Bangladeshi%20General%20Election.jpg)
+
+**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/Category:2026_Bangladeshi_constitutional_referendum). Use to discuss election observation and transparency; observation is distinct from election administration and adjudication.
+
+
 #### Voting in the 2026 national election and referendum
 ![Voters casting ballots during Bangladesh's 2026 election and referendum](https://commons.wikimedia.org/wiki/Special:FilePath/2026-02-12%20Thirteenth%20National%20Parliamentary%20Election%20and%20Referendum%202026%2C%20voting%20in%20the%20capital.jpg)
 
