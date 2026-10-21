@@ -1,7 +1,7 @@
 # Chapter 09 — PYQ Analysis + Source-backed Model Essays
 ## বাংলাদেশের পররাষ্ট্রনীতি ও বৈদেশিক সম্পর্ক | BCS Written · Subject Code 005
 
-[← মূল অধ্যায়](./README.md) · [English Quotations](./QUOTATIONS.md)
+[← মূল অধ্যায়](./README.md) · [35th–47th PYQ audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [১৮টি English quotations](./QUOTATIONS.md#verified-quotes)
 
 > এগুলো BCS Written-এর syllabus, প্রকাশ্য প্রশ্নের theme ও সরকারি/আন্তর্জাতিক উৎসের ভিত্তিতে তৈরি model essays; BPSC official answer key নয়। মূল প্রশ্নপত্রের scan যাচাই ছাড়া secondary archive-কে certified transcript বলা যাবে না।
 
@@ -121,8 +121,9 @@ Rohingya সংকট শরণার্থী সুরক্ষা, host commu
 - [S2] Constitution of Bangladesh, Article 25. https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 - [S3] Ministry of Foreign Affairs, Bangladesh, *Foreign Policy of Bangladesh*. https://sittwe.mofa.gov.bd/pages/static-pages/foreign-policy-of-bangladesh-edc320-695266ac35ce18e1c05aab1e
 - [S4] UN, *Member States — Bangladesh*. https://www.un.org/about-us/member-states
-- [S5] UN Peacekeeping, uniformed personnel by country, 31 July 2025. https://peacekeeping.un.org/sites/default/files/01_contributions_to_un_peacekeeping_operations_by_country_and_post_88_july_2025.pdf
+- [S5] UN Peacekeeping, uniformed personnel by country, 31 July 2025. https://afd.gov.bd/index.php/un-peacekeeping/position-of-bangladesh-in-un-peace-operation
 - [S6] UN in Bangladesh, *Bangladesh and the United Nations: 50 Years of Partnership* (2024). https://bangladesh.un.org/en/282417-bangladesh-and-united-nations-50-years-partnership
+- [S7] UN in Bangladesh, *Recalibrating the Rohingya Response: 2025–26 Joint Response Plan* (20 May 2026). https://bangladesh.un.org/en/315838-recalibrating-rohingya-response-2025-26-joint-response-plan
 - [Q1] BCS EXAM, *35th BCS Written Questions*, Bangladesh Affairs. https://bcsexam.org/written-questions/35th-bcs-written
 - [Q2] BCS EXAM, *50th BCS Written Questions*, International Affairs, Subject Code 007 (related theme only). https://bcsexam.org/written-questions/50th-bcs-written
 
