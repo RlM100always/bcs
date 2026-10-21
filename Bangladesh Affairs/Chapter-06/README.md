@@ -400,9 +400,9 @@ Energy transition মানে একদিনে সব জীবাশ্ম �
 
 #### মানচিত্র: বাংলাদেশের খনিজ সম্পদের অবস্থান ও তথ্য
 
-![বাংলাদেশের খনিজ সম্পদ মানচিত্রের সরকারি ড্যাশবোর্ড](https://www.emrddashboard.gov.bd/)
+![বাংলাদেশের প্রাকৃতিক সম্পদ ও খনিজ সম্পদের শিক্ষামূলক চিত্র](https://teachers.gov.bd/shared/contents/2020/July/30/photo/image_140346_1596122934.jpg)
 
-*তথ্যসূত্র:* খনিজের অবস্থান, মজুদ বা উৎপাদনের সংখ্যা লেখার আগে EMRD/Hydrocarbon Unit-এর প্রকাশিত মানচিত্র ও সর্বশেষ energy scenario প্রতিবেদন যাচাই করুন। [Mineral Resource Map](https://www.emrddashboard.gov.bd/mineral-resource/list/Mineral%20Resources%20Map) · [Energy Scenario of Bangladesh 2024–25](https://hcu.gov.bd/pages/publications)
+*তথ্যসূত্র:* খনিজের অবস্থান, মজুদ বা উৎপাদনের সংখ্যা লেখার আগে EMRD/Hydrocarbon Unit-এর প্রকাশিত মানচিত্র ও সর্বশেষ energy scenario প্রতিবেদন যাচাই করুন। [ছবির উৎস: Teachers Portal](https://teachers.gov.bd/content/details/647379) · [সরকারি Mineral Resource Map](https://www.emrddashboard.gov.bd/mineral-resource/list/Mineral%20Resources%20Map) · [Energy Scenario of Bangladesh 2024–25](https://hcu.gov.bd/pages/publications)
 
 
 সৌর, বায়ু, বায়োগ্যাস এবং অন্যান্য নবায়নযোগ্য শক্তি আমদানিকৃত জ্বালানির ওপর নির্ভরতা ও নির্গমন কমাতে সাহায্য করতে পারে। বাংলাদেশের ক্ষেত্রে সৌরশক্তি—বিশেষত rooftop solar, কৃষি/সেচের সঙ্গে সমন্বিত সমাধান এবং grid-connected projects—প্রাসঙ্গিক সম্ভাবনা। তবে বাস্তবায়নে জমি, grid capacity, অর্থায়ন, ব্যাটারি ও যন্ত্রের end-of-life management, রক্ষণাবেক্ষণ এবং বিদ্যুৎ সরবরাহের স্থিতিশীলতা বিবেচনা করতে হবে।
