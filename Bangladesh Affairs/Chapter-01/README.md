@@ -33,7 +33,7 @@
 |---|---|---|
 | [🎯 কী জানতে হবে](#start) | [১. Location ও Delta Story](#location) | [📚 Previous BCS Question Audit](#pyq) |
 | [🔑 Key Terms বাংলা–English](#keywords) | [২. Physiography: তিন ভূমিরূপ](#physiography) | [✍️ Answer Writing Strategy](#strategy) |
-| [🧠 ৭টি Story Scene](#story) | [৩. Region-by-Region Journey](#regions) | [❓ ৩০টি English Q&A](#questions) |
+| [🧠 ৭টি Story Scene](#story) | [৩. Region-by-Region Journey](#regions) | [❓ ৩৩টি English–বাংলা Q&A](#questions) |
 | [📌 Syllabus Coverage](#syllabus-map) | [৪. Rivers & Changes Over Time](#rivers) | [📝 ৫/১০/২০ নম্বর Sample Answer](#worked) |
 | [🖼️ Visual Atlas](#visual-atlas) | [৫. Bay of Bengal & Maritime Law](#maritime) | [⚡ One-page Revision](#revision) |
 | [🗺️ Maps at a Glance](#maps) | [৬. BDP 2100: Policy](#delta-plan) | [🔗 Full Source Register](#sources) |
