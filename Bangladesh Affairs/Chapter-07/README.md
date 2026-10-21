@@ -174,6 +174,14 @@
 ---
 
 <a id="visuals"></a>
+
+
+### ঐতিহাসিক ছবি: ১৯৭২ সালের সংবিধানের প্রচ্ছদ
+
+![১৯৭২ সালের হাতে লেখা বাংলাদেশের সংবিধানের প্রচ্ছদ](https://upload.wikimedia.org/wikipedia/commons/f/f8/First_page_of_the_hand_written_constitution_of_Bangladesh.jpg)
+
+<sub>**ছবির উৎস ও কৃতিত্ব:** [First page of the hand written constitution of Bangladesh.jpg — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:First_page_of_the_hand_written_constitution_of_Bangladesh.jpg), আলোকচিত্রী/আপলোডার NiruNahar; CC BY 4.0। ছবিটি মূল হস্তলিখিত সংবিধানের প্রচ্ছদ দেখায়; এটি সংবিধানের পূর্ণ পাঠের বিকল্প নয়।</sub>
+
 ## ৫. Quick Revision Visuals — দ্রুত দেখে মনে রাখুন
 
 ### ৫.১ সংবিধান প্রণয়নের সময়রেখা
@@ -375,6 +383,10 @@ Article 12 ধর্মনিরপেক্ষতার নীতিকে ব�
 
 ### ১০.২ আইনসভা — জাতীয় সংসদ (Legislature)
 
+![ঢাকার জাতীয় সংসদ ভবন](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Bangladesh_National_Parliament_Building%2C_Dhaka.jpg/1280px-Bangladesh_National_Parliament_Building%2C_Dhaka.jpg)
+
+<sub>**ছবির উৎস ও কৃতিত্ব:** [Bangladesh National Parliament Building, Dhaka.jpg — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bangladesh_National_Parliament_Building,_Dhaka.jpg), Tanvir Rahat; CC BY-SA 4.0।</sub>
+
 Article 65 জাতীয় সংসদ প্রতিষ্ঠা করে। বর্তমান সাংবিধানিক কাঠামোতে ৩০০ জন সদস্য সাধারণ আসনে সরাসরি নির্বাচিত হন এবং নারীদের জন্য ৫০টি সংরক্ষিত আসন রয়েছে; ফলে মোট আসনসংখ্যা ৩৫০। Article 65-এর সংরক্ষিত আসন-সংক্রান্ত বিধান ও তার মেয়াদ বুঝতে সর্বশেষ সংশোধিত পাঠ দেখতে হবে।
 
 **সংসদের প্রধান কাজ**
@@ -387,6 +399,10 @@ Article 65 জাতীয় সংসদ প্রতিষ্ঠা করে।
 **Article 70 — দলত্যাগ ও দলের বিপক্ষে ভোট:** Article 70 সংসদ-সদস্যের দলীয় অবস্থান ও সংসদে ভোটদানের বিষয়ে বিধিনিষেধ আরোপ করে। সমর্থকেরা একে দলীয় স্থিতি ও সরকার পরিচালনার ধারাবাহিকতার সুরক্ষা হিসেবে ব্যাখ্যা করেন; সমালোচকেরা বলেন, এটি সংসদ-সদস্যের স্বাধীন বিবেচনা এবং নির্বাহী বিভাগের ওপর সংসদের কার্যকর নিয়ন্ত্রণ দুর্বল করতে পারে। ভালো উত্তরে দুই যুক্তি তুলে ধরে প্রাতিষ্ঠানিক ভারসাম্যের প্রস্তাব দিন।
 
 ### ১০.৩ বিচার বিভাগ (Judiciary)
+
+![বাংলাদেশ সুপ্রিম কোর্টের প্রধান ভবন](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Bangladesh_Supreme_Court_Main_Building.jpg/1280px-Bangladesh_Supreme_Court_Main_Building.jpg)
+
+<sub>**ছবির উৎস ও কৃতিত্ব:** [Bangladesh Supreme Court Main Building.jpg — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bangladesh_Supreme_Court_Main_Building.jpg), Basir Shikder; CC BY-SA 4.0।</sub>
 
 Article 94 সুপ্রিম কোর্ট প্রতিষ্ঠা করে, যার দুটি বিভাগ—Appellate Division ও High Court Division। বিচার বিভাগের প্রধান দায়িত্ব আইন প্রয়োগ, বিরোধ নিষ্পত্তি, সাংবিধানিক ব্যাখ্যা এবং আইনসম্মত প্রতিকার প্রদান।
 
@@ -592,6 +608,14 @@ Supreme Court-এর High Court Division Online Bulletin-এ প্রকাশ�
 <a id="questions"></a>
 ## ১৬. ৩৩টি BCS Written অনুশীলনী
 
+### প্রশ্নব্যাংকের বিষয়ভিত্তিক কভারেজ চার্ট
+
+<img src="./assets/mobile-diagrams/08-practice-question-coverage.svg" width="100%" alt="৩৩টি অনুশীলনী প্রশ্নের বিষয়ভিত্তিক বণ্টন"/>
+
+> **চার্ট কী বোঝায়:** এটি এই অধ্যায়ের নিজস্ব ৩৩টি অনুশীলনী প্রশ্নের সম্পাদকীয় বণ্টন—বিগত BCS প্রশ্নের বছরভিত্তিক frequency chart নয়। বিগত প্রশ্নের প্রকৃত frequency দাবি করতে হলে প্রতিটি মূল BPSC প্রশ্নপত্র যাচাই করে কোডিং করতে হবে।
+
+
+
 ### A. সংজ্ঞা, ইতিহাস ও কাঠামো
 
 1. সংবিধান কাকে বলে? রাষ্ট্র পরিচালনায় সংবিধানের প্রয়োজনীয়তা ব্যাখ্যা করুন। (৫)
@@ -730,6 +754,13 @@ https://bcsexam.org/written-questions
 - *Sixteenth Amendment Case*, Civil Appeal No. 6 of 2017 — বিচারপতি অপসারণ ও বিচার বিভাগের স্বাধীনতা।
 - *Thirteenth Amendment Case*, Civil Appeal No. 112 of 2025 and connected matters, judgment dated 20 November 2025 — caretaker system-এর পুনর্বহাল ও প্রয়োগের সময়-শর্ত।
 - *Fifteenth Amendment Case*, 20 SCOB (2025) HCD, subsequent Appellate Division decision reported 9 July 2026 — সংশোধনীর নির্দিষ্ট অংশের আইনগত অবস্থান।
+
+### D. Internet image sources and licences
+
+- **১৯৭২ সালের হাতে লেখা সংবিধানের প্রচ্ছদ:** NiruNahar, Wikimedia Commons, [file page and licence](https://commons.wikimedia.org/wiki/File:First_page_of_the_hand_written_constitution_of_Bangladesh.jpg), CC BY 4.0.
+- **জাতীয় সংসদ ভবন:** Tanvir Rahat, Wikimedia Commons, [file page and licence](https://commons.wikimedia.org/wiki/File:Bangladesh_National_Parliament_Building,_Dhaka.jpg), CC BY-SA 4.0.
+- **বাংলাদেশ সুপ্রিম কোর্টের প্রধান ভবন:** Basir Shikder, Wikimedia Commons, [file page and licence](https://commons.wikimedia.org/wiki/File:Bangladesh_Supreme_Court_Main_Building.jpg), CC BY-SA 4.0.
+- **নিজস্ব তৈরি responsive SVG visual:** [Chapter 07 mobile-diagrams folder](./assets/mobile-diagrams/); question coverage chart-এর সংখ্যা এই অধ্যায়ের নিজস্ব ৩৩টি practice item থেকে গণনা করা হয়েছে, কোনো সরকারি PYQ frequency হিসেবে নয়.
 
 ### উৎস ব্যবহারের নীতি
 
