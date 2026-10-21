@@ -218,6 +218,9 @@ Transit সাধারণত অন্য দেশের ভূখণ্ড �
 ### Human security ও Rohingya response
 Human security মানুষের জীবন, জীবিকা, খাদ্য, স্বাস্থ্য, নিরাপত্তা ও মর্যাদাকে গুরুত্ব দেয়। Rohingya সংকটে শরণার্থীদের সুরক্ষা, host community-র ওপর চাপ কমানো, আন্তর্জাতিক অর্থায়ন, আঞ্চলিক কূটনীতি ও নিরাপদ প্রত্যাবাসনের শর্ত একসঙ্গে বিবেচনা করতে হবে।
 
+
+**২০২৬ সালের dated planning reference:** UN in Bangladesh-এর ২০ মে ২০২৬-এর JRP update অনুযায়ী, ২০২৬ সালের জানুয়ারি–ডিসেম্বর সময়ে প্রায় ১.৬ মিলিয়ন মানুষকে সহায়তা পৌঁছাতে ৭১০.৫ মিলিয়ন মার্কিন ডলারের প্রয়োজন চিহ্নিত করা হয়েছিল। এটি humanitarian response plan-এর প্রয়োজনীয় অর্থায়নের হিসাব—বাস্তবে পাওয়া অর্থ বা শরণার্থীর বর্তমান headcount নয়। [Official UN update](https://bangladesh.un.org/en/315838-recalibrating-rohingya-response-2025-26-joint-response-plan).
+
 <a id="challenges"></a>
 ## ১২. প্রধান চ্যালেঞ্জ ও বাস্তবসম্মত সুপারিশ
 
