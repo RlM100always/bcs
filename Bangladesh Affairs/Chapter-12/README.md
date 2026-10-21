@@ -1,8 +1,8 @@
 # Chapter 12 — যোগাযোগ, ICT, গণমাধ্যম, তথ্য অধিকার (RTI) ও ই-গভর্ন্যান্স
 > **BCS Written · Bangladesh Affairs · Subject Code 005 · Unit 12**  
-> বাংলা ব্যাখ্যা + English terminology + PYQ theme analysis + ৮টি model essay + ৩৩টি practice question + responsive SVG visual + English quotations with sources.
+> বাংলা ব্যাখ্যা + English terminology + 35th–47th BCS question audit + ২৫টি detailed model answer + ৮টি source-backed essay + ১২টি SVG visual + source-linked real images/map + English quotations.
 
-[← ১৬ অধ্যায়ের সূচি](../README.md) · [📚 PYQ-ভিত্তিক প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [💬 English Quotations + Sources](./QUOTATIONS.md)
+[← ১৬ অধ্যায়ের সূচি](../README.md) · [🔎 35th–47th PYQ audit](./PYQ-ANALYSIS-35TH-47TH.md) · [✍️ ২৫টি answered question](./BCS-WRITTEN-QUESTION-BANK.md) · [🗺️ Visual Atlas + images/maps](./VISUAL-ATLAS.md) · [📚 ৮টি Model Essay](./PYQ-BASED-ESSAYS.md) · [💬 English Quotations + Sources](./QUOTATIONS.md)
 
 <a id="top"></a>
 
@@ -11,7 +11,7 @@
 
 ## বিষয়সূচি
 - [১. Syllabus ও learning outcomes](#syllabus)
-- [২. Previous BCS Written question analysis](#pyq)
+- [২. Previous BCS Written question analysis](#pyq) · [35th–47th detailed audit](./PYQ-ANALYSIS-35TH-47TH.md)
 - [৩. যোগাযোগ: ধারণা ও উন্নয়নে ভূমিকা](#communication)
 - [৪. ICT ও বাংলাদেশের ডিজিটাল রূপান্তর](#ict)
 - [৫. গণমাধ্যম: ভূমিকা, স্বাধীনতা ও দায়িত্ব](#media)
@@ -19,8 +19,8 @@
 - [৭. E-governance ও নাগরিককেন্দ্রিক সেবা](#egov)
 - [৮. Digital divide, misinformation, privacy ও cybersecurity](#risks)
 - [৯. নীতিগত চ্যালেঞ্জ ও সুপারিশ](#recommendations)
-- [১০. Quick revision visuals](#visuals)
-- [১১. ৩৩টি Written practice question](#questions)
+- [১০. Quick revision visuals](#visuals) · [12-sheet Visual Atlas + real images/map](./VISUAL-ATLAS.md)
+- [১১. ৩৩টি Written practice question](#questions) · [২৫টি full model answer](./BCS-WRITTEN-QUESTION-BANK.md)
 - [১২. Answer-writing framework](#answer)
 - [১৩. Source register](#sources)
 
@@ -34,7 +34,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subjec
 
 ## ২. Previous BCS Written question analysis <a id="pyq"></a>
 ### ২.১ প্রমাণ ও সীমাবদ্ধতা
-সরকারি BPSC syllabus-এ Unit 12-এর চারটি বিষয় স্পষ্টভাবে অন্তর্ভুক্ত। [S1] প্রকাশ্য অনুসন্ধানে এই নির্দিষ্ট উপবিষয়ের সব বছরের মূল BPSC প্রশ্নপত্রের scan একত্রে যাচাই করা যায়নি। তাই কোনো প্রশ্নকে যাচাই ছাড়া “অমুক সালে হুবহু এসেছে” বলা হচ্ছে না।
+সরকারি BPSC syllabus-এ Unit 12-এর চারটি বিষয় স্পষ্টভাবে অন্তর্ভুক্ত। [S1] ৩৫তম–৪৭তম বিসিএসের প্রকাশ্য প্রশ্ন-আর্কাইভে e-governance, press freedom, e-tendering, digitalisation, ICT, Digital Bangladesh ও technology-in-education সম্পর্কিত কয়েকটি প্রশ্ন পাওয়া যায়। এগুলো archive-reported; মূল BPSC scan দিয়ে সব wording স্বাধীনভাবে authenticated নয়। বছরভিত্তিক matrix ও source link-এর জন্য [35th–47th PYQ Theme Audit](./PYQ-ANALYSIS-35TH-47TH.md) দেখুন।
 
 ### ২.২ High-priority theme map
 
@@ -142,22 +142,41 @@ AI বা automated decision-এ bias, ভুল data ও explainability-র ঝ
 
 ## ১০. Quick Revision Visuals <a id="visuals"></a>
 
+> **সম্পূর্ণ গ্যালারি:** [🗺️ Visual Atlas — ১২টি SVG diagram, historical submarine-cable map, ৭টি real-world image এবং official data/map portals](./VISUAL-ATLAS.md)। Geographic map-এর ক্ষেত্রে তারিখ ও source দেখুন; schematic diagram-কে মানচিত্র হিসেবে ব্যবহার করবেন না।
+
 ### Communication process
-<img src="./assets/communication-process.svg" width="100%" alt="Communication process with feedback and noise"/>
+[![Communication process](./assets/communication-process.svg)](./assets/communication-process.svg)
 
 ### RTI to accountability
-<img src="./assets/rti-accountability.svg" width="100%" alt="RTI process leading to accountability"/>
+[![RTI accountability](./assets/rti-accountability.svg)](./assets/rti-accountability.svg)
 
 ### Citizen-centred e-governance cycle
-<img src="./assets/egovernance-cycle.svg" width="100%" alt="Citizen-centred e-governance cycle"/>
+[![Citizen-centred e-governance cycle](./assets/egovernance-cycle.svg)](./assets/egovernance-cycle.svg)
+
+### Digital connectivity architecture — schematic, not a map
+[![Bangladesh digital connectivity architecture](./assets/digital-infrastructure.svg)](./assets/digital-infrastructure.svg)
+
+### Digital divide
+[![Digital divide](./assets/digital-divide.svg)](./assets/digital-divide.svg)
+
+### Media verification workflow
+[![Media verification workflow](./assets/media-verification.svg)](./assets/media-verification.svg)
+
+### RTI request workflow
+[![RTI workflow](./assets/rti-workflow.svg)](./assets/rti-workflow.svg)
+
+### E-governance interaction models
+[![G2C, G2B, G2G and G2E](./assets/egovernance-models.svg)](./assets/egovernance-models.svg)
 
 ### Official resources
 - [BPSC Written Syllabus — Unit 12](https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf)
-- [তথ্য অধিকার আইন, ২০০৯](https://bdlaws.minlaw.gov.bd/act-1011/act-chapter-print-2220.html)
-- [তথ্য কমিশন — RTI আইন ও নির্দেশনা](https://infocom.gov.bd/pages/laws/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%87%E0%A6%A8-%E0%A7%A2%E0%A0%A6%E0%A0%A6%E0%A৯-3b9884-6922da02933eb65569e01cea)
-- [National Portal — Bangladesh](https://bangladesh.gov.bd/)
-- [D-Nothi Product Portal](https://portal.nothi.gov.bd/)
-- [a2i Service Portal](https://a2i.gov.bd/pages/static-pages/6922de87933eb65569e1b522)
+- [তথ্য অধিকার আইন, ২০০৯](https://bdlaws.minlaw.gov.bd/act-print-1011.html)
+- [তথ্য কমিশন — RTI আইন ও নির্দেশনা](https://infocom.gov.bd/)
+- [ICT Division — National ICT Policy 2018](https://ictd.gov.bd/pages/policies)
+- [BTRC — Internet subscribers](https://btrc.gov.bd/pages/static-pages/6922e0a393eb65569e27f59)
+- [BSCPLC — official submarine-cable information](https://bscplc.portal.gov.bd/pages/static-pages/6922de55933eb65569e19f01)
+- [Bangladesh National Portal — Digital Centre](https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e65)
+- [Digital Centre portal](https://digitalcentre.gov.bd/)
 
 ## ১১. ৩৩টি BCS Written practice questions <a id="questions"></a>
 > এগুলো syllabus-based practice questions; BPSC-এর মূল প্রশ্নপত্র থেকে হুবহু নেওয়া বলে দাবি করা হচ্ছে না।
@@ -244,4 +263,4 @@ https://infocom.gov.bd/pages/laws/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%85
 ## অধ্যায়ের সারকথা
 ICT তথ্য ও সেবায় প্রবেশাধিকার বাড়াতে পারে; গণমাধ্যম তথ্য যাচাই ও ক্ষমতার জবাবদিহি করতে পারে; RTI তথ্যপ্রাপ্তির আইনগত পথ দেয়; e-governance সেবাকে নাগরিককেন্দ্রিক করে। কিন্তু অন্তর্ভুক্তি, privacy, cybersecurity, ভালো records, কার্যকর অভিযোগব্যবস্থা ও প্রতিষ্ঠানগত জবাবদিহি ছাড়া প্রযুক্তিগত আধুনিকায়ন টেকসই হবে না।
 
-[⬆️ সূচিতে ফিরে যান](#top) · [PYQ-ভিত্তিক প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [English Quotations](./QUOTATIONS.md)
+[⬆️ সূচিতে ফিরে যান](#top) · [35th–47th PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) · [২৫টি Answered Questions](./BCS-WRITTEN-QUESTION-BANK.md) · [Visual Atlas](./VISUAL-ATLAS.md) · [PYQ-ভিত্তিক প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [English Quotations](./QUOTATIONS.md)
