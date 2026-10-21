@@ -24,10 +24,9 @@
 12. [চ্যালেঞ্জ ও সুপারিশ](#challenges)
 13. [Exact regional map, diagrams ও charts](#visuals)
 14. [৩৩টি practice questions](#questions)
-15. [২৫টি answered model questions](./BCS-WRITTEN-QUESTION-BANK.md)
-16. [উত্তর লেখার কৌশল](#answer)
-17. [Source register](#sources)
-18. [১৮টি English quotation with sources](./QUOTATIONS.md#verified-quotes)
+15. [উত্তর লেখার কৌশল](#answer)
+16. [Source register](#sources)
+[২৫টি answered model questions](./BCS-WRITTEN-QUESTION-BANK.md) · [১৮টি English quotations with sources](./QUOTATIONS.md#verified-quotes)
 
 <a id="syllabus"></a>
 ## ১. BPSC syllabus mapping ও শিখনফল
