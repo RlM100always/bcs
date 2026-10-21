@@ -5,7 +5,7 @@
 > **ভাষা:** প্রমিত বাংলা; প্রয়োজনীয় English terminology প্রথমবার বাংলা অর্থসহ।  
 > **Source review:** ২১ অক্টোবর ২০২৬ · **বিন্যাস:** সিলেবাস → ধারণা → সরকারি তথ্য → বিশ্লেষণ → নীতি → Visual Revision → archive-reported PYQ → ৩টি worked answer → ৩৩টি অনুশীলনী → Fact-check।
 
-[← মূল সূচি](../README.md) · [Chapter 01](../Chapter-01/README.md) · [35th–47th PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) · [২৫টি Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [১৮টি English Quotations + Sources](./QUOTATIONS.md) · [সরকারি Map/Infographics](#official-maps)
+[← মূল সূচি](../README.md) · [Chapter 01](../Chapter-01/README.md) · [35th–47th PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) · [২৫টি Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [১৮টি English Quotations + Sources](./QUOTATIONS.md) · [🗺️ Visual Atlas (8 SVG + official maps)](./VISUAL-ATLAS.md) · [সরকারি Map/Infographics](#official-maps)
 
 > 📱 **Mobile-friendly visuals:** সব ৮টি revision diagram responsive SVG image হিসেবে পুরো content width-এ দেখানো হয়। কোনো diagram না খুললে ছবিতে ক্লিক করে full-size version খুলুন। চওড়া সারণি ফোনে আড়াআড়ি scroll করা যাবে.
 
@@ -1182,7 +1182,8 @@ URL: https://bcsexam.org/written-questions/47th-bcs-written
 
 - **[35th–47th BCS PYQ Theme Audit](./PYQ-ANALYSIS-35TH-47TH.md)** — archive-reported question vs model-theme আলাদা করা হয়েছে।
 - **[২৫টি High-priority BCS Written Question + Model Answer](./BCS-WRITTEN-QUESTION-BANK.md)** — ১০/২০ নম্বরের বিশ্লেষণধর্মী উত্তর, তথ্য ও উৎসসহ।
-- **[১৮টি English Quotations + Source-backed Exam Lines](./QUOTATIONS.md)** — সরাসরি উদ্ধৃতি ও নিজের ভাষার analytical line আলাদা করা হয়েছে।
+- **[১৮টি English Quotations + Source-backed Exam Lines](./QUOTATIONS.md)** — সরাসরি উদ্ধৃতি ও নিজের ভাষার analytical line আলাদা করা হয়েছে.
+- **[🗺️ Visual Atlas: 8 revision SVGs + official map/census infographic sources](./VISUAL-ATLAS.md)** — visual gallery, official map portals, chart-use guidance and diagram-based answer practice.
 - **[Chapter 01 — Geography](../Chapter-01/README.md)** — জনমিতি ও ভৌগোলিক বণ্টনের আন্তঃসম্পর্ক।
 - **[BCS Written Questions Archive, 35th–50th](https://bcsexam.org/written-questions)** — তৃতীয়-পক্ষের প্রশ্নব্যাংক; মূল BPSC scan-এর সঙ্গে wording যাচাই করুন।
 
