@@ -41,7 +41,7 @@
 
 **Use in:** river-basin management, soil–water–forest linkages, coastal ecosystems and environmental impact assessment.
 
-**Source:** John Muir, *My First Summer in the Sierra* (1911). [U.S. National Park Service — sourced quotations](https://www.nps.gov/jomu/learn/historyculture/john-muir-quotes.htm).
+**Source:** John Muir, *My First Summer in the Sierra* (1911), p. 104 in the illustrated edition. [Project Gutenberg — book record and text](https://www.gutenberg.org/ebooks/32540); [publisher-related quotation page](https://www.myfirstsummerinthesierra.com/muir_quotes.html).
 
 ### 5. Conservation as a national priority — Theodore Roosevelt
 > “The conservation of natural resources is the fundamental problem. Unless we solve that problem it will avail us little to solve all others.”
