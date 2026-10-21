@@ -476,6 +476,11 @@ EIA হলো কোনো প্রস্তাবিত প্রকল্প�
 
 **How to use it:** identify protected-area clusters across the Sundarbans, northeast, southeast and coastal islands; connect each cluster with its ecosystem type and conservation purpose. This map is dated 2023. Do not treat it as a live boundary layer or as a current count of protected areas. For the later official list, consult the [Forest Department’s protected-area page](https://bforest.gov.bd/pages/static-pages/6922e13b933eb65569e2b006), updated in 2026.
 
+### Official map — Ecologically Critical Areas (ECA)
+[Open the ECA location map in the Bangladesh Water Development Board’s environmental assessment PDF](https://bwdb.gov.bd/archive/pdf/8619.pdf).
+
+**How to use it:** locate the Sundarbans buffer area, Cox’s Bazar–Teknaf peninsula, St Martin’s Island, Sonadia Island, Hakaluki and Tanguar haors, urban rivers and the Jaflong–Dawki area. This is a **2016 map**, so use it to understand spatial distribution, not as a current legal boundary layer. For the official designation list, check the [Department of Environment](https://doe.gov.bd/) and the latest gazette.
+
 ### Official forest-cover map (Forest Department)
 ![Bangladesh forest cover map 2023](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bforest/2026/2/b6119833-b459-488c-b6cb-b27151963489.jpg)
 
