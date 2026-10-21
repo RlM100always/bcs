@@ -176,6 +176,8 @@
 
 ### Worked Answer D — “How should election expenditure be regulated, and how can historical changes be presented accurately?” (10 marks)
 
+**Past-question link:** The 35th BCS Bangladesh Affairs paper includes a question on the change in election-expenditure rules since 2001. The public archive and subject-paper transcription number the item differently; one subject-paper copy labels it Q6(d). Treat it as archive-reported until checked against the original BPSC scan.
+
 **Introduction.** Campaign-finance regulation aims to limit hidden influence, discourage excessive expenditure and protect fair competition. It should allow legitimate campaigning while requiring transparent accounts and equal enforcement.
 
 **Legal framework.** The RPO contains provisions on election expenses, including Article 44B. Under the current consolidated text, a contesting candidate’s expenditure—including spending incurred for the candidate by the nominating party—must not exceed **Tk 10 per voter or Tk 25 lakh, whichever is higher**. Candidates should verify the current wording and any subsequent amendment before an exam.
