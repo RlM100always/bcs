@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<title id="title">Formal and informal institutions</title><desc id="desc">Comparison of written formal institutions and unwritten informal institutions, with their strengths and risks.</desc>
+<rect width="1200" height="650" rx="28" fill="#f7f8fa"/>
+<text x="600" y="58" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#172033">FORMAL vs INFORMAL INSTITUTIONS</text>
+<rect x="55" y="100" width="525" height="455" rx="24" fill="#e5eefc" stroke="#3566a8" stroke-width="3"/>
+<rect x="620" y="100" width="525" height="455" rx="24" fill="#e7f5ee" stroke="#26734d" stroke-width="3"/>
+<text x="317" y="150" text-anchor="middle" font-family="Arial,sans-serif" font-size="29" font-weight="700" fill="#234b84">FORMAL</text>
+<text x="882" y="150" text-anchor="middle" font-family="Arial,sans-serif" font-size="29" font-weight="700" fill="#205b40">INFORMAL</text>
+<g font-family="Arial,sans-serif" font-size="23" fill="#172033">
+<text x="90" y="205">• Written laws and rules</text><text x="90" y="250">• Defined procedures</text><text x="90" y="295">• Courts and public offices</text><text x="90" y="340">• Formal rights and remedies</text>
+<text x="90" y="410" font-weight="700" fill="#234b84">Strength</text><text x="90" y="445">Clear procedures and legal</text><text x="90" y="476">accountability</text>
+<text x="90" y="520" font-weight="700" fill="#9a3e2e">Risk</text><text x="180" y="520">Delay or weak enforcement</text>
+<text x="655" y="205">• Social norms and customs</text><text x="655" y="250">• Kinship and local networks</text><text x="655" y="295">• Trust and mutual aid</text><text x="655" y="340">• Community expectations</text>
+<text x="655" y="410" font-weight="700" fill="#205b40">Strength</text><text x="655" y="445">Local knowledge and quick</text><text x="655" y="476">collective action</text>
+<text x="655" y="520" font-weight="700" fill="#9a3e2e">Risk</text><text x="745" y="520">Bias, exclusion or patronage</text>
+</g>
+<path d="M585 315 L615 315" stroke="#475569" stroke-width="5" stroke-linecap="round"/><path d="M604 304 L615 315 L604 326" fill="none" stroke="#475569" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="600" y="600" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#334155">Best outcome: rights-respecting rules + inclusive social cooperation</text>
+</svg>
