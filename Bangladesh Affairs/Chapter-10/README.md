@@ -18,9 +18,9 @@
 **Location:** [OpenStreetMap — Bangladesh Election Commission, Agargaon](https://www.openstreetmap.org/?mlat=23.777147&mlon=90.374392#map=17/23.777147/90.374392). This is a location reference, not an electoral constituency map.
 
 ### National Parliament Building — the institutional setting of party competition
-![Bangladesh National Parliament Building, Dhaka](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_National_Parliament_Building,_Dhaka.jpg)
+![Bangladesh National Parliament Building, Dhaka](https://commons.wikimedia.org/wiki/Special:FilePath/National_Parliament_Building.jpg)
 
-**Image source/licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Bangladesh_National_Parliament_Building,_Dhaka.jpg), author Tanvir Rahat, own work; verify licence terms on the linked file page before republication.
+**Image source/licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:National_Parliament_Building.jpg), author Helal321, own work, **CC BY-SA 4.0**.
 
 ### Additional responsive study diagrams
 - [Political Process Cycle](./assets/political-process-cycle.svg)
