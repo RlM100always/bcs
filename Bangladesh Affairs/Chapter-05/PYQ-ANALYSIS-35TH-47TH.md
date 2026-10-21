@@ -47,6 +47,8 @@
 | Year | Related theme | How to use it |
 |---|---|---|
 | **35th** | Bangladesh Affairs directly includes the four environment-related subquestions in Q23; it also asks about forest resources and the environmental impact of the Teesta water crisis. | Direct high-yield evidence. |
+| **36th** | Bangla paper includes the essay prompt “বাংলাদেশে পরিবেশ বিপর্যয় ও তার প্রতিকার”. | Cross-paper essay practice; not a Bangladesh Affairs prompt. |
+| **37th** | Bangladesh Affairs Q20(b) asks about adverse climate-change impacts on Bangladesh; the Bangla paper includes a river-filling construction prompt and the Science paper includes plastic-pollution material. | Direct Bangladesh Affairs climate-change question plus adjacent cross-paper themes. |
 | **38th** | Bangla paper includes an essay on environmental pollution and remedies; Bangladesh Affairs separately asks about disaster management and pollution. | One cross-paper essay plus direct Bangladesh Affairs questions. |
 | **40th** | Bangla paper includes a report-writing prompt on environmental disaster; International Affairs includes a climate-refugee concept. | Cross-paper practice only. |
 | **41st** | English paper includes climate/environment-related material; Bangladesh Affairs directly asks about forest resources and sustainable development. | Direct Bangladesh Affairs plus adjacent material. |
