@@ -17,3 +17,7 @@
 - Source verification date: **21 October 2026**.
 
 This open educational project is independent and is **not affiliated with BPSC**. No particular examination score is guaranteed.
+
+## Repository checks
+
+Run `python3 tools/check_images.py` to check local Markdown image paths and SVG syntax. The same check runs on pushes and pull requests. External image URLs are reported separately and require a network-enabled audit.
