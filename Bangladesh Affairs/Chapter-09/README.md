@@ -285,6 +285,8 @@ Human security মানুষের জীবন, জীবিকা, খাদ
 <a id="questions"></a>
 ## ১৪. ৩৩টি BCS Written practice questions
 
+এই অংশটি দ্রুত নিজে লিখে অনুশীলনের জন্য। প্রতিটি থিমের পূর্ণ মডেল উত্তর পেতে [২৫টি Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) এবং বছরভিত্তিক প্রমাণ/উৎস দেখতে [35th–47th PYQ Audit](./PYQ-35TH-47TH-AUDIT.md) খুলুন।
+
 > এগুলো syllabus-based practice questions; BPSC-এর মূল প্রশ্নপত্র থেকে হুবহু নেওয়া বলে দাবি করা হচ্ছে না।
 
 ### A. ধারণা ও সাংবিধানিক ভিত্তি
