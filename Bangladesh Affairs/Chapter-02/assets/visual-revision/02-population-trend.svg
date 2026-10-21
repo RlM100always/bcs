@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+<title id="title">জনসংখ্যার দীর্ঘমেয়াদি প্রবণতা</title><desc id="desc">জনশুমারিতে গণনাকৃত মোট, মিলিয়নে — ঐতিহাসিক তুলনা</desc>
+<rect width="1000" height="700" rx="24" fill="#f7fafc"/><rect width="1000" height="150" rx="24" fill="#123047"/><rect y="120" width="1000" height="30" fill="#123047"/>
+<text x="50" y="62" fill="#ffffff" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="32" font-weight="700">জনসংখ্যার দীর্ঘমেয়াদি প্রবণতা</text>
+<text x="50" y="105" fill="#dbeafe" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="19">জনশুমারিতে গণনাকৃত মোট, মিলিয়নে — ঐতিহাসিক তুলনা</text>
+
+<g font-family="Noto Sans Bengali, Noto Sans, sans-serif">
+<line x1="100" y1="555" x2="920" y2="555" stroke="#64748b" stroke-width="2"/>
+<rect x="130" y="385" width="70" height="170" rx="8" fill="#2563eb"/><text x="165" y="370" text-anchor="middle" fill="#123047" font-size="19">71.48</text><text x="165" y="590" text-anchor="middle" fill="#334155" font-size="18">1974</text>
+<rect x="270" y="348" width="70" height="207" rx="8" fill="#2563eb"/><text x="305" y="333" text-anchor="middle" fill="#123047" font-size="19">87.12</text><text x="305" y="590" text-anchor="middle" fill="#334155" font-size="18">1981</text>
+<rect x="410" y="303" width="70" height="252" rx="8" fill="#2563eb"/><text x="445" y="288" text-anchor="middle" fill="#123047" font-size="19">106.31</text><text x="445" y="590" text-anchor="middle" fill="#334155" font-size="18">1991</text>
+<rect x="550" y="260" width="70" height="295" rx="8" fill="#2563eb"/><text x="585" y="245" text-anchor="middle" fill="#123047" font-size="19">124.36</text><text x="585" y="590" text-anchor="middle" fill="#334155" font-size="18">2001</text>
+<rect x="690" y="213" width="70" height="342" rx="8" fill="#2563eb"/><text x="725" y="198" text-anchor="middle" fill="#123047" font-size="19">144.04</text><text x="725" y="590" text-anchor="middle" fill="#334155" font-size="18">2011</text>
+<rect x="830" y="163" width="70" height="392" rx="8" fill="#2563eb"/><text x="865" y="160" text-anchor="middle" fill="#123047" font-size="19">165.16</text><text x="865" y="590" text-anchor="middle" fill="#334155" font-size="18">2022</text>
+</g>
+<line x1="48" y1="628" x2="952" y2="628" stroke="#cbd5e1" stroke-width="2"/>
+<text x="50" y="660" fill="#334155" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="15">উৎস: BBS Population and Housing Census 2022 National Report. ঐতিহাসিক মানগুলো গণনাকৃত মোটের আনুমানিক উপস্থাপন.</text>
+</svg>
