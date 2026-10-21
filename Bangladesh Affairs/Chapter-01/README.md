@@ -42,7 +42,7 @@
 | [🔑 Key Terms বাংলা–English](#keywords) | [২. Physiography: তিন ভূমিরূপ](#physiography) | [✍️ Answer Writing Strategy](#strategy) |
 | [🧠 ৭টি Story Scene](#story) | [৩. Region-by-Region Journey](#regions) | [❓ ৩৩টি English–বাংলা Q&A](#questions) |
 | [📌 Syllabus Coverage](#syllabus-map) | [৪. Rivers & Changes Over Time](#rivers) | [📝 ৫/১০/২০ নম্বর Sample Answer](#worked) |
-| [🖼️ Visual Atlas](#visual-atlas) | [৫. Bay of Bengal & Maritime Law](#maritime) | [⚡ One-page Revision](#revision) |
+| [🖼️ Visual Atlas & 8 Revision Images](#visual-revision-notes) | [৫. Bay of Bengal & Maritime Law](#maritime) | [⚡ One-page Revision](#revision) |
 | [🗺️ Maps at a Glance](#maps) | [৬. BDP 2100: Policy](#delta-plan) | [🔗 Full Source Register](#sources) |
 | [📋 Memory Check](#memory-check) | [৭. People, Culture & Geography](#people) | [✅ Accuracy & Limitations](#accuracy) |
 | [💬 Quotations / উদ্ধৃতি](./QUOTATIONS.md) | [৮. Exam-ready Source Lines](./QUOTATIONS.md#quote-lines) | [🔗 Quote Source Register](./QUOTATIONS.md#quote-sources) |
@@ -167,6 +167,81 @@ Bangladesh Affairs (Subject Code 005)-এর প্রথম ইউনিটে 
 
 <a id="story"></a>
 
+
+<a id="visual-revision-notes"></a>
+
+### 🧠 Visual Revision Notes — ৮টি আলাদা ছবি, ধারাবাহিকভাবে
+
+**Chapter 1 দ্রুত revise করার জন্য ৮টি আলাদা visual note।** প্রতিটি ছবি একই অনুপাতের (portrait), আলাদা SVG ফাইল, এবং পূর্ণ আকারে খুলতে ছবিতে ক্লিক করুন। আগে 01–03 দিয়ে ভূগোলের ভিত্তি, তারপর 04–06 দিয়ে জলাভূমি ও সামুদ্রিক অঞ্চল, শেষে 07–08 দিয়ে নীতি ও বাস্তব প্রভাব revise করুন।
+
+#### Quick Jump — ছবির ক্রম
+[01 · বাংলাদেশ এক নজরে](#vr-01) · [02 · তিন প্রধান ভূমিরূপ](#vr-02) · [03 · নদী ও ভূমির পরিবর্তন](#vr-03) · [04 · জলাভূমি](#vr-04) · [05 · বঙ্গোপসাগর ও উপকূল](#vr-05) · [06 · সামুদ্রিক অঞ্চল](#vr-06) · [07 · ব-দ্বীপ পরিকল্পনা ২১০০](#vr-07) · [08 · ভূগোলের প্রভাব](#vr-08)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a id="vr-01"></a>
+<a href="./assets/visual-revision/01-bangladesh-at-a-glance.svg"><img src="./assets/visual-revision/01-bangladesh-at-a-glance.svg" width="360" alt="01 Bangladesh at a glance: location, boundaries and delta story"></a>
+<strong>01 · বাংলাদেশ এক নজরে | Bangladesh at a Glance</strong><br>
+অবস্থান, সীমানা, নদী ও বদ্বীপের মূল ধারণা। <a href="./assets/visual-revision/01-bangladesh-at-a-glance.svg">Open full-size ↗</a>
+</td>
+<td width="50%" valign="top">
+<a id="vr-02"></a>
+<a href="./assets/visual-revision/02-physiographic-regions.svg"><img src="./assets/visual-revision/02-physiographic-regions.svg" width="360" alt="02 Physiographic regions: floodplains, terraces and hills"></a>
+<strong>02 · তিন প্রধান ভূমিরূপ | Physiographic Regions</strong><br>
+Floodplain, Terrace ও Hills-এর বৈশিষ্ট্য ও পার্থক্য। <a href="./assets/visual-revision/02-physiographic-regions.svg">Open full-size ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a id="vr-03"></a>
+<a href="./assets/visual-revision/03-rivers-and-land-change.svg"><img src="./assets/visual-revision/03-rivers-and-land-change.svg" width="360" alt="03 Rivers and land change: erosion, transport and deposition"></a>
+<strong>03 · নদী ও ভূমির পরিবর্তন | Rivers & Land Change</strong><br>
+ক্ষয়, পরিবহন, সঞ্চয়, চর সৃষ্টি ও গতিপথ পরিবর্তন। <a href="./assets/visual-revision/03-rivers-and-land-change.svg">Open full-size ↗</a>
+</td>
+<td width="50%" valign="top">
+<a id="vr-04"></a>
+<a href="./assets/visual-revision/04-wetlands-of-bangladesh.svg"><img src="./assets/visual-revision/04-wetlands-of-bangladesh.svg" width="360" alt="04 Wetlands of Bangladesh: haor, beel and baor"></a>
+<strong>04 · বাংলাদেশের জলাভূমি | Wetlands</strong><br>
+হাওর, বিল ও বাঁওড়ের পার্থক্য ও পরিবেশগত গুরুত্ব। <a href="./assets/visual-revision/04-wetlands-of-bangladesh.svg">Open full-size ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a id="vr-05"></a>
+<a href="./assets/visual-revision/05-bay-of-bengal-coast.svg"><img src="./assets/visual-revision/05-bay-of-bengal-coast.svg" width="360" alt="05 Bay of Bengal and coastal zone: resources and hazards"></a>
+<strong>05 · বঙ্গোপসাগর ও উপকূল | Bay of Bengal & Coast</strong><br>
+সামুদ্রিক সম্পদ, জীবিকা, ঘূর্ণিঝড় ও লবণাক্ততার ঝুঁকি। <a href="./assets/visual-revision/05-bay-of-bengal-coast.svg">Open full-size ↗</a>
+</td>
+<td width="50%" valign="top">
+<a id="vr-06"></a>
+<a href="./assets/visual-revision/06-maritime-zones.svg"><img src="./assets/visual-revision/06-maritime-zones.svg" width="360" alt="06 Maritime zones: territorial sea, contiguous zone and EEZ"></a>
+<strong>06 · সামুদ্রিক অঞ্চল | Maritime Zones</strong><br>
+১২–২৪–২০০ nautical miles ও আইনি অধিকারের পার্থক্য। <a href="./assets/visual-revision/06-maritime-zones.svg">Open full-size ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a id="vr-07"></a>
+<a href="./assets/visual-revision/07-bangladesh-delta-plan-2100.svg"><img src="./assets/visual-revision/07-bangladesh-delta-plan-2100.svg" width="360" alt="07 Bangladesh Delta Plan 2100 and six hotspots"></a>
+<strong>07 · বাংলাদেশ ব-দ্বীপ পরিকল্পনা ২১০০ | BDP 2100</strong><br>
+ছয়টি hotspot, পানি-নিরাপত্তা ও দীর্ঘমেয়াদি স্থিতিস্থাপকতা। <a href="./assets/visual-revision/07-bangladesh-delta-plan-2100.svg">Open full-size ↗</a>
+</td>
+<td width="50%" valign="top">
+<a id="vr-08"></a>
+<a href="./assets/visual-revision/08-geography-people-economy-culture.svg"><img src="./assets/visual-revision/08-geography-people-economy-culture.svg" width="360" alt="08 How geography affects people, agriculture, economy and culture"></a>
+<strong>08 · মানুষের জীবনে ভূগোলের প্রভাব | Geography & People</strong><br>
+কৃষি, বসতি, অর্থনীতি, সংস্কৃতি ও পরিবেশের সংযোগ। <a href="./assets/visual-revision/08-geography-people-economy-culture.svg">Open full-size ↗</a>
+</td>
+</tr>
+</table>
+
+> [!TIP]
+> **Active Recall:** প্রতিটি ছবি ৩০–৪৫ সেকেন্ড দেখুন, তারপর না দেখে ৩টি keyword ও একটি cause → effect chain বলুন। এরপর [প্রশ্নোত্তর অংশে](#questions) গিয়ে সেই ধারণা দিয়ে একটি উত্তর লিখুন।
+
+**Source note:** ছবিগুলো revision aid—মূল তথ্য যাচাইয়ের জন্য প্রতিটি ছবিতে উল্লিখিত প্রতিষ্ঠান/প্রকাশনা এবং অধ্যায়ের [পূর্ণ Source Register](#sources) অনুসরণ করুন।
+
+---
 
 <a id="visual-atlas"></a>
 
