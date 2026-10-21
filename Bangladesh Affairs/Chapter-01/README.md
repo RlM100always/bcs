@@ -1,10 +1,33 @@
-# অধ্যায় ০১ — বাংলাদেশের ভৌগোলিক পরিচিতি ও ভূপ্রকৃতি
+# Chapter 01 — বাংলাদেশের ভূগোল ও ভূপ্রকৃতি | Geography & Landforms
 
 > **BCS Written · Bangladesh Affairs · Official Unit 1**  
 > **মূল ভাষা:** বাংলা; প্রশ্ন ও টেকনিক্যাল টার্ম: English  
 > **Source review:** ২১ অক্টোবর ২০২৬ · **পাঠের ধরন:** গল্পধর্মী ব্যাখ্যা → বিশ্লেষণ → বাস্তব মানচিত্র ও chart → PYQ evidence → ৩০টি model answer।
 
 [← মূল ১৬ অধ্যায়ের সূচি](../README.md)
+
+
+<a id="top"></a>
+
+> [!NOTE]
+> **অধ্যায়টি কীভাবে পড়বেন:** শুরুতে ৮ মিনিটে *Story Roadmap* ও *Key Terms* পড়ুন। তারপর **ধাপে ধাপে মূল আলোচনা** → **প্রমাণভিত্তিক ছবি ও মানচিত্র** → **বিগত প্রশ্ন** → **নিজে লিখে অনুশীলন**। নীল তথ্যবক্সে নির্ভরযোগ্য **Source**, সবুজ তথ্যবক্সে **Memory Trick**, হলুদ তথ্যবক্সে **Exam Alert** থাকবে। এটি GitHub-এর নিজস্ব রঙিন callout—তাই ফোনেও পড়তে সুবিধা হবে।
+
+### 🧭 Quick Navigation — Click to Jump
+
+| শুরু ও শেখার ধাপ | বিষয়ভিত্তিক অধ্যায় | প্রশ্ন ও উৎস |
+|---|---|---|
+| [🎯 কী জানতে হবে](#start) | [১. Location ও Delta Story](#location) | [📚 Previous BCS Question Audit](#pyq) |
+| [🔑 Key Terms বাংলা–English](#keywords) | [২. Physiography: তিন ভূমিরূপ](#physiography) | [✍️ Answer Writing Strategy](#strategy) |
+| [🧠 ৭টি Story Scene](#story) | [৩. Region-by-Region Journey](#regions) | [❓ ৩০টি English Q&A](#questions) |
+| [📌 Syllabus Coverage](#syllabus-map) | [৪. Rivers & Changes Over Time](#rivers) | [📝 ৫/১০/২০ নম্বর Sample Answer](#worked) |
+| [🖼️ Visual Atlas](#visual-atlas) | [৫. Bay of Bengal & Maritime Law](#maritime) | [⚡ One-page Revision](#revision) |
+| [🗺️ Maps at a Glance](#maps) | [৬. BDP 2100: Policy](#delta-plan) | [🔗 Full Source Register](#sources) |
+| [📋 Memory Check](#memory-check) | [৭. People, Culture & Geography](#people) | [✅ Accuracy & Limitations](#accuracy) |
+
+> [!TIP]
+> **Quick Tip:** যে টপিকের নাম ক্লিক করবেন, সরাসরি সেখানে চলে যাবেন। বড় সেকশন শেষ হলে থাকা **[⬆️ Go to Contents](#top)**-এ ক্লিক করুন। আর ছবিতে ক্লিক করলে পূর্ণ আকারে দেখবেন।
+
+---
 
 ## সিলেবাস, লক্ষ্য ও পরীক্ষার নীতি
 
@@ -13,6 +36,114 @@
 **এ অধ্যায় শেষে আপনি পারবেন:** অবস্থান–সীমারেখা ব্যাখ্যা; ৩ প্রধান ভূপ্রাকৃতিক শ্রেণি ও উপঅঞ্চল পার্থক্য; নদীর গতিপথ–বদ্বীপ সৃষ্টি–ভাঙন ব্যাখ্যা; ভূপ্রকৃতি থেকে কৃষি ও বসতির সম্পর্ক নির্মাণ; বঙ্গোপসাগর ও সমুদ্র আইনের মৌলিক পার্থক্য লেখা; অতীত প্রশ্নের ৫/১০/২০ নম্বরের উত্তর সাজানো।
 
 **Citation policy:** [S2]-এর মানে শুধু ওয়েবসাইটের link নয়—নিচের পূর্ণ source register-এ প্রতিষ্ঠান, নিবন্ধ ও URL আছে। খাতায় যেমন লিখবেন: *“Source: Banglapedia, Asiatic Society of Bangladesh, ‘Bangladesh Geography’.”* সরকারী আইনের ক্ষেত্রে: *“Source: Territorial Waters and Maritime Zones Act, 1974 (amended 2021), Government of Bangladesh.”* সমসাময়িক পরিসংখ্যানের পাশে observation year ও সংজ্ঞা ছাড়া সংখ্যা লিখবেন না।
+
+
+<a id="start"></a>
+
+## 🎯 Start Here — ৮ মিনিটে Chapter Roadmap
+
+**এক লাইনের গল্প:** উত্তরের নদী পলি নিয়ে আসে → পলি বদ্বীপ গড়ে → ভূমিরূপ তিনভাবে আলাদা হয় → নদী ও মানুষ সেই ভূমিকে বদলায় → অঞ্চলভেদে কৃষি, বসতি ও ঝুঁকি আলাদা হয় → বঙ্গোপসাগর সুযোগ ও বিপদ তৈরি করে → রাষ্ট্র পরিকল্পনা করে।
+
+> [!IMPORTANT]
+> **এই অধ্যায় পড়ে যা বলতে পারবেন:** বাংলাদেশ কোথায়, ভূপ্রকৃতি কেমন, কেন এক অঞ্চলের ভূমি আরেকটির থেকে আলাদা, শতাব্দী ধরে নদী ও ভূমি কীভাবে বদলেছে, এবং এসব পরিবর্তন অর্থনীতি–জীবন–সংস্কৃতি ও নীতিকে কীভাবে প্রভাবিত করে।
+
+**What You Must Know (Exam Checklist)**
+
+- **Location:** অক্ষাংশ, দ্রাঘিমাংশ, প্রতিবেশী দেশ, বঙ্গোপসাগরের আপেক্ষিক অবস্থান।
+- **Origin:** গঙ্গা–ব্রহ্মপুত্র–মেঘনা নদীপ্রণালি, পলি, ক্ষয়, সঞ্চয় ও বদ্বীপ।
+- **Three Landforms:** নদীর নবীন প্লাবনভূমি, অপেক্ষাকৃত প্রাচীন সোপানভূমি ও পাহাড়ি অঞ্চল।
+- **Regional Contrast:** বরেন্দ্র–মধুপুর–হাওর–পার্বত্য চট্টগ্রাম–চর–সুন্দরবন।
+- **Time Dimension:** নদীর গতিপথ পরিবর্তন, চর গঠন, মোহনার ক্ষয় ও সঞ্চয়।
+- **Application:** কৃষি, সেচ, নৌপথ, বসতি, সাংস্কৃতিক বৈচিত্র্য, উপকূলীয় নিরাপত্তা।
+- **Important Numbers:** ১২–২৪–২০০ nautical miles; ২০১২ ও ২০১৪ সালের সামুদ্রিক সীমানা-সংক্রান্ত সিদ্ধান্ত।
+- **Policy:** বাংলাদেশ ব-দ্বীপ পরিকল্পনা ২১০০ ও ছয়টি Hotspot।
+- **Evidence:** তথ্যের উৎসের প্রতিষ্ঠান, প্রকাশনা ও সাল—অনুমান ও পর্যবেক্ষিত তথ্য আলাদা।
+
+<a id="syllabus-map"></a>
+
+### 📌 BPSC Official Syllabus — কোন অংশ কোথায় আছে?
+
+Bangladesh Affairs (Subject Code 005)-এর প্রথম ইউনিটে **বাংলাদেশের ভূগোল, বিভিন্ন অঞ্চলের ভূপ্রকৃতি এবং সময়ের সঙ্গে সেগুলোর বিকাশ/পরিবর্তন** আলোচনার নির্দেশনা রয়েছে।
+
+| Official syllabus requirement | এই অধ্যায়ের নির্দিষ্ট অংশ | পরীক্ষার উত্তর দেওয়ার লক্ষ্য |
+|---|---|---|
+| Geography of Bangladesh | §১ ও §৫ | অবস্থান, সীমানা, নদী–সাগর, কৌশলগত গুরুত্ব |
+| Topographical features | §২ | Floodplain, Terrace ও Hills-এর বৈশিষ্ট্য |
+| Different areas / regions | §৩ | বরেন্দ্র, মধুপুর, হাওর, পাহাড়, চর ও উপকূল |
+| Developments over time | §৪ + Timeline | নদীপথ, ক্ষয়–সঞ্চয় ও বদ্বীপের পরিবর্তন |
+| Applied explanation | §৫–§৭ | ভূমিরূপ থেকে অর্থনীতি, ঝুঁকি ও নীতি |
+| Past-paper themes | §৮–§১০ | ব্যাখ্যা, তুলনা, মূল্যায়ন ও source-backed answer |
+
+> [!NOTE]
+> **Source — পরীক্ষায় উল্লেখযোগ্য:** **Bangladesh Public Service Commission (BPSC)**, *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005, Unit 1। [সরকারি সিলেবাস](https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf)।
+
+<a id="keywords"></a>
+
+### 🔑 Core Terminology — English Term, বাংলা অর্থ, মনে রাখার উদাহরণ
+
+| English term | সহজ বাংলা অর্থ | মনে রাখার উদাহরণ |
+|---|---|---|
+| Geography | পৃথিবীর স্থান, পরিবেশ ও মানুষের স্থানিক সম্পর্কের অধ্যয়ন | নদী ও বসতি |
+| Absolute Location | অক্ষাংশ–দ্রাঘিমাংশ দিয়ে নির্দিষ্ট অবস্থান | ২০°৩৪′–২৬°৩৮′ উত্তর |
+| Relative Location | প্রতিবেশী ভূখণ্ড, নদী, সমুদ্রের তুলনায় অবস্থান | ভারতের পূর্বে বঙ্গোপসাগরসংলগ্ন দেশ |
+| Topography | ভূমির উচ্চতা, ঢাল ও বাহ্যিক রূপ | হাওর নিচু, বরেন্দ্র উঁচু |
+| Physiography | ভূগঠন ও ভূমিরূপ ধরে অঞ্চলবিভাগ | Floodplain–Terrace–Hill |
+| Geomorphology | ভূমিরূপ গঠন ও পরিবর্তনের বিজ্ঞান | চর সৃষ্টি ও নদীভাঙন |
+| Alluvium | নদীবাহিত পলিমাটি | যমুনার চর |
+| Sediment | নদী বা বাতাসে পরিবাহিত বালি–পলি–কাদা | বদ্বীপের নির্মাণ উপাদান |
+| Erosion | ভূমি বা তীরের ক্ষয় | নদীতীর ভাঙন |
+| Deposition / Accretion | পলি সঞ্চয় / নতুন ভূমি বৃদ্ধি | চর জাগা |
+| Floodplain | নদীর প্লাবনের সঙ্গে সম্পর্কিত সমতল ভূমি | পদ্মা–যমুনা প্লাবনভূমি |
+| Pleistocene Terrace | অপেক্ষাকৃত প্রাচীন উঁচু সোপানভূমি | বরেন্দ্রভূমি, মধুপুর গড় |
+| Tertiary Hills | ভূতাত্ত্বিকভাবে পুরোনো পাহাড়ি ভূমিরূপ | পার্বত্য চট্টগ্রাম |
+| Delta | নদী ও সাগরের সম্মিলিত প্রক্রিয়ায় গঠিত বদ্বীপ | গঙ্গা–ব্রহ্মপুত্র বদ্বীপ |
+| Active Delta | যেখানে পলি জমা ও নদীপ্রক্রিয়া সক্রিয় | পরিবর্তনশীল মোহনাভূমি |
+| Moribund Delta | অপেক্ষাকৃত নিষ্ক্রিয় পুরোনো বদ্বীপীয় এলাকা | পশ্চিমাঞ্চলের কিছু পুরোনো নদীখাত |
+| Tributary / Distributary | উপনদী / শাখানদী | নদীজালের শাখা-প্রশাখা |
+| Channel Migration | নদীখাত বা মূল প্রবাহের স্থানান্তর | ব্রহ্মপুত্র–যমুনা |
+| Char | নদী বা মোহনায় পলি জমে ওঠা ভূমি | যমুনার চর |
+| Haor / Beel / Baor | মৌসুমি অববাহিকা / নিচু জলাশয় / বিচ্ছিন্ন নদীবাঁক | সুনামগঞ্জের হাওর |
+| Flash Flood | স্বল্প সময়ে দ্রুত সৃষ্ট বন্যা | হাওরে আগাম পাহাড়ি ঢল |
+| Mangrove | জোয়ারভাটা ও লবণাক্ততায় অভিযোজিত বন | সুন্দরবন |
+| Estuary | নদী ও সাগরের মিলিত মোহনা | মেঘনা মোহনা |
+| Geopolitics | ভূঅবস্থান ও আন্তর্জাতিক সম্পর্কের সংযোগ | সমুদ্রসীমা ও যোগাযোগ |
+| Blue Economy | পরিবেশসম্মত সামুদ্রিক অর্থনৈতিক কার্যক্রম | বন্দর, মৎস্য, সামুদ্রিক গবেষণা |
+| Territorial Sea | উপকূলীয় রাষ্ট্রের নির্দিষ্ট সার্বভৌমত্বাধীন সমুদ্রাঞ্চল | সর্বোচ্চ ১২ nautical miles |
+| EEZ | সম্পদ-সম্পর্কিত বিশেষ সার্বভৌম অধিকারসম্পন্ন সমুদ্রাঞ্চল | সর্বোচ্চ ২০০ nautical miles |
+| Adaptive Delta Management | পরিবর্তিত ঝুঁকি ও তথ্য অনুযায়ী বদ্বীপ ব্যবস্থাপনা | Bangladesh Delta Plan 2100 |
+| Hotspot | একই ধরনের ভূপ্রাকৃতিক ঝুঁকিসম্পন্ন নীতিগত অঞ্চল | Haor and Flash Flood Areas |
+
+> [!TIP]
+> **Memory Trick:** **“স্থান–পলি–ভূমি–নদী–মানুষ–সমুদ্র–পরিকল্পনা”**। এই সাত শব্দ বলতে পারলেই পুরো অধ্যায়ের বিশ্লেষণের একটি মানসিক মানচিত্র তৈরি হবে।
+
+<a id="story"></a>
+
+### 🧠 ৭টি দৃশ্যের Story — পড়ার সময় চোখের সামনে কল্পনা করুন
+
+**দৃশ্য ১ — মানচিত্রে বাংলাদেশ (Location)।** মানচিত্রে দেশটিকে খুঁজুন। উত্তর ও পশ্চিমে ভারত; পূর্বে ভারত ও মিয়ানমার; দক্ষিণে বঙ্গোপসাগর। এই অবস্থানের মধ্যেই নদীর প্রবাহ, বন্দর, প্রতিবেশী রাষ্ট্র ও সমুদ্রবাণিজ্যের ধারণা লুকিয়ে আছে।
+
+**দৃশ্য ২ — পাহাড় থেকে নেমে এল পলি (Sediment Journey)।** হিমালয় ও বিস্তৃত অববাহিকা থেকে নদীগুলো পলি বহন করে বাংলাদেশের নিম্নভূমিতে পৌঁছায়। পলি জমে নতুন ভূমি তৈরি করে। তাই নদী শুধু পানির উৎস নয়—বাংলাদেশের ভূমি তৈরির অন্যতম কারিগর।
+
+**দৃশ্য ৩ — তিন ধরনের মাটির ওপর হাঁটা (Three Landforms)।** প্রথমে যমুনার নতুন চর, তারপর বরেন্দ্র ও মধুপুরের প্রাচীন সোপান, শেষে পার্বত্য চট্টগ্রামের ঢাল। এই তিন অভিজ্ঞতা মনে রাখলে Floodplain–Terrace–Hill-এর পার্থক্য সহজে ভুলবেন না।
+
+**দৃশ্য ৪ — নদী পথ পাল্টাল (Changing Rivers)।** নদী এক তীরে ভাঙে, অন্য তীরে জমায়। কখনো বড় নদীর মূল গতিপথও বদলে যায়। অতীতের নদী মানচিত্র আর আজকের মানচিত্র সব সময় এক হবে না—তাই ‘developments over time’ সিলেবাসের একটি মূল দাবি।
+
+**দৃশ্য ৫ — এক দেশ, ছয় রকম সমস্যা (Regional Risks)।** বরেন্দ্রে খরা ও পানির চাপ; হাওরে আগাম বন্যা; পাহাড়ে ভূমিধস; নদীপাড়ে ভাঙন; উপকূলে জলোচ্ছ্বাস–লবণাক্ততা; শহরে জলাবদ্ধতা। একটি সমস্যার সমাধান অন্যত্র সরাসরি প্রয়োগ করা যায় না।
+
+**দৃশ্য ৬ — নদী পৌঁছাল বঙ্গোপসাগরে (Bay of Bengal)।** মোহনা, বন্দর, মাছ, আন্তর্জাতিক নৌবাণিজ্য এবং উপকূলীয় দুর্যোগ—সব একই ভূঅবস্থানের ফল। সমুদ্রসীমায় ১২–২৪–২০০ nautical miles-এর অধিকার এক নয়, তাই আইনের পার্থক্য শিখতে হবে।
+
+**দৃশ্য ৭ — সমাধানের জন্য পরিকল্পনা (BDP 2100)।** এখন প্রশ্ন: অঞ্চলগুলো এত আলাদা হলে জাতীয় উন্নয়ন কীভাবে হবে? উত্তর—বিজ্ঞানসম্মত, অঞ্চলভিত্তিক ও অভিযোজনযোগ্য পরিকল্পনা। এটিই বাংলাদেশ ব-দ্বীপ পরিকল্পনা ২১০০-এর মূল যুক্তির সঙ্গে সামঞ্জস্যপূর্ণ।
+
+> [!IMPORTANT]
+> **One-minute Recall:** Location → Sediment → Floodplain/Terrace/Hill → Channel Change → Regional Risks → Maritime Rights → BDP 2100। পরীক্ষায় যেকোনো বিশ্লেষণধর্মী প্রশ্ন এলে এই ধারা থেকে প্রয়োজনীয় অংশ বেছে নিয়ে উত্তর তৈরি করুন।
+
+**এই Story অংশটি পাঠ-সহায়ক synthesis; তথ্যের ভিত্তি:** **Banglapedia (Asiatic Society of Bangladesh), Bangladesh Geography**; **General Economics Division (GED), Bangladesh Planning Commission, Bangladesh Delta Plan 2100**; **Ministry of Law, Territorial Waters and Maritime Zones Act 1974 (amended 2021)**।
+
+[⬆️ Go to Contents](#top)
+
+---
+
+<a id="location"></a>
 
 ## ১. ভূগোলকে গল্পের মতো বোঝা: একটি চলমান বদ্বীপ
 
@@ -35,6 +166,8 @@
 
 **ব্যাখ্যা:** ‘Absolute Location’ হলো অক্ষাংশ–দ্রাঘিমাংশ; ‘Relative Location’ হলো প্রতিবেশী রাষ্ট্র, বঙ্গোপসাগর, আঞ্চলিক নদী ও বাণিজ্যপথের তুলনায় অবস্থান। ৫ নম্বরের প্রশ্নে অক্ষাংশ–দ্রাঘিমাংশ, চারদিকের সীমানা ও ২ বাক্যে গুরুত্ব; ১০ নম্বরে মানচিত্র, অর্থনৈতিক সম্ভাবনা ও ঝুঁকি।
 
+<a id="maps"></a>
+
 ### ১.২ মানচিত্র — শিক্ষণচিত্র, সীমান্তের আইনগত দলিল নয়
 
 ![বাংলাদেশের ভৌত উচ্চতা ও ভূপ্রকৃতির মানচিত্র](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_physical_map.svg)
@@ -44,6 +177,8 @@
 ![বাংলাদেশের টপোগ্রাফি ও স্থাননাম](https://commons.wikimedia.org/wiki/Special:FilePath/Map_of_Bangladesh-en.svg)
 
 **Figure 2 — Topographic Map of Bangladesh.** Creator: **Oona Räisänen (Mysid)**, 2010; sources include SRTM relief data, archival CIA cartography and NGDC bathymetry; Wikimedia Commons, **CC BY 3.0 / GFDL**. [Original file and terms](https://commons.wikimedia.org/wiki/File:Map_of_Bangladesh-en.svg)। কিছু স্থাননাম/পরিবহন স্তর পুরোনো; সাম্প্রতিক প্রশাসনিক মানচিত্র হিসেবে ব্যবহার নয়।
+
+<a id="physiography"></a>
 
 ## ২. তিনটি প্রধান ভূ-প্রাকৃতিক অঞ্চল (Physiographic Divisions)
 
@@ -85,6 +220,8 @@ G --> H["Adaptive Delta Management"]
 
 **Figure 3 — Conceptual causal diagram, editorial synthesis from Banglapedia [S2] and GED Delta Plan [S6].** এটি ব্যাখ্যামূলক, পরিমাপভিত্তিক data chart নয়।
 
+<a id="regions"></a>
+
 ## ৩. অঞ্চল ধরে বাংলাদেশের ভূপ্রকৃতি: কীভাবে বদলেছে, কেন গুরুত্বপূর্ণ
 
 ### ৩.১ উত্তর-পশ্চিম: বরেন্দ্র (Barind Tract) ও Himalayan Piedmont
@@ -104,6 +241,8 @@ G --> H["Adaptive Delta Management"]
 
 ### ৩.৬ দক্ষিণ ও উপকূল: মোহনা, চর ও দ্বীপ
 নদী-মোহনার মিলিত স্রোতে নতুন চর গঠন, পুরোনো চর ক্ষয় এবং উপকূলরেখা সরে যাওয়া একই বৃহৎ sedimentary process-এর অংশ। কক্সবাজার উপকূল, ফেনী থেকে দক্ষিণ-পূর্বের coastal plain, মেঘনা মোহনা ও বঙ্গোপসাগর উপকূল—সকল অঞ্চল একই ভূমি-উচ্চতা বা sediment regime-এর নয়। প্রশাসনিক কাগুজে আয়তন, বাস্তব উপকূলরেখা ও মহাকাশচিত্রভিত্তিক ভূমির পরিমাপ তাই ভিন্ন হতে পারে। [S2; S3]
+
+<a id="rivers"></a>
 
 ## ৪. নদী: বাংলাদেশের চলমান ভূতত্ত্ব
 
@@ -137,6 +276,8 @@ D --> P
 | Oxbow lake / Baor | নদীর পুরোনো বাঁক বিচ্ছিন্ন হয়ে গঠিত জলাধার | meander cut-off |
 | Remote sensing | দূর থেকে সেন্সরের সাহায্যে ভূ-পৃষ্ঠ পর্যবেক্ষণ | satellite → change detection |
 
+<a id="maritime"></a>
+
 ## ৫. বঙ্গোপসাগর, Blue Economy ও Maritime Jurisdiction
 
 **মনে রাখবেন: সমুদ্রের দূরত্ব মানেই সব সমুদ্রসীমায় এক ধরনের সার্বভৌমত্ব নয়।** বাংলাদেশের *Territorial Waters and Maritime Zones Act, 1974*, সংশোধিত **২০২১**, অনুসারে territorial sea সর্বোচ্চ **১২ nautical miles**, contiguous zone **২৪ nautical miles**, EEZ **২০০ nautical miles** পর্যন্ত আইননির্ধারিত পরিসর (territorial sea baseline থেকে)। সামুদ্রিক প্রতিবেশীর overlapping claims থাকলে কার্যকর দ্বিপক্ষীয় boundary বিচারিক রায়/চুক্তির সঙ্গে মিলিয়ে বুঝতে হবে। [S8 — Ministry of Law, *Laws of Bangladesh*]
@@ -160,6 +301,8 @@ Z --> N["Sovereign rights over resources & specified activities"]
 **Figure 5 — Maritime zones, not to scale. Source: Laws of Bangladesh, 1974 Act as amended 2021 [S8].**
 
 **গুরুত্বপূর্ণ রায়:** বাংলাদেশ–মিয়ানমার সমুদ্রসীমা মামলা: **ITLOS Judgment, ১৪ মার্চ ২০১২** [S9]; বাংলাদেশ–ভারত সমুদ্রসীমা মামলা: **PCA-administered arbitration Award, ৭ জুলাই ২০১৪** [S10]। Blue Economy-র উৎস হলো মৎস্য, বন্দর, নৌবাণিজ্য, সমুদ্র-গবেষণা ও সম্ভাব্য সামুদ্রিক শক্তি—কিন্তু সম্ভাবনাকে প্রমাণিত আয় বা মজুত হিসেবে লিখবেন না।
+
+<a id="delta-plan"></a>
 
 ## ৬. Geography → Development: BDP 2100-এর অঞ্চলভিত্তিক কৌশল
 
@@ -188,6 +331,8 @@ xychart-beta
 
 **Figure 6 — Reported hotspot areas; source [S13].** এগুলো সমগ্র বাংলাদেশের mutually exclusive area shares নয়। যদি GitHub-এর কোনো renderer xychart-beta না দেখায়, উপরের টেবিলই মূল verified dataset।
 
+<a id="people"></a>
+
 ## ৭. ভূগোলের সঙ্গে মানুষের জীবনের যোগসূত্র
 
 একটি নদী হয়তো একটি গ্রামের জমি কেটে নেয়, আবার দূরে নতুন পলি জমিয়ে চরের জন্ম দেয়। যে পরিবার নদীতীর থেকে সরে যায় তার জন্য প্রশ্নটি **Human Geography**—বাসস্থান, জীবিকা, শিক্ষায় প্রবেশ এবং ঝুঁকি। অন্যদিকে যে জিওমরফোলজিস্ট নদীর গতিপথ বদল ব্যাখ্যা করেন, তিনি **Physical Geography** নিয়ে কাজ করছেন। উন্নয়নের ভালো নীতি দুই দৃষ্টিকোণকেই ব্যবহার করে। একইভাবে পাহাড় কাটা বা floodplain ভরাট কেবল একক প্রকৌশল নয়; এটি পানির পথ বদলাতে পারে। [S2; S6]
@@ -204,6 +349,8 @@ I --> P
 ```
 
 **Figure 7 — Geography–human feedback loop, editorial teaching diagram based on [S2] and [S6].**
+
+<a id="pyq"></a>
 
 ## ৮. বিগত লিখিত প্রশ্ন: যাচাইকৃত উৎসের স্তর আলাদা করুন
 
@@ -225,6 +372,8 @@ I --> P
 
 **Trend interpretation (not statistical forecast):** অবস্থান + ভূপ্রকৃতি; বরেন্দ্র ও বদ্বীপ; ভূরাজনীতি ও বঙ্গোপসাগর; এবং ভূগোলের সমাজ-সংস্কৃতির প্রভাব—এসব recurring question *themes*। প্রশ্নের wording, marks ও সাল BPSC মূল PDF স্ক্যান পাওয়া গেলে পুনরায় মিলিয়ে দেখতে হবে। এই ছোট online corpus থেকে কোনো ‘উত্তর আসবেই’ probability গণনা করা হয়নি।
 
+<a id="strategy"></a>
+
 ## ৯. Marks-oriented Answer Architecture
 
 | নম্বর | Suggested time/structure (exam technique, not BPSC rule) | কী দেখাবেন |
@@ -234,6 +383,8 @@ I --> P
 | ২০ | সংজ্ঞা ও প্রেক্ষাপট + ৫–৭ উপশিরোনাম + diagram/chart + opportunities/risks + ৩–৪ সুপারিশ + evidence-led conclusion | তথ্য ও পাল্টা-যুক্তির ভারসাম্য |
 
 **Exam-friendly source citation উদাহরণ:** “Banglapedia (Asiatic Society of Bangladesh) অনুযায়ী বাংলাদেশের ভূপ্রকৃতি তিন শ্রেণির”; “GED, *Bangladesh Delta Plan 2100*-এ ছয়টি hotspot”; “ITLOS, *Bangladesh/Myanmar Judgment* (2012)”; “PCA, *Bay of Bengal Maritime Boundary Arbitration* (2014)”. প্রশ্নে প্রয়োজন ছাড়া বড় URL লিখতে হবে না।
+
+<a id="questions"></a>
 
 ## ১০. Most Important English Questions with Bengali Model Answers — 30টি
 
@@ -480,6 +631,8 @@ I --> P
 **Sources for exam:** Ministry of Law, Justice and Parliamentary Affairs — Laws of Bangladesh — *The Territorial Waters and Maritime Zones Act, 1974 (as amended in 2021)* [S8]; International Tribunal for the Law of the Sea (ITLOS) — *Case No.16, Bangladesh/Myanmar, Judgment, 14 March 2012* [S9]; Permanent Court of Arbitration (PCA) — *Bay of Bengal Maritime Boundary Arbitration (Bangladesh v India), Award, 7 July 2014* [S10]; UNESCO World Heritage Centre — *The Sundarbans (Bangladesh), World Heritage List no.798; inscribed 1997* [S11]।
 
 
+<a id="worked"></a>
+
 ## ১০A. Full-length examiner-style worked answers — তিন ধরনের প্রশ্নে বাড়তি depth
 
 > এখানে বড় প্রশ্নের উত্তরে **কী লিখবেন** তা শুধু outline হিসেবে নয়, পূর্ণ অনুচ্ছেদে দেখানো হয়েছে। অন্য model answer-এর মতোই প্রত্যেক পরিসংখ্যান ও গুরুত্বপূর্ণ claim-এর উৎসের নাম দেওয়া আছে। নিচের উত্তরগুলো পরীক্ষামুখী শিক্ষণীয় রচনা; BPSC-এর অনুমোদিত নমুনা নয়।
@@ -574,6 +727,8 @@ F --> G["BDP 2100 hotspots + maritime legal governance"]
 **Exam citations:** *Banglapedia, “Bangladesh Geography”; General Economics Division, Bangladesh Delta Plan 2100; ITLOS, Bangladesh/Myanmar Judgment (2012); PCA, Bangladesh/India Award (2014); Territorial Waters and Maritime Zones Act, 1974 (amended 2021); UNESCO World Heritage Centre, “The Sundarbans”.*
 
 
+<a id="revision"></a>
+
 ## ১১. Revision Matrix — একটি পাতায় অধ্যায়
 
 | Subtopic | Must-write keywords | Best visual | Source |
@@ -597,6 +752,8 @@ F --> G["BDP 2100 hotspots + maritime legal governance"]
 5. Territorial Sea এবং EEZ-তে রাষ্ট্রের ক্ষমতা কেন এক নয়?
 6. উপকূলীয় পরিকল্পনায় শুধু hard engineering কেন যথেষ্ট নয়?
 7. Banglapedia এবং Delta Plan-এর তথ্য একসঙ্গে ব্যবহার করলে কোন source note প্রয়োজন?
+
+<a id="sources"></a>
 
 ## ১২. Full Source Register — link-এর সঙ্গে প্রকাশক, শিরোনাম ও exam citation
 
@@ -625,6 +782,8 @@ F --> G["BDP 2100 hotspots + maritime legal governance"]
 - **Figure 1:** Urutseg, *Bangladesh physical map.svg*, 2011, Wikimedia Commons, CC0 1.0, [file page](https://commons.wikimedia.org/wiki/File:Bangladesh_physical_map.svg). Source/creator/licence on the file page; independent educational illustration, not sovereign-border legal evidence.
 - **Figure 2:** Oona Räisänen (Mysid), *Map of Bangladesh-en.svg*, 2010, Wikimedia Commons, CC BY 3.0 / GFDL; [file page](https://commons.wikimedia.org/wiki/File:Map_of_Bangladesh-en.svg). Attribution required; original old map layers may be outdated.
 - **Figures 3–7:** Original editorial schematic Mermaid diagrams in this chapter, derived from the explicitly named source concepts. The **pie and bar chart values are sourced**; directional arrows are conceptual, not statistical observations.
+
+<a id="accuracy"></a>
 
 ### Accuracy log / next verification
 - Fixed geographic facts such as broad latitude/longitude are cited to Banglapedia; institutional boundaries and area estimates can differ across modern datasets.
