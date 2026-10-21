@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+<title id="title">ভাষা ও সাংস্কৃতিক ঐতিহ্য</title><desc id="desc">রাষ্ট্রভাষা বাংলা; অন্যান্য ভাষা ও জীবন্ত ঐতিহ্যের সুরক্ষাও গুরুত্বপূর্ণ</desc>
+<rect width="1000" height="700" rx="24" fill="#f7fafc"/><rect width="1000" height="150" rx="24" fill="#123047"/><rect y="120" width="1000" height="30" fill="#123047"/>
+<text x="50" y="62" fill="#ffffff" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="32" font-weight="700">ভাষা ও সাংস্কৃতিক ঐতিহ্য</text>
+<text x="50" y="105" fill="#dbeafe" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="19">রাষ্ট্রভাষা বাংলা; অন্যান্য ভাষা ও জীবন্ত ঐতিহ্যের সুরক্ষাও গুরুত্বপূর্ণ</text>
+
+<g font-family="Noto Sans Bengali, Noto Sans, sans-serif">
+<rect x="65" y="185" width="870" height="80" rx="16" fill="#dbeafe" stroke="#93c5fd" stroke-width="2"/><text x="500" y="218" text-anchor="middle" fill="#1e3a8a" font-size="21" font-weight="700">সংবিধানের ৩ অনুচ্ছেদ: রাষ্ট্রভাষা বাংলা</text><text x="500" y="245" text-anchor="middle" fill="#334155" font-size="16">অন্যান্য মাতৃভাষার নথিবদ্ধকরণ ও শিক্ষার সুযোগ</text>
+<text x="75" y="320" fill="#123047" font-size="21" font-weight="700">UNESCO তালিকায় বাংলাদেশের অমূর্ত ঐতিহ্য</text>
+<rect x="70" y="355" width="270" height="65" rx="12" fill="#f3e8ff" stroke="#d8b4fe"/><text x="205" y="383" text-anchor="middle" fill="#581c87" font-size="17" font-weight="700">বাউল গান</text><text x="205" y="406" text-anchor="middle" fill="#6b21a8" font-size="15">2008</text>
+<rect x="365" y="355" width="270" height="65" rx="12" fill="#f3e8ff" stroke="#d8b4fe"/><text x="500" y="383" text-anchor="middle" fill="#581c87" font-size="17" font-weight="700">জামদানি</text><text x="500" y="406" text-anchor="middle" fill="#6b21a8" font-size="15">2013</text>
+<rect x="660" y="355" width="270" height="65" rx="12" fill="#f3e8ff" stroke="#d8b4fe"/><text x="795" y="383" text-anchor="middle" fill="#581c87" font-size="17" font-weight="700">মঙ্গল শোভাযাত্রা</text><text x="795" y="406" text-anchor="middle" fill="#6b21a8" font-size="15">2016</text>
+<rect x="70" y="440" width="270" height="65" rx="12" fill="#f3e8ff" stroke="#d8b4fe"/><text x="205" y="468" text-anchor="middle" fill="#581c87" font-size="17" font-weight="700">শীতলপাটি</text><text x="205" y="491" text-anchor="middle" fill="#6b21a8" font-size="15">2017</text>
+<rect x="365" y="440" width="270" height="65" rx="12" fill="#f3e8ff" stroke="#d8b4fe"/><text x="500" y="468" text-anchor="middle" fill="#581c87" font-size="17" font-weight="700">রিকশা ও রিকশাচিত্র</text><text x="500" y="491" text-anchor="middle" fill="#6b21a8" font-size="15">2023</text>
+<rect x="660" y="440" width="270" height="65" rx="12" fill="#f3e8ff" stroke="#d8b4fe"/><text x="795" y="468" text-anchor="middle" fill="#581c87" font-size="17" font-weight="700">টাঙ্গাইলের শাড়ি বয়ন</text><text x="795" y="491" text-anchor="middle" fill="#6b21a8" font-size="15">2025</text>
+<text x="500" y="560" text-anchor="middle" fill="#334155" font-size="17">সংরক্ষণ = অংশগ্রহণ + দক্ষতা হস্তান্তর + ন্যায্য জীবিকা</text>
+</g>
+<line x1="48" y1="628" x2="952" y2="628" stroke="#cbd5e1" stroke-width="2"/>
+<text x="50" y="660" fill="#334155" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="15">উৎস: Constitution of Bangladesh, Article 3; UNESCO Intangible Cultural Heritage listing, accessed 21 Oct 2026.</text>
+</svg>
