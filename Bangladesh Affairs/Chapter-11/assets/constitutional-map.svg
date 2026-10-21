@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">Constitutional framework for elections in Bangladesh</title>
+<desc id="desc">Key constitutional provisions from Articles 118 to 126 and their roles.</desc>
+<defs><style>
+.bg{fill:#f7f8fa}.title{font:700 38px Arial,sans-serif;fill:#172b3a}.sub{font:22px Arial,sans-serif;fill:#52616b}.card{fill:#fff;stroke:#52616b;stroke-width:2;rx:18}.n{font:700 24px Arial,sans-serif;fill:#172b3a}.bn{font:22px 'Noto Sans Bengali',Arial,sans-serif;fill:#243746}.sm{font:18px Arial,sans-serif;fill:#52616b}.arrow{stroke:#52616b;stroke-width:3;fill:none}
+</style></defs>
+<rect class="bg" width="1600" height="900"/>
+<text class="title" x="800" y="65" text-anchor="middle">CONSTITUTIONAL FRAMEWORK</text>
+<text class="sub" x="800" y="105" text-anchor="middle">Part VII • Elections • Articles 118–126</text>
+<rect x="520" y="145" width="560" height="95" rx="22" fill="#e8eef2" stroke="#52616b" stroke-width="2.5"/>
+<text class="n" x="800" y="184" text-anchor="middle">Constitution of Bangladesh</text><text class="bn" x="800" y="216" text-anchor="middle">সংবিধান • Part VII</text>
+<path class="arrow" d="M800 240 V280 M800 280 H260 V315 M800 280 H620 V315 M800 280 H980 V315 M800 280 H1340 V315"/>
+<rect class="card" x="70" y="315" width="380" height="145"/>
+<text class="n" x="260" y="355" text-anchor="middle">Article 118</text><text class="bn" x="260" y="395" text-anchor="middle">কমিশন গঠন ও স্বাধীনতা</text><text class="sm" x="260" y="430" text-anchor="middle">Structure • tenure • independence</text>
+<rect class="card" x="430" y="315" width="380" height="145"/>
+<text class="n" x="620" y="355" text-anchor="middle">Article 119</text><text class="bn" x="620" y="395" text-anchor="middle">নির্বাচন পরিচালনা</text><text class="sm" x="620" y="430" text-anchor="middle">Rolls • elections • delimitation</text>
+<rect class="card" x="790" y="315" width="380" height="145"/>
+<text class="n" x="980" y="355" text-anchor="middle">Articles 120–124</text><text class="bn" x="980" y="395" text-anchor="middle">কর্মী, তালিকা, ভোটাধিকার, আইন</text><text class="sm" x="980" y="430" text-anchor="middle">Staff • roll • franchise • law</text>
+<rect class="card" x="1150" y="315" width="380" height="145"/>
+<text class="n" x="1340" y="355" text-anchor="middle">Articles 125–126</text><text class="bn" x="1340" y="395" text-anchor="middle">বিরোধ ও নির্বাহী সহায়তা</text><text class="sm" x="1340" y="430" text-anchor="middle">Petitions • executive assistance</text>
+<path class="arrow" d="M260 460 V510 H800 M620 460 V510 M980 460 V510 M1340 460 V510 H800 V550"/>
+<rect x="350" y="550" width="900" height="120" rx="22" fill="#fff" stroke="#52616b" stroke-width="2.5"/>
+<text class="n" x="800" y="595" text-anchor="middle">Credible electoral administration</text><text class="bn" x="800" y="635" text-anchor="middle">নিরপেক্ষতা • সঠিক তথ্য • সমান অংশগ্রহণ • প্রতিকার</text>
+<text class="sm" x="800" y="745" text-anchor="middle">Exam method: cite the Article, explain its function, then evaluate implementation.</text>
+</svg>
