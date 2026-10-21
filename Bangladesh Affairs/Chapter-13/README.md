@@ -5,7 +5,7 @@
 
 [← মূল ১৬ অধ্যায়ের সূচি](../README.md) · [PYQ-based Essays](./PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](./QUOTATIONS.md) · [🖼️ Visual Atlas (10 diagrams + 10 topic-linked internet photos)](./VISUAL-ATLAS.md)
 
-> 📱 **Mobile-friendly visual notes:** ১০টি internet-sourced photograph সংশ্লিষ্ট পাঠের পাশে যুক্ত হয়েছে; প্রতিটি ছবির সঙ্গে caption, source ও licence দেওয়া আছে। ১০টি responsive SVG diagram Visual Atlas-এ রয়েছে। মূল অধ্যায় ও Atlas মিলিয়ে মোট embedded visual ২৫টি—৩০টির সীমার মধ্যে।
+> 📱 **Mobile-friendly visual notes:** ১০টি internet-sourced photograph সংশ্লিষ্ট পাঠের পাশে যুক্ত হয়েছে; প্রতিটি ছবির সঙ্গে caption, source ও licence দেওয়া আছে। ১০টি responsive SVG diagram Visual Atlas-এ রয়েছে। মূল অধ্যায় ও Atlas মিলিয়ে মোট embedded visual ২৯টি—৩০টির সীমার মধ্যে।
 
 <a id="top"></a>
 
