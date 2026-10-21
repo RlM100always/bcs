@@ -19,7 +19,7 @@
 ### ৩. নির্বাচনী সততার ছয়টি স্তম্ভ
 ![Election integrity pillars](./assets/electoral-integrity-dashboard.svg)
 
-[Open diagram separately](./assets/election-integrity-pillars.svg). Independence, equal competition, secret ballot, verifiable counting, inclusion and remedies—এগুলোকে উত্তর লেখার analytical framework হিসেবে ব্যবহার করুন।
+[Open diagram separately](./assets/electoral-integrity-dashboard.svg). Independence, equal competition, secret ballot, verifiable counting, inclusion and remedies—এগুলোকে উত্তর লেখার analytical framework হিসেবে ব্যবহার করুন।
 
 ### ৪. নির্বাচনে প্রযুক্তি: সুবিধা, ঝুঁকি ও safeguards
 ![Election technology benefits and risks](./assets/election-technology-risks.svg)
