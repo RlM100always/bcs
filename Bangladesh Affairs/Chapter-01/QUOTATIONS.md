@@ -149,7 +149,9 @@
 
 ### 🟨 ৬. Sundarbans Biodiversity — সুন্দরবনের জীববৈচিত্র্য
 
-> **“a wide range of fauna”**
+**Original English quotation (মূল ইংরেজি উদ্ধৃতি):**
+
+> “a wide range of fauna”
 
 **বাংলা ভাবানুবাদ:** সুন্দরবনে বিস্তৃত ও বৈচিত্র্যময় প্রাণিজগৎ রয়েছে।
 
