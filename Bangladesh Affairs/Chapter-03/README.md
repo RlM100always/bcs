@@ -391,6 +391,11 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 
 ### মুজিবনগর সরকার: গঠন ও শপথ
 
+![মুজিবনগর মুক্তিযুদ্ধ স্মৃতি কমপ্লেক্স](https://commons.wikimedia.org/wiki/Special:FilePath/1971%20war%20at%20Mujibnagar%20memorial.jpg)
+
+*চিত্র-পাঠ:* এটি যুদ্ধকালীন ছবি নয়; ২০১৮ সালে তোলা স্মৃতি কমপ্লেক্সের ছবি। মুজিবনগরকে অস্থায়ী সরকারের সংগঠন ও মুক্তিযুদ্ধের স্মৃতির সঙ্গে যুক্ত করে দেখুন। [ছবির উৎস, আলোকচিত্রী ও CC BY-SA লাইসেন্স](https://commons.wikimedia.org/wiki/File:1971_war_at_Mujibnagar_memorial.jpg) · [Banglapedia: Mujibnagar Government](https://en.banglapedia.org/index.php?lang=en&title=Mujibnagar_Government)
+
+
 মুজিবনগর সরকার ১০ এপ্রিল ১৯৭১ গঠিত হয় এবং ১৭ এপ্রিল মেহেরপুরের বৈদ্যনাথতলায় শপথ গ্রহণ করে। শেখ মুজিবুর রহমান রাষ্ট্রপতি, সৈয়দ নজরুল ইসলাম অস্থায়ী রাষ্ট্রপতির দায়িত্ব পালন করেন এবং তাজউদ্দীন আহমদ প্রধানমন্ত্রী ছিলেন। সরকারটি বাংলাদেশের ভূখণ্ডের বাইরে থেকে কাজ করলেও মুক্তিযুদ্ধের রাজনৈতিক, প্রশাসনিক, কূটনৈতিক ও সামরিক সমন্বয়ে গুরুত্বপূর্ণ ভূমিকা রাখে। [S2–S3]
 
 ### সরকারের প্রধান কার্যাবলি
