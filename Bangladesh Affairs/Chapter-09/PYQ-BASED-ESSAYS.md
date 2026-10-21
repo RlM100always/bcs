@@ -1,7 +1,7 @@
 # Chapter 09 — PYQ Analysis + Source-backed Model Essays
 ## বাংলাদেশের পররাষ্ট্রনীতি ও বৈদেশিক সম্পর্ক | BCS Written · Subject Code 005
 
-[← মূল অধ্যায়](./README.md) · [English Quotations](./QUOTATIONS.md)
+[← মূল অধ্যায়](./README.md) · [35th–47th PYQ audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি answered model question](./BCS-WRITTEN-QUESTION-BANK.md) · [১৪টি English Quotations](./QUOTATIONS.md)
 
 > এগুলো BCS Written-এর syllabus, প্রকাশ্য প্রশ্নের theme ও সরকারি/আন্তর্জাতিক উৎসের ভিত্তিতে তৈরি model essays; BPSC official answer key নয়। মূল প্রশ্নপত্রের scan যাচাই ছাড়া secondary archive-কে certified transcript বলা যাবে না।
 
