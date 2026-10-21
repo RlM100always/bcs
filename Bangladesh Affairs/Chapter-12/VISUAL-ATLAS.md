@@ -3,7 +3,7 @@
 
 [← Main Chapter](./README.md#top) · [35th–47th PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) · [25 Model Answers](./BCS-WRITTEN-QUESTION-BANK.md) · [8 Essays](./PYQ-BASED-ESSAYS.md) · [Quotations](./QUOTATIONS.md)
 
-> **Visual standard:** 14 local SVG diagrams are designed for this chapter, plus source-linked real-world photos and a submarine-cable landing-site map. Each diagram is explanatory, not a substitute for an official map or legal text. External images remain owned by their original publishers; check reuse permissions before republishing outside this study notebook.
+> **Visual standard:** This chapter has 14 local SVG diagrams and 10 topic-aligned internet images embedded beside the relevant discussion in [the main chapter](./README.md). To keep the total at or below 30 image/diagram embeds across both files, this atlas repeats only six photo references; the 2017 cable-map page and disaster-recovery photo are linked rather than embedded here. Diagrams are explanatory, not a substitute for an official map or legal text. External images remain owned by their original publishers; check reuse permissions before republishing outside this study notebook.
 
 ## A. Visual revision sheets — 14 diagrams (12 core + 2 bonus)
 
@@ -79,8 +79,10 @@
 
 ## B. Exact, source-linked real-world images and map
 
+> The main chapter embeds 10 topic-matched internet images beside the related lessons. Six of those images are repeated below as a quick-reference gallery; two additional sources are linked rather than embedded to keep the chapter-wide total within 30 visual embeds.
+
 ### 1. Historical submarine-cable landing-site map (2017)
-![Historical map of the SEA-ME-WE 4 Cox's Bazar and SEA-ME-WE 5 Kuakata landing sites](https://lirneasia.net/2017/10/bangladesh-submarine-cables-1-1-not-necessarily-2/smw5/)
+**Open the map:** [Historical SEA-ME-WE 4 Cox's Bazar and SEA-ME-WE 5 Kuakata landing-site map](https://lirneasia.net/2017/10/bangladesh-submarine-cables-1-1-not-necessarily-2/smw5/).
 
 **Source:** [LIRNEasia — “Bangladesh submarine cables: 1 + 1 is not necessarily 2”](https://lirneasia.net/2017/10/bangladesh-submarine-cables-1-1-not-necessarily-2/). This is a historical 2017 map, not a complete current cable-route map. The map labels Cox's Bazar (SEA-ME-WE 4) and Kuakata (SEA-ME-WE 5); check current cable-system details against [BSCPLC official information](https://bscplc.portal.gov.bd/pages/static-pages/6922de55933eb65569e19f01).
 
@@ -105,7 +107,7 @@
 **Image source:** [UNDP Bangladesh — a2i's public-service innovation network](https://www.undp.org/bangladesh/stories/a2is-public-service-innovation-network-made-partner-month-south-south-galaxy). Use to illustrate people-centred assisted service, not a current statistical claim.
 
 ### 6. Disaster recovery and data resilience
-![Disaster Recovery Data Center in Bangladesh](https://www.rupalibangladesh.com/media/imgAll/2025July/tecnoloty-20250820195810.jpg)
+**Image (embedded beside the cybersecurity section in the main chapter):** [Open the Disaster Recovery Data Center photograph](https://www.rupalibangladesh.com/media/imgAll/2025July/tecnoloty-20250820195810.jpg).
 
 **Image source:** [Rupali Bangladesh — National Data Centre and Disaster Recovery Centre report](https://www.rupalibangladesh.com/economy-business-news/68300). For an exam answer, verify institutional and operational claims with Bangladesh Computer Council / ICT Division primary sources.
 
