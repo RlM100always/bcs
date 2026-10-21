@@ -1,8 +1,8 @@
 # Chapter 09 — বাংলাদেশের পররাষ্ট্রনীতি ও বৈদেশিক সম্পর্ক
 > **BCS Written · Bangladesh Affairs · Subject Code 005 · 200 marks**  
-> বাংলা ব্যাখ্যা + English terminology + বিগত প্রশ্নের theme + source-backed essays + ৩৩টি অনুশীলনী + English quotation bank.
+> বাংলা ব্যাখ্যা + official source-backed research + 35th–47th PYQ audit + ২৫টি answered model Q&A + ৮টি model essay + ১৮টি English quotation + ৭টি SVG visual/chart + verified regional map.
 
-[← Bangladesh Affairs সূচি](../README.md) · [📚 PYQ-ভিত্তিক প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [💬 English Quotations with sources](./QUOTATIONS.md) · [Chapter 01-এর format](../Chapter-01/README.md)
+[← Bangladesh Affairs সূচি](../README.md) · [৩৫তম–৪৭তম PYQ Audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [৮টি PYQ-based essay](./PYQ-BASED-ESSAYS.md) · [১৮টি English quotation](./QUOTATIONS.md#verified-quotes)
 
 <a id="top"></a>
 
@@ -11,7 +11,7 @@
 
 ## বিষয়সূচি
 1. [Syllabus ও learning outcomes](#syllabus)
-2. [Previous BCS Written question analysis](#pyq)
+2. [35th–47th BCS Written PYQ audit](./PYQ-35TH-47TH-AUDIT.md)
 3. [পররাষ্ট্রনীতি: ধারণা, লক্ষ্য ও নির্ধারক](#concept)
 4. [সাংবিধানিক ভিত্তি](#constitution)
 5. [Policy formulation ও national power](#formulation)
@@ -22,10 +22,12 @@
 10. [Economic diplomacy, trade ও manpower](#economic)
 11. [জলবায়ু, সমুদ্র ও মানবিক নিরাপত্তা](#security)
 12. [চ্যালেঞ্জ ও সুপারিশ](#challenges)
-13. [Revision visuals ও internet image](#visuals)
+13. [Exact regional map, diagrams ও charts](#visuals)
 14. [৩৩টি practice questions](#questions)
-15. [উত্তর লেখার কৌশল](#answer)
-16. [Source register](#sources)
+15. [২৫টি answered model questions](./BCS-WRITTEN-QUESTION-BANK.md)
+16. [উত্তর লেখার কৌশল](#answer)
+17. [Source register](#sources)
+18. [১৮টি English quotation with sources](./QUOTATIONS.md#verified-quotes)
 
 <a id="syllabus"></a>
 ## ১. BPSC syllabus mapping ও শিখনফল
@@ -35,28 +37,29 @@ BPSC-এর Bangladesh Affairs, Subject Code 005, লিখিত সিলে�
 এই অধ্যায় শেষে আপনি পারবেন: (ক) Article 25 ব্যাখ্যা করতে; (খ) national interest ও policy determinants বিশ্লেষণ করতে; (গ) bilateral ও multilateral diplomacy তুলনা করতে; (ঘ) UN, NAM, SAARC, BIMSTEC, OIC, D-8, WTO, IMF ও World Bank-এর প্রাসঙ্গিকতা লিখতে; (ঙ) বাণিজ্য, প্রবাসী কর্মী, জলবায়ু, সমুদ্র ও Rohingya সংকটকে কূটনীতির সঙ্গে যুক্ত করতে; (চ) বাস্তবসম্মত সুপারিশসহ ১০/২০ নম্বরের উত্তর লিখতে।
 
 <a id="pyq"></a>
-## ২. Previous BCS Written Question Analysis
+## ২. Previous BCS Written Question Analysis — 35th–47th
 
-### ২.১ যাচাইযোগ্য প্রশ্নের উদাহরণ
-প্রকাশ্য BCS EXAM question archive-এ **৩৫তম BCS Written, Bangladesh Affairs, Question 27**-এ বাংলাদেশের পররাষ্ট্রনীতির মূলনীতি এবং “জাতীয় স্বার্থ সংরক্ষণই বাংলাদেশের পররাষ্ট্রনীতির মূল নির্ধারক”—এই বক্তব্য ব্যাখ্যা করতে বলা হয়েছিল। [Q1] **৫০তম BCS Written International Affairs, Subject Code 007**-এ economic sanctions ও Track II diplomacy এসেছে; এটি আলাদা পেপার, তাই Bangladesh Affairs প্রশ্নের সঙ্গে এক করে গণনা করা যাবে না। [Q2]
+এই অধ্যায়ের **পূর্ণ year-by-year audit** আলাদা ফাইলে দেওয়া হয়েছে। এতে Bangladesh Affairs (Subject Code 005)-এর পররাষ্ট্রনীতি, জাতীয় স্বার্থ, ভূরাজনীতি, দ্বিপাক্ষিক সম্পর্ক, UN peacekeeping, Rohingya diplomacy, economic diplomacy ও maritime themes বিশ্লেষণ করা হয়েছে।
 
-**সতর্কতা:** প্রশ্ন-আর্কাইভ secondary transcript; মূল BPSC scan নয়। এই অগ্রাধিকার syllabus coverage, যাচাইযোগ্য উদাহরণ এবং একাধিক প্রশ্নে প্রয়োগযোগ্যতার ভিত্তিতে—সব বছরের statistical frequency audit নয়।
+**[➡️ 35th–47th BCS Foreign-Policy PYQ Audit খুলুন](./PYQ-35TH-47TH-AUDIT.md)** · **[➡️ ২৫টি উত্তরসহ Model Question Bank](./BCS-WRITTEN-QUESTION-BANK.md)**
 
-### ২.২ High-priority topic map
+### ২.১ পরীক্ষায় সবচেয়ে গুরুত্বপূর্ণ year anchors
 
-| অগ্রাধিকার | থিম | কেন গুরুত্বপূর্ণ |
+| BCS | Archive-reported theme (Bangladesh Affairs 005) | প্রস্তুতির নির্দেশনা |
 |---|---|---|
-| A | Article 25 ও foreign policy principles | সরাসরি সাংবিধানিক ভিত্তি; ৩৫তম BCS-এর প্রশ্নের theme |
-| A | National interest ও determinants | পররাষ্ট্রনীতির প্রায় সব উত্তরে প্রয়োগযোগ্য |
-| A | Geopolitics ও India-China-US balancing | নিরাপত্তা, বাণিজ্য, যোগাযোগ ও কৌশলগত নির্ভরতার সংযোগ |
-| A | UN, peacekeeping ও multilateralism | syllabus-এর কেন্দ্রীয় অংশ |
-| A | Economic diplomacy, trade, foreign aid ও manpower | রপ্তানি, বিনিয়োগ, রেমিট্যান্স ও শ্রমিকের অধিকার |
-| B | SAARC, BIMSTEC, OIC, NAM, D-8 | আঞ্চলিক ও বহুপাক্ষিক সহযোগিতা |
-| B | Climate diplomacy, Bay of Bengal ও Blue Economy | পরিবেশ, অর্থনীতি ও নিরাপত্তা |
-| B | Rohingya crisis ও burden-sharing | মানবিক ও কূটনৈতিক সংকট |
-| B | Sanctions ও Track II diplomacy | related International Affairs theme; paper distinction বজায় রাখতে হবে |
+| 35th | Foreign-policy principles; national interest; UN peacekeeping; BCIM; international labour market/WTO | Article 25 + national interest + economic diplomacy |
+| 37th | Foreign-policy determinants; India–Bangladesh–China relations; export trade/WTO and IMF | Determinants + strategic balance |
+| 38th | Rohingya crisis; major powers’ roles during the Liberation War; maritime resources | Humanitarian diplomacy + security |
+| 41st | Foreign-policy basis; UN peacekeeping; Rohingya repatriation; economic diplomacy; maritime-boundary settlement | Article 25 + practical recommendations |
+| 45th | Definition, principles, objectives, weaknesses and limits of foreign policy; Teesta water-sharing | Full 20-mark analytical essay |
+| 46th | Measures to improve foreign relations; Rohingya’s socioeconomic impact and solutions | Current policy, burden-sharing and measurable action |
+| 47th | Challenges to external relations after the July mass uprising and recommended responses | Continuity, credibility, national interest and diversification |
 
-**প্রশ্নের নির্দেশক শব্দ:** “Explain” হলে ধারণা ও ভিত্তি; “Analyse” হলে কারণ–প্রভাব; “Evaluate” হলে সাফল্য-সীমাবদ্ধতা; “Recommend” হলে বাস্তবায়নযোগ্য পদক্ষেপ লিখুন।
+The 36th paper's available Bangladesh Affairs transcript did not show a direct foreign-policy prompt; 40th, 43rd and 44th had adjacent geopolitics, global-shock, Rohingya or maritime themes. The 39th and 42nd special BCS series are excluded from regular-paper frequency comparisons. Cross-paper International Affairs (007) questions are separately labelled in the audit and are not counted as Bangladesh Affairs questions.
+
+### ২.২ Archive ও frequency নিয়ে সতর্কতা
+
+BCS EXAM-এর প্রকাশ্য question archive নিজেই জানায় যে transcript-গুলো BPSC-এর original scan থেকে সরাসরি টাইপ করা certified copy নয় এবং transcription error থাকতে পারে। তাই year-specific claims-কে **archive-reported** বলা হয়েছে; এই অধ্যায়ের topic coding official BPSC statistics নয় এবং ভবিষ্যৎ প্রশ্নের নিশ্চয়তা দেয় না।
 
 <a id="concept"></a>
 ## ৩. পররাষ্ট্রনীতি: ধারণা, লক্ষ্য ও নির্ধারক
@@ -176,7 +179,7 @@ Multilateral diplomacy ছোট/মাঝারি রাষ্ট্রকে 
 
 বাংলাদেশ ১৭ সেপ্টেম্বর ১৯৭৪-এ জাতিসংঘের সদস্য হয়। [S4] UN বাংলাদেশের জন্য শান্তি ও নিরাপত্তা, উন্নয়ন, জলবায়ু, মানবিক সংকট এবং আন্তর্জাতিক আইন বিষয়ে গুরুত্বপূর্ণ কূটনৈতিক মঞ্চ।
 
-UN peacekeeping-এ বাংলাদেশি সামরিক, পুলিশ ও অন্যান্য uniformed personnel অংশ নেন। UN-এর ৩১ জুলাই ২০২৫-এর contribution table-এ বাংলাদেশের মোট uniformed personnel **৫,৬৮৫** দেখানো হয়েছে; এটি ওই তারিখের snapshot, বর্তমান সংখ্যা নয়। [S5] শান্তিরক্ষা পেশাগত অভিজ্ঞতা, আন্তর্জাতিক সহযোগিতা ও দেশের পরিচিতি বাড়াতে পারে; একই সঙ্গে প্রশিক্ষণ, equipment, mandate clarity, civilian protection, safety ও misconduct prevention জরুরি।
+UN peacekeeping-এ বাংলাদেশি সামরিক, পুলিশ ও অন্যান্য uniformed personnel অংশ নেন। বাংলাদেশ Armed Forces Division-এর প্রকাশিত ranking-এ বাংলাদেশ ২০২৩ সালে প্রথম, ২০২৪ ও ২০২৫ সালে তৃতীয় এবং ২০২৬ সালে চতুর্থ অবস্থানে রয়েছে। এটি troop-contribution ranking-এর dated snapshot—personnel count বা সব ধরনের অবদানের একমাত্র মাপকাঠি নয়। [S8] শান্তিরক্ষা পেশাগত অভিজ্ঞতা, আন্তর্জাতিক সহযোগিতা ও দেশের পরিচিতি বাড়াতে পারে; একই সঙ্গে প্রশিক্ষণ, equipment, mandate clarity, civilian protection, safety ও misconduct prevention জরুরি।
 
 Peacekeeping যুদ্ধজয় বা জোর করে রাজনৈতিক সমাধান চাপিয়ে দেওয়ার সমার্থক নয়। প্রতিটি মিশনের mandate আলাদা। বাংলাদেশের বহুপাক্ষিক অগ্রাধিকার হওয়া উচিত peacekeeping, climate finance, displacement response, fair trade, peaceful dispute settlement এবং আন্তর্জাতিক আইনের প্রতি শ্রদ্ধা।
 
@@ -237,23 +240,44 @@ Human security মানুষের জীবন, জীবিকা, খাদ
 5. প্রবাসী কর্মী ও সংকটে পড়া নাগরিকের দ্রুত consular service এবং measurable performance review।
 
 <a id="visuals"></a>
-## ১৩. Quick Revision Visuals
+## ১৩. Exact regional map, diagrams and data charts
 
-### ১৩.১ পররাষ্ট্রনীতি প্রণয়নের চক্র
+### ১৩.১ বাংলাদেশের ভূরাজনৈতিক অবস্থান: বঙ্গোপসাগর ও পার্শ্ববর্তী অঞ্চল
+
+![Bay of Bengal regional location map](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bay_of_Bengal_in_its_region.svg/1280px-Bay_of_Bengal_in_its_region.svg.png)
+
+<sub>**Map credit:** Aplaice, “Bay of Bengal in its region.svg,” Wikimedia Commons, 1 August 2021, CC BY-SA 4.0. Map data derived from Natural Earth; sea boundaries are approximate and based on IHO *Limits of Oceans and Seas* (Draft 3rd Edition, 1953). [Original map, source details and licence](https://commons.wikimedia.org/wiki/File:Bay_of_Bengal_in_its_region.svg). This is a regional locator map, not a legal delimitation map; use official treaty/judgment documents for maritime boundaries.</sub>
+
+### ১৩.২ পররাষ্ট্রনীতি প্রণয়নের চক্র
 <img src="./assets/foreign-policy-cycle.svg" width="100%" alt="Foreign policy formulation cycle"/>
 
-### ১৩.২ জাতীয় স্বার্থের স্তর
+### ১৩.৩ জাতীয় স্বার্থের স্তর
 <img src="./assets/national-interest.svg" width="100%" alt="Layers of national interest"/>
 
-### ১৩.৩ বাংলাদেশের বহুপাক্ষিক কূটনীতি
+### ১৩.৪ বাংলাদেশের বহুপাক্ষিক কূটনীতি
 <img src="./assets/multilateral-map.svg" width="100%" alt="Bangladesh multilateral diplomacy map"/>
 
-### ১৩.৪ Internet image — বাংলাদেশি UN peacekeepers
+### ১৩.৫ আঞ্চলিক ভূরাজনীতি — conceptual diagram
+<img src="./assets/04-regional-geopolitics.svg" width="100%" alt="Conceptual diagram of Bangladesh's geopolitical connections"/>
+<sub>এই diagram সম্পর্ক ও policy themes বোঝায়; এটি scale map নয় এবং কোনো সীমান্ত/দূরত্ব নির্ধারণ করে না।</sub>
+
+### ১৩.৬ 35th–47th BCS Written PYQ chart
+<img src="./assets/05-pyq-coverage-35-47.svg" width="100%" alt="Foreign-policy question audit across regular BCS Bangladesh Affairs papers"/>
+<sub>Editorial archive coding; official BPSC topic-frequency statistics নয়। [পূর্ণ audit](./PYQ-35TH-47TH-AUDIT.md)।</sub>
+
+### ১৩.৭ UN peacekeeping contribution rank, 2015–2026
+<img src="./assets/06-peacekeeping-rank-2015-2026.svg" width="100%" alt="Bangladesh UN peacekeeping contribution rank by year"/>
+<sub>Source: Bangladesh Armed Forces Division. Rank only—not troop counts or total mission impact. [Official source](https://afd.gov.bd/index.php/un-peacekeeping/position-of-bangladesh-in-un-peace-operation)।</sub>
+
+### ১৩.৮ Foreign-policy priority matrix
+<img src="./assets/07-foreign-policy-priority-matrix.svg" width="100%" alt="Foreign-policy priorities from constitutional principles to implementation"/>
+
+### ১৩.৯ Internet image — বাংলাদেশি UN peacekeepers
 ![Bangladeshi UN peacekeepers in field operations](https://ecdn.dhakatribune.net/contents/cache/images/1200x630x1xxxxx1/uploads/dten/2023/05/28/un-peacekeepers-2.jpeg)
 
-<sub>Source: Dhaka Tribune, [Bangladesh’s robust role and commitment towards international peace and security](https://www.dhakatribune.com/opinion/longform/314708/bangladesh%E2%80%99s-robust-role-and-commitment-towards). Image reuse rights should be checked with publisher.</sub>
+<sub>Source: Dhaka Tribune, [Bangladesh’s robust role and commitment towards international peace and security](https://www.dhakatribune.com/opinion/longform/314708/bangladesh%E2%80%99s-robust-role-and-commitment-towards). This publisher image is retained as an external reference; check reuse rights before republication.</sub>
 
-### ১৩.৫ Historical image and background — Bangladesh and UN
+### ১৩.১০ Historical source — Bangladesh and the UN
 [United Nations in Bangladesh — Bangladesh and the United Nations: 50 Years of Partnership](https://bangladesh.un.org/en/282417-bangladesh-and-united-nations-50-years-partnership)
 
 <a id="questions"></a>
@@ -335,8 +359,20 @@ https://sittwe.mofa.gov.bd/pages/static-pages/foreign-policy-of-bangladesh-edc32
 **[S4] United Nations.** *Member States — Bangladesh*, admission date 17 September 1974.  
 https://www.un.org/about-us/member-states
 
-**[S5] United Nations Peacekeeping.** *Contribution of Uniformed Personnel to UN by Country and Personnel Type*, data as of 31 July 2025.  
-https://peacekeeping.un.org/sites/default/files/01_contributions_to_un_peacekeeping_operations_by_country_and_post_88_july_2025.pdf
+**[S5] United Nations Peacekeeping.** *Troop and Police Contributors*, monthly contribution data and contributor tables.  
+https://peacekeeping.un.org/en/troop-and-police-contributors
+
+**[S8] Bangladesh Armed Forces Division.** *Position of Bangladesh in UN Peace Operation in Terms of Troops Contribution*, 2026 ranking (Bangladesh: 4th).  
+https://afd.gov.bd/index.php/un-peacekeeping/position-of-bangladesh-in-un-peace-operation
+
+**[S9] UNHCR / Government of Bangladesh.** *Joint Response Plan for Rohingya Humanitarian Crisis 2025–26* and current country portal.  
+https://data.unhcr.org/en/country/BGD/12110
+
+**[S10] United Nations in Bangladesh.** *Recalibrating the Rohingya Response: 2025–26 Joint Response Plan* (20 May 2026).  
+https://bangladesh.un.org/en/315838-recalibrating-rohingya-response-2025-26-joint-response-plan
+
+**[S11] Wikimedia Commons.** Aplaice, *Bay of Bengal in its region.svg* (2021), CC BY-SA 4.0.  
+https://commons.wikimedia.org/wiki/File:Bay_of_Bengal_in_its_region.svg
 
 **[S6] United Nations in Bangladesh.** *Bangladesh and the United Nations: 50 Years of Partnership* (31 October 2024).  
 https://bangladesh.un.org/en/282417-bangladesh-and-united-nations-50-years-partnership
@@ -345,14 +381,12 @@ https://bangladesh.un.org/en/282417-bangladesh-and-united-nations-50-years-partn
 https://treaties.un.org/doc/source/docs/bangladesh-E.pdf
 
 ### Previous-question archive — secondary source
-**[Q1] BCS EXAM.** *35th BCS Written Questions*, Bangladesh Affairs, Question 27.  
-https://bcsexam.org/written-questions/35th-bcs-written
+**[Q1] BCS EXAM.** *35th–47th BCS Written Questions*. The year-by-year topic coding, source links and paper-code distinction are in [PYQ-35TH-47TH-AUDIT.md](./PYQ-35TH-47TH-AUDIT.md).  
+https://bcsexam.org/written-questions
 
-**[Q2] BCS EXAM.** *50th BCS Written Questions*, International Affairs, Subject Code 007; related theme only, not counted as Bangladesh Affairs.  
-https://bcsexam.org/written-questions/50th-bcs-written
-
-### Image source
-- Dhaka Tribune, [Bangladesh’s robust role and commitment towards international peace and security](https://www.dhakatribune.com/opinion/longform/314708/bangladesh%E2%80%99s-robust-role-and-commitment-towards). Reuse rights should be checked with the publisher.
+### Image source and licence
+- Aplaice, [Bay of Bengal in its region.svg — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bay_of_Bengal_in_its_region.svg), CC BY-SA 4.0; regional locator only, not a legal maritime-boundary map.
+- Dhaka Tribune, [Bangladesh’s robust role and commitment towards international peace and security](https://www.dhakatribune.com/opinion/longform/314708/bangladesh%E2%80%99s-robust-role-and-commitment-towards). External image reference; reuse rights should be checked with publisher.
 - United Nations in Bangladesh, [Bangladesh and the United Nations: 50 Years of Partnership](https://bangladesh.un.org/en/282417-bangladesh-and-united-nations-50-years-partnership).
 
 ### উৎস ব্যবহারের নীতি
@@ -367,4 +401,4 @@ https://bcsexam.org/written-questions/50th-bcs-written
 ### অধ্যায়ের শেষ কথা
 বাংলাদেশের পররাষ্ট্রনীতির সাফল্য শুধু কত দেশের সঙ্গে সম্পর্ক আছে তা দিয়ে মাপা যায় না। প্রকৃত মানদণ্ড হলো সার্বভৌমত্ব ও জাতীয় স্বার্থ রক্ষা, অর্থনৈতিক সুযোগ সৃষ্টি, নাগরিক ও প্রবাসীদের সুরক্ষা, আন্তর্জাতিক আইন মেনে বিরোধ সামলানো এবং বহুপাক্ষিক ব্যবস্থায় কার্যকর অবদান। Article 25, তথ্যনির্ভর কূটনীতি, সম্পর্কের বৈচিত্র্য ও বাস্তবায়নযোগ্য সুপারিশ—এই চার স্তর একসঙ্গে লিখলে উত্তর হবে বিশ্লেষণধর্মী ও BCS Written-উপযোগী।
 
-[⬆️ সূচিতে ফিরে যান](#top) · [PYQ-ভিত্তিক প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [English Quotations](./QUOTATIONS.md)
+[⬆️ সূচিতে ফিরে যান](#top) · [35th–47th PYQ Audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [PYQ-ভিত্তিক প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [১৮টি English Quotations](./QUOTATIONS.md#verified-quotes)
