@@ -20,7 +20,11 @@
 - [১২. International trade](#q12)
 - [১৩. Bangladesh and the UN](#q13)
 - [১৪. Disarmament](#q14)
-- [১৫. Quote-to-question map](#map)
+- [১৫. John F. Kennedy: peace and war](#q15)
+- [১৬. Eleanor Roosevelt: working for peace](#q16)
+- [১৭. UN Charter: sovereign equality](#q17)
+- [১৮. UN Charter: international peace and security](#q18)
+- [Quote-to-question map](#map)
 - [Source register](#sources)
 
 <a id="q1"></a>
@@ -169,21 +173,65 @@ https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 
 **ব্যাখ্যা:** সংবিধানে উল্লিখিত লক্ষ্য হিসেবে লিখুন; বাস্তবে বিশ্বে সম্পূর্ণ নিরস্ত্রীকরণ অর্জিত হয়েছে এমন দাবি করবেন না।
 
+<a id="q15"></a>
+## ১৫. “Mankind must put an end to war—or war will put an end to mankind.”
+
+**বাংলা ভাবার্থ:** মানবজাতিকে যুদ্ধের অবসান ঘটাতে হবে; নইলে যুদ্ধ মানবজাতিরই অবসান ঘটাতে পারে।  
+**উৎস:** John F. Kennedy, Address to the United Nations General Assembly, 25 September 1961; transcript published by the Miller Center / John F. Kennedy Presidential Library.  
+https://millercenter.org/the-presidency/presidential-speeches/september-25-1961-address-un-general-assembly
+
+**যে প্রশ্নে ব্যবহার:** UN peacekeeping, disarmament, international security, peaceful settlement of disputes.
+
+**ব্যাখ্যা:** আন্তর্জাতিক সংঘাতের খরচ এবং বহুপাক্ষিক শান্তিরক্ষার প্রয়োজন ব্যাখ্যা করতে ব্যবহার করুন। উদ্ধৃতির বক্তা ও সাল লিখুন।
+
+<a id="q16"></a>
+## ১৬. “It isn't enough to talk of peace. One must believe it. And it isn't enough to believe in it. One must work at it.”
+
+**বাংলা ভাবার্থ:** শান্তির কথা বলা বা তাতে বিশ্বাস করাই যথেষ্ট নয়; শান্তির জন্য কাজও করতে হয়।  
+**উৎস:** Eleanor Roosevelt, Voice of America broadcast, 11 November 1951; quotation and broadcast attribution documented by Friends of Silence.  
+https://www.friendsofsilence.net/quote/2022-06/it-isnt-enough-talk-about-peace
+
+**যে প্রশ্নে ব্যবহার:** peacekeeping, conflict prevention, diplomacy, multilateral cooperation.
+
+**ব্যাখ্যা:** কূটনীতিকে শুধু বক্তব্য নয়, আলোচনার ধারাবাহিকতা, আস্থা গঠন ও বাস্তবায়নের সঙ্গে যুক্ত করতে ব্যবহার করুন।
+
+<a id="q17"></a>
+## ১৭. “The Organization is based on the principle of the sovereign equality of all its Members.”
+
+**বাংলা ভাবার্থ:** জাতিসংঘের ভিত্তি তার সব সদস্যের সার্বভৌম সমতার নীতি।  
+**উৎস:** Charter of the United Nations, Article 2(1).  
+https://www.un.org/en/about-us/un-charter/full-text
+
+**যে প্রশ্নে ব্যবহার:** Bangladesh’s sovereignty, multilateral diplomacy, UN reform, small-state bargaining power.
+
+**ব্যাখ্যা:** সব রাষ্ট্রের আইনগত সমতার নীতি বোঝাতে ব্যবহার করুন; বাস্তবে রাষ্ট্রগুলোর অর্থনৈতিক ও সামরিক সক্ষমতা সমান—এমন দাবি নয়।
+
+<a id="q18"></a>
+## ১৮. “To maintain international peace and security”
+
+**বাংলা ভাবার্থ:** আন্তর্জাতিক শান্তি ও নিরাপত্তা বজায় রাখা।  
+**উৎস:** Charter of the United Nations, Article 1(1), excerpt.  
+https://www.un.org/en/about-us/un-charter/full-text
+
+**যে প্রশ্নে ব্যবহার:** UN, peacekeeping, conflict prevention, Rohingya diplomacy and regional stability.
+
+**ব্যাখ্যা:** এটি UN-এর অন্যতম প্রধান উদ্দেশ্যের সংক্ষিপ্ত অংশ। পূর্ণ Article 1(1) ও UN Charter-এর অন্যান্য বিধান বিবেচনায় রেখে লিখুন।
+
 <a id="map"></a>
-## ১৫. Quote-to-question map
+## Quote-to-question map
 
 | প্রশ্নের থিম | উপযোগী উদ্ধৃতি |
 |---|---|
 | পররাষ্ট্রনীতির মূলনীতি | ১, ২, ৩, ৪ |
-| জাতীয় স্বার্থ ও সার্বভৌমত্ব | ১, ২, ৩ |
+| জাতীয় স্বার্থ ও সার্বভৌমত্ব | ১, ২, ৩, ১৭ |
 | আন্তর্জাতিক বিরোধ ও শান্তি | ৪, ৫, ৬, ৭ |
-| UN ও multilateralism | ৫, ৬, ৭, ৯, ১৩ |
+| UN ও multilateralism | ৫, ৬, ৭, ৯, ১৩, ১৭, ১৮ |
 | self-determination ও ইতিহাস | ২, ৮ |
 | economic diplomacy ও trade | ১০, ১২ |
 | climate diplomacy | ১০, ১১ |
-| peacekeeping ও disarmament | ৬, ১৩, ১৪ |
+| peacekeeping ও disarmament | ৬, ১৩, ১৪, ১৫, ১৬, ১৮ |
 | SAARC/BIMSTEC ও regional cooperation | ১, ৪, ৭, ১০ |
-| Rohingya/humanitarian diplomacy | ৪, ৭, ৮, ১০ |
+| Rohingya/humanitarian diplomacy | ৪, ৭, ৮, ১০, ১৬, ১৮ |
 
 ## ১৬. উদ্ধৃতি ব্যবহারের সাধারণ ভুল
 - যাচাই না করে কোনো ব্যক্তির নামে উদ্ধৃতি বসাবেন না।
@@ -193,7 +241,7 @@ https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 - quote দিয়ে যুক্তি শুরু করা যায়; বিশ্লেষণ ও প্রমাণ ছাড়া উত্তর পূর্ণ হয় না।
 
 <a id="sources"></a>
-## ১৭. Quote Source Register
+## Quote Source Register
 1. Constitution of Bangladesh, Article 25 — https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 2. Ministry of Foreign Affairs, Bangladesh, *Foreign Policy of Bangladesh* — https://sittwe.mofa.gov.bd/pages/static-pages/foreign-policy-of-bangladesh-edc320-695266ac35ce18e1c05aab1e
 3. Charter of the United Nations, Preamble and Articles 1–2 — https://www.un.org/en/about-us/un-charter/full-text
@@ -201,5 +249,7 @@ https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 5. UN Sustainable Development Goals, Goal 17 — https://sdgs.un.org/goals/goal17
 6. WTO, Marrakesh Agreement, Preamble — https://www.wto.org/english/docs_e/legal_e/04-wto_e.htm
 7. UN document A/75/557 (2021), quoting Sheikh Mujibur Rahman’s 1974 UN address — https://digitallibrary.un.org/record/3905679/files/A_75_557-EN.pdf
+8. John F. Kennedy, UN General Assembly address, 25 September 1961 — https://millercenter.org/the-presidency/presidential-speeches/september-25-1961-address-un-general-assembly
+9. Eleanor Roosevelt, Voice of America broadcast, 11 November 1951 — https://www.friendsofsilence.net/quote/2022-06/it-isnt-enough-talk-about-peace
 
 [⬆️ মূল Chapter 09-এ ফিরে যান](./README.md)
