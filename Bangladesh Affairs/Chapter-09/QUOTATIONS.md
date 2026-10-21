@@ -235,7 +235,7 @@ https://www.un.org/en/about-us/un-charter/full-text
 | SAARC/BIMSTEC ও regional cooperation | ১, ৪, ৭, ১০ |
 | Rohingya/humanitarian diplomacy | ৪, ৭, ৮, ১০, ১৬, ১৮ |
 
-## ১৬. উদ্ধৃতি ব্যবহারের সাধারণ ভুল
+## উদ্ধৃতি ব্যবহারের সাধারণ ভুল
 - যাচাই না করে কোনো ব্যক্তির নামে উদ্ধৃতি বসাবেন না।
 - Article 25-এর ভাষাকে UN Charter-এর quotation বলে দেখাবেন না; উৎস আলাদা।
 - বাংলা ভাবার্থকে original English quote বলে quotation marks-এ লিখবেন না।
