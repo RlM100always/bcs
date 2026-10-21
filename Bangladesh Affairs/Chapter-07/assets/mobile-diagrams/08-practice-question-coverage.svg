@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
+<title id="title">Chapter 07 practice question distribution</title>
+<desc id="desc">Thirty-three practice questions grouped into five curriculum categories: definitions and history six, principles and rights eight, state organs and institutions eight, amendments and judicial review six, critical and applied questions five.</desc>
+<rect width="1000" height="560" rx="24" fill="#ffffff"/>
+<text x="52" y="58" font-family="sans-serif" font-size="29" font-weight="700" fill="#0f172a">Chapter 07 — Practice Question Coverage</text>
+<text x="52" y="91" font-family="sans-serif" font-size="18" fill="#475569">33 practice questions • curriculum distribution, NOT historical PYQ frequency</text>
+<g font-family="sans-serif" font-size="19" fill="#1e293b">
+<text x="52" y="160">A. Definition, history &amp; structure</text>
+<text x="52" y="235">B. Principles &amp; fundamental rights</text>
+<text x="52" y="310">C. State organs &amp; institutions</text>
+<text x="52" y="385">D. Amendments &amp; judicial review</text>
+<text x="52" y="460">E. Critical &amp; applied questions</text>
+</g>
+<g>
+<rect x="430" y="133" width="390" height="36" rx="8" fill="#e2e8f0"/><rect x="430" y="133" width="292" height="36" rx="8" fill="#2563eb"/><text x="740" y="158" font-family="sans-serif" font-size="18" font-weight="700" fill="#0f172a">6 / 33</text>
+<rect x="430" y="208" width="390" height="36" rx="8" fill="#e2e8f0"/><rect x="430" y="208" width="390" height="36" rx="8" fill="#0f766e"/><text x="832" y="233" font-family="sans-serif" font-size="18" font-weight="700" fill="#0f172a">8 / 33</text>
+<rect x="430" y="283" width="390" height="36" rx="8" fill="#e2e8f0"/><rect x="430" y="283" width="390" height="36" rx="8" fill="#7c3aed"/><text x="832" y="308" font-family="sans-serif" font-size="18" font-weight="700" fill="#0f172a">8 / 33</text>
+<rect x="430" y="358" width="390" height="36" rx="8" fill="#e2e8f0"/><rect x="430" y="358" width="292" height="36" rx="8" fill="#c2410c"/><text x="740" y="383" font-family="sans-serif" font-size="18" font-weight="700" fill="#0f172a">6 / 33</text>
+<rect x="430" y="433" width="390" height="36" rx="8" fill="#e2e8f0"/><rect x="430" y="433" width="244" height="36" rx="8" fill="#475569"/><text x="692" y="458" font-family="sans-serif" font-size="18" font-weight="700" fill="#0f172a">5 / 33</text>
+</g>
+<text x="52" y="520" font-family="sans-serif" font-size="16" fill="#64748b">Source: Chapter 07's own practice bank, items 1–33. Counts describe editorial coverage only.</text>
+</svg>
