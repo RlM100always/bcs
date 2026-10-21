@@ -408,6 +408,7 @@ PM2.5 হলো ব্যাস ২.৫ মাইক্রোমিটার ব
 - [Circular economy](./assets/visuals/10-circular-economy.svg)
 - [Ecosystem services](./assets/visuals/11-ecosystem-services.svg)
 - [Five-year governance roadmap](./assets/visuals/12-governance-roadmap.svg)
+- [Official-data chart: terrestrial protected-area coverage](#visual-13-protected-area-chart)
 - [35th–47th BCS PYQ audit](./PYQ-ANALYSIS-35TH-47TH.md)
 - [৩০টি fully answered questions](./BCS-WRITTEN-QUESTION-BANK.md)
 
@@ -467,6 +468,14 @@ PM2.5 হলো ব্যাস ২.৫ মাইক্রোমিটার ব
 ### Visual 12 — Environmental governance roadmap
 
 ![Five-year environmental governance roadmap](./assets/visuals/12-governance-roadmap.svg)
+
+<a id="visual-13-protected-area-chart"></a>
+
+### Visual 13 — Official-data chart: terrestrial protected-area coverage
+
+![Bangladesh terrestrial protected-area coverage chart: 3.19 percent of national area](./assets/visuals/13-terrestrial-protected-area-coverage.svg)
+
+The Bangladesh Forest Department's protected-area page reports **470,223.206 hectares** of terrestrial protected areas, equivalent to **3.19% of Bangladesh's total area**; the page was last updated on **24 May 2026**. This is a source-backed single-indicator chart, not a comparison of all conservation mechanisms. For current designations and area definitions, consult the [official Forest Department page](https://bforest.gov.bd/pages/static-pages/6922e13b933eb65569e2b006).
 
 ### Official resources for additional maps and photographs
 
