@@ -1,62 +1,176 @@
-# Chapter 02 — Source-backed Lines for BCS Written
+# Chapter 02 — 18 English Quotations & Source-backed Lines
+## Demographic Features, Ethnic and Cultural Diversity | BCS Written
 
-এই নথিতে দীর্ঘ উদ্ধৃতি নয়; সরকারি ও আন্তর্জাতিক উৎসের ভিত্তিতে সংক্ষিপ্ত, পরীক্ষায় ব্যবহারযোগ্য বক্তব্য দেওয়া হয়েছে। অধিকাংশ বাংলা বাক্য ভাবানুবাদ/সারাংশ, মূল উৎসের হুবহু উদ্ধৃতি নয়।
+[← মূল অধ্যায়](./README.md) · [২৫টি Model Question + Answer](./BCS-WRITTEN-QUESTION-BANK.md)
 
-## 1. Syllabus scope
-**Source:** BPSC, *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005, p. 6.  
-**Exam line:** বাংলাদেশের জনমিতিক বৈশিষ্ট্যের আলোচনায় জাতিগত ও সাংস্কৃতিক বৈচিত্র্য সিলেবাসের অন্তর্ভুক্ত বিষয়।  
-URL: https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2024/12/df968f7fa918431dae3ed31b43206f6f.pdf
+> **সততা-সংক্রান্ত নোট:** সরাসরি উদ্ধৃতি এবং উৎসভিত্তিক নিজের ভাষার exam lines আলাদা করা হয়েছে। উদ্ধৃতির wording উৎসের সঙ্গে মিলিয়ে ব্যবহার করুন; “Exam line” কোনো বিখ্যাত ব্যক্তির সরাসরি উক্তি নয়।
 
-## 2. Census methodology
-**Source:** BBS, *Population and Housing Census 2022, National Report (Volume I).*  
-**Exam line:** জনসংখ্যার পরিসংখ্যান ব্যবহারে গণনাকৃত ও PEC-সমন্বিত মোট আলাদা করে উল্লেখ করা জরুরি।  
-URL: https://phc.icms.gov.bd/Data/PHC2022/NationalReport/Report/NationalVolumeReport1.pdf
+## A. Verified English quotations
 
-## 3. Demographic dividend
-**Source:** UNFPA Bangladesh, *Demographic dividend.*  
-**Exam line:** কর্মক্ষম বয়সের বড় জনগোষ্ঠী সম্ভাবনা তৈরি করে; দক্ষতা, উৎপাদনশীল কাজ ও অন্তর্ভুক্তি ছাড়া তা নিশ্চিত লভ্যাংশে রূপ নেয় না।  
-URL: https://bangladesh.unfpa.org/en/topics/demographic-dividend
+### 1. Sustainable development — Brundtland Commission
+> “Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs.”
 
-## 4. Language
+**Use:** জনসংখ্যা, প্রাকৃতিক সম্পদ, আন্তঃপ্রজন্ম ন্যায় ও উন্নয়ন।  
+**Source:** World Commission on Environment and Development, *Our Common Future* (1987), Chapter 2.  
+https://sustainabledevelopment.un.org/content/documents/5987our-common-future.pdf
+
+### 2. Cultural diversity — UNESCO Universal Declaration
+> “Cultural diversity is as necessary for humankind as biodiversity is for nature.”
+
+**Use:** জাতিগত বৈচিত্র্য, মাতৃভাষা, সাংস্কৃতিক অধিকার ও জাতীয় ঐক্য।  
+**Source:** UNESCO, *Universal Declaration on Cultural Diversity* (2001), Article 1.  
+https://www.unesco.org/en/legal-affairs/unesco-universal-declaration-cultural-diversity
+
+### 3. Cultural rights — UNESCO Universal Declaration
+> “The defence of cultural diversity is an ethical imperative, inseparable from respect for human dignity.”
+
+**Use:** সাংস্কৃতিক অন্তর্ভুক্তি ও সংখ্যালঘু অধিকার।  
+**Source:** UNESCO, *Universal Declaration on Cultural Diversity* (2001), Article 4.  
+https://www.unesco.org/en/legal-affairs/unesco-universal-declaration-cultural-diversity
+
+### 4. State language — Constitution of Bangladesh
+> “The state language of the Republic is Bangla.”
+
+**Use:** রাষ্ট্রভাষা ও ভাষানীতি।  
 **Source:** Constitution of Bangladesh, Article 3.  
-**Verified short quote:** “The state language of the Republic is Bangla.”  
-**Exam line:** রাষ্ট্রভাষা বাংলার পাশাপাশি অন্যান্য মাতৃভাষার মর্যাদা ও শিক্ষায় প্রবেশাধিকার ভাষাগত অন্তর্ভুক্তির আলোচনায় গুরুত্বপূর্ণ।  
-URL: https://bdlaws.minlaw.gov.bd/act-print-367.html
+https://bdlaws.minlaw.gov.bd/act-print-367.html
 
-## 5. Cultural traditions
-**Source:** Constitution of Bangladesh, Article 23.  
-**Exam line:** সাংস্কৃতিক ঐতিহ্য, ভাষা, সাহিত্য ও শিল্প সংরক্ষণে রাষ্ট্রের ভূমিকা সংবিধানের ২৩ অনুচ্ছেদের সঙ্গে সম্পর্কিত।  
-URL: https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
+### 5. Equality before law — Constitution of Bangladesh
+> “All citizens are equal before law and are entitled to equal protection of law.”
 
-## 6. Ethnic cultural protection
-**Source:** Constitution of Bangladesh, Article 23A.  
-**Exam line:** জাতিগত সম্প্রদায়ের অনন্য স্থানীয় সংস্কৃতি ও ঐতিহ্য রক্ষার বিষয়ে ২৩ক অনুচ্ছেদ প্রাসঙ্গিক।  
-URL: https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
+**Use:** সমতা, নাগরিকত্ব ও বৈষম্যবিরোধী নীতি।  
+**Source:** Constitution of Bangladesh, Article 27.  
+https://bdlaws.minlaw.gov.bd/act-367/part-details-200.html?lang=en
 
-## 7. Equal citizenship
-**Source:** Constitution of Bangladesh, Articles 27–28.  
-**Exam line:** সাংস্কৃতিক বৈচিত্র্যের সুরক্ষার সঙ্গে আইনের দৃষ্টিতে সমতা ও বৈষম্যহীনতা যুক্ত করতে হবে।  
-URL: https://bdlaws.minlaw.gov.bd/act-367/part-details-200.html?lang=en
+### 6. Human dignity — Universal Declaration of Human Rights
+> “All human beings are born free and equal in dignity and rights.”
 
-## 8. Intangible cultural heritage
-**Source:** UNESCO, *Bangladesh — Elements on the Lists.*  
-**Exam line:** বাউল গান, জামদানি, মঙ্গল শোভাযাত্রা, শীতলপাটি, রিকশা ও রিকশাচিত্র এবং টাঙ্গাইলের শাড়ি বয়নশিল্প বাংলাদেশের জীবন্ত ঐতিহ্যের আন্তর্জাতিকভাবে নথিভুক্ত উদাহরণ।  
-URL: https://ich.unesco.org/en/state/bangladesh-BD?cp=BD&info=elements-on-the-lists&topic=mp
+**Use:** নারী-ক্ষমতায়ন, সমান নাগরিক মর্যাদা ও সামাজিক উন্নয়ন।  
+**Source:** United Nations, *Universal Declaration of Human Rights* (1948), Article 1.  
+https://www.un.org/en/about-us/universal-declaration-of-human-rights
 
-## 9. Climate migration
-**Source:** World Bank, *Bangladesh Country Climate and Development Report — Key Highlights* (2022).  
-**Exam line:** জলবায়ু-সম্পর্কিত অভ্যন্তরীণ অভিবাসনের projection scenario-based পরিকল্পনা-উপকরণ, নিশ্চিত ভবিষ্যৎ সংখ্যা নয়।  
-URL: https://www.worldbank.org/en/news/feature/2022/10/31/key-highlights-country-climate-development-report-for-bangladesh
+### 7. Right to education — UDHR
+> “Everyone has the right to education.”
 
-## 10. Answer-writing rule
-পরিসংখ্যানের সঙ্গে প্রতিষ্ঠান, প্রতিবেদনের নাম, তথ্যের বছর ও সূচকের ভিত্তি উল্লেখ করুন। উৎসে না থাকা উদ্ধৃতি, পৃষ্ঠা বা দশমিক বানিয়ে লিখবেন না.
+**Use:** শিক্ষা, মানবসম্পদ ও জনমিতিক লভ্যাংশ।  
+**Source:** United Nations, *Universal Declaration of Human Rights* (1948), Article 26.  
+https://www.un.org/en/about-us/universal-declaration-of-human-rights
 
+### 8. Population and development — ICPD
+> “The relationship between population, sustained economic growth and sustainable development is a complex one.”
 
-## 11. Archive-reported BCS Written questions — verification caveat
-**50th BCS Written, Bangladesh Affairs, Q35(c), 15 marks:** A third-party archive records a question on demographic winter and how Bangladesh might respond to opportunities arising from demographic change. This chapter paraphrases the question; the original BPSC scan was not independently authenticated.
-URL: https://bcsexam.org/written-questions/50th-bcs-written
+**Use:** জনসংখ্যা, অর্থনীতি ও উন্নয়ননীতি।  
+**Source:** United Nations, *Programme of Action of the International Conference on Population and Development* (1994).  
+https://www.unfpa.org/publications/international-conference-population-and-development-programme-action
 
-**47th BCS Written, Bangladesh Affairs, Q27, 20 marks:** A third-party archive records a question comparing socio-economic and cultural changes from the 1970s to 2025, including women's work, urbanisation, language and ICT. This chapter paraphrases the question; the original BPSC scan was not independently authenticated.
-URL: https://bcsexam.org/written-questions/47th-bcs-written
+### 9. Intangible cultural heritage — UNESCO 2003 Convention
+> “The ‘intangible cultural heritage’ means the practices, representations, expressions, knowledge, skills…”
 
-**Important:** These are labelled *archive-reported Previous BCS Questions*, not official-original verified questions. If an original BPSC question-paper scan becomes available, verify the wording, paper, question number and marks before upgrading the evidence status.
+**Use:** লোকসংস্কৃতি, ঐতিহ্য সংরক্ষণ ও জীবন্ত ঐতিহ্য।  
+**Source:** UNESCO, *Convention for the Safeguarding of the Intangible Cultural Heritage* (2003), Article 2.  
+https://ich.unesco.org/en/convention
+
+### 10. Non-discrimination — UDHR
+> “Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind…”
+
+**Use:** বৈচিত্র্য, অন্তর্ভুক্তি ও নাগরিক মর্যাদা।  
+**Source:** United Nations, *Universal Declaration of Human Rights* (1948), Article 2.  
+https://www.un.org/en/about-us/universal-declaration-of-human-rights
+
+### 11. Family and society — UDHR
+> “The family is the natural and fundamental group unit of society and is entitled to protection by society and the State.”
+
+**Use:** পরিবার, সামাজিক সুরক্ষা ও প্রজন্মগত দায়িত্ব।  
+**Source:** United Nations, *Universal Declaration of Human Rights* (1948), Article 16(3).  
+https://www.un.org/en/about-us/universal-declaration-of-human-rights
+
+### 12. Freedom of thought — UDHR
+> “Everyone has the right to freedom of thought, conscience and religion.”
+
+**Use:** ধর্মীয় বৈচিত্র্য, সাংস্কৃতিক স্বাধীনতা ও সহনশীলতা।  
+**Source:** United Nations, *Universal Declaration of Human Rights* (1948), Article 18.  
+https://www.un.org/en/about-us/universal-declaration-of-human-rights
+
+### 13. Participation in culture — UDHR
+> “Everyone has the right freely to participate in the cultural life of the community…”
+
+**Use:** সাংস্কৃতিক অধিকার ও জনঅংশগ্রহণ।  
+**Source:** United Nations, *Universal Declaration of Human Rights* (1948), Article 27.  
+https://www.un.org/en/about-us/universal-declaration-of-human-rights
+
+### 14. Right to work — UDHR
+> “Everyone has the right to work, to free choice of employment, to just and favourable conditions of work…”
+
+**Use:** কর্মসংস্থান, নারী শ্রমশক্তি ও জনমিতিক লভ্যাংশ।  
+**Source:** United Nations, *Universal Declaration of Human Rights* (1948), Article 23.  
+https://www.un.org/en/about-us/universal-declaration-of-human-rights
+
+### 15. Best interests of the child — Convention on the Rights of the Child
+> “In all actions concerning children… the best interests of the child shall be a primary consideration.”
+
+**Use:** শিশুস্বাস্থ্য, শিক্ষা ও সামাজিক সুরক্ষা।  
+**Source:** United Nations, *Convention on the Rights of the Child* (1989), Article 3.  
+https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child
+
+### 16. Indigenous peoples and culture — UN Declaration
+> “Indigenous peoples have the right to practise and revitalize their cultural traditions and customs.”
+
+**Use:** ক্ষুদ্র নৃগোষ্ঠীর ভাষা, ঐতিহ্য ও সাংস্কৃতিক অধিকার।  
+**Source:** United Nations, *Declaration on the Rights of Indigenous Peoples* (2007), Article 11.  
+https://www.un.org/development/desa/indigenouspeoples/declaration-on-the-rights-of-indigenous-peoples.html
+
+### 17. Demographic dividend — source-backed exam line (not a direct quotation)
+**“A youthful age structure becomes a demographic dividend only when health, education, decent employment and gender equality allow people to be productive.”**
+
+**Use:** জনমিতিক লভ্যাংশ ও তরুণ জনগোষ্ঠী।  
+**Source:** UNFPA Bangladesh, *Demographic Dividend*.  
+https://bangladesh.unfpa.org/en/topics/demographic-dividend
+
+### 18. Census and policy — source-backed exam line (not a direct quotation)
+**“Census data supports inclusive planning only when figures are comparable, definitions are transparent and underserved groups are visible in policy.”**
+
+**Use:** Census 2022 ও অন্তর্ভুক্তিমূলক পরিকল্পনা।  
+**Source:** Bangladesh Bureau of Statistics, *Population and Housing Census 2022, National Report (Volume I)*.  
+https://phc.icms.gov.bd/Data/PHC2022/NationalReport/Report/NationalVolumeReport1.pdf
+
+---
+
+## B. Ready-to-use analytical exam lines (not direct quotations)
+
+1. **“A large population is neither automatically an asset nor inevitably a burden; outcomes depend on human-capital investment, decent work and institutional capacity.”**  
+   Source: UNFPA, *Demographic Dividend* — https://bangladesh.unfpa.org/en/topics/demographic-dividend
+
+2. **“Demographic change should shape education, healthcare, urban services, employment and social protection rather than be treated as a single population target.”**  
+   Source: BBS Census 2022; UNFPA population resources.
+
+3. **“National unity does not require cultural uniformity; equal citizenship can protect both shared identity and community-specific heritage.”**  
+   Source: Constitution of Bangladesh, Articles 23A, 27–28; UNESCO Universal Declaration on Cultural Diversity.
+
+4. **“Migration is shaped by employment, education, family networks, public services and environmental pressures; it should not be attributed to climate change alone.”**  
+   Source: World Bank, *Bangladesh Country Climate and Development Report* (2022).
+
+5. **“A census total, an adjusted census estimate and a sample-survey estimate are not interchangeable; their reference periods and methods must be stated.”**  
+   Source: BBS, *Population and Housing Census 2022, National Report (Volume I)*.
+
+6. **“Cultural heritage remains living heritage when its bearers can transmit, adapt and benefit from it with dignity and consent.”**  
+   Source: UNESCO, *Convention for the Safeguarding of the Intangible Cultural Heritage* (2003).
+
+7. **“Mother-tongue support in early education can strengthen comprehension and inclusion while helping learners develop competence in the national language.”**  
+   Source: UNESCO multilingual education resources.
+
+8. **“The demographic dividend is a policy window, not a guaranteed economic outcome.”**  
+   Source: UNFPA Bangladesh, *Demographic Dividend*.
+
+9. **“Inclusive population policy must consider age, gender, disability, location, livelihood and access to public services.”**  
+   Source: BBS Census 2022; UN human-rights framework.
+
+10. **“The protection of cultural diversity is strengthened by education, documentation, fair representation and meaningful participation of communities themselves.”**  
+    Source: UNESCO, *Universal Declaration on Cultural Diversity* and 2003 ICH Convention.
+
+## C. Correct quotation practice in BCS Written
+
+- সরাসরি উদ্ধৃতির ভাষা ও article/section যাচাই করে লিখুন।
+- নিজের বিশ্লেষণকে কোনো ব্যক্তির সরাসরি উদ্ধৃতি হিসেবে দেখাবেন না।
+- উদ্ধৃতির পর ১–২ বাক্যে বাংলাদেশের প্রশ্নের সঙ্গে তার সম্পর্ক ব্যাখ্যা করুন।
+- প্রাসঙ্গিক একটি উদ্ধৃতি + বিশ্লেষণ, উদ্ধৃতির তালিকার চেয়ে বেশি কার্যকর।
+- সংবিধানের অনুচ্ছেদ উদ্ধৃত করলে Article number উল্লেখ করুন।
