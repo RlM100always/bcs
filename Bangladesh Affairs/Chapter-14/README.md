@@ -29,9 +29,9 @@
 
 <a id="visual-atlas"></a>
 
-## Visual Atlas — 7 topic-specific diagrams + official data maps
+## Visual Atlas — 7 topic-specific diagrams + 10 internet photos + official data maps
 
-**How to use:** diagrams are conceptual study aids, not official statistical charts. For numbers in exam answers, cite the relevant fiscal/calendar year and use the official source listed below. The seven visuals directly match the chapter’s question bank.
+**How to use:** diagrams are conceptual study aids, not official statistical charts. For numbers in exam answers, cite the relevant fiscal/calendar year and use the official source listed below. The seven SVG diagrams directly match the chapter’s question bank. Ten real photographs are embedded alongside the relevant topic sections below; their original source and licence are listed in the visual-source register.
 
 ### 1. Globalization’s six dimensions
 ![Globalization dimensions map](./assets/globalization-dimensions.svg)
@@ -109,6 +109,12 @@
 
 বাংলাদেশের অভিজ্ঞতা দেখায়—বিশ্ববাজারে প্রবেশ গুরুত্বপূর্ণ, কিন্তু শুধু কম মজুরি ও একটি রপ্তানি খাতের ওপর নির্ভর করে দীর্ঘমেয়াদি উন্নয়ন নিশ্চিত হয় না। পণ্যের বৈচিত্র্য, স্থানীয় মূল্য সংযোজন, প্রযুক্তি, দক্ষতা, মান নিয়ন্ত্রণ, পরিবেশগত সম্মতি ও দেশীয় প্রতিষ্ঠানের সক্ষমতা বাড়ানো প্রয়োজন।
 
+#### বাস্তব ছবি ১ — Digital connectivity ও প্রযুক্তিগত বিশ্বায়ন
+
+![Inauguration of 5G mobile internet service in Dhaka, Bangladesh, 12 December 2021](https://commons.wikimedia.org/wiki/Special:FilePath/Inauguration%20of%205G%20Mobile%20Internet%20Service%20in%20Dhaka%20Bangladesh%202021-12-12%20%28PID-0025799%29.jpg)
+
+*কীভাবে বুঝবে:* টেলিযোগাযোগ ও ডিজিটাল নেটওয়ার্ক বিশ্বব্যাপী তথ্য, সেবা, জ্ঞান ও ব্যবসার প্রবাহ দ্রুত করে। এটি ২০২১ সালের 5G launch-এর ঐতিহাসিক ছবি—বর্তমান 5G coverage বা internet speed-এর পরিসংখ্যান নয়। **ছবির উৎস:** Bangladesh Press Information Department (PID); বাংলাদেশে public domain. [মূল ছবি ও অধিকার](https://commons.wikimedia.org/wiki/File:Inauguration_of_5G_Mobile_Internet_Service_in_Dhaka_Bangladesh_2021-12-12_(PID-0025799).jpg).
+
 **মূল্যায়ন:** বিশ্বায়ন বাংলাদেশকে আন্তর্জাতিক বাজারে প্রবেশের সুযোগ দিয়েছে; সেই সুযোগকে টেকসই উন্নয়নে রূপান্তর করা নির্ভর করে দেশীয় উৎপাদনশীলতা, প্রতিষ্ঠান, মানবসম্পদ ও নীতির ওপর।
 
 <a id="economic"></a>
@@ -118,17 +124,41 @@
 
 আন্তর্জাতিক বাণিজ্য বাজার সম্প্রসারণ, বৈদেশিক মুদ্রা অর্জন, প্রযুক্তি ও ব্যবস্থাপনার জ্ঞান স্থানান্তর এবং উৎপাদনের স্কেল বাড়াতে পারে। বাংলাদেশের তৈরি পোশাকশিল্প (Ready-Made Garments—RMG) বৈশ্বিক মূল্যশৃঙ্খলের সঙ্গে দেশের গুরুত্বপূর্ণ সংযোগ। তবে পণ্য ও বাজারের অতিরিক্ত কেন্দ্রীভবন বৈশ্বিক মন্দা, ক্রেতার অর্ডার পরিবর্তন, পরিবহন ব্যয়, শ্রমমান ও পরিবেশগত শর্তের পরিবর্তনে ঝুঁকি তৈরি করে।
 
+#### বাস্তব ছবি ২ — International trade ও supply chain
+
+![Intermodal shipping containers stacked at the Port of Chittagong, Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/Stacking%20Intermodal%20container%20in%20Port%20of%20Chittagong%20%2814%29.jpg)
+
+*কীভাবে বুঝবে:* বন্দর, কনটেইনার, কাস্টমস ও logistics আন্তর্জাতিক বাণিজ্যকে বাস্তবে যুক্ত করে। বন্দরের দক্ষতা বাড়লে রপ্তানি-আমদানি খরচ ও সময় কমাতে সহায়তা করতে পারে। **ছবির কৃতিত্ব:** Moheen Reeyad; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি](https://commons.wikimedia.org/wiki/File:Stacking_Intermodal_container_in_Port_of_Chittagong_(14).jpg).
+
 **করণীয়:** ওষুধ, চামড়া ও চামড়াজাত পণ্য, হালকা প্রকৌশল, কৃষি-প্রক্রিয়াজাত পণ্য, আইসিটি সেবা ও অন্যান্য সম্ভাবনাময় খাতে মান, উৎপাদনশীলতা ও বাজার-প্রবেশ সক্ষমতা বাড়ানো। কোনো খাতের সম্ভাবনা উল্লেখের সময় বর্তমান রপ্তানি-পরিসংখ্যান ব্যবহার করলে EPB/BBS-এর সর্বশেষ প্রকাশনা ও অর্থবছর উল্লেখ করতে হবে।
+
+#### বাস্তব ছবি ৩ — RMG ও বৈশ্বিক মূল্যশৃঙ্খল
+
+![Women working on a garment factory assembly line in Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/Garment%20factory%20in%20Bangladesh%20Women%20working.jpg)
+
+*কীভাবে বুঝবে:* বাংলাদেশের তৈরি পোশাকশিল্প আন্তর্জাতিক ক্রেতা, কাঁচামাল, নকশা, মানদণ্ড, পরিবহন ও ভোক্তা-চাহিদার সঙ্গে যুক্ত। ছবিটি ২০১১ সালের কারখানার দৃশ্য; বর্তমান শ্রমপরিবেশ বা খাতের অবস্থা সম্পর্কে একে একক প্রমাণ হিসেবে ব্যবহার করা যাবে না। **ছবির কৃতিত্ব:** Tareq Salahuddin; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). [মূল ছবি](https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg).
 
 ### ৩.২ প্রবাসী আয় ও শ্রম অভিবাসন
 
 রেমিট্যান্স পরিবারের ভোগ, শিক্ষা, স্বাস্থ্য, আবাসন, ক্ষুদ্র বিনিয়োগ ও বৈদেশিক মুদ্রার জোগানে সহায়তা করে। অভিবাসন শ্রমিকের আয় ও দক্ষতা অর্জনের সুযোগ সৃষ্টি করতে পারে। কিন্তু উচ্চ অভিবাসন ব্যয়, প্রতারণা, চুক্তি লঙ্ঘন, মজুরি আটকে রাখা, অনিরাপদ কর্মপরিবেশ এবং দক্ষতার স্বীকৃতির অভাব শ্রমিককে ঝুঁকিতে ফেলে।
+
+#### বাস্তব ছবি ৪ — Labour migration ও remittance
+
+![Bangladesh's expatriate workers' waiting room at Hazrat Shahjalal International Airport, Dhaka](https://commons.wikimedia.org/wiki/Special:FilePath/Muhammad%20Yunus%20Inaugurates%20Expatriate%20Worker%20Waiting%20Room%20Dhaka%202024-11-14%20%28PID-0005233%29.jpg)
+
+*কীভাবে বুঝবে:* আন্তর্জাতিক শ্রমবাজারে কাজ করা মানুষ দেশে আয় পাঠিয়ে পরিবার ও অর্থনীতিতে অবদান রাখতে পারেন; একই সঙ্গে নিরাপদ নিয়োগ, ন্যায্য চুক্তি ও consular support গুরুত্বপূর্ণ। ছবিটি ২০২৪ সালে প্রবাসী কর্মীদের জন্য অপেক্ষাগার উদ্বোধনের সময়কার দৃশ্য—রেমিট্যান্সের পরিসংখ্যান নয়। **ছবির উৎস:** Bangladesh Press Information Department (PID); বাংলাদেশে public domain. [মূল ছবি ও অধিকার](https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Inaugurates_Expatriate_Worker_Waiting_Room_Dhaka_2024-11-14_(PID-0005233).jpg).
 
 **নীতি-অগ্রাধিকার:** নিয়োগ প্রক্রিয়ায় স্বচ্ছতা, দক্ষতা-সনদ, দ্বিপক্ষীয় শ্রমচুক্তি, দূতাবাসের সহায়তা, অভিযোগ নিষ্পত্তি, নিরাপদ অভিবাসন ও দেশে ফেরার পর পুনর্বাসন।
 
 ### ৩.৩ বৈদেশিক প্রত্যক্ষ বিনিয়োগ (FDI)
 
 FDI নতুন পুঁজি, প্রযুক্তি, ব্যবস্থাপনা, প্রশিক্ষণ, কর্মসংস্থান ও রপ্তানি-সংযোগ আনতে পারে। কিন্তু বিনিয়োগের পরিমাণই একমাত্র সাফল্যের মাপকাঠি নয়। বিনিয়োগ কতটা স্থানীয় সরবরাহকারীকে যুক্ত করে, দক্ষতা বাড়ায়, প্রযুক্তি ছড়ায়, ন্যায্য কর দেয় এবং পরিবেশ ও শ্রমমান মেনে চলে—এসবও গুরুত্বপূর্ণ।
+
+#### বাস্তব ছবি ৫ — Investment climate ও Economic Zones
+
+![Bangladesh Economic Zones Authority governing board meeting in Dhaka, 3 August 2026](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh%20Economic%20Zones%20Authority%20governing%20board%20meeting%20at%20Prime%20Minister%27s%20office%20in%20Dhaka%2C%202026-08-03.jpg)
+
+*কীভাবে বুঝবে:* বিদেশি প্রত্যক্ষ বিনিয়োগ (FDI) আকর্ষণে অর্থনৈতিক অঞ্চল, নীতির পূর্বানুমেয়তা, অবকাঠামো, জ্বালানি, logistics ও দ্রুত প্রশাসনিক সেবা ভূমিকা রাখে। এই সরকারি সভার ছবি নীতিগত কাঠামোর উদাহরণ—এটি বিনিয়োগের পরিমাণ বা সাফল্যের প্রমাণ নয়। **ছবির উৎস:** Bangladesh Press Information Department (PID); বাংলাদেশে public domain. [মূল ছবি ও অধিকার](https://commons.wikimedia.org/wiki/File:Bangladesh_Economic_Zones_Authority_governing_board_meeting_at_Prime_Minister%27s_office_in_Dhaka,_2026-08-03.jpg).
 
 **বাংলাদেশের করণীয়:** পূর্বানুমেয় নীতি, চুক্তি বাস্তবায়ন, দ্রুত ও স্বচ্ছ সেবা, নির্ভরযোগ্য বিদ্যুৎ-জ্বালানি, বন্দর ও লজিস্টিকস, দক্ষ কর্মী, বিরোধ নিষ্পত্তি এবং প্রতিযোগিতামূলক কিন্তু দায়িত্বশীল ব্যবসায়িক পরিবেশ।
 
@@ -162,6 +192,18 @@ FDI নতুন পুঁজি, প্রযুক্তি, ব্যবস�
 | Islamic Development Bank (IsDB) | সদস্যদেশে উন্নয়ন সহযোগিতা ও অর্থায়ন | অবকাঠামো, সামাজিক উন্নয়ন ও সক্ষমতা | প্রকল্প ও অর্থায়ন-উপকরণের ধরন নির্দিষ্ট করে লিখুন |
 | UN agencies / bilateral partners | উন্নয়ন, মানবিক সহায়তা, প্রযুক্তি ও নীতি-সহযোগিতা | SDGs, স্বাস্থ্য, শিক্ষা, জলবায়ু, শাসন ও মানবিক সহায়তা | “উন্নয়ন-অংশীদার” একক বা অভিন্ন স্বার্থের গোষ্ঠী নয় |
 
+#### বাস্তব ছবি ৬ — WTO ও rules-based trade
+
+![Centre William-Rappard, headquarters of the World Trade Organization in Geneva](https://commons.wikimedia.org/wiki/Special:FilePath/Centre%20William-Rappard%201.jpg)
+
+*কীভাবে বুঝবে:* WTO সদস্যদের মধ্যে বাণিজ্য-নিয়ম, আলোচনা ও বিরোধ নিষ্পত্তির বহুপাক্ষিক কাঠামো দেয়। ভবনের ছবি প্রতিষ্ঠানের অবস্থান বোঝায়; এর কার্যক্রম বা বাংলাদেশের নির্দিষ্ট বাণিজ্য-সুবিধার প্রমাণ নয়। **ছবির কৃতিত্ব:** Jérémy Toma; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি](https://commons.wikimedia.org/wiki/File:Centre_William-Rappard_1.jpg).
+
+#### বাস্তব ছবি ৭ — World Bank ও development finance
+
+![World Bank Headquarters in Washington, D.C.](https://commons.wikimedia.org/wiki/Special:FilePath/World%20Bank%20Headquarters.jpg)
+
+*কীভাবে বুঝবে:* World Bank Group উন্নয়ন অর্থায়ন, জ্ঞান ও নীতি-সহায়তা দেয়; এর ভূমিকা WTO-র বাণিজ্য-নিয়মের ভূমিকা থেকে আলাদা। ছবিটি সদরদপ্তরের, কোনো নির্দিষ্ট ঋণ বা প্রকল্পের ফলাফলের প্রমাণ নয়। **ছবির কৃতিত্ব:** Shanice Gounden; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি](https://commons.wikimedia.org/wiki/File:World_Bank_Headquarters.jpg).
+
 ### কীভাবে ভারসাম্যপূর্ণ মূল্যায়ন লিখবেন
 
 আন্তর্জাতিক প্রতিষ্ঠান অর্থ, দক্ষতা, প্রযুক্তি ও সমন্বয় দিতে পারে; একই সঙ্গে ঋণ পরিশোধ, প্রকল্প নির্বাচন, শর্ত, নীতিগত স্বাধীনতা ও সামাজিক প্রভাবের প্রশ্নও থাকে। তাই কোনো প্রতিষ্ঠানের ভূমিকা মূল্যায়নে চারটি প্রশ্ন করুন: **(১) অর্থায়ন/সহায়তার উদ্দেশ্য কী? (২) শর্ত ও আর্থিক দায় কী? (৩) কারা সুবিধা পাচ্ছে এবং কারা ব্যয় বহন করছে? (৪) ফলাফল কীভাবে মাপা হচ্ছে?** প্রতিষ্ঠানের নামকে নিজে থেকেই ইতিবাচক বা নেতিবাচক ধরে নেওয়া উচিত নয়।
@@ -193,6 +235,12 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 ### ৭.৩ শ্রম অধিকার ও কর্মপরিবেশ
 আন্তর্জাতিক সরবরাহ-শৃঙ্খলে সস্তা শ্রমের ওপর প্রতিযোগিতা দীর্ঘমেয়াদে টেকসই নয়। নিরাপদ কর্মক্ষেত্র, ন্যায্য মজুরি, শ্রমিকের কণ্ঠ, সামাজিক সংলাপ এবং আইনের বাস্তবায়ন উৎপাদনশীলতা ও সুনাম—দুইয়ের জন্য প্রয়োজন।
 
+#### বাস্তব ছবি ৮ — Global supply chain ও শ্রমিক
+
+![Garment workers in Bangladesh leaving a factory during a break](https://commons.wikimedia.org/wiki/Special:FilePath/Garment%20workers%20in%20Bangladesh%20exiting%20a%20factory%20during%20break.jpg)
+
+*কীভাবে বুঝবে:* রপ্তানি-সাফল্যকে শুধু অর্ডার ও বৈদেশিক মুদ্রা দিয়ে নয়, শ্রমিকের নিরাপত্তা, ন্যায্য মজুরি, সংগঠিত হওয়ার অধিকার ও decent work দিয়েও মূল্যায়ন করতে হয়। ছবিটি কারখানা থেকে বিরতির সময়ে বের হওয়া শ্রমিকদের দেখায়; একা এটি কর্মপরিবেশের মান প্রমাণ করে না। **ছবির কৃতিত্ব:** Nahid Sultan; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি](https://commons.wikimedia.org/wiki/File:Garment_workers_in_Bangladesh_exiting_a_factory_during_break.jpg).
+
 ### ৭.৪ অসমতা ও আঞ্চলিক বৈষম্য
 বৈশ্বিক বাজারের সুবিধা দক্ষ শ্রমিক, নগরকেন্দ্রিক প্রতিষ্ঠান ও পুঁজি-সক্ষম গোষ্ঠীর কাছে বেশি যেতে পারে। শিক্ষা, ডিজিটাল অবকাঠামো, নারী ও প্রান্তিক জনগোষ্ঠীর অংশগ্রহণ এবং কার্যকর সামাজিক সুরক্ষা ছাড়া অন্তর্ভুক্তিমূলক সুফল নিশ্চিত হয় না।
 
@@ -202,8 +250,20 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 ### ৭.৬ পরিবেশ ও জলবায়ু
 রপ্তানি উৎপাদন ও বৈশ্বিক পরিবহন পরিবেশগত চাপ সৃষ্টি করতে পারে; অন্যদিকে জলবায়ু পরিবর্তন বাংলাদেশের শ্রম, কৃষি, অবকাঠামো ও অভিবাসনে প্রভাব ফেলে। পরিচ্ছন্ন উৎপাদন, শক্তি দক্ষতা, বর্জ্য ব্যবস্থাপনা, জলবায়ু-সহনশীল অবকাঠামো ও ন্যায্য রূপান্তর (just transition) গুরুত্বপূর্ণ।
 
+#### বাস্তব ছবি ৯ — Environmental vulnerability ও river erosion
+
+![River erosion in Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/River%20erosion%20in%20Bangladesh%20%2815255986711%29.jpg)
+
+*কীভাবে বুঝবে:* নদীভাঙন ও পরিবেশগত ঝুঁকি মানুষের জীবিকা, সম্পদ, অবকাঠামো ও অভিবাসনের ওপর চাপ সৃষ্টি করতে পারে। নদীভাঙনকে শুধু জলবায়ু পরিবর্তনের ফল বলা ঠিক নয়—নদীর স্বাভাবিক গতিপ্রকৃতি, পলি ও মানবিক হস্তক্ষেপসহ একাধিক কারণ কাজ করে। **ছবির কৃতিত্ব:** Helena Wright; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). [মূল ছবি](https://commons.wikimedia.org/wiki/File:River_erosion_in_Bangladesh_(15255986711).jpg).
+
 ### ৭.৭ LDC graduation ও বাণিজ্য-প্রস্তুতি
 স্বল্পোন্নত দেশ (LDC) থেকে উত্তরণের পর কিছু আন্তর্জাতিক বাণিজ্য সুবিধা সময়ের সঙ্গে পরিবর্তিত হতে পারে—কোন সুবিধা কখন বদলাবে তা সংশ্লিষ্ট চুক্তি, বাজার ও transition arrangement-এর ওপর নির্ভর করে। তাই উত্তরে নির্দিষ্ট সুবিধা বা মেয়াদ লেখার আগে WTO, UN DESA, UNCTAD এবং সংশ্লিষ্ট বাজারের সর্বশেষ সরকারি তথ্য যাচাই করতে হবে। **নীতিগত প্রস্তুতি:** উৎপাদনশীলতা, পণ্যের বৈচিত্র্য, মান-সম্মতি, বাণিজ্য কূটনীতি, মেধাস্বত্ব, শ্রম ও পরিবেশমান এবং বেসরকারি খাতের সক্ষমতা।
+
+#### বাস্তব ছবি ১০ — Export diversification ও value addition
+
+![Jute Fiber BD manufacturing plant in Savar, Bangladesh, 20 July 2026](https://commons.wikimedia.org/wiki/Special:FilePath/State%20Minister%20for%20Textiles%20and%20Jute%20Md.%20Shariful%20Alam%20visiting%20Jute%20Fiber%20BD%20manufacturing%20plant%20in%20Savar%2C%202026-07-20.jpg)
+
+*কীভাবে বুঝবে:* পাট ও পাটজাত পণ্যের মতো খাতে value addition, quality, branding ও বাজার-প্রবেশ বাড়ানো রপ্তানি বৈচিত্র্যের একটি সম্ভাব্য পথ। ছবিটি ২০২৬ সালের একটি উৎপাদন-কারখানা পরিদর্শনের দৃশ্য; রপ্তানি-পরিমাণ বা বাজার-চাহিদার পরিসংখ্যান নয়। **ছবির উৎস:** Bangladesh Press Information Department (PID); বাংলাদেশে public domain. [মূল ছবি ও অধিকার](https://commons.wikimedia.org/wiki/File:State_Minister_for_Textiles_and_Jute_Md._Shariful_Alam_visiting_Jute_Fiber_BD_manufacturing_plant_in_Savar,_2026-07-20.jpg).
 
 <a id="policy"></a>
 ## ৮. বাংলাদেশের করণীয়: নীতিপ্রস্তাব
@@ -383,6 +443,26 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 10. **International Labour Organization (ILO).** [Decent Work](https://www.ilo.org/topics-and-sectors/decent-work) — labour rights and decent work framework.
 11. **UN Trade and Development (UNCTAD).** [World Investment Report](https://unctad.org/topic/investment/world-investment-report) — FDI and international investment analysis.
 12. **United Nations Department of Economic and Social Affairs (UN DESA).** [Least Developed Countries](https://www.un.org/development/desa/dpad/least-developed-country-category.html) — LDC category and graduation framework.
+
+### Visual sources, attribution and image licences
+
+The following ten internet photographs are embedded beside the relevant discussion above. Captions explain how to use each image for study and warn where a photo should not be treated as statistical or causal evidence.
+
+| No. | Topic | Original image / attribution | Licence |
+|---:|---|---|---|
+| 1 | Digital connectivity | [5G service launch in Dhaka](https://commons.wikimedia.org/wiki/File:Inauguration_of_5G_Mobile_Internet_Service_in_Dhaka_Bangladesh_2021-12-12_(PID-0025799).jpg) · Bangladesh Press Information Department (PID) | Public domain in Bangladesh |
+| 2 | Trade logistics | [Containers at Chittagong Port](https://commons.wikimedia.org/wiki/File:Stacking_Intermodal_container_in_Port_of_Chittagong_(14).jpg) · Moheen Reeyad | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 3 | RMG exports | [Garment factory assembly line](https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg) · Tareq Salahuddin | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) |
+| 4 | Labour migration | [Expatriate workers’ waiting room, Dhaka airport](https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Inaugurates_Expatriate_Worker_Waiting_Room_Dhaka_2024-11-14_(PID-0005233).jpg) · Bangladesh Press Information Department (PID) | Public domain in Bangladesh |
+| 5 | Investment climate | [BEZA governing board meeting, 3 August 2026](https://commons.wikimedia.org/wiki/File:Bangladesh_Economic_Zones_Authority_governing_board_meeting_at_Prime_Minister%27s_office_in_Dhaka,_2026-08-03.jpg) · Bangladesh Press Information Department (PID) | Public domain in Bangladesh |
+| 6 | WTO and global trade rules | [Centre William-Rappard, WTO headquarters](https://commons.wikimedia.org/wiki/File:Centre_William-Rappard_1.jpg) · Jérémy Toma | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 7 | Development finance | [World Bank Headquarters](https://commons.wikimedia.org/wiki/File:World_Bank_Headquarters.jpg) · Shanice Gounden | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 8 | Labour standards | [Garment workers leaving a factory during a break](https://commons.wikimedia.org/wiki/File:Garment_workers_in_Bangladesh_exiting_a_factory_during_break.jpg) · Nahid Sultan | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 9 | Environmental vulnerability | [River erosion in Bangladesh](https://commons.wikimedia.org/wiki/File:River_erosion_in_Bangladesh_(15255986711).jpg) · Helena Wright | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) |
+| 10 | Export diversification | [Jute Fiber BD manufacturing plant, Savar](https://commons.wikimedia.org/wiki/File:State_Minister_for_Textiles_and_Jute_Md._Shariful_Alam_visiting_Jute_Fiber_BD_manufacturing_plant_in_Savar,_2026-07-20.jpg) · Bangladesh Press Information Department (PID) | Public domain in Bangladesh |
+
+**Reuse note:** For Creative Commons photos, preserve the creator credit, licence link and any change notice if you reuse or edit the image. “Public domain in Bangladesh” is the status stated on the cited PID image pages; do not assume this automatically settles copyright status in every other jurisdiction.
+
 
 ### Evidence and PYQ policy
 - সরকারি সিলেবাসের সঙ্গে সরাসরি মিলে এমন থিমকে অগ্রাধিকার দেওয়া হয়েছে।
