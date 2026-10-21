@@ -11,26 +11,20 @@
 > [!NOTE]
 > **এই অধ্যায় কীভাবে পড়বেন:** প্রতিটি বিষয়কে চার ধাপে বুঝুন—(১) কী পরিবর্তন ঘটেছে, (২) কেন ঘটেছে, (৩) কারা লাভবান বা ক্ষতিগ্রস্ত হয়েছে, (৪) কোন নীতি উন্নত ফল দিতে পারে। পরীক্ষায় শুধু অর্জনের তালিকা নয়, সীমাবদ্ধতা ও প্রমাণভিত্তিক সুপারিশও লিখবেন।
 
-## Visual study gallery — বাস্তব ছবি ও বিষয়ভিত্তিক চিত্র
+## Visual study guide — বিষয়ভিত্তিক ছবি ও চিত্র
 
-> ছবিগুলো বিষয় বোঝানোর জন্য। প্রতিটি ছবির মূল Wikimedia Commons পাতা থেকে লাইসেন্স ও attribution যাচাই করুন; এগুলো পরিসংখ্যানগত প্রমাণ নয়।
+প্রতিটি বাস্তব ছবি সংশ্লিষ্ট অধ্যায়-অংশে রাখা হয়েছে, যাতে পড়ার সময় বিষয় থেকে দূরে যেতে না হয়। ছবিগুলো ব্যাখ্যামূলক উদাহরণ; পরিসংখ্যানের প্রমাণ নয়। ছবির লাইসেন্স ও attribution মূল উৎসে দেওয়া আছে।
 
-### বাংলাদেশের তৈরি পোশাকশিল্প ও শ্রম
-![Working conditions of garment workers in Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/Working_conditions_of_Garment_workers_in_Bangladesh.jpg)
-
-**Source / licence:** [Wikimedia Commons — Working conditions of Garment workers in Bangladesh.jpg](https://commons.wikimedia.org/wiki/File:Working_conditions_of_Garment_workers_in_Bangladesh.jpg) · Fahad Faisal · CC BY-SA 4.0. ছবিটি শ্রমপরিবেশের একটি উদাহরণ; পুরো খাতের প্রতিনিধিত্বকারী নমুনা নয়।
-
-### বাংলা নববর্ষ ও সাংস্কৃতিক পরিচয়
-![Pohela Boishakh rally in Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/Pohela_boishakh_rally.jpg)
-
-**Source / licence:** [Wikimedia Commons — Pohela boishakh rally.jpg](https://commons.wikimedia.org/wiki/File:Pohela_boishakh_rally.jpg). ছবির পাতা থেকে বর্তমান লাইসেন্স/attribution দেখে ব্যবহার করুন।
+- [কৃষি ও খাদ্যনিরাপত্তা](#agriculture) · [RMG ও শিল্পায়ন](#industry) · [ICT ও ডিজিটাল অর্থনীতি](#services)
+- [প্রবাসী আয় ও অভিবাসন](#external) · [শিক্ষা ও মানব উন্নয়ন](#human-development) · [নারীর কর্মসংস্থান](#women)
+- [সাহিত্য ও সংস্কৃতি](#culture) · [জাতীয় পরিচয় ও জামদানি](#identity) · [৬টি revision diagram](#visuals)
 
 ### আরও দ্রুত শেখার জন্য
-- [📊 09 — BCS Answer Framework](./assets/visual-revision/09-answer-framework.svg)
-- [📈 08 — Growth vs Inclusive Development](./assets/visual-revision/08-growth-vs-inclusion.svg)
-- [🧭 07 — Development Model](./assets/visual-revision/07-development-model.svg)
+- [📊 BCS Answer Framework](./assets/visual-revision/09-answer-framework.svg)
+- [📈 Growth vs Inclusive Development](./assets/visual-revision/08-growth-vs-inclusion.svg)
+- [🧭 Development Model](./assets/visual-revision/07-development-model.svg)
 - [📚 25 Model Questions + Answers](./QUESTIONS-ANSWERS.md)
-- [💬 16 English Quotations + Sources](./QUOTATIONS.md)
+- [💬 English Quotations + Sources](./QUOTATIONS.md)
 - [🧾 35th–47th BCS Question Map](./PYQ-35-47-MAP.md)
 
 ## বিষয়সূচি — সরাসরি অংশে যান
