@@ -2,7 +2,7 @@
 > **BCS Written · Bangladesh Affairs · Subject Code 005 · 200 marks**  
 > বাংলা ব্যাখ্যা + English terminology + বিগত প্রশ্নের theme + source-backed essays + ৩৩টি অনুশীলনী + English quotation bank.
 
-[← Bangladesh Affairs সূচি](../README.md) · [📚 PYQ-ভিত্তিক প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [💬 English Quotations with sources](./QUOTATIONS.md) · [Chapter 01-এর format](../Chapter-01/README.md)
+[← Bangladesh Affairs সূচি](../README.md) · [35th–47th PYQ Audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [📚 PYQ-ভিত্তিক প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [💬 ১৪টি English Quotations with sources](./QUOTATIONS.md) · [Chapter 01-এর format](../Chapter-01/README.md)
 
 <a id="top"></a>
 
@@ -11,7 +11,7 @@
 
 ## বিষয়সূচি
 1. [Syllabus ও learning outcomes](#syllabus)
-2. [Previous BCS Written question analysis](#pyq)
+2. [Previous BCS Written question analysis](#pyq) · [35th–47th full audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি answered model Q&A](./BCS-WRITTEN-QUESTION-BANK.md)
 3. [পররাষ্ট্রনীতি: ধারণা, লক্ষ্য ও নির্ধারক](#concept)
 4. [সাংবিধানিক ভিত্তি](#constitution)
 5. [Policy formulation ও national power](#formulation)
@@ -38,6 +38,8 @@ BPSC-এর Bangladesh Affairs, Subject Code 005, লিখিত সিলে�
 ## ২. Previous BCS Written Question Analysis
 
 ### ২.১ যাচাইযোগ্য প্রশ্নের উদাহরণ
+
+**[➡️ ৩৫তম–৪৭তম BCS year-by-year audit খুলুন](./PYQ-35TH-47TH-AUDIT.md)** · **[➡️ ২৫টি প্রশ্নের পূর্ণ মডেল উত্তর খুলুন](./BCS-WRITTEN-QUESTION-BANK.md)**
 প্রকাশ্য BCS EXAM question archive-এ **৩৫তম BCS Written, Bangladesh Affairs, Question 27**-এ বাংলাদেশের পররাষ্ট্রনীতির মূলনীতি এবং “জাতীয় স্বার্থ সংরক্ষণই বাংলাদেশের পররাষ্ট্রনীতির মূল নির্ধারক”—এই বক্তব্য ব্যাখ্যা করতে বলা হয়েছিল। [Q1] **৫০তম BCS Written International Affairs, Subject Code 007**-এ economic sanctions ও Track II diplomacy এসেছে; এটি আলাদা পেপার, তাই Bangladesh Affairs প্রশ্নের সঙ্গে এক করে গণনা করা যাবে না। [Q2]
 
 **সতর্কতা:** প্রশ্ন-আর্কাইভ secondary transcript; মূল BPSC scan নয়। এই অগ্রাধিকার syllabus coverage, যাচাইযোগ্য উদাহরণ এবং একাধিক প্রশ্নে প্রয়োগযোগ্যতার ভিত্তিতে—সব বছরের statistical frequency audit নয়।
@@ -253,11 +255,17 @@ Human security মানুষের জীবন, জীবিকা, খাদ
 
 <sub>Source: Dhaka Tribune, [Bangladesh’s robust role and commitment towards international peace and security](https://www.dhakatribune.com/opinion/longform/314708/bangladesh%E2%80%99s-robust-role-and-commitment-towards). Image reuse rights should be checked with publisher.</sub>
 
-### ১৩.৫ Historical image and background — Bangladesh and UN
+### ১৩.৫ Official geopolitical reference map
+
+Bangladesh is bordered by India and Myanmar and opens to the Bay of Bengal. For exact boundaries, labels and geographic context, use a cartographic source rather than a decorative schematic: [CIA World Factbook — Bangladesh map and geography](https://www.cia.gov/the-world-factbook/countries/bangladesh/map/). Check map date and licence before reproducing it in a distributable notebook.
+
+### ১৩.৬ Historical image and background — Bangladesh and UN
 [United Nations in Bangladesh — Bangladesh and the United Nations: 50 Years of Partnership](https://bangladesh.un.org/en/282417-bangladesh-and-united-nations-50-years-partnership)
 
 <a id="questions"></a>
 ## ১৪. ৩৩টি BCS Written practice questions
+
+এগুলো দ্রুত self-practice-এর জন্য। প্রতিটি প্রশ্নের বিস্তৃত মডেল উত্তর পেতে [২৫টি Answered Model Question Bank](./BCS-WRITTEN-QUESTION-BANK.md) ব্যবহার করুন। PYQ-এর বছরভিত্তিক evidence ও সীমাবদ্ধতা দেখুন [35th–47th audit](./PYQ-35TH-47TH-AUDIT.md)-এ।
 
 > এগুলো syllabus-based practice questions; BPSC-এর মূল প্রশ্নপত্র থেকে হুবহু নেওয়া বলে দাবি করা হচ্ছে না।
 
@@ -367,4 +375,4 @@ https://bcsexam.org/written-questions/50th-bcs-written
 ### অধ্যায়ের শেষ কথা
 বাংলাদেশের পররাষ্ট্রনীতির সাফল্য শুধু কত দেশের সঙ্গে সম্পর্ক আছে তা দিয়ে মাপা যায় না। প্রকৃত মানদণ্ড হলো সার্বভৌমত্ব ও জাতীয় স্বার্থ রক্ষা, অর্থনৈতিক সুযোগ সৃষ্টি, নাগরিক ও প্রবাসীদের সুরক্ষা, আন্তর্জাতিক আইন মেনে বিরোধ সামলানো এবং বহুপাক্ষিক ব্যবস্থায় কার্যকর অবদান। Article 25, তথ্যনির্ভর কূটনীতি, সম্পর্কের বৈচিত্র্য ও বাস্তবায়নযোগ্য সুপারিশ—এই চার স্তর একসঙ্গে লিখলে উত্তর হবে বিশ্লেষণধর্মী ও BCS Written-উপযোগী।
 
-[⬆️ সূচিতে ফিরে যান](#top) · [PYQ-ভিত্তিক প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [English Quotations](./QUOTATIONS.md)
+[⬆️ সূচিতে ফিরে যান](#top) · [35th–47th PYQ Audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [PYQ-ভিত্তিক প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [English Quotations](./QUOTATIONS.md)
