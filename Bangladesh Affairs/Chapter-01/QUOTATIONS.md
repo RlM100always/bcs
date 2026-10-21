@@ -191,6 +191,8 @@
 
 ### 🟨 ৮. Climate Vulnerability — জলবায়ু পরিবর্তনজনিত ঝুঁকি
 
+**Original English quotation (মূল ইংরেজি উদ্ধৃতি):**
+
 > **“highly vulnerable to climate change and natural disasters”**
 
 **বাংলা ভাবানুবাদ:** বাংলাদেশ জলবায়ু পরিবর্তন ও প্রাকৃতিক দুর্যোগের প্রতি অত্যন্ত ঝুঁকিপূর্ণ।
