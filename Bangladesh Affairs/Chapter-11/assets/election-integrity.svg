@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">Pillars of electoral integrity</title>
+<desc id="desc">Six pillars that support a credible election.</desc>
+<defs><style>
+.bg{fill:#f7f8fa}.title{font:700 38px Arial,sans-serif;fill:#172b3a}.sub{font:22px Arial,sans-serif;fill:#52616b}.card{fill:#fff;stroke:#52616b;stroke-width:2.5;rx:24}.n{font:700 27px Arial,sans-serif;fill:#172b3a}.bn{font:22px 'Noto Sans Bengali',Arial,sans-serif;fill:#243746}.sm{font:18px Arial,sans-serif;fill:#52616b}
+</style></defs>
+<rect class="bg" width="1600" height="900"/>
+<text class="title" x="800" y="70" text-anchor="middle">PILLARS OF ELECTORAL INTEGRITY</text>
+<text class="sub" x="800" y="110" text-anchor="middle">A credible election requires the whole system to work</text>
+<rect class="card" x="80" y="180" width="440" height="190"/>
+<text class="n" x="300" y="235" text-anchor="middle">1. Legality</text><text class="bn" x="300" y="280" text-anchor="middle">আইনসম্মততা</text><text class="sm" x="300" y="320" text-anchor="middle">Clear rules • due process</text>
+<rect class="card" x="580" y="180" width="440" height="190"/>
+<text class="n" x="800" y="235" text-anchor="middle">2. Independence</text><text class="bn" x="800" y="280" text-anchor="middle">প্রাতিষ্ঠানিক স্বাধীনতা</text><text class="sm" x="800" y="320" text-anchor="middle">Impartial decisions</text>
+<rect class="card" x="1080" y="180" width="440" height="190"/>
+<text class="n" x="1300" y="235" text-anchor="middle">3. Inclusion</text><text class="bn" x="1300" y="280" text-anchor="middle">অন্তর্ভুক্তি</text><text class="sm" x="1300" y="320" text-anchor="middle">Access • equal participation</text>
+<rect class="card" x="80" y="430" width="440" height="190"/>
+<text class="n" x="300" y="485" text-anchor="middle">4. Transparency</text><text class="bn" x="300" y="530" text-anchor="middle">স্বচ্ছতা</text><text class="sm" x="300" y="570" text-anchor="middle">Records • verifiable results</text>
+<rect class="card" x="580" y="430" width="440" height="190"/>
+<text class="n" x="800" y="485" text-anchor="middle">5. Accountability</text><text class="bn" x="800" y="530" text-anchor="middle">জবাবদিহি</text><text class="sm" x="800" y="570" text-anchor="middle">Complaints • lawful remedies</text>
+<rect class="card" x="1080" y="430" width="440" height="190"/>
+<text class="n" x="1300" y="485" text-anchor="middle">6. Security and trust</text><text class="bn" x="1300" y="530" text-anchor="middle">নিরাপত্তা ও আস্থা</text><text class="sm" x="1300" y="570" text-anchor="middle">No coercion • safe participation</text>
+<rect x="240" y="700" width="1120" height="100" rx="22" fill="#e8eef2" stroke="#52616b" stroke-width="2.5"/>
+<text class="n" x="800" y="742" text-anchor="middle">Assessment principle</text><text class="bn" x="800" y="778" text-anchor="middle">শুধু ভোটের দিন নয়—পুরো নির্বাচনী চক্র মূল্যায়ন করুন</text>
+</svg>

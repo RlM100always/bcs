@@ -18,7 +18,7 @@
 | 08 | [রাষ্ট্রের অঙ্গসমূহ—আইন, নির্বাহী ও বিচার বিভাগ](Chapter-08/README.md) · [বিগত প্রশ্ন](Chapter-08/README.md#pyq) · [PYQ-ভিত্তিক প্রবন্ধ](Chapter-08/PYQ-BASED-ESSAYS.md) | 📘 পূর্ণ অধ্যায় + ৪টি archive-reported PYQ prompt + ১২টি গুরুত্বপূর্ণ প্রশ্ন + ৩৩টি অনুশীলনী + model answers + responsive diagram |
 | 09 | [বাংলাদেশের পররাষ্ট্রনীতি ও বৈদেশিক সম্পর্ক](Chapter-09/README.md) · [PYQ-ভিত্তিক গুরুত্বপূর্ণ প্রবন্ধ](Chapter-09/PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](Chapter-09/QUOTATIONS.md) | 📘 পূর্ণাঙ্গ BCS Written অধ্যায় + প্রশ্নের থিম বিশ্লেষণ + ৮টি source-backed প্রবন্ধ + ৩৩টি অনুশীলনী + ৩টি responsive SVG diagram + internet image source + ১৪টি English quotation with source links |
 | 10 | রাজনৈতিক দল ও রাজনৈতিক প্রক্রিয়া | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
-| 11 | নির্বাচন ও নির্বাচনী ব্যবস্থাপনা | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
+| 11 | [নির্বাচন ও নির্বাচনী ব্যবস্থাপনা](Chapter-11/README.md) · [English Quotations + Sources](Chapter-11/QUOTATIONS.md) | 📘 ৮টি source-backed প্রবন্ধ + ৩৩টি model Q&A + ১৮টি quotation topic + ৪টি revision diagram + ২০২৬ সালের RPO update + PYQ analysis |
 | 12 | [যোগাযোগ, ICT, গণমাধ্যম, RTI ও ই-গভর্ন্যান্স](Chapter-12/README.md) · [PYQ-ভিত্তিক প্রবন্ধ](Chapter-12/PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](Chapter-12/QUOTATIONS.md) | 📘 পূর্ণাঙ্গ BCS Written অধ্যায় + syllabus-based PYQ priority map + ৮টি source-backed প্রবন্ধ + ৩৩টি practice question + ৩টি responsive SVG visual + ১৫টি source-backed English quotation |
 | 13 | অনানুষ্ঠানিক প্রতিষ্ঠান, সুশীল সমাজ ও NGO | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
 | 14 | বিশ্বায়ন ও বাংলাদেশের বহুপাক্ষিক সম্পর্ক | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |

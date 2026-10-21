@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">Election stakeholders and responsibilities</title>
+<desc id="desc">The Election Commission coordinates the legal election process with public authorities, voters, parties, media and observers.</desc>
+<defs><style>
+.bg{fill:#f7f8fa}.title{font:700 38px Arial,sans-serif;fill:#172b3a}.sub{font:22px Arial,sans-serif;fill:#52616b}.card{fill:#fff;stroke:#52616b;stroke-width:2.5;rx:20}.core{fill:#e8eef2;stroke:#52616b;stroke-width:3;rx:25}.n{font:700 25px Arial,sans-serif;fill:#172b3a}.bn{font:21px 'Noto Sans Bengali',Arial,sans-serif;fill:#243746}.sm{font:18px Arial,sans-serif;fill:#52616b}.line{stroke:#52616b;stroke-width:3;fill:none}
+</style></defs>
+<rect class="bg" width="1600" height="900"/>
+<text class="title" x="800" y="65" text-anchor="middle">ELECTION STAKEHOLDERS</text>
+<text class="sub" x="800" y="105" text-anchor="middle">Clear roles • lawful coordination • equal treatment</text>
+<path class="line" d="M800 370 V290 H300 V275 M800 290 H800 V275 M800 290 H1300 V275 M800 500 V525 H300 V555 M800 525 H800 V555 M800 525 H1300 V555"/>
+<rect class="core" x="550" y="370" width="500" height="130"/>
+<text class="n" x="800" y="420" text-anchor="middle">Election Commission</text><text class="bn" x="800" y="462" text-anchor="middle">সাংবিধানিক দায়িত্ব ও সমন্বয়</text>
+<rect class="card" x="80" y="145" width="440" height="130"/>
+<text class="n" x="300" y="190" text-anchor="middle">Executive authorities</text><text class="bn" x="300" y="230" text-anchor="middle">প্রশাসন ও আইনশৃঙ্খলা সহায়তা</text>
+<rect class="card" x="580" y="145" width="440" height="130"/>
+<text class="n" x="800" y="190" text-anchor="middle">Voters</text><text class="bn" x="800" y="230" text-anchor="middle">স্বাধীন সিদ্ধান্ত ও অংশগ্রহণ</text>
+<rect class="card" x="1080" y="145" width="440" height="130"/>
+<text class="n" x="1300" y="190" text-anchor="middle">Political parties and candidates</text><text class="bn" x="1300" y="230" text-anchor="middle">আইনসম্মত প্রতিযোগিতা</text>
+<rect class="card" x="80" y="555" width="440" height="130"/>
+<text class="n" x="300" y="600" text-anchor="middle">Media and fact-checkers</text><text class="bn" x="300" y="640" text-anchor="middle">যাচাই ও দায়িত্বশীল তথ্য</text>
+<rect class="card" x="580" y="555" width="440" height="130"/>
+<text class="n" x="800" y="600" text-anchor="middle">Observers and civil society</text><text class="bn" x="800" y="640" text-anchor="middle">পর্যবেক্ষণ ও নাগরিক সচেতনতা</text>
+<rect class="card" x="1080" y="555" width="440" height="130"/>
+<text class="n" x="1300" y="600" text-anchor="middle">Courts and legal bodies</text><text class="bn" x="1300" y="640" text-anchor="middle">আইনসম্মত বিরোধ নিষ্পত্তি</text>
+<rect x="260" y="740" width="1080" height="85" rx="18" fill="#ffffff" stroke="#52616b" stroke-width="2"/>
+<text class="n" x="800" y="775" text-anchor="middle">No stakeholder replaces the law</text><text class="sm" x="800" y="805" text-anchor="middle">Each role must be defined, impartial and accountable.</text>
+</svg>
