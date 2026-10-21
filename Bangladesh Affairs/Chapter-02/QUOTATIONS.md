@@ -5,7 +5,7 @@
 ## 1. Syllabus scope
 **Source:** BPSC, *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005, p. 6.  
 **Exam line:** বাংলাদেশের জনমিতিক বৈশিষ্ট্যের আলোচনায় জাতিগত ও সাংস্কৃতিক বৈচিত্র্য সিলেবাসের অন্তর্ভুক্ত বিষয়।  
-URL: https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf
+URL: https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2024/12/df968f7fa918431dae3ed31b43206f6f.pdf
 
 ## 2. Census methodology
 **Source:** BBS, *Population and Housing Census 2022, National Report (Volume I).*  
@@ -50,3 +50,13 @@ URL: https://www.worldbank.org/en/news/feature/2022/10/31/key-highlights-country
 
 ## 10. Answer-writing rule
 পরিসংখ্যানের সঙ্গে প্রতিষ্ঠান, প্রতিবেদনের নাম, তথ্যের বছর ও সূচকের ভিত্তি উল্লেখ করুন। উৎসে না থাকা উদ্ধৃতি, পৃষ্ঠা বা দশমিক বানিয়ে লিখবেন না.
+
+
+## 11. Archive-reported BCS Written questions — verification caveat
+**50th BCS Written, Bangladesh Affairs, Q35(c), 15 marks:** A third-party archive records a question on demographic winter and how Bangladesh might respond to opportunities arising from demographic change. This chapter paraphrases the question; the original BPSC scan was not independently authenticated.
+URL: https://bcsexam.org/written-questions/50th-bcs-written
+
+**47th BCS Written, Bangladesh Affairs, Q27, 20 marks:** A third-party archive records a question comparing socio-economic and cultural changes from the 1970s to 2025, including women's work, urbanisation, language and ICT. This chapter paraphrases the question; the original BPSC scan was not independently authenticated.
+URL: https://bcsexam.org/written-questions/47th-bcs-written
+
+**Important:** These are labelled *archive-reported Previous BCS Questions*, not official-original verified questions. If an original BPSC question-paper scan becomes available, verify the wording, paper, question number and marks before upgrading the evidence status.
