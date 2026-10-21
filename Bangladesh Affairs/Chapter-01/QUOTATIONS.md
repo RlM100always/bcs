@@ -170,6 +170,8 @@
 
 ### 🟨 ৭. Climate Adaptation — জলবায়ু অভিযোজন
 
+**Original English quotation (মূল ইংরেজি উদ্ধৃতি):**
+
 > **“a leader in climate adaptation and disaster preparedness”**
 
 **বাংলা ভাবানুবাদ:** বিশ্বব্যাংকের মূল্যায়নে জলবায়ু অভিযোজন ও দুর্যোগ প্রস্তুতির ক্ষেত্রে বাংলাদেশ অগ্রণী দেশগুলোর একটি।
