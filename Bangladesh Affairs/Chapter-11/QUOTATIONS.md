@@ -40,7 +40,7 @@
 
 **Original English quotation:**
 
-> “The Election Commission shall be independent in the exercise of its functions”
+> “In the exercise of his functions under this Constitution, the Election Commission shall be independent and subject only to this Constitution and any other law.”
 
 **বাংলা ভাবানুবাদ:** নির্বাচন কমিশন দায়িত্ব পালনের ক্ষেত্রে স্বাধীন থাকবে।
 
@@ -480,9 +480,9 @@ Election-related information should be verified before publication, and legal re
 
 <a id="authentic-quotations"></a>
 
-## ২১. 13 Authentic English Quotations — Exact Wording, Real Sources
+## ২১. 11 Authentic English Quotations + 2 Sourced Exam Lines
 
-**এই অংশে হুবহু quotation এবং উৎস আলাদা করে দেওয়া হয়েছে।** প্রথম কয়েকটি আইন ও আন্তর্জাতিক মানদণ্ডের ভাষা; এগুলো বিখ্যাত ব্যক্তির সাহিত্যিক উক্তি নয়, বরং নির্বাচনী ব্যবস্থাপনা বিষয়ে নির্ভরযোগ্য primary-source lines। প্রশ্নের সঙ্গে প্রাসঙ্গিক হলে একটি উদ্ধৃতি ব্যবহার করুন, তারপর নিজের বিশ্লেষণ লিখুন।
+**এই অংশে ১১টি হুবহু quotation এবং ২টি source-backed paraphrase আলাদা করে দেওয়া হয়েছে।** আইন ও আন্তর্জাতিক মানদণ্ডের ভাষা নির্বাচনী ব্যবস্থাপনায় নির্ভরযোগ্য primary-source lines; দুটি International IDEA exam line স্পষ্টভাবে paraphrase হিসেবে চিহ্নিত, হুবহু quotation নয়। প্রশ্নের সঙ্গে প্রাসঙ্গিক হলে উদ্ধৃতি ব্যবহার করে নিজের বিশ্লেষণ লিখুন।
 
 ### 1. Constitutional independence — Constitution of Bangladesh
 > “The Election Commission shall be independent in the exercise of its functions”
@@ -538,8 +538,8 @@ Election-related information should be verified before publication, and legal re
 
 **Source:** Theme for the 8th National Voters Day–2026. [Bangladesh Election Commission](https://ecs.gov.bd/en)
 
-### 7. Professional election management — International IDEA
-> “Electoral management bodies (EMBs) need to become more professional if they are to retain the trust of voters.”
+### 7. Professional election management — International IDEA (sourced paraphrase, not a direct quotation)
+**Source-backed paraphrase:** Professional capacity in electoral management is important for maintaining voter confidence.
 
 **বাংলা ভাবার্থ:** ভোটারের আস্থা ধরে রাখতে নির্বাচনী ব্যবস্থাপনা প্রতিষ্ঠানকে আরও পেশাদার হতে হবে।
 
@@ -592,8 +592,8 @@ Election-related information should be verified before publication, and legal re
 
 **Source:** Abraham Lincoln, Gettysburg Address (1863). [U.S. National Park Service](https://www.nps.gov/gett/learn/historyculture/gettysburg-address.htm)
 
-### 13. Electoral system design — International IDEA
-> “Building trust and professionalism in the management of electoral processes remains a major challenge”
+### 13. Electoral system design — International IDEA (sourced paraphrase, not a direct quotation)
+**Source-backed paraphrase:** Electoral-system design and professional administration both affect public trust in the process.
 
 **বাংলা ভাবার্থ:** নির্বাচনী প্রক্রিয়া পরিচালনায় আস্থা ও পেশাদারিত্ব গড়ে তোলা এখনও একটি বড় চ্যালেঞ্জ।
 
