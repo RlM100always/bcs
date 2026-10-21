@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+  <title id="title">Bangladesh terrestrial protected-area coverage</title>
+  <desc id="desc">The Bangladesh Forest Department reports 470,223.206 hectares of terrestrial protected areas, equivalent to 3.19 percent of national area. The graphic shows this value on a zero-to-one-hundred-percent scale.</desc>
+  <rect width="1200" height="640" rx="28" fill="#f5f8f4"/>
+  <rect x="34" y="34" width="1132" height="572" rx="22" fill="#ffffff" stroke="#d4e2d7" stroke-width="2"/>
+  <text x="78" y="98" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#23734d">BCS WRITTEN · ENVIRONMENT &amp; CONSERVATION</text>
+  <text x="78" y="150" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#152b22">Terrestrial protected-area coverage</text>
+  <text x="78" y="190" font-family="Arial, sans-serif" font-size="23" fill="#4b6155">Bangladesh · Official Forest Department figures</text>
+  <text x="78" y="278" font-family="Arial, sans-serif" font-size="74" font-weight="700" fill="#23734d">3.19%</text>
+  <text x="78" y="319" font-family="Arial, sans-serif" font-size="22" fill="#31493b">of the country's total area</text>
+  <text x="78" y="378" font-family="Arial, sans-serif" font-size="20" fill="#31493b">Terrestrial protected areas: 470,223.206 hectares</text>
+  <rect x="78" y="421" width="1044" height="38" rx="10" fill="#e5ece7"/>
+  <rect x="78" y="421" width="33.3036" height="38" rx="8" fill="#238456"/>
+  <line x1="78" y1="470" x2="78" y2="484" stroke="#687b70" stroke-width="2"/>
+  <line x1="600" y1="470" x2="600" y2="484" stroke="#687b70" stroke-width="2"/>
+  <line x1="1122" y1="470" x2="1122" y2="484" stroke="#687b70" stroke-width="2"/>
+  <text x="78" y="510" font-family="Arial, sans-serif" font-size="17" fill="#52665a">0%</text>
+  <text x="600" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#52665a">50%</text>
+  <text x="1122" y="510" text-anchor="end" font-family="Arial, sans-serif" font-size="17" fill="#52665a">100%</text>
+  <text x="78" y="552" font-family="Arial, sans-serif" font-size="16" fill="#52665a">Source: Bangladesh Forest Department, protected-area page (last updated 24 May 2026).</text>
+  <text x="78" y="578" font-family="Arial, sans-serif" font-size="15" fill="#52665a">Coverage indicator only; it does not mean all land outside this designation lacks environmental protection.</text>
+</svg>
