@@ -189,7 +189,7 @@ Bangladesh Affairs (Subject Code 005)-এর প্রথম ইউনিটে 
 
 <p align="center"><a href="./assets/visual-revision/01-bangladesh-at-a-glance.svg" title="Open Sheet 01 at full size"><img src="./assets/visual-revision/01-bangladesh-at-a-glance.svg" width="560" alt="Bangladesh at a glance: location, boundaries and delta story"></a></p>
 
-<p align="center"><a href="./assets/visual-revision/01-bangladesh-at-a-glance.svg">🔎 Open full-size SVG</a> · <a href="#visual-revision-notes">⬆️ Back to Visual Revision index</a></p>
+<p align="center"><a href="./assets/visual-revision/01-bangladesh-at-a-glance.svg">🔎 Open full-size SVG</a> · <a href="#quick-revision-visual-notes">⬆️ Back to Visual Revision index</a></p>
 
 ---
 
@@ -201,7 +201,7 @@ Floodplain, Terrace ও Hills—পার্থক্য, বৈশিষ্ট�
 
 <p align="center"><a href="./assets/visual-revision/02-physiographic-regions.svg" title="Open Sheet 02 at full size"><img src="./assets/visual-revision/02-physiographic-regions.svg" width="560" alt="Physiographic regions: floodplains, terraces and hills"></a></p>
 
-<p align="center"><a href="./assets/visual-revision/02-physiographic-regions.svg">🔎 Open full-size SVG</a> · <a href="#visual-revision-notes">⬆️ Back to Visual Revision index</a></p>
+<p align="center"><a href="./assets/visual-revision/02-physiographic-regions.svg">🔎 Open full-size SVG</a> · <a href="#quick-revision-visual-notes">⬆️ Back to Visual Revision index</a></p>
 
 ---
 
@@ -213,7 +213,7 @@ Floodplain, Terrace ও Hills—পার্থক্য, বৈশিষ্ট�
 
 <p align="center"><a href="./assets/visual-revision/03-rivers-and-land-change.svg" title="Open Sheet 03 at full size"><img src="./assets/visual-revision/03-rivers-and-land-change.svg" width="560" alt="Rivers and land change: erosion, transport and deposition"></a></p>
 
-<p align="center"><a href="./assets/visual-revision/03-rivers-and-land-change.svg">🔎 Open full-size SVG</a> · <a href="#visual-revision-notes">⬆️ Back to Visual Revision index</a></p>
+<p align="center"><a href="./assets/visual-revision/03-rivers-and-land-change.svg">🔎 Open full-size SVG</a> · <a href="#quick-revision-visual-notes">⬆️ Back to Visual Revision index</a></p>
 
 ---
 
@@ -225,7 +225,7 @@ Floodplain, Terrace ও Hills—পার্থক্য, বৈশিষ্ট�
 
 <p align="center"><a href="./assets/visual-revision/04-wetlands-of-bangladesh.svg" title="Open Sheet 04 at full size"><img src="./assets/visual-revision/04-wetlands-of-bangladesh.svg" width="560" alt="Wetlands of Bangladesh: haor, beel and baor"></a></p>
 
-<p align="center"><a href="./assets/visual-revision/04-wetlands-of-bangladesh.svg">🔎 Open full-size SVG</a> · <a href="#visual-revision-notes">⬆️ Back to Visual Revision index</a></p>
+<p align="center"><a href="./assets/visual-revision/04-wetlands-of-bangladesh.svg">🔎 Open full-size SVG</a> · <a href="#quick-revision-visual-notes">⬆️ Back to Visual Revision index</a></p>
 
 ---
 
@@ -237,7 +237,7 @@ Floodplain, Terrace ও Hills—পার্থক্য, বৈশিষ্ট�
 
 <p align="center"><a href="./assets/visual-revision/05-bay-of-bengal-coast.svg" title="Open Sheet 05 at full size"><img src="./assets/visual-revision/05-bay-of-bengal-coast.svg" width="560" alt="Bay of Bengal and coastal zone: resources and hazards"></a></p>
 
-<p align="center"><a href="./assets/visual-revision/05-bay-of-bengal-coast.svg">🔎 Open full-size SVG</a> · <a href="#visual-revision-notes">⬆️ Back to Visual Revision index</a></p>
+<p align="center"><a href="./assets/visual-revision/05-bay-of-bengal-coast.svg">🔎 Open full-size SVG</a> · <a href="#quick-revision-visual-notes">⬆️ Back to Visual Revision index</a></p>
 
 ---
 
@@ -249,7 +249,7 @@ Territorial Sea, Contiguous Zone ও EEZ-এর ধারণা এবং ১২
 
 <p align="center"><a href="./assets/visual-revision/06-maritime-zones.svg" title="Open Sheet 06 at full size"><img src="./assets/visual-revision/06-maritime-zones.svg" width="560" alt="Maritime zones: territorial sea, contiguous zone and EEZ"></a></p>
 
-<p align="center"><a href="./assets/visual-revision/06-maritime-zones.svg">🔎 Open full-size SVG</a> · <a href="#visual-revision-notes">⬆️ Back to Visual Revision index</a></p>
+<p align="center"><a href="./assets/visual-revision/06-maritime-zones.svg">🔎 Open full-size SVG</a> · <a href="#quick-revision-visual-notes">⬆️ Back to Visual Revision index</a></p>
 
 ---
 
@@ -261,7 +261,7 @@ Territorial Sea, Contiguous Zone ও EEZ-এর ধারণা এবং ১২
 
 <p align="center"><a href="./assets/visual-revision/07-bangladesh-delta-plan-2100.svg" title="Open Sheet 07 at full size"><img src="./assets/visual-revision/07-bangladesh-delta-plan-2100.svg" width="560" alt="Bangladesh Delta Plan 2100 and long-term delta management"></a></p>
 
-<p align="center"><a href="./assets/visual-revision/07-bangladesh-delta-plan-2100.svg">🔎 Open full-size SVG</a> · <a href="#visual-revision-notes">⬆️ Back to Visual Revision index</a></p>
+<p align="center"><a href="./assets/visual-revision/07-bangladesh-delta-plan-2100.svg">🔎 Open full-size SVG</a> · <a href="#quick-revision-visual-notes">⬆️ Back to Visual Revision index</a></p>
 
 ---
 
@@ -273,7 +273,7 @@ Territorial Sea, Contiguous Zone ও EEZ-এর ধারণা এবং ১২
 
 <p align="center"><a href="./assets/visual-revision/08-geography-people-economy-culture.svg" title="Open Sheet 08 at full size"><img src="./assets/visual-revision/08-geography-people-economy-culture.svg" width="560" alt="How geography affects people, agriculture, economy and culture"></a></p>
 
-<p align="center"><a href="./assets/visual-revision/08-geography-people-economy-culture.svg">🔎 Open full-size SVG</a> · <a href="#visual-revision-notes">⬆️ Back to Visual Revision index</a></p>
+<p align="center"><a href="./assets/visual-revision/08-geography-people-economy-culture.svg">🔎 Open full-size SVG</a> · <a href="#quick-revision-visual-notes">⬆️ Back to Visual Revision index</a></p>
 
 ---
 
