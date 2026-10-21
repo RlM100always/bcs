@@ -1,6 +1,6 @@
 # Chapter 12 — যোগাযোগ, ICT, গণমাধ্যম, তথ্য অধিকার (RTI) ও ই-গভর্ন্যান্স
 > **BCS Written · Bangladesh Affairs · Subject Code 005 · Unit 12**  
-> বাংলা ব্যাখ্যা + English terminology + 35th–47th BCS question audit + ২৫টি detailed model answer + ৮টি source-backed essay + ১৪টি SVG visual + source-linked real images/map + English quotations.
+> বাংলা ব্যাখ্যা + English terminology + 35th–47th BCS question audit + ২৫টি detailed model answer + ৮টি source-backed essay + ১৪টি SVG visual + ১০টি topic-aligned internet image + English quotations.
 
 [← ১৬ অধ্যায়ের সূচি](../README.md) · [🔎 35th–47th PYQ audit](./PYQ-ANALYSIS-35TH-47TH.md) · [✍️ ২৫টি answered question](./BCS-WRITTEN-QUESTION-BANK.md) · [🗺️ Visual Atlas + images/maps](./VISUAL-ATLAS.md) · [📚 ৮টি Model Essay](./PYQ-BASED-ESSAYS.md) · [💬 English Quotations + Sources](./QUOTATIONS.md)
 
@@ -86,6 +86,12 @@ Digital divide হলো প্রযুক্তি, internet, device, skills �
 ## ৬. Right to Information (RTI) Act, 2009 <a id="rti"></a>
 RTI হলো আইন ও প্রযোজ্য নিয়মের অধীনে কর্তৃপক্ষের কাছে থাকা তথ্য জানার নাগরিক অধিকার। বাংলাদেশের *তথ্য অধিকার আইন, ২০০৯*-এর ধারা ৪-এ আইনের বিধান সাপেক্ষে নাগরিকের তথ্য পাওয়ার অধিকার এবং ধারা ৫-এ তথ্যের catalogue/index প্রস্তুত ও যথাযথভাবে সংরক্ষণের কথা বলা হয়েছে। [S2]
 
+#### বাস্তব ছবি: BTRC ও Information Commission-এর প্রাতিষ্ঠানিক অবকাঠামো
+
+![Bangladesh Telecommunication Regulatory Commission and Information Commission buildings, Dhaka, 20 August 2023](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh%20Telecommunication%20Regulatory%20Commission%20and%20Information%20Commission%20buildings%20inauguration%2C%20Dhaka%2C%202023-08-20%20%28PID-0014121%29.jpg)
+
+*চিত্র-পাঠ:* তথ্য অধিকার বাস্তবায়নে তথ্য কমিশনের প্রাতিষ্ঠানিক ভূমিকা, অভিযোগ/আপিল প্রক্রিয়া ও তথ্যপ্রাপ্তির সচেতনতা আলোচনা করুন। ছবিটি ২০২৩ সালের ভবন উদ্বোধন-সংক্রান্ত; RTI-র কার্যকারিতা বা সেবার মানের প্রমাণ নয়। [মূল ছবি ও public-domain তথ্য](https://commons.wikimedia.org/wiki/File:Bangladesh_Telecommunication_Regulatory_Commission_and_Information_Commission_buildings_inauguration,_Dhaka,_2023-08-20_(PID-0014121).jpg) · [তথ্য কমিশন](https://infocom.gov.bd/) · [তথ্য অধিকার আইন, ২০০৯](https://bdlaws.minlaw.gov.bd/act-print-1011.html).
+
 ### সাধারণ প্রক্রিয়া
 1. প্রয়োজনীয় তথ্য নির্দিষ্ট করুন।
 2. সংশ্লিষ্ট কর্তৃপক্ষের দায়িত্বপ্রাপ্ত তথ্য কর্মকর্তার কাছে আইননির্ধারিত পদ্ধতিতে আবেদন করুন।
@@ -142,31 +148,17 @@ AI বা automated decision-এ bias, ভুল data ও explainability-র ঝ
 
 ## ১০. Quick Revision Visuals <a id="visuals"></a>
 
-> **সম্পূর্ণ গ্যালারি:** [🗺️ Visual Atlas — ১৪টি SVG diagram, historical submarine-cable map, ৭টি real-world image এবং official data/map portals](./VISUAL-ATLAS.md)। Geographic map-এর ক্ষেত্রে তারিখ ও source দেখুন; schematic diagram-কে মানচিত্র হিসেবে ব্যবহার করবেন না।
+> **সম্পূর্ণ গ্যালারি:** [🗺️ Visual Atlas — ১৪টি SVG diagram, source notes এবং map/data portals](./VISUAL-ATLAS.md)। এই মূল অধ্যায়ে ১০টি internet-sourced image সংশ্লিষ্ট topic-এর পাশে বসানো হয়েছে। Geographic map-এর ক্ষেত্রে তারিখ ও source দেখুন; schematic diagram-কে মানচিত্র হিসেবে ব্যবহার করবেন না।
 
-### Communication process
-[![Communication process](./assets/communication-process.svg)](./assets/communication-process.svg)
-
-### RTI to accountability
-[![RTI accountability](./assets/rti-accountability.svg)](./assets/rti-accountability.svg)
-
-### Citizen-centred e-governance cycle
-[![Citizen-centred e-governance cycle](./assets/egovernance-cycle.svg)](./assets/egovernance-cycle.svg)
-
-### Digital connectivity architecture — schematic, not a map
-[![Bangladesh digital connectivity architecture](./assets/digital-infrastructure.svg)](./assets/digital-infrastructure.svg)
-
-### Digital divide
-[![Digital divide](./assets/digital-divide.svg)](./assets/digital-divide.svg)
-
-### Media verification workflow
-[![Media verification workflow](./assets/media-verification.svg)](./assets/media-verification.svg)
-
-### RTI request workflow
-[![RTI workflow](./assets/rti-workflow.svg)](./assets/rti-workflow.svg)
-
-### E-governance interaction models
-[![G2C, G2B, G2G and G2E](./assets/egovernance-models.svg)](./assets/egovernance-models.svg)
+### Diagrams — open separately
+- [Communication process](./assets/communication-process.svg)
+- [RTI to accountability](./assets/rti-accountability.svg)
+- [Citizen-centred e-governance cycle](./assets/egovernance-cycle.svg)
+- [Digital connectivity architecture — schematic, not a map](./assets/digital-infrastructure.svg)
+- [Digital divide](./assets/digital-divide.svg)
+- [Media verification workflow](./assets/media-verification.svg)
+- [RTI request workflow](./assets/rti-workflow.svg)
+- [E-governance interaction models: G2C, G2B, G2G and G2E](./assets/egovernance-models.svg)
 
 ### Official resources
 - [BPSC Written Syllabus — Unit 12](https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf)
