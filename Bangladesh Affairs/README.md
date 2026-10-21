@@ -8,13 +8,13 @@
 
 | No. | অধ্যায় | অগ্রগতি |
 |---|---|---|
-| 01 | [বাংলাদেশের ভৌগোলিক পরিচিতি ও ভূপ্রকৃতি](Chapter-01/README.md) | 📱 Mobile layout update: ৪৭টি responsive SVG diagram, full-width visuals; Mermaid source collapsible রাখা হয়েছে |
-| 02 | [জনতত্ত্ব, জনমিতি ও সাংস্কৃতিক বৈচিত্র্য](Chapter-02/README.md) | 📱 ৮টি responsive SVG visual; full-width images ও কম centered spacing; ৩৩টি অনুশীলনী এবং ৩টি worked answer |
+| 01 | [বাংলাদেশের ভৌগোলিক পরিচিতি ও ভূপ্রকৃতি](Chapter-01/README.md) · [বিগত প্রশ্ন](Chapter-01/README.md#pyq) | 📱 ৪৭টি responsive SVG visual + archive-reported PYQ analysis + ৩৩টি model Q&A ও ৫/১০/২০ নম্বরের worked answer |
+| 02 | [জনতত্ত্ব, জনমিতি ও সাংস্কৃতিক বৈচিত্র্য](Chapter-02/README.md) · [বিগত প্রশ্ন](Chapter-02/README.md#pyq) | 📱 ৮টি responsive SVG visual + archive-reported PYQ (উৎস-সতর্কতাসহ) + ৩৩টি অনুশীলনী + ৩টি worked answer |
 | 03 | প্রাচীন থেকে আধুনিক বাংলাদেশের ইতিহাস ও সংস্কৃতি | ⏳ Chapter-03/README.md এখনও তৈরি হয়নি; content তৈরি হলে mobile layout-ও করা হবে |
-| 04 | [স্বাধীনতা-পরবর্তী অর্থনীতি, সমাজ, সাহিত্য ও সংস্কৃতি](Chapter-04/README.md) · [PYQ-ভিত্তিক গুরুত্বপূর্ণ প্রবন্ধ](Chapter-04/PYQ-BASED-ESSAYS.md) | 📖 পাঠ্যনোট + ৬টি visual + ৩৩টি অনুশীলনী + ৩টি model answer + বিগত প্রশ্নের theme বিশ্লেষণ ও ৭টি source-backed প্রবন্ধ; মূল প্রশ্নপত্র যাচাই বাকি |
+| 04 | [স্বাধীনতা-পরবর্তী অর্থনীতি, সমাজ, সাহিত্য ও সংস্কৃতি](Chapter-04/README.md) · [বিগত প্রশ্ন](Chapter-04/README.md#pyq) · [PYQ-ভিত্তিক প্রবন্ধ](Chapter-04/PYQ-BASED-ESSAYS.md) | 📖 ৬টি visual + ৫টি archive-reported PYQ prompt + ৫টি আলাদা practice prompt + ৩৩টি অনুশীলনী + ৭টি source-backed প্রবন্ধ |
 | 05 | পরিবেশ, প্রকৃতি, চ্যালেঞ্জ ও সম্ভাবনা | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
-| 06 | [প্রাকৃতিক সম্পদ ও টেকসই ব্যবস্থাপনা](Chapter-06/README.md) · [Source-backed Exam Lines](Chapter-06/QUOTATIONS.md) | 📖 BCS Written-উপযোগী পূর্ণ অধ্যায়, ৬টি responsive SVG visual, ৫টি বিশ্লেষণধর্মী প্রবন্ধ, PYQ-theme analysis, ৩৩টি practice question ও source register; মূল প্রশ্নপত্রের item-by-item যাচাই বাকি |
-| 07 | [বাংলাদেশের সংবিধান](Chapter-07/README.md) · [PYQ-ভিত্তিক গুরুত্বপূর্ণ প্রবন্ধ](Chapter-07/PYQ-BASED-ESSAYS.md) · [Source-backed Exam Lines](Chapter-07/QUOTATIONS.md) | 📘 পূর্ণাঙ্গ BCS Written chapter + ৮টি PYQ-ভিত্তিক প্রবন্ধ + ৮টি responsive SVG visual/chart + ৩৩টি অনুশীলনী + সংবিধান/সংসদ/সুপ্রিম কোর্টের sourced photos ও licence credits + সরকারি আইন ও আদালতের উৎস |
+| 06 | [প্রাকৃতিক সম্পদ ও টেকসই ব্যবস্থাপনা](Chapter-06/README.md) · [বিগত প্রশ্ন](Chapter-06/README.md#pyq) · [Source-backed Exam Lines](Chapter-06/QUOTATIONS.md) | 📖 ৬টি responsive SVG + ২টি direct Bangladesh Affairs PYQ + ৪টি cross-paper question prompt + ৩৩টি practice question + ৫টি প্রবন্ধ |
+| 07 | [বাংলাদেশের সংবিধান](Chapter-07/README.md) · [বিগত প্রশ্ন](Chapter-07/README.md#pyq) · [PYQ-ভিত্তিক প্রবন্ধ](Chapter-07/PYQ-BASED-ESSAYS.md) · [Source-backed Exam Lines](Chapter-07/QUOTATIONS.md) | 📘 ৮টি archive-reported question prompt + ৮টি source-backed প্রবন্ধ + responsive visual/chart + ৩৩টি অনুশীলনী + সরকারি আইন ও আদালতের উৎস |
 | 08 | রাষ্ট্রের অঙ্গসমূহ—আইন, নির্বাহী ও বিচার বিভাগ | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
 | 09 | পররাষ্ট্রনীতি ও আন্তর্জাতিক সম্পর্ক | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
 | 10 | রাজনৈতিক দল ও রাজনৈতিক প্রক্রিয়া | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
