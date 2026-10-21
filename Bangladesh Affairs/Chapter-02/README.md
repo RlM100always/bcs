@@ -5,7 +5,7 @@
 > **ভাষা:** প্রমিত বাংলা; প্রয়োজনীয় English terminology প্রথমবার বাংলা অর্থসহ।  
 > **Source review:** ২১ অক্টোবর ২০২৬ · **বিন্যাস:** সিলেবাস → ধারণা → সরকারি তথ্য → বিশ্লেষণ → নীতি → Visual Revision → archive-reported PYQ → ৩টি worked answer → ৩৩টি অনুশীলনী → Fact-check।
 
-[← Bangladesh Affairs-এর অধ্যায়সূচি](../README.md) · [Chapter 01 — ভৌগোলিক পরিচিতি](../Chapter-01/README.md) · [Source-backed Lines](./QUOTATIONS.md)
+[← মূল সূচি](../README.md) · [Chapter 01](../Chapter-01/README.md) · [২৫টি Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [১৮টি English Quotations + Sources](./QUOTATIONS.md) · [সরকারি Map/Infographics](#official-maps)
 
 > 📱 **Mobile-friendly visuals:** সব ৮টি revision diagram responsive SVG image হিসেবে পুরো content width-এ দেখানো হয়। কোনো diagram না খুললে ছবিতে ক্লিক করে full-size version খুলুন। চওড়া সারণি ফোনে আড়াআড়ি scroll করা যাবে.
 
@@ -1131,5 +1131,69 @@ URL: https://bcsexam.org/written-questions/47th-bcs-written
 **চূড়ান্ত পরীক্ষার সূত্র:** তথ্যের বছর ও সংজ্ঞা → জনমিতিক বৈশিষ্ট্য → কারণ–ফল → সীমাবদ্ধতা → নীতি ও সুপারিশ → প্রমাণভিত্তিক উপসংহার।
 
 **PYQ সতর্কতা:** ৫০তম ও ৪৭তম BCS-এর প্রাসঙ্গিক প্রশ্ন তৃতীয়-পক্ষের আর্কাইভে পাওয়া গেছে; মূল BPSC প্রশ্নপত্রের স্বাধীন যাচাই না হওয়ায় সেগুলোকে archive-reported হিসেবে চিহ্নিত করা হয়েছে, official-original verified হিসেবে নয়.
+
+
+---
+
+<a id="official-maps"></a>
+## ১১. Official Maps, Census Infographics ও visual resources
+
+> **ব্যবহারের নিয়ম:** পরীক্ষার খাতায় map আঁকার সময় বাংলাদেশের সীমানা, বিভাগ/জেলা বা স্থান-নাম অনুমান করে বসাবেন না। এখানে সরকারি মানচিত্র/তথ্যসূত্র দেওয়া হলো। External source-এর মানচিত্রটি আসল পৃষ্ঠায় খুলে legend, scale, publication date ও copyright/attribution নির্দেশনা যাচাই করুন।
+
+### সরকারি মানচিত্র ও interactive atlas
+
+1. **Survey of Bangladesh — official map services:** [National base maps and geospatial information](https://sob.gov.bd/pages/static-pages/6922dce0933eb65569e1284b)  
+   ব্যবহার: বাংলাদেশের প্রশাসনিক/ভৌগোলিক ভিত্তি, topographic map এবং map-reading ধারণা।
+
+2. **Bangladesh Delta Plan 2100 — Interactive Atlas:** [Official Delta Atlas](https://www.bdp2100kp.gov.bd/atlas/)  
+   ব্যবহার: নদী, বন্যা, জলাবদ্ধতা, ভূমির উচ্চতা, ভূমি ব্যবহার, erosion/accretion ও জলবায়ু-ঝুঁকি সম্পর্কিত map layer।
+
+3. **Bangladesh Water Development Board — maps and projects:** [BWDB project map resources](https://www.bwdb.gov.bd/project)  
+   ব্যবহার: পানি উন্নয়ন, নদী ও প্রকল্পভিত্তিক স্থানিক ধারণা। প্রতিটি map-এর বিষয় ও তারিখ আলাদা করে যাচাই করুন।
+
+4. **Government environmental report — Bangladesh river systems:** [Department of Environment report PDF](https://doe.gov.bd/sites/default/files/files/doe.portal.gov.bd/publications/e8dbdadb_7504_44e6_851d_bb4ca6b108c8/2024-08-19-04-38-834329493506ab52147693d926fd2c8a.pdf)  
+   এতে বাংলাদেশের প্রধান নদী ব্যবস্থা এবং river-network map-সহ surface/groundwater overview আছে।
+
+### Census 2022: real government infographics
+
+5. **BBS — Population and Housing Census 2022:** [Official census publications and reports](https://bbs.portal.gov.bd/pages/static-pages/6922e073933eb65569e27220)  
+   ব্যবহার: National Report Volume I, district series, union statistics, urban area report ও census metadata।
+
+6. **BBS — Census 2022 Infographics:** [Official infographic page](https://bbs.portal.gov.bd/site/page/d551779e-1bee-42b2-9c31-08dc8db4c301)  
+   এখানে ১৯৭৪–২০২২ জনসংখ্যার পরিবর্তন, population composition, নারী, Chittagong Hill Tracts এবং ethnic population structure-এর infographic তালিকাভুক্ত আছে। পৃষ্ঠাটি ধীরগতিতে খুললে BBS Census publications page থেকে একই রিপোর্ট খুঁজুন।
+
+7. **Statistics and Informatics Division — Census 2022:** [Official government census page](https://sid.gov.bd/pages/static-pages/694032bf35ce18e1c0561ae2)  
+   ব্যবহার: Census 2022-এর সরকারি প্রকাশনা ও প্রাথমিক রিপোর্ট।
+
+### এই অধ্যায়ের responsive revision diagrams
+
+- [01 — Demographic dashboard](./assets/visual-revision/01-demographic-dashboard.svg)
+- [02 — Population trend](./assets/visual-revision/02-population-trend.svg)
+- [03 — Age structure](./assets/visual-revision/03-age-structure.svg)
+- [04 — Demographic transition](./assets/visual-revision/04-demographic-transition.svg)
+- [05 — Demographic dividend](./assets/visual-revision/05-demographic-dividend.svg)
+- [06 — Ethnic diversity](./assets/visual-revision/06-ethnic-diversity.svg)
+- [07 — Language and heritage](./assets/visual-revision/07-language-heritage.svg)
+- [08 — Inclusive policy](./assets/visual-revision/08-inclusive-policy.svg)
+
+**Mobile tip:** SVG visual সরাসরি খুললে তা vector হওয়ায় zoom করলেও সাধারণত ঝাপসা হয় না। Markdown table বড় হলে landscape view বা horizontal scroll ব্যবহার করুন।
+
+## ১২. Chapter 02 — Complete exam-preparation links
+
+- **[২৫টি High-priority BCS Written Question + Model Answer](./BCS-WRITTEN-QUESTION-BANK.md)** — ১০/২০ নম্বরের বিশ্লেষণধর্মী উত্তর, তথ্য ও উৎসসহ।
+- **[১৮টি English Quotations + Source-backed Exam Lines](./QUOTATIONS.md)** — সরাসরি উদ্ধৃতি ও নিজের ভাষার analytical line আলাদা করা হয়েছে।
+- **[Chapter 01 — Geography](../Chapter-01/README.md)** — জনমিতি ও ভৌগোলিক বণ্টনের আন্তঃসম্পর্ক।
+- **[BCS Written Questions Archive, 35th–50th](https://bcsexam.org/written-questions)** — তৃতীয়-পক্ষের প্রশ্নব্যাংক; মূল BPSC scan-এর সঙ্গে wording যাচাই করুন।
+
+### Chapter 02 পড়ার প্রস্তাবিত ক্রম
+1. জনসংখ্যার মৌলিক ধারণা ও পরিমাপ।
+2. Census 2022: গণনাকৃত মোট বনাম PEC-adjusted total।
+3. জনমিতিক পরিবর্তন, migration ও demographic dividend।
+4. জাতিগত/ভাষাগত বৈচিত্র্য এবং সংবিধানের Articles 3, 23, 23A, 27–28।
+5. সরকারি infographics ও revision diagrams দেখে ১ পাতার notes তৈরি।
+6. Question Bank থেকে প্রথমে ৫টি ১০ নম্বর এবং পরে ৩টি ২০ নম্বরের উত্তর সময় ধরে লিখুন।
+7. শেষে Quotations থেকে প্রাসঙ্গিক ১টি উদ্ধৃতি বা source-backed line বেছে যুক্তিসহ ব্যবহার করুন।
+
+> **PYQ evidence status:** 35th–47th BCS-এর প্রতিটি Bangladesh Affairs প্রশ্নের original BPSC scan-ভিত্তিক পূর্ণাঙ্গ coding এখনো সম্পন্ন নয়। তাই প্রশ্নব্যাংকটি syllabus-aligned model set; কোনো প্রশ্নকে হুবহু বিগত প্রশ্ন বলা হয়নি, যদি না তা আলাদাভাবে archive-reported হিসেবে চিহ্নিত থাকে।
 
 [⬆️ Go to Contents](#top)
