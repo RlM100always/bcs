@@ -6,7 +6,7 @@
 > **পাঠের বিন্যাস:** ধারণা → সম্পদভিত্তিক আলোচনা → সমস্যা ও কারণ → নীতিগত সমাধান → বিগত প্রশ্নের theme analysis → প্রবন্ধ → ৩৩টি অনুশীলনী → Source Register.  
 > **Source review:** ২১ অক্টোবর ২০২৬। পরিবর্তনশীল সংখ্যা ব্যবহারের ক্ষেত্রে reference year ও সংজ্ঞা উল্লেখ করতে হবে।
 
-[← Bangladesh Affairs-এর মূল সূচি](../README.md) · [Chapter 01 — ভূগোল](../Chapter-01/README.md) · [Chapter 04 — অর্থনীতি, সমাজ ও সংস্কৃতি](../Chapter-04/README.md) · [📚 Source-backed Exam Lines / Key facts](./QUOTATIONS.md)
+[← Bangladesh Affairs-এর মূল সূচি](../README.md) · [Chapter 01 — ভূগোল](../Chapter-01/README.md) · [Chapter 04 — অর্থনীতি, সমাজ ও সংস্কৃতি](../Chapter-04/README.md) · [35th–47th PYQ audit](./PYQ-35TH-47TH-ANALYSIS.md) · [২৫টি answered question](./BCS-WRITTEN-QUESTION-BANK.md) · [১৬টি English quotation](./QUOTATIONS.md)
 
 > 📱 **Mobile-friendly:** এই অধ্যায়ের diagrams SVG image হিসেবে দেওয়া হয়েছে। মোবাইলে ছবি না দেখালে visual-এর link খুলুন। দীর্ঘ table-এর ক্ষেত্রে ফোনে horizontal scroll প্রয়োজন হতে পারে।
 
@@ -30,11 +30,11 @@
 |---|---|---|
 | [শিখনফল ও সিলেবাস](#start) | [ভূমি ও মৃত্তিকা](#land) | [Previous BCS Question Analysis](#pyq) |
 | [পরিভাষা](#keywords) | [পানি ও নদীসম্পদ](#water) | [গুরুত্বপূর্ণ প্রবন্ধ](#essays) |
-| [প্রাকৃতিক সম্পদের শ্রেণিবিভাগ](#classification) | [বন ও জীববৈচিত্র্য](#forest) | [৩৩টি Written Practice Questions](#questions) |
+| [প্রাকৃতিক সম্পদের শ্রেণিবিভাগ](#classification) | [বন ও জীববৈচিত্র্য](#forest) | [৩৩টি Practice Questions](#questions) · [২৫টি answered model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) |
 | [জাতীয় সম্পদ-সম্পর্ক](#framework) | [মৎস্য ও জলজ সম্পদ](#fisheries) | [Answer-writing Strategy](#strategy) |
 | [দ্রুত Visual Revision](#visuals) | [খনিজ ও জ্বালানি](#energy) | [One-page Revision](#revision) |
 | [সুশাসন ও আইন](#governance) | [নবায়নযোগ্য শক্তি ও Circular Economy](#renewables) | [Source Register](#sources) |
-| [Accuracy & Limitations](#accuracy) | [টেকসই ব্যবস্থাপনার রোডম্যাপ](#roadmap) | [Source-backed Lines](./QUOTATIONS.md) |
+| [Accuracy & Limitations](#accuracy) | [টেকসই ব্যবস্থাপনার রোডম্যাপ](#roadmap) | [১৬টি sourced English quotations](./QUOTATIONS.md) |
 
 ---
 
@@ -445,6 +445,61 @@ EIA হলো কোনো প্রস্তাবিত প্রকল্প�
 ![Resource governance](./assets/visual-revision/06-resource-governance.svg)
 
 **Recall:** আইন + তথ্য + অংশগ্রহণ + জবাবদিহি ছাড়া সম্পদের টেকসই ব্যবহার দীর্ঘস্থায়ী হয় না।
+
+### Visual 7 — Fish production trend (official data)
+![বাংলাদেশে মাছ উৎপাদনের প্রবণতা ২০১৯–২০ থেকে ২০২৩–২৪](./assets/visual-revision/07-fish-production-trend.svg)
+
+**Data source:** Department of Fisheries, fish-production statistics. Values are in lakh metric tonnes: 45.03, 46.21, 47.59, 49.14 and 50.18. These are reported production values, not a direct measure of wild-stock health. [Official source](https://fisheries.gov.bd/pages/static-pages/6922df07933eb65569e1f55c)
+
+### Visual 8 — Sector-wise fish production (2023–24)
+![২০২৩–২৪ সালে উৎসভিত্তিক মাছ উৎপাদন](./assets/visual-revision/08-fisheries-sector-share.svg)
+
+**Recall:** Inland open water = capture fisheries; inland closed water = culture/aquaculture; marine = sea-based fisheries. Use the reporting year whenever quoting the figures.
+
+### Visual 9 — Blue Economy value chain
+![বাংলাদেশের Blue Economy value chain](./assets/visual-revision/09-blue-economy-value-chain.svg)
+
+**Recall:** Marine resources → responsible sectors → jobs, food, exports and resilience; every stage needs habitat protection, safety and transparent governance.
+
+### Visual 10 — Resource pressure and policy response
+![প্রাকৃতিক সম্পদের চাপ ও ব্যবস্থাপনার সমাধান](./assets/visual-revision/10-resource-pressure-response.svg)
+
+**Recall:** Measure → manage → restore → account. Track ecological recovery and livelihood outcomes, not only spending or project completion.
+
+---
+
+<a id="maps-gallery"></a>
+## ১২A. Exact maps and real-world visual references
+
+### Official map — Protected areas of Bangladesh (Forest Department, 2023)
+![Bangladesh protected areas map, Forest Department 2023](https://bforest.portal.gov.bd/sites/default/files/files/bforest.portal.gov.bd/page/054e001b_8ba9_45d0_9f52_8fbec891361d/2023-06-12-06-34-f74e1be7bbfa81a7e2bad1f6229fe0e4.jpg)
+
+**How to use it:** identify protected-area clusters across the Sundarbans, northeast, southeast and coastal islands; connect each cluster with its ecosystem type and conservation purpose. This map is dated 2023. Do not treat it as a live boundary layer or as a current count of protected areas. For the later official list, consult the [Forest Department’s protected-area page](https://bforest.gov.bd/pages/static-pages/6922e13b933eb65569e2b006), updated in 2026.
+
+### Official forest-cover map (Forest Department)
+![Bangladesh forest cover map 2023](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bforest/2026/2/b6119833-b459-488c-b6cb-b27151963489.jpg)
+
+**How to use it:** compare the Sundarbans mangrove block, hill forests in the southeast and northeast, and sal forest landscapes. **Forest cover, tree cover and legally designated forest land are different measures.** Check the map legend and reference year before using it in an answer. [Forest Department forest-cover resources](https://bforest.gov.bd/pages/static-pages/6922de5a933eb65569e1a138)
+
+### Photo — Sundarbans mangrove river channel
+![Sundarbans river channel and mangrove forest](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/The_Sundarban_forest_river_channel%2CBangladesh.jpg/1280px-The_Sundarban_forest_river_channel%2CBangladesh.jpg)
+
+**Credit:** Syed Sajidul Islam, “The Sundarban forest river channel, Bangladesh” (2016), [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:The_Sundarban_forest_river_channel,Bangladesh.jpg), licensed **CC BY-SA 4.0**. Reuse requires attribution, a link to the licence and an indication if changes were made.
+
+### Photo — Rooftop solar in Dhaka
+![Rooftop solar panels at the British High Commission in Dhaka](https://assets.publishing.service.gov.uk/media/6379b2f8e90e07284ff0ff11/s960_IMG-20221120-WA0001__960_x_640_.jpg)
+
+**Credit:** British High Commission Dhaka, *British High Commission Dhaka turns to renewable energy through solar panels* (20 November 2022), [GOV.UK source page](https://www.gov.uk/government/news/british-high-commission-dhaka-turns-to-renewable-energy-through-solar-panels). The page is published under the UK Open Government Licence v3.0 unless otherwise stated. This is a real Dhaka rooftop-solar example, not a national renewable-energy map.
+
+### Interactive spatial atlas — Bangladesh Delta Plan 2100
+- [Open the Delta Atlas](https://www.bdp2100kp.gov.bd/atlas/)
+- [Browse available data layers](https://bdp2100kp.gov.bd/BDPAtlas/DataLayers)
+
+Use the layer controls to inspect **land use, soil/physiography, forest type, Sundarbans land use, flood risk, drought, erosion/accretion, waterlogging, fish production and delta hotspots**. It is an interactive atlas, not a single static map; record the layer name and data year when citing a screenshot or observation.
+
+> **Map accuracy rule:** do not use a modern administrative map as if it showed an ecological boundary, a historic resource distribution or a risk layer. Every map-based claim should name the map source, layer and year.
+
+---
 
 ---
 
@@ -871,6 +926,15 @@ https://gsb.gov.bd/
 
 **[S14] UN Sustainable Development Goals.** Particularly SDG 6 (water), SDG 7 (energy), SDG 12 (responsible consumption), SDG 14 (life below water) and SDG 15 (life on land).  
 https://sdgs.un.org/goals
+
+**[S15] Department of Fisheries, Bangladesh.** Official fish-production statistics; charted series covers 2019–20 to 2023–24 and should not be interpreted as a direct measure of wild-stock condition.  
+https://fisheries.gov.bd/pages/static-pages/6922df07933eb65569e1f55c
+
+**[S16] Bangladesh Forest Department.** Official protected-area list and map resources. The embedded map is dated 2023; current protected-area counts should be taken from the latest official page.  
+https://bforest.gov.bd/pages/static-pages/6922e13b933eb65569e2b006
+
+**[S17] General Economics Division, Bangladesh Planning Commission.** Bangladesh Delta Plan 2100 interactive atlas and data layers for spatial planning, flood/drought risk, forest type, erosion/accretion and fish production.  
+https://www.bdp2100kp.gov.bd/atlas/ · https://bdp2100kp.gov.bd/BDPAtlas/DataLayers
 
 ### পরীক্ষার খাতায় Source Name লেখার নমুনা
 
