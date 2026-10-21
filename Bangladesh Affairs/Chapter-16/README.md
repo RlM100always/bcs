@@ -4,7 +4,7 @@
 > **মূল ভাষা:** বাংলা; প্রশ্ন, key terms ও quotation: English  
 > **Source review:** ২১ অক্টোবর ২০২৬ · **পাঠের কাঠামো:** ঐতিহাসিক ধারাবাহিকতা → কারণ–ফল বিশ্লেষণ → দলিল ও সময়রেখা → বিগত প্রশ্নের theme audit → প্রবন্ধ → model Q&A।
 
-[← Bangladesh Affairs-এর মূল সূচি](../README.md) · [📚 PYQ-ভিত্তিক গুরুত্বপূর্ণ প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [💬 English Quotations + Sources](./QUOTATIONS.md)
+[← Bangladesh Affairs-এর মূল সূচি](../README.md) · [৩৫তম–৪৭তম BCS PYQ Audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি উত্তরসহ Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [৮টি source-backed প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [২০টি English Quotations + Sources](./QUOTATIONS.md#verified-quotes)
 
 <a id="top"></a>
 
@@ -21,6 +21,95 @@
 | [গণহত্যা ও শরণার্থী](#atrocities) | [বিজয় ও প্রত্যাবর্তন](#victory) | [প্রবন্ধ](./PYQ-BASED-ESSAYS.md) |
 | [পরিভাষা](#terms) | [অনুশীলনী](#questions) | [English quotations](./QUOTATIONS.md) |
 | [এক পৃষ্ঠার revision](#revision) | [উৎসতালিকা](#sources) | [Accuracy note](#accuracy) |
+| [Visual Atlas: ১০টি sourced image + ৬টি SVG](#visual-atlas) | [২৫টি answered model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) | [৩৫তম–৪৭তম PYQ audit](./PYQ-35TH-47TH-AUDIT.md) |
+
+
+<a id="visual-atlas"></a>
+## Visual Atlas — ১০টি ঐতিহাসিক ছবি, সঠিক মানচিত্র ও ৬টি diagram/chart
+
+**ব্যবহারবিধি:** প্রতিটি ছবির ক্যাপশনে বিষয়, উৎস ও লাইসেন্স/ফাইল পৃষ্ঠা রাখা হয়েছে। মূল ছবি ও লাইসেন্সের জন্য caption-এর Commons link খুলুন। মুক্তিযুদ্ধের সেক্টর মানচিত্রটি ঐতিহাসিকভাবে প্রাসঙ্গিক; সীমানা ও কমান্ডের পরিবর্তন বোঝাতে সংশ্লিষ্ট সময় উল্লেখ করুন।
+
+### A. ছয়টি দ্রুত revision diagram
+
+**১. ১৯৪৭–১৯৭১ সময়রেখা**
+
+![Liberation War timeline from 1947 to 1971](./assets/visuals/01-timeline.svg)
+
+**২. মুক্তিযুদ্ধের বহুমাত্রিক কারণ**
+
+![Political, cultural, economic and democratic causes of the Liberation War](./assets/visuals/02-causes-map.svg)
+
+**৩. মুজিবনগর সরকারের কাঠামো**
+
+![Mujibnagar provisional government structure](./assets/visuals/03-mujibnagar-structure.svg)
+
+**৪. মুক্তিযুদ্ধের সংগঠন ও সামরিক কার্যক্রম**
+
+![Liberation War operational structure](./assets/visuals/04-war-operations.svg)
+
+**৫. BCS Written ২০ নম্বরের উত্তর কাঠামো**
+
+![Six-part BCS Written answer architecture](./assets/visuals/05-answer-architecture.svg)
+
+**৬. PYQ evidence matrix** — এটি সরকারি frequency chart নয়; নথিভুক্ত উদাহরণ ও audit status-এর visual summary।
+
+![BCS Liberation War question theme evidence matrix](./assets/visuals/06-pyq-themes.svg)
+
+### B. ১০টি topic-specific historical images and map
+
+#### ১. ১৯৫২ সালের ভাষা আন্দোলন
+![1952 Bengali Language Movement procession in Dhaka](https://commons.wikimedia.org/wiki/Special:FilePath/1952_Bengali_Language_movement.jpg)
+
+**পরীক্ষায় প্রয়োগ:** ভাষা আন্দোলনের গণভিত্তি ও বাঙালি জাতীয়তাবাদের সাংস্কৃতিক শিকড়। Source/file page: [Wikimedia Commons — 1952 Bengali Language movement.jpg](https://commons.wikimedia.org/wiki/File:1952_Bengali_Language_movement.jpg) (file page lists public-domain status).
+
+#### ২. শহিদ মিনার
+![Shaheed Minar of the Bengali language movement](https://upload.wikimedia.org/wikipedia/commons/e/e4/Shaheed_Minar_of_the_Bengali_language_movement.jpg)
+
+**পরীক্ষায় প্রয়োগ:** ভাষা-শহিদদের স্মৃতি, সাংস্কৃতিক পরিচয় ও স্মৃতির রাজনীতি। Source/licence: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Shaheed_Minar_of_the_Bengali_language_movement.jpg), CC BY-SA 4.0; attribution required.
+
+#### ৩. ৭ মার্চের ভাষণ
+![Sheikh Mujibur Rahman delivering the 7 March 1971 speech](https://upload.wikimedia.org/wikipedia/commons/e/e3/Sheikh_Mujibur_Rahman_Delivering_7_March_Speech_of_Sheikh_Mujibur_Rahman_at_Ramna_Race_Course_Dhaka_1971-03-07_%28PID-0033891%29.jpg)
+
+**পরীক্ষায় প্রয়োগ:** অসহযোগ আন্দোলন, গণসংগঠন ও স্বাধীনতার রাজনৈতিক প্রস্তুতি। Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Sheikh_Mujibur_Rahman_Delivering_7_March_Speech_of_Sheikh_Mujibur_Rahman_at_Ramna_Race_Course_Dhaka_1971-03-07_%28PID-0033891%29.jpg); verify the file page for attribution and reuse terms. Related authoritative record: [UNESCO Memory of the World](https://www.unesco.org/en/memory-world/historic-7th-march-speech-bangabandhu-sheikh-mujibur-rahman).
+
+#### ৪. মুজিবনগর সরকার: ১৭ এপ্রিল ১৯৭১
+![Provisional Government of Bangladesh on 17 April 1971](https://commons.wikimedia.org/wiki/Special:FilePath/Provisional_Government_of_BD.jpg?width=1000)
+
+**পরীক্ষায় প্রয়োগ:** অস্থায়ী সরকারের শপথ, বৈধতা ও মুক্তিযুদ্ধের প্রশাসনিক কাঠামো। Source/file page: [Wikimedia Commons — Provisional Government of BD.jpg](https://commons.wikimedia.org/wiki/File:Provisional_Government_of_BD.jpg); attribution/licence details are on the file page.
+
+#### ৫. মুজিবনগর স্মৃতিসৌধ ও বাংলাদেশের মানচিত্র
+![Aerial view of the map at Mujibnagar Memorial Complex](https://commons.wikimedia.org/wiki/Special:FilePath/Mujibnagar_Memorial_Bangladesh_Map._%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%A8%E0%A6%97%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A7%8C%E0%A6%A7_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A5%A4.jpg?width=1000)
+
+**পরীক্ষায় প্রয়োগ:** মুজিবনগরের ভৌগোলিক অবস্থান, অস্থায়ী সরকারের শপথ এবং মুক্তিযুদ্ধের স্মৃতির মানচিত্রায়ন। Source/licence: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Mujibnagar_Memorial_Bangladesh_Map._%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%A8%E0%A6%97%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A7%8C%E0%A6%A7_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A5%A4.jpg); CC BY 4.0 according to the file page.
+
+#### ৬. মুক্তিযুদ্ধের ১১টি সেক্টরের মানচিত্র
+![Bangladesh Liberation War sectors map](https://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A7%80%E0%A6%A8%E0%A6%A4%E0%A6%BE_%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9.svg?width=1000)
+
+**পরীক্ষায় প্রয়োগ:** সেক্টরভিত্তিক সংগঠন, আঞ্চলিক প্রতিরোধ ও গেরিলা যুদ্ধ। Source/licence: [Wikimedia Commons sector map](https://commons.wikimedia.org/wiki/File:%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A7%80%E0%A6%A8%E0%A6%A4%E0%A6%BE_%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9.svg); CC0/public-domain dedication on the file page. Historical boundary simplifications should not replace a dated operational map.
+
+#### ৭. আত্মসমর্পণ দলিল, ১৬ ডিসেম্বর ১৯৭১
+![Signing of the Instrument of Surrender on 16 December 1971](https://upload.wikimedia.org/wikipedia/commons/d/d9/1971_Instrument_of_Surrender_WaPo.jpg)
+
+**পরীক্ষায় প্রয়োগ:** চূড়ান্ত বিজয়, আত্মসমর্পণ ও যুদ্ধের সামরিক সমাপ্তি। Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:1971_Instrument_of_Surrender_WaPo.jpg); check file-page source/licence before reuse.
+
+#### ৮. জাতীয় স্মৃতিসৌধ, সাভার
+![National Martyrs Memorial in Savar](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_National_Martyrs%E2%80%99_Memorial.jpg/960px-The_National_Martyrs%E2%80%99_Memorial.jpg)
+
+**পরীক্ষায় প্রয়োগ:** জাতীয় স্মৃতি, আত্মত্যাগ ও স্বাধীনতার প্রতীক। Source/licence: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:The_National_Martyrs%E2%80%99_Memorial.jpg); file page credits Shafiul Islam Shaikot.
+
+#### ৯. মুক্তিযুদ্ধ জাদুঘর
+![Bangladesh Liberation War Museum](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_Liberation_War_Museum.jpg?width=1000)
+
+**পরীক্ষায় প্রয়োগ:** দলিল সংরক্ষণ, মৌখিক ইতিহাস, প্রমাণ ও জাতীয় স্মৃতি। Source/licence: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Bangladesh_Liberation_War_Museum.jpg), CC BY 2.0.
+
+#### ১০. ১৯৭১-এর “Blood Telegram” দলিলের পুনরুৎপাদন
+![Reproduction of the Blood Telegram at the Liberation War Museum](https://commons.wikimedia.org/wiki/Special:FilePath/Detail_of_Reproduction_of_the_Blood_Telegram_from_1971_Genocide_-_Liberation_War_Museum_-_Dhaka_-_Bangladesh_%2812826753894%29.jpg?width=1000)
+
+**পরীক্ষায় প্রয়োগ:** আন্তর্জাতিক কূটনীতি, মার্কিন কনস্যুলেটের প্রতিবাদ, মানবাধিকার ও শীতল যুদ্ধের প্রেক্ষাপট। Source/licence: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Detail_of_Reproduction_of_the_Blood_Telegram_from_1971_Genocide_-_Liberation_War_Museum_-_Dhaka_-_Bangladesh_%2812826753894%29.jpg), CC BY-SA 2.0.
+
+> **Image integrity:** ছবিগুলো ঐতিহাসিক প্রমাণের সহায়ক; কোনো ছবি একা কোনো বিতর্কিত দাবি প্রমাণ করে না। তারিখ, পরিচয় ও লাইসেন্স মূল file page-এ মিলিয়ে নিন।
+
+---
 
 <a id="goals"></a>
 ## ১. শিখনফল ও সিলেবাসের সঙ্গে সম্পর্ক
@@ -235,6 +324,8 @@ UNESCO ২০১৭ সালে ভাষণটিকে Memory of the World In
 <a id="pyq"></a>
 ## ১২. Previous BCS Question Analysis — কী পড়লে একাধিক প্রশ্নের উত্তর হবে?
 
+**[➡️ ৩৫তম–৪৭তম BCS year-by-year PYQ audit খুলুন](./PYQ-35TH-47TH-AUDIT.md)** · **[➡️ ২৫টি পূর্ণ মডেল উত্তর](./BCS-WRITTEN-QUESTION-BANK.md)** · **[➡️ ২০টি source-backed English quotation](./QUOTATIONS.md#verified-quotes)**
+
 ### প্রমাণ ও সীমাবদ্ধতা
 এই অধ্যায়ের জন্য প্রকাশ্যে প্রচলিত BCS প্রশ্নসংকলনে দেখা যায় এমন বিষয়-থিমকে পরীক্ষামুখী করে সাজানো হয়েছে। **এগুলোকে BPSC-এর মূল প্রশ্নপত্রের হুবহু প্রতিলিপি বলা হচ্ছে না**; প্রতিটি প্রশ্নের বছর/শব্দচয়ন দাবি করতে হলে মূল প্রশ্নপত্রের scan দরকার। নিচেরগুলো **high-priority question themes**—নির্দিষ্ট বছরে এসেছে এমন নিশ্চয়তা নয়।
 
@@ -255,6 +346,8 @@ UNESCO ২০১৭ সালে ভাষণটিকে Memory of the World In
 
 <a id="questions"></a>
 ## ১৩. Practice Questions — English question, বাংলা উত্তর-পরিকল্পনা
+
+নিচের ১০টি prompt দ্রুত self-test-এর জন্য। প্রতিটির পূর্ণাঙ্গ বাংলা model answer, Article/date/source ও পরীক্ষামুখী structure-এর জন্য [২৫টি Answered Model Question Bank](./BCS-WRITTEN-QUESTION-BANK.md) দেখুন।
 
 1. **What were the major causes of the Liberation War of Bangladesh?**  
    পরিকল্পনা: দীর্ঘমেয়াদি কারণ (ভাষা, রাজনৈতিক ও অর্থনৈতিক বৈষম্য) + স্বায়ত্তশাসনের আন্দোলন + তাৎক্ষণিক সংকট + উপসংহার।
@@ -319,4 +412,4 @@ UNESCO ২০১৭ সালে ভাষণটিকে Memory of the World In
 - **Quotations:** ইংরেজি quotation bank-এ ছোট, source-attributed excerpt ও exam-ready paraphrase আলাদা করা হয়েছে। কোনো paraphrase-কে হুবহু quote হিসেবে ব্যবহার করবেন না।
 - **Exam writing:** তারিখ, দলিল ও প্রতিষ্ঠান দিয়ে যুক্তি সমর্থন করুন; উৎসের নাম লিখুন; প্রশ্নের বাইরে অপ্রয়োজনীয় ঘটনা যোগ করবেন না।
 
-[⬆️ উপরে যান](#top) · [📚 PYQ-based Essays](./PYQ-BASED-ESSAYS.md) · [💬 English Quotations](./QUOTATIONS.md) · [সূচিতে ফিরে যান](../README.md)
+[⬆️ উপরে যান](#top) · [৩৫তম–৪৭তম PYQ audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি answered model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [📚 PYQ-based Essays](./PYQ-BASED-ESSAYS.md) · [২০টি English Quotations + Sources](./QUOTATIONS.md#verified-quotes) · [সূচিতে ফিরে যান](../README.md)
