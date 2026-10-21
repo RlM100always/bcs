@@ -4,7 +4,11 @@
 > **পাঠের লক্ষ্য:** ধারণা → বাংলাদেশের বাস্তবতা → কারণ–প্রভাব → নীতি ও আইন → সমালোচনামূলক বিশ্লেষণ → পরীক্ষামুখী প্রবন্ধ → প্রশ্নোত্তর।  
 > **সম্পাদনা নোট:** ২১ অক্টোবর ২০২৬। পরিসংখ্যানের ক্ষেত্রে রিপোর্টের বছর উল্লেখ করুন; ভিন্ন সংজ্ঞার সূচককে সরাসরি তুলনা করবেন না।
 
-[← বাংলাদেশ বিষয়াবলির মূল সূচি](../README.md) · [English Quotations + Sources](./QUOTATIONS.md) · [PYQ-based Essays](./PYQ-BASED-ESSAYS.md)
+[← বাংলাদেশ বিষয়াবলির মূল সূচি](../README.md) · [২৫টি Model Q&A with Answers](./QUESTION-ANSWERS.md) · [Visual Atlas: 8 diagrams + 17 sources](./VISUAL-ATLAS.md) · [English Quotations + Sources](./QUOTATIONS.md) · [PYQ-based Essays](./PYQ-BASED-ESSAYS.md)
+
+## দ্রুত নেভিগেশন
+
+[মূল ধারণা](#২-৮-মিনিটে-মূল-ধারণা) · [বাংলাদেশের প্রেক্ষাপট](#৩-বাংলাদেশের-প্রেক্ষাপট-অগ্রগতি-ও-অসমাপ্ত-কাজ) · [আইন ও নীতি](#৪-বাংলাদেশের-আইন-ও-নীতির-কাঠামো) · [২৫টি উত্তরসহ প্রশ্ন](./QUESTION-ANSWERS.md) · [মডেল প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [উদ্ধৃতি](./QUOTATIONS.md) · [ডায়াগ্রাম ও সোর্স](./VISUAL-ATLAS.md) · [সূচি](../README.md)
 
 ## ১. অধ্যায়ের মানচিত্র
 
@@ -223,6 +227,19 @@ Gender equality হলো নারী, পুরুষ ও সব লিঙ্�
 33. Propose a measurable action plan to accelerate gender equality by 2030.
 
 ## ১২. One-page revision
+
+### Visual revision — diagram set
+
+- ![Gender equality framework](./visual-01-gender-equality-framework.svg)
+- ![Structural barriers](./visual-02-gender-barriers.svg)
+- ![Women’s economic empowerment](./visual-03-women-economic-empowerment.svg)
+- ![Gender-responsive budget cycle](./visual-04-gender-responsive-budget.svg)
+- ![Violence prevention](./visual-05-violence-prevention.svg)
+- ![Gender and climate resilience](./visual-06-climate-gender.svg)
+- ![Gender development indicators](./visual-07-indicators.svg)
+- ![BCS written answer structure](./visual-08-answer-structure.svg)
+
+**পূর্ণ Visual Atlas:** [৮টি ডায়াগ্রাম ও ১৭টি প্রাতিষ্ঠানিক উৎস](./VISUAL-ATLAS.md) · [২৫টি উত্তরসহ প্রশ্ন](./QUESTION-ANSWERS.md)
 
 - **Core idea:** rights + capabilities + resources + agency + safety.
 - **5 key arenas:** education, health, work, leadership, protection.
