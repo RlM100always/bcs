@@ -19,7 +19,7 @@
 | 09 | [বাংলাদেশের পররাষ্ট্রনীতি ও বৈদেশিক সম্পর্ক](Chapter-09/README.md) · [PYQ-ভিত্তিক গুরুত্বপূর্ণ প্রবন্ধ](Chapter-09/PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](Chapter-09/QUOTATIONS.md) | 📘 পূর্ণাঙ্গ BCS Written অধ্যায় + প্রশ্নের থিম বিশ্লেষণ + ৮টি source-backed প্রবন্ধ + ৩৩টি অনুশীলনী + ৩টি responsive SVG diagram + internet image source + ১৪টি English quotation with source links |
 | 10 | রাজনৈতিক দল ও রাজনৈতিক প্রক্রিয়া | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
 | 11 | নির্বাচন ও নির্বাচনী ব্যবস্থাপনা | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
-| 12 | যোগাযোগ, ICT, গণমাধ্যম, RTI ও ই-গভর্ন্যান্স | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
+| 12 | [যোগাযোগ, ICT, গণমাধ্যম, RTI ও ই-গভর্ন্যান্স](Chapter-12/README.md) · [PYQ-ভিত্তিক প্রবন্ধ](Chapter-12/PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](Chapter-12/QUOTATIONS.md) | 📘 পূর্ণাঙ্গ BCS Written অধ্যায় + syllabus-based PYQ priority map + ৮টি source-backed প্রবন্ধ + ৩৩টি practice question + ৩টি responsive SVG visual + ১৫টি source-backed English quotation |
 | 13 | অনানুষ্ঠানিক প্রতিষ্ঠান, সুশীল সমাজ ও NGO | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
 | 14 | বিশ্বায়ন ও বাংলাদেশের বহুপাক্ষিক সম্পর্ক | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
 | 15 | [জেন্ডার ইস্যু ও উন্নয়ন](Chapter-15/README.md) · [PYQ-linked Model Essays](Chapter-15/PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](Chapter-15/QUOTATIONS.md) | 📘 BCS Written অধ্যায় + ৮টি model essay + ৩৩টি practice question + English quotation bank; মূল BPSC PYQ-র year/marks audit আলাদা করে যাচাই করতে হবে |
