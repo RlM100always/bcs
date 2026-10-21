@@ -429,9 +429,9 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 
 #### Living heritage: জামদানি বয়ন
 
-![বাংলাদেশের ঐতিহ্যবাহী জামদানি বয়ন](https://ich.unesco.org/img/photo/thumb/00665-BIG.jpg)
+![বাংলাদেশের ঐতিহ্যবাহী জামদানি বয়ন](https://commons.wikimedia.org/wiki/Special:FilePath/Traditional%20Jamdani%20Weaving.jpg)
 
-*চিত্র-পাঠ:* জামদানি শুধু পোশাক নয়—দক্ষতা, নকশা, প্রজন্মান্তরে জ্ঞান স্থানান্তর এবং কারুশিল্প-নির্ভর জীবিকার উদাহরণ। [UNESCO Intangible Cultural Heritage: Traditional art of Jamdani weaving](https://ich.unesco.org/en/RL/traditional-art-of-jamdani-weaving-00879)
+*চিত্র-পাঠ:* জামদানি শুধু পোশাক নয়—দক্ষতা, নকশা, প্রজন্মান্তরে জ্ঞান স্থানান্তর এবং কারুশিল্প-নির্ভর জীবিকার উদাহরণ। [ছবির উৎস, আলোকচিত্রী ও CC BY-SA লাইসেন্স](https://commons.wikimedia.org/wiki/File:Traditional_Jamdani_Weaving.jpg) · [UNESCO Intangible Cultural Heritage: Traditional art of Jamdani weaving](https://ich.unesco.org/en/RL/traditional-art-of-jamdani-weaving-00879)
 
 
 ### রাষ্ট্রগঠনের প্রধান কাজ
