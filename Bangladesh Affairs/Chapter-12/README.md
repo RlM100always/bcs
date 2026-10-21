@@ -227,7 +227,7 @@ https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732
 https://bdlaws.minlaw.gov.bd/act-1011/act-chapter-print-2220.html
 
 **[S3] Information Commission Bangladesh.** RTI law and official guidance.  
-https://infocom.gov.bd/pages/laws/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%87%E0%A6%A8-%E0%A7%A2%E0%A0%A6%E0%A0%A6-3b9884-6922da02933eb65569e01cea
+https://infocom.gov.bd/pages/laws/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%87%E0%A6%A8-%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%AF-3b9884-6922da02933eb65569e01cea
 
 **[S4] a2i.** National Portal product description. https://marketplace.a2i.gov.bd/productShow/7  
 **[S5] Government of Bangladesh.** D-Nothi Product Portal. https://portal.nothi.gov.bd/  
