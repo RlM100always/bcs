@@ -1,6 +1,8 @@
 # Chapter 16 — English Quotations with Real Sources
 [← Chapter 16 main text](./README.md#top) · [PYQ audit](./PYQ-35TH-47TH-AUDIT.md) · [25 model answers](./BCS-WRITTEN-QUESTION-BANK.md) · [Essays](./PYQ-BASED-ESSAYS.md)
 
+<a id="verified-quotes"></a>
+
 > **Use in BCS Written:** Pick 1–2 short, relevant quotations; cite the source; then explain how the line supports your argument. Historical speech translations vary. The quotation attributed to Bangabandhu below is a widely used English translation, not an English-language original script.
 
 ## 1. The historic 7 March speech
@@ -129,7 +131,7 @@
 
 **Source:** Woodrow Wilson, address to the US Congress requesting a declaration of war, 2 April 1917. Use as a historical political statement, not as an objective description of any particular state.  
 **Use:** democracy and international order.  
-[US National Archives — Wilson's war message](https://www.archives.gov/milestone-documents/president-woodrow-wilsons-14-points)
+[Library of Congress — Wilson Before Congress, 2 April 1917](https://www.loc.gov/exhibitions/world-war-i-american-experiences/about-this-exhibition/arguing-over-war/for-or-against-war/wilson-before-congress/)
 
 ## 17. Education and peace
 
