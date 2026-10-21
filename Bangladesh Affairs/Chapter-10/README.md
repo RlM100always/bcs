@@ -4,9 +4,34 @@
 > বাংলা ব্যাখ্যা + English terminology + source-backed analysis + archive-reported PYQ + ৮টি প্রবন্ধ + ৩৩টি Model Q&A + responsive revision diagrams + English quotation bank.  
 > **সর্বশেষ উৎস পর্যালোচনা:** ২১ অক্টোবর ২০২৬।
 
-[← Bangladesh Affairs সূচি](../README.md) · [💬 English Quotations + Sources](./QUOTATIONS.md) · [Chapter 1-এর format reference](../Chapter-01/README.md)
+[← Bangladesh Affairs সূচি](../README.md) · [🧭 35th–47th BCS PYQ Map](./PYQ-35-47-MAP.md) · [📘 25 Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [💬 English Quotations + Sources](./QUOTATIONS.md) · [Chapter 1-এর format reference](../Chapter-01/README.md)
 
 <a id="top"></a>
+
+## Visual Atlas — real institutions, location map and legal process
+
+### Bangladesh Election Commission — the institution that registers political parties
+![Bangladesh Election Commission building at Agargaon, Dhaka](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_Election_Commission.jpg)
+
+**Image source/licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Bangladesh_Election_Commission.jpg), author ইব্রাহিম হাসান, own work, **CC BY-SA 4.0**. Attribute the creator and link the licence if reusing the image.
+
+**Location:** [OpenStreetMap — Bangladesh Election Commission, Agargaon](https://www.openstreetmap.org/?mlat=23.777147&mlon=90.374392#map=17/23.777147/90.374392). This is a location reference, not an electoral constituency map.
+
+### National Parliament Building — the institutional setting of party competition
+![Bangladesh National Parliament Building, Dhaka](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_National_Parliament_Building,_Dhaka.jpg)
+
+**Image source/licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Bangladesh_National_Parliament_Building,_Dhaka.jpg), author Tanvir Rahat, own work; verify licence terms on the linked file page before republication.
+
+### Additional responsive study diagrams
+- [Political Process Cycle](./assets/political-process-cycle.svg)
+- [Functions of Political Parties](./assets/party-functions.svg)
+- [Bangladesh Political Development Timeline](./assets/political-timeline.svg)
+- [Democratic Political Culture Framework](./assets/democratic-political-culture.svg)
+- [Internal Party Democracy](./assets/internal-party-democracy.svg)
+- [Political Party Registration Flow](./assets/party-registration-flow.svg)
+
+**Why no unrelated geographical map?** This chapter concerns political institutions and political behaviour, not physical geography. The map link locates the Election Commission; diagrams explain the political process and legal workflow. Current party-registration status should be checked against the [official Election Commission list](https://ecs.gov.bd/political-parties), which is dynamic.
+
 
 > [!IMPORTANT]
 > **এই অধ্যায়ের কেন্দ্রীয় ধারণা:** রাজনৈতিক দল শুধু নির্বাচনে অংশ নেওয়ার সংগঠন নয়; নাগরিকের দাবি সংগঠিত করা, নেতৃত্ব তৈরি, নীতি প্রস্তাব, সরকার গঠন, বিরোধী দলের মাধ্যমে জবাবদিহি এবং রাষ্ট্র ও সমাজের মধ্যে যোগাযোগ তৈরিও তার কাজ। গণতান্ত্রিক রাজনৈতিক প্রক্রিয়া তখনই কার্যকর হয়, যখন দলগুলো আইন মানে, অভ্যন্তরীণভাবে গণতান্ত্রিক থাকে, শান্তিপূর্ণ প্রতিযোগিতা করে এবং নাগরিকের অধিকারকে সম্মান করে।
@@ -43,6 +68,7 @@
 | [সংবিধান ও আইন](#law) | [চ্যালেঞ্জ ও সংস্কার](#reform) | [Answer-writing strategy](#strategy) |
 | [Revision diagrams](#visuals) | [নারী, তরুণ ও নাগরিক অংশগ্রহণ](#inclusion) | [Full source register](#sources) |
 | [English Quotations](./QUOTATIONS.md) | [One-page revision](#revision) | [Quote source register](./QUOTATIONS.md#quote-sources) |
+| [35th–47th BCS PYQ audit](./PYQ-35-47-MAP.md) | [২৫টি Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) | [Political Party Registration Flow](./assets/party-registration-flow.svg) |
 
 ---
 
@@ -486,9 +512,18 @@ RPO-এর Chapter VIA-তে রাজনৈতিক দলের নিবন
 
 **মনে রাখুন:** Membership → Internal election → Policy debate → Candidate selection → Finance disclosure → Review.
 
+### ১২.৬ Party Registration: legal workflow
+
+![Political party registration flow under current amended RPO framework](./assets/party-registration-flow.svg)
+
+**Source:** Representation of the People Order, 1972, Chapter VIA, Articles 90A–90H; see [current legal text](https://bdlaws.minlaw.gov.bd/act-print-424.html). This diagram is a study summary, not legal advice.
+
 <a id="pyq"></a>
 
 ## ১৩. Previous BCS Written Question Analysis — বিগত প্রশ্নের উৎসভিত্তিক বিশ্লেষণ
+
+**পূর্ণ বছরভিত্তিক cross-check:** [Chapter 10 — 35th–47th BCS PYQ Map](./PYQ-35-47-MAP.md). এতে direct, related, special-exam ও item-level verification pending—এই চার ধরনের প্রমাণ আলাদা করা হয়েছে।
+
 
 ### ১৩.১ প্রমাণের অবস্থা
 
@@ -649,6 +684,9 @@ RPO 1972-এর Article 90B-তে দলের বিভিন্ন স্ত�
 <a id="questions"></a>
 
 ## ১৫. Important English Questions — ৩৩টি বাংলা Model Answer
+
+> **আলাদা study file:** [২৫টি নির্বাচিত উত্তরসহ Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [35th–47th PYQ evidence map](./PYQ-35-47-MAP.md) · [English Quotations](./QUOTATIONS.md)
+
 
 > প্রশ্নগুলো BCS Written-এর syllabus-oriented practice questions। যেগুলোর পাশে PYQ evidence দেওয়া আছে, সেগুলো archive-reported প্রশ্নের থিম; অন্যগুলো প্রস্তুতির জন্য তৈরি model questions—মূল BPSC প্রশ্ন হিসেবে দাবি করা হচ্ছে না।
 
