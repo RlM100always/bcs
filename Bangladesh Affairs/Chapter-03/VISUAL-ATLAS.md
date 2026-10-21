@@ -3,7 +3,7 @@
 
 [← মূল অধ্যায়](./README.md) · [২৫টি Model Q&A](./QUESTION-ANSWERS.md) · [Model Essays](./PYQ-BASED-ESSAYS.md) · [English Quotations](./QUOTATIONS.md) · [← Chapter index](../README.md)
 
-> **চিত্র ব্যবহারের নীতি:** নিচে chapter-এর সঙ্গে সরাসরি সম্পর্কিত ১০টি in-repository SVG diagram এবং যাচাইযোগ্য প্রতিষ্ঠানের মানচিত্র/heritage pages দেওয়া হলো। ঐতিহাসিক সীমানা আধুনিক বাংলাদেশের সীমানার সমান নয়; map দেখার সময় map-এর তারিখ, legend ও creator দেখুন। বাহ্যিক image URL বদলাতে পারে, তাই নির্ভরযোগ্য institution/page link-ও দেওয়া হয়েছে।
+> **চিত্র ব্যবহারের নীতি:** অধ্যায়ের মূল README-তে ১০টি in-repository SVG diagram এবং ৮টি topic-matched historical/heritage image embed করা আছে—মোট ১৯টি image/diagram, ২০টির সীমার মধ্যে। এই atlas-এ একই ছবি পুনরায় embed না করে তাদের উৎস-লিংক দেওয়া হয়েছে, যাতে duplicate image না বাড়ে। ঐতিহাসিক সীমানা আধুনিক বাংলাদেশের সীমানার সমান নয়; map দেখার সময় map-এর তারিখ, legend ও creator দেখুন। বাহ্যিক image URL বদলাতে পারে, তাই নির্ভরযোগ্য institution/page link-ও দেওয়া হয়েছে।
 
 ## A. Chapter-এর নিজস্ব responsive diagrams
 
@@ -79,7 +79,27 @@ These are source pages for exact historical maps and documented heritage visuals
 | 19. Language Movement historical context | [Banglapedia — Language Movement](https://en.banglapedia.org/index.php?title=Language_Movement) | 1948–1952 chronology and political significance |
 | 20. Mujibnagar Government historical context | [Banglapedia — Mujibnagar Government](https://en.banglapedia.org/index.php?lang=en&title=Mujibnagar_Government) | Government formation and wartime administration |
 
-## C. Map and image accuracy checklist
+## C. Topic-matched Internet photographs and map — direct source list
+
+These eight sourced visuals are embedded beside the relevant text in the main README. Open the source page for photographer, date and licence details.
+
+| Topic in chapter | Embedded visual | Source and verification |
+|---|---|---|
+| Ancient Bengal / Pundranagara | Mahasthangarh ancient walls | [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Walls_of_Mahasthangarh.jpg) · [Banglapedia: Mahasthan](https://en.banglapedia.org/index.php?lang=en&title=Mahasthan) |
+| Pala period / Buddhist learning | Somapura Mahavihara, Paharpur | [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Paharpur_Maha_Vihara.jpg) · [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/322/) |
+| Sultanate Bengal / architecture | Sixty Dome Mosque, Bagerhat | [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Sixty_Dome_Mosque,Bagerhat.jpg) · [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/321/) |
+| Colonial Bengal / 1905 partition | Historical Bengal Partition map | [Wikimedia Commons file page and map notes](https://commons.wikimedia.org/wiki/File:BengalPartition1905_Map.png) |
+| Language Movement / 1952 | Procession demanding Bengali as state language | [Wikimedia Commons file page and rights notes](https://commons.wikimedia.org/wiki/File:1952_Bengali_Language_movement.jpg) · [Banglapedia](https://en.banglapedia.org/index.php?title=Language_Movement) |
+| 7 March speech / 1971 | Racecourse Maidan historical photograph | [Wikimedia Commons file page and PID rights note](https://commons.wikimedia.org/wiki/File:Mujibur_Rahman_7th_March_Speech_Race_Course_Maidan_1971-03-07_(PID-h003).jpg) · [UNESCO Memory of the World](https://www.unesco.org/en/memory-world) |
+| Mujibnagar Government / Liberation War memory | Mujibnagar memorial complex (photo from 2018, not a wartime photo) | [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:1971_war_at_Mujibnagar_memorial.jpg) · [Banglapedia](https://en.banglapedia.org/index.php?lang=en&title=Mujibnagar_Government) |
+| Living cultural heritage | Traditional Jamdani weaving | [Wikimedia Commons file page and CC BY-SA licence](https://commons.wikimedia.org/wiki/File:Traditional_Jamdani_Weaving.jpg) · [UNESCO Intangible Cultural Heritage](https://ich.unesco.org/en/RL/traditional-art-of-jamdani-weaving-00879) |
+
+### Count and attribution
+- **Total embedded images/diagrams in the main chapter:** 19 (10 original SVG diagrams + 8 sourced photographs/maps + 1 Liberation War sector map).
+- **Limit:** 20 per chapter. This atlas uses source links rather than duplicating these images.
+- Follow the licence shown on each source page; credit photographers and distinguish a modern memorial photo from a historical wartime photograph.
+
+## D. Map and image accuracy checklist
 
 - [ ] The image title, creator, date and source are recorded.
 - [ ] A map of a historical kingdom is not presented as a modern political boundary.
