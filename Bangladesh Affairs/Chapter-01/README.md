@@ -699,51 +699,51 @@ I --> P
 
 #### A. Location & Strategy
 
-- [Q01 — Explain the geographical location of Bangladesh and its significance in South Asia.](#q01)
-- [Q02 — Describe the major topographical features of Bangladesh with regional examples.](#q02)
-- [Q03 — Assess the strategic geopolitical position and risks of Bangladesh.](#q03)
-- [Q04 — What is the economic importance of the Bay of Bengal for Bangladesh?](#q04)
+- [Q01 — Explain the geographical location of Bangladesh and its significance in South Asia.](#q01) — *বাংলাদেশের ভৌগোলিক অবস্থান ব্যাখ্যা করুন এবং দক্ষিণ এশিয়ায় এর গুরুত্ব মূল্যায়ন করুন।*
+- [Q02 — Describe the major topographical features of Bangladesh with regional examples.](#q02) — *বাংলাদেশের প্রধান ভূপ্রাকৃতিক বৈশিষ্ট্যগুলো আঞ্চলিক উদাহরণসহ বর্ণনা করুন।*
+- [Q03 — Assess the strategic geopolitical position and risks of Bangladesh.](#q03) — *বাংলাদেশের ভূ-কৌশলগত অবস্থান ও সংশ্লিষ্ট ঝুঁকি মূল্যায়ন করুন।*
+- [Q04 — What is the economic importance of the Bay of Bengal for Bangladesh?](#q04) — *বাংলাদেশের জন্য বঙ্গোপসাগরের অর্থনৈতিক গুরুত্ব কী?*
 
 #### B. Delta & Landforms
 
-- [Q05 — Differentiate between an active delta and an inactive or moribund delta.](#q05)
-- [Q06 — Explain the origin of the Ganges–Brahmaputra–Meghna delta.](#q06)
-- [Q07 — Explain the differences between the Barind Tract and Madhupur Tract.](#q07)
-- [Q08 — Why is the Barind region prone to drought-related stress?](#q08)
-- [Q09 — How did the Brahmaputra–Jamuna change its course historically?](#q09)
+- [Q05 — Differentiate between an active delta and an inactive or moribund delta.](#q05) — *সক্রিয় ও নিষ্ক্রিয় (Moribund) বদ্বীপের পার্থক্য দেখান।*
+- [Q06 — Explain the origin of the Ganges–Brahmaputra–Meghna delta.](#q06) — *গঙ্গা–ব্রহ্মপুত্র–মেঘনা বদ্বীপের উৎপত্তি ব্যাখ্যা করুন।*
+- [Q07 — Explain the differences between the Barind Tract and Madhupur Tract.](#q07) — *বরেন্দ্রভূমি ও মধুপুর গড়ের মধ্যে পার্থক্য ব্যাখ্যা করুন।*
+- [Q08 — Why is the Barind region prone to drought-related stress?](#q08) — *বরেন্দ্র অঞ্চলে খরাজনিত পানিসংকট কেন দেখা দেয়?*
+- [Q09 — How did the Brahmaputra–Jamuna change its course historically?](#q09) — *ঐতিহাসিকভাবে ব্রহ্মপুত্র–যমুনা নদীর গতিপথ কীভাবে পরিবর্তিত হয়েছে?*
 
 #### C. Regional Geography & Livelihoods
 
-- [Q10 — Compare char, haor, beel and baor in the context of Bangladesh.](#q10)
-- [Q11 — Why is the Haor Basin vulnerable to flash floods?](#q11)
-- [Q12 — Explain how river erosion and sedimentation shape human settlement.](#q12)
-- [Q13 — Discuss the importance of the Sundarbans as a deltaic ecosystem.](#q13)
-- [Q14 — What are the opportunities and limitations of Bangladesh’s coastal geography?](#q14)
+- [Q10 — Compare char, haor, beel and baor in the context of Bangladesh.](#q10) — *বাংলাদেশের চর, হাওর, বিল ও বাঁওড়ের তুলনা করুন।*
+- [Q11 — Why is the Haor Basin vulnerable to flash floods?](#q11) — *হাওর অববাহিকা আকস্মিক বন্যার ঝুঁকিতে থাকে কেন?*
+- [Q12 — Explain how river erosion and sedimentation shape human settlement.](#q12) — *নদীভাঙন ও পলি সঞ্চয় কীভাবে মানুষের বসতি ও জীবনযাত্রাকে প্রভাবিত করে?*
+- [Q13 — Discuss the importance of the Sundarbans as a deltaic ecosystem.](#q13) — *বদ্বীপীয় প্রতিবেশব্যবস্থা হিসেবে সুন্দরবনের গুরুত্ব আলোচনা করুন।*
+- [Q14 — What are the opportunities and limitations of Bangladesh’s coastal geography?](#q14) — *বাংলাদেশের উপকূলীয় ভূগোলের সুযোগ ও সীমাবদ্ধতা কী?*
 
 #### D. Marine Law & Coastal Economy
 
-- [Q15 — Distinguish territorial sea, contiguous zone and exclusive economic zone.](#q15)
-- [Q16 — Describe the significance of the 2012 and 2014 Bay of Bengal maritime judgments.](#q16)
+- [Q15 — Distinguish territorial sea, contiguous zone and exclusive economic zone.](#q15) — *Territorial Sea, Contiguous Zone ও Exclusive Economic Zone (EEZ)-এর পার্থক্য দেখান।*
+- [Q16 — Describe the significance of the 2012 and 2014 Bay of Bengal maritime judgments.](#q16) — *২০১২ ও ২০১৪ সালের বঙ্গোপসাগরের সমুদ্রসীমা-সংক্রান্ত সিদ্ধান্তগুলোর গুরুত্ব বর্ণনা করুন।*
 
 #### E. Human Geography & Risks
 
-- [Q17 — How does geography influence agricultural patterns in Bangladesh?](#q17)
-- [Q18 — Explain the geographical basis of Bangladesh's transport network.](#q18)
-- [Q19 — Evaluate the impact of geographical features on Bangladesh’s culture.](#q19)
-- [Q20 — Define geographical determinism and critically examine its relevance to Bangladesh.](#q20)
-- [Q21 — Why does the position of Bangladesh make it disaster-prone?](#q21)
+- [Q17 — How does geography influence agricultural patterns in Bangladesh?](#q17) — *বাংলাদেশের ভৌগোলিক বৈশিষ্ট্য কৃষির ধরনকে কীভাবে প্রভাবিত করে?*
+- [Q18 — Explain the geographical basis of Bangladesh's transport network.](#q18) — *বাংলাদেশের পরিবহন নেটওয়ার্কের ভৌগোলিক ভিত্তি ব্যাখ্যা করুন।*
+- [Q19 — Evaluate the impact of geographical features on Bangladesh’s culture.](#q19) — *বাংলাদেশের সংস্কৃতিতে ভূপ্রাকৃতিক বৈশিষ্ট্যের প্রভাব মূল্যায়ন করুন।*
+- [Q20 — Define geographical determinism and critically examine its relevance to Bangladesh.](#q20) — *Geographical Determinism কী? বাংলাদেশের ক্ষেত্রে এর প্রাসঙ্গিকতা সমালোচনামূলকভাবে পরীক্ষা করুন।*
+- [Q21 — Why does the position of Bangladesh make it disaster-prone?](#q21) — *বাংলাদেশের ভৌগোলিক অবস্থান দেশটিকে দুর্যোগপ্রবণ করে তোলে কেন?*
 
 #### F. Adaptation, Planning & Mapping
 
-- [Q22 — Explain the concept of adaptive delta management in the context of BDP 2100.](#q22)
-- [Q23 — Compare physical geography and human geography with Bangladeshi examples.](#q23)
-- [Q24 — Why is the Pleistocene terrace geologically distinct from recent floodplains?](#q24)
-- [Q25 — Discuss the environmental services provided by floodplains.](#q25)
-- [Q26 — Explain the importance of the six hotspots under the Bangladesh Delta Plan 2100.](#q26)
-- [Q27 — What is the difference between delta formation and coastal erosion?](#q27)
-- [Q28 — What is meant by a physiographic region? Illustrate with examples.](#q28)
-- [Q29 — Explain why geomorphological maps are useful for public planning.](#q29)
-- [Q30 — How does the Bay of Bengal influence Bangladesh’s economic and environmental security?](#q30)
+- [Q22 — Explain the concept of adaptive delta management in the context of BDP 2100.](#q22) — *বাংলাদেশ ব-দ্বীপ পরিকল্পনা ২১০০-এর প্রেক্ষাপটে Adaptive Delta Management-এর ধারণা ব্যাখ্যা করুন।*
+- [Q23 — Compare physical geography and human geography with Bangladeshi examples.](#q23) — *বাংলাদেশের উদাহরণ দিয়ে Physical Geography ও Human Geography-এর তুলনা করুন।*
+- [Q24 — Why is the Pleistocene terrace geologically distinct from recent floodplains?](#q24) — *প্লাইস্টোসিন সোপানভূমি ভূতাত্ত্বিকভাবে নবীন প্লাবনভূমি থেকে কীভাবে পৃথক?*
+- [Q25 — Discuss the environmental services provided by floodplains.](#q25) — *প্লাবনভূমির পরিবেশগত সেবাগুলো আলোচনা করুন।*
+- [Q26 — Explain the importance of the six hotspots under the Bangladesh Delta Plan 2100.](#q26) — *বাংলাদেশ ব-দ্বীপ পরিকল্পনা ২১০০-এর ছয়টি হটস্পটের গুরুত্ব ব্যাখ্যা করুন।*
+- [Q27 — What is the difference between delta formation and coastal erosion?](#q27) — *বদ্বীপ গঠন ও উপকূলীয় ক্ষয়ের মধ্যে পার্থক্য কী?*
+- [Q28 — What is meant by a physiographic region? Illustrate with examples.](#q28) — *ভূপ্রাকৃতিক অঞ্চল বলতে কী বোঝায়? উদাহরণসহ ব্যাখ্যা করুন।*
+- [Q29 — Explain why geomorphological maps are useful for public planning.](#q29) — *সরকারি পরিকল্পনায় ভূ-আকৃতিগত মানচিত্র কেন গুরুত্বপূর্ণ?*
+- [Q30 — How does the Bay of Bengal influence Bangladesh’s economic and environmental security?](#q30) — *বঙ্গোপসাগর বাংলাদেশের অর্থনৈতিক ও পরিবেশগত নিরাপত্তাকে কীভাবে প্রভাবিত করে?*
 
 [⬆️ Go to Contents](#top)
 
@@ -752,6 +752,8 @@ I --> P
 <a id="q01"></a>
 
 ### 01. Explain the geographical location of Bangladesh and its significance in South Asia.
+
+**বাংলা প্রশ্ন:** বাংলাদেশের ভৌগোলিক অবস্থান ব্যাখ্যা করুন এবং দক্ষিণ এশিয়ায় এর গুরুত্ব মূল্যায়ন করুন।
 
 **Type:** Past-paper theme — 35th (secondary archive); English rendering, not verbatim original · **Suggested marks:** 10–20
 
@@ -773,6 +775,8 @@ I --> P
 
 ### 02. Describe the major topographical features of Bangladesh with regional examples.
 
+**বাংলা প্রশ্ন:** বাংলাদেশের প্রধান ভূপ্রাকৃতিক বৈশিষ্ট্যগুলো আঞ্চলিক উদাহরণসহ বর্ণনা করুন।
+
 **Type:** Past-paper theme — 40th/43rd (secondary archive); English rendering, not verbatim original · **Suggested marks:** 10–20
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
@@ -792,6 +796,8 @@ I --> P
 <a id="q03"></a>
 
 ### 03. Assess the strategic geopolitical position and risks of Bangladesh.
+
+**বাংলা প্রশ্ন:** বাংলাদেশের ভূ-কৌশলগত অবস্থান ও সংশ্লিষ্ট ঝুঁকি মূল্যায়ন করুন।
 
 **Type:** Past-paper theme — 40th (secondary archive); English rendering, not verbatim original · **Suggested marks:** 10–20
 
@@ -814,6 +820,8 @@ I --> P
 
 ### 04. What is the economic importance of the Bay of Bengal for Bangladesh?
 
+**বাংলা প্রশ্ন:** বাংলাদেশের জন্য বঙ্গোপসাগরের অর্থনৈতিক গুরুত্ব কী?
+
 **Type:** Past-paper theme — 35th (secondary archive); English rendering, not verbatim original · **Suggested marks:** 10–20
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
@@ -834,6 +842,8 @@ I --> P
 <a id="q05"></a>
 
 ### 05. Differentiate between an active delta and an inactive or moribund delta.
+
+**বাংলা প্রশ্ন:** সক্রিয় ও নিষ্ক্রিয় (Moribund) বদ্বীপের পার্থক্য দেখান।
 
 **Type:** Past-paper theme — 36th (secondary archive); English rendering, not verbatim original · **Suggested marks:** 10–20
 
@@ -859,6 +869,8 @@ I --> P
 
 ### 06. Explain the origin of the Ganges–Brahmaputra–Meghna delta.
 
+**বাংলা প্রশ্ন:** গঙ্গা–ব্রহ্মপুত্র–মেঘনা বদ্বীপের উৎপত্তি ব্যাখ্যা করুন।
+
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
@@ -879,6 +891,8 @@ I --> P
 
 ### 07. Explain the differences between the Barind Tract and Madhupur Tract.
 
+**বাংলা প্রশ্ন:** বরেন্দ্রভূমি ও মধুপুর গড়ের মধ্যে পার্থক্য ব্যাখ্যা করুন।
+
 **Type:** Past-paper theme — 43rd-related (secondary archive); English rendering, not verbatim original · **Suggested marks:** 5–10
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
@@ -898,6 +912,8 @@ I --> P
 <a id="q08"></a>
 
 ### 08. Why is the Barind region prone to drought-related stress?
+
+**বাংলা প্রশ্ন:** বরেন্দ্র অঞ্চলে খরাজনিত পানিসংকট কেন দেখা দেয়?
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
@@ -920,6 +936,8 @@ I --> P
 
 ### 09. How did the Brahmaputra–Jamuna change its course historically?
 
+**বাংলা প্রশ্ন:** ঐতিহাসিকভাবে ব্রহ্মপুত্র–যমুনা নদীর গতিপথ কীভাবে পরিবর্তিত হয়েছে?
+
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
@@ -938,6 +956,8 @@ I --> P
 <a id="q10"></a>
 
 ### 10. Compare char, haor, beel and baor in the context of Bangladesh.
+
+**বাংলা প্রশ্ন:** বাংলাদেশের চর, হাওর, বিল ও বাঁওড়ের তুলনা করুন।
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
@@ -963,6 +983,8 @@ I --> P
 
 ### 11. Why is the Haor Basin vulnerable to flash floods?
 
+**বাংলা প্রশ্ন:** হাওর অববাহিকা আকস্মিক বন্যার ঝুঁকিতে থাকে কেন?
+
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
@@ -982,6 +1004,8 @@ I --> P
 <a id="q12"></a>
 
 ### 12. Explain how river erosion and sedimentation shape human settlement.
+
+**বাংলা প্রশ্ন:** নদীভাঙন ও পলি সঞ্চয় কীভাবে মানুষের বসতি ও জীবনযাত্রাকে প্রভাবিত করে?
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
@@ -1003,6 +1027,8 @@ I --> P
 
 ### 13. Discuss the importance of the Sundarbans as a deltaic ecosystem.
 
+**বাংলা প্রশ্ন:** বদ্বীপীয় প্রতিবেশব্যবস্থা হিসেবে সুন্দরবনের গুরুত্ব আলোচনা করুন।
+
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
@@ -1023,6 +1049,8 @@ I --> P
 
 ### 14. What are the opportunities and limitations of Bangladesh’s coastal geography?
 
+**বাংলা প্রশ্ন:** বাংলাদেশের উপকূলীয় ভূগোলের সুযোগ ও সীমাবদ্ধতা কী?
+
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
@@ -1042,6 +1070,8 @@ I --> P
 <a id="q15"></a>
 
 ### 15. Distinguish territorial sea, contiguous zone and exclusive economic zone.
+
+**বাংলা প্রশ্ন:** Territorial Sea, Contiguous Zone ও Exclusive Economic Zone (EEZ)-এর পার্থক্য দেখান।
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
@@ -1067,6 +1097,8 @@ I --> P
 
 ### 16. Describe the significance of the 2012 and 2014 Bay of Bengal maritime judgments.
 
+**বাংলা প্রশ্ন:** ২০১২ ও ২০১৪ সালের বঙ্গোপসাগরের সমুদ্রসীমা-সংক্রান্ত সিদ্ধান্তগুলোর গুরুত্ব বর্ণনা করুন।
+
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 10–20
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
@@ -1087,6 +1119,8 @@ I --> P
 
 ### 17. How does geography influence agricultural patterns in Bangladesh?
 
+**বাংলা প্রশ্ন:** বাংলাদেশের ভৌগোলিক বৈশিষ্ট্য কৃষির ধরনকে কীভাবে প্রভাবিত করে?
+
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
@@ -1105,6 +1139,8 @@ I --> P
 <a id="q18"></a>
 
 ### 18. Explain the geographical basis of Bangladesh's transport network.
+
+**বাংলা প্রশ্ন:** বাংলাদেশের পরিবহন নেটওয়ার্কের ভৌগোলিক ভিত্তি ব্যাখ্যা করুন।
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
@@ -1126,6 +1162,8 @@ I --> P
 
 ### 19. Evaluate the impact of geographical features on Bangladesh’s culture.
 
+**বাংলা প্রশ্ন:** বাংলাদেশের সংস্কৃতিতে ভূপ্রাকৃতিক বৈশিষ্ট্যের প্রভাব মূল্যায়ন করুন।
+
 **Type:** Past-paper theme — 47th-related (secondary archive); English rendering, not verbatim original · **Suggested marks:** 10–20
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
@@ -1144,6 +1182,8 @@ I --> P
 <a id="q20"></a>
 
 ### 20. Define geographical determinism and critically examine its relevance to Bangladesh.
+
+**বাংলা প্রশ্ন:** Geographical Determinism কী? বাংলাদেশের ক্ষেত্রে এর প্রাসঙ্গিকতা সমালোচনামূলকভাবে পরীক্ষা করুন।
 
 **Type:** Past-paper theme — 47th-related (secondary archive); English rendering, not verbatim original · **Suggested marks:** 10–20
 
@@ -1168,6 +1208,8 @@ I --> P
 
 ### 21. Why does the position of Bangladesh make it disaster-prone?
 
+**বাংলা প্রশ্ন:** বাংলাদেশের ভৌগোলিক অবস্থান দেশটিকে দুর্যোগপ্রবণ করে তোলে কেন?
+
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 10–20
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
@@ -1186,6 +1228,8 @@ I --> P
 <a id="q22"></a>
 
 ### 22. Explain the concept of adaptive delta management in the context of BDP 2100.
+
+**বাংলা প্রশ্ন:** বাংলাদেশ ব-দ্বীপ পরিকল্পনা ২১০০-এর প্রেক্ষাপটে Adaptive Delta Management-এর ধারণা ব্যাখ্যা করুন।
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
@@ -1207,6 +1251,8 @@ I --> P
 
 ### 23. Compare physical geography and human geography with Bangladeshi examples.
 
+**বাংলা প্রশ্ন:** বাংলাদেশের উদাহরণ দিয়ে Physical Geography ও Human Geography-এর তুলনা করুন।
+
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
@@ -1227,6 +1273,8 @@ I --> P
 
 ### 24. Why is the Pleistocene terrace geologically distinct from recent floodplains?
 
+**বাংলা প্রশ্ন:** প্লাইস্টোসিন সোপানভূমি ভূতাত্ত্বিকভাবে নবীন প্লাবনভূমি থেকে কীভাবে পৃথক?
+
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
@@ -1246,6 +1294,8 @@ I --> P
 <a id="q25"></a>
 
 ### 25. Discuss the environmental services provided by floodplains.
+
+**বাংলা প্রশ্ন:** প্লাবনভূমির পরিবেশগত সেবাগুলো আলোচনা করুন।
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
@@ -1271,6 +1321,8 @@ I --> P
 
 ### 26. Explain the importance of the six hotspots under the Bangladesh Delta Plan 2100.
 
+**বাংলা প্রশ্ন:** বাংলাদেশ ব-দ্বীপ পরিকল্পনা ২১০০-এর ছয়টি হটস্পটের গুরুত্ব ব্যাখ্যা করুন।
+
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
@@ -1290,6 +1342,8 @@ I --> P
 <a id="q27"></a>
 
 ### 27. What is the difference between delta formation and coastal erosion?
+
+**বাংলা প্রশ্ন:** বদ্বীপ গঠন ও উপকূলীয় ক্ষয়ের মধ্যে পার্থক্য কী?
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
@@ -1311,6 +1365,8 @@ I --> P
 
 ### 28. What is meant by a physiographic region? Illustrate with examples.
 
+**বাংলা প্রশ্ন:** ভূপ্রাকৃতিক অঞ্চল বলতে কী বোঝায়? উদাহরণসহ ব্যাখ্যা করুন।
+
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
@@ -1331,6 +1387,8 @@ I --> P
 
 ### 29. Explain why geomorphological maps are useful for public planning.
 
+**বাংলা প্রশ্ন:** সরকারি পরিকল্পনায় ভূ-আকৃতিগত মানচিত্র কেন গুরুত্বপূর্ণ?
+
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
@@ -1350,6 +1408,8 @@ I --> P
 <a id="q30"></a>
 
 ### 30. How does the Bay of Bengal influence Bangladesh’s economic and environmental security?
+
+**বাংলা প্রশ্ন:** বঙ্গোপসাগর বাংলাদেশের অর্থনৈতিক ও পরিবেশগত নিরাপত্তাকে কীভাবে প্রভাবিত করে?
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
 
@@ -1380,6 +1440,8 @@ I --> P
 
 ### Worked Answer A (5 marks) — What is the geographical location of Bangladesh?
 
+**বাংলা প্রশ্ন:** বাংলাদেশের ভৌগোলিক অবস্থান কী?
+
 **ভূমিকা।** বাংলাদেশ দক্ষিণ এশিয়ার একটি নদীবিধৌত বদ্বীপীয় রাষ্ট্র। ভৌগোলিক অবস্থান বলতে অক্ষাংশ–দ্রাঘিমাংশের পাশাপাশি চারদিকের প্রতিবেশী ও প্রাকৃতিক অবস্থানকেও বোঝায়।
 
 **অবস্থান।** Banglapedia, *Bangladesh* নিবন্ধ অনুযায়ী বাংলাদেশ ২০°৩৪′ থেকে ২৬°৩৮′ উত্তর অক্ষাংশ এবং ৮৮°০১′ থেকে ৯২°৪১′ পূর্ব দ্রাঘিমাংশের মধ্যে অবস্থিত। দেশের উত্তর ও পশ্চিমে ভারত, পূর্বে ভারত ও মিয়ানমার এবং দক্ষিণে বঙ্গোপসাগর রয়েছে। দেশটি গঙ্গা–ব্রহ্মপুত্র–মেঘনা নদীব্যবস্থার নিম্নাংশে অবস্থিত। **[S4 — Banglapedia, Asiatic Society of Bangladesh]**
@@ -1393,6 +1455,8 @@ I --> P
 ---
 
 ### Worked Answer B (10 marks) — Describe the topographical features of different regions of Bangladesh.
+
+**বাংলা প্রশ্ন:** বাংলাদেশের বিভিন্ন অঞ্চলের ভূপ্রাকৃতিক বৈশিষ্ট্য বর্ণনা করুন।
 
 **ভূমিকা।** বাংলাদেশের ভূমিরূপকে একটি অখণ্ড সমতল বলা ভুল। তিনটি প্রধান অঞ্চলের গঠন, বয়স, উচ্চতা ও জলপ্রবাহে মৌলিক পার্থক্য রয়েছে। Banglapedia, *Bangladesh Geography* ও *ভূ-প্রকৃতি* এই অঞ্চলগুলোকে **Floodplain, Pleistocene Terrace ও Tertiary Hills** হিসেবে শ্রেণিবদ্ধ করে। **[S2; S3]**
 
@@ -1420,6 +1484,8 @@ I --> P
 ---
 
 ### Worked Answer C (20 marks) — Evaluate the geopolitical importance and geographical risks of Bangladesh and suggest a sustainable development strategy.
+
+**বাংলা প্রশ্ন:** বাংলাদেশের ভূ-কৌশলগত গুরুত্ব ও ভৌগোলিক ঝুঁকি মূল্যায়ন করে টেকসই উন্নয়ন কৌশল প্রস্তাব করুন।
 
 **ভূমিকা ও thesis।** বাংলাদেশের কৌশলগত গুরুত্বকে কেবল দুটি প্রতিবেশী রাষ্ট্রের মাঝামাঝি অবস্থান দিয়ে ব্যাখ্যা করা যথেষ্ট নয়। দক্ষিণ এশিয়ার নদী অববাহিকার নিম্নাংশ, বঙ্গোপসাগরঘেঁষা উপকূল, আন্তর্জাতিক বাণিজ্যের সম্ভাবনা ও দুর্যোগসংবেদনশীল বদ্বীপ—এই চারটির সম্মিলনে দেশটির geopolitical geography গঠিত। এ অবস্থান একই সঙ্গে **connectivity dividend** ও **climate-security challenge**। **[S2 — Banglapedia; S6 — GED]**
 
