@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">Electoral system comparison</title>
+<desc id="desc">Comparison of first-past-the-post, proportional representation and mixed electoral systems, with a note on Bangladesh's parliamentary arrangements.</desc>
+<defs><style>
+.bg{fill:#f7f8fa}.title{font:700 38px Arial,sans-serif;fill:#172b3a}.sub{font:22px Arial,sans-serif;fill:#52616b}.card{fill:#fff;stroke:#52616b;stroke-width:2.5;rx:22}.n{font:700 28px Arial,sans-serif;fill:#172b3a}.bn{font:22px 'Noto Sans Bengali',Arial,sans-serif;fill:#243746}.sm{font:18px Arial,sans-serif;fill:#52616b}
+</style></defs>
+<rect class="bg" width="1600" height="900"/>
+<text class="title" x="800" y="65" text-anchor="middle">ELECTORAL SYSTEMS</text>
+<text class="sub" x="800" y="105" text-anchor="middle">How votes are translated into representation</text>
+<rect class="card" x="70" y="155" width="460" height="285"/>
+<text class="n" x="300" y="205" text-anchor="middle">FPTP</text><text class="bn" x="300" y="248" text-anchor="middle">সর্বাধিক ভোটপ্রাপ্ত প্রার্থী</text>
+<text class="sm" x="300" y="300" text-anchor="middle">One constituency → one seat</text><text class="sm" x="300" y="335" text-anchor="middle">Highest vote total wins</text><text class="sm" x="300" y="370" text-anchor="middle">Direct local representative link</text><text class="sm" x="300" y="405" text-anchor="middle">Vote share may differ from seat share</text>
+<rect class="card" x="570" y="155" width="460" height="285"/>
+<text class="n" x="800" y="205" text-anchor="middle">PR</text><text class="bn" x="800" y="248" text-anchor="middle">আনুপাতিক প্রতিনিধিত্ব</text>
+<text class="sm" x="800" y="300" text-anchor="middle">Seats follow a specified formula</text><text class="sm" x="800" y="335" text-anchor="middle">Relates votes to representation</text><text class="sm" x="800" y="370" text-anchor="middle">Can broaden party representation</text><text class="sm" x="800" y="405" text-anchor="middle">Formula and design matter</text>
+<rect class="card" x="1070" y="155" width="460" height="285"/>
+<text class="n" x="1300" y="205" text-anchor="middle">Mixed system</text><text class="bn" x="1300" y="248" text-anchor="middle">সমন্বিত পদ্ধতি</text>
+<text class="sm" x="1300" y="300" text-anchor="middle">Combines more than one method</text><text class="sm" x="1300" y="335" text-anchor="middle">May balance different goals</text><text class="sm" x="1300" y="370" text-anchor="middle">Requires clear seat-allocation rules</text><text class="sm" x="1300" y="405" text-anchor="middle">Design can be more complex</text>
+<rect x="150" y="510" width="1300" height="235" rx="24" fill="#e8eef2" stroke="#52616b" stroke-width="2.5"/>
+<text class="n" x="800" y="560" text-anchor="middle">Bangladesh: distinguish two constitutional arrangements</text>
+<text class="bn" x="800" y="610" text-anchor="middle">৩০০টি সাধারণ আসন — একক ভৌগোলিক নির্বাচনী এলাকা থেকে সরাসরি নির্বাচন</text>
+<text class="bn" x="800" y="650" text-anchor="middle">নারীদের সংরক্ষিত আসন — সংসদ সদস্যদের মাধ্যমে PR ও Single Transferable Vote</text>
+<text class="sm" x="800" y="705" text-anchor="middle">Constitution of Bangladesh, Article 65(2)–(3) • Check the current constitutional text</text>
+</svg>

@@ -271,6 +271,22 @@ Delimitation-এর লক্ষ্য হলো আইনসম্মত, য�
 
 International IDEA-র বিশ্লেষণ অনুযায়ী, যথাযথ নিয়ন্ত্রণ না থাকলে রাজনৈতিক অর্থায়ন নির্বাচনী প্রক্রিয়া ও প্রতিষ্ঠানের সততাকে দুর্বল করতে পারে। [International IDEA — Money in Politics](https://www.idea.int/theme/money-politics)
 
+### ৬.৫ নির্বাচনী পদ্ধতি: FPTP, PR ও বাংলাদেশের ব্যবস্থা
+
+![নির্বাচনী পদ্ধতির তুলনা](./assets/electoral-system-comparison.svg)
+
+নির্বাচনী পদ্ধতি ভোটকে প্রতিনিধিত্ব বা আসনে রূপান্তর করার নিয়ম নির্ধারণ করে। কোনো পদ্ধতি সব দেশে সমানভাবে কার্যকর নয়; এর ফল নির্ভর করে সংবিধান, দলীয় ব্যবস্থা, সামাজিক বৈচিত্র্য, আসনের কাঠামো এবং প্রশাসনিক বাস্তবতার ওপর। International IDEA-এর Electoral System Design handbook এই সিদ্ধান্তকে গণতান্ত্রিক প্রতিষ্ঠানের একটি গুরুত্বপূর্ণ নকশাগত পছন্দ হিসেবে বিবেচনা করে। [International IDEA](https://www.idea.int/publications/catalogue/electoral-system-design-new-international-idea-handbook)
+
+| পদ্ধতি | মূল বৈশিষ্ট্য | সম্ভাব্য সুবিধা | সম্ভাব্য সীমাবদ্ধতা |
+|---|---|---|---|
+| First-past-the-post (FPTP) | একক আসনে সর্বাধিক ভোট পাওয়া প্রার্থী জয়ী হন; ৫০ শতাংশের বেশি ভোট পাওয়া সবসময় বাধ্যতামূলক নয় | সহজে বোঝা যায়; নির্বাচনী এলাকার সঙ্গে প্রতিনিধির সরাসরি সম্পর্ক | মোট ভোটের অনুপাত ও আসনের অনুপাতের মধ্যে বড় পার্থক্য হতে পারে |
+| Proportional representation (PR) | নির্ধারিত সূত্রে ভোটের অনুপাতের সঙ্গে আসন বণ্টনের সম্পর্ক স্থাপন | দলীয় ভোটের অনুপাত ও প্রতিনিধিত্বের মধ্যে তুলনামূলক ভারসাম্য তৈরি করতে পারে | নকশাভেদে জটিলতা; দলীয় তালিকা ও বণ্টন-সূত্রের গুরুত্ব |
+| Mixed system | একই ব্যবস্থায় একাধিক পদ্ধতির সমন্বয় | স্থানীয় প্রতিনিধিত্ব ও আনুপাতিক প্রতিনিধিত্বের কিছু সুবিধা একত্র করা যায় | নকশা জটিল; দুই পদ্ধতির ফল কীভাবে একত্র হবে তা স্পষ্ট হওয়া দরকার |
+
+**বাংলাদেশের সাংবিধানিক কাঠামো:** সংবিধানের ৬৫(২) অনুচ্ছেদে ৩০০টি সাধারণ সংসদীয় আসনের জন্য একক ভৌগোলিক নির্বাচনী এলাকা থেকে সরাসরি নির্বাচনের বিধান রয়েছে। ৬৫(৩) অনুচ্ছেদে নির্দিষ্ট মেয়াদের জন্য নারীদের সংরক্ষিত আসনের বিধান এবং সংসদ সদস্যদের মাধ্যমে proportional representation ও single transferable vote পদ্ধতিতে নির্বাচনের কথা বলা হয়েছে। এই দুই ব্যবস্থাকে একই ধরনের সরাসরি ভোট হিসেবে বর্ণনা করবেন না। [Constitution of Bangladesh, Article 65](https://bdlaws.minlaw.gov.bd/act-367/act-chapter-print-685.html)
+
+**Exam method:** পদ্ধতির নাম মুখস্থ করলেই যথেষ্ট নয়। কোন পদ্ধতিতে ভোট কীভাবে আসনে রূপান্তরিত হয়, স্থানীয় প্রতিনিধিত্ব কীভাবে তৈরি হয়, এবং প্রতিনিধিত্বের সমতা ও প্রশাসনিক সরলতার মধ্যে কী trade-off আছে—তা ব্যাখ্যা করুন।
+
 ---
 
 <a id="election-cycle"></a>
@@ -661,9 +677,9 @@ BCS EXAM-এর প্রকাশ্য প্রশ্নসংকলনে �
 
 **Model answer:** Constituency delimitation is the process of defining electoral boundaries under the Constitution and applicable law. It affects how voters are grouped and how representatives relate to communities. Transparent delimitation should use reliable information and apply consistent legal criteria. Unclear or apparently partisan boundaries may undermine equality and public trust. A sound process requires clear reasons, accessible information and lawful opportunities to raise objections where provided.
 
-#### 08. Distinguish between an Election Commission and a Returning Officer. (5 marks)
+#### 08. Compare FPTP and proportional representation with reference to Bangladesh. (10 marks)
 
-**Model answer:** The Election Commission is the constitutional institution responsible for the overall legal and administrative framework of specified elections. A Returning Officer carries out assigned election duties for a constituency, including nomination-related functions and consolidation of results under the applicable rules. The Commission provides the overarching direction and legal framework; the Returning Officer performs designated operational tasks. Both must follow the law and maintain records.
+**Model answer:** Under first-past-the-post (FPTP), the candidate with the highest number of votes in a single-member constituency wins; the winner does not necessarily need more than half of all votes. Proportional representation (PR) aims to relate the allocation of seats to the share of votes under a specified formula. In Bangladesh, Article 65(2) provides for direct election from 300 territorial constituencies, while Article 65(3) provides for reserved women’s seats elected by members of Parliament through proportional representation using the single transferable vote. The two arrangements should be distinguished. FPTP can strengthen a local representative link, while PR can support proportional representation; each system also has design-specific trade-offs.
 
 ### B. Election process and electoral integrity
 
