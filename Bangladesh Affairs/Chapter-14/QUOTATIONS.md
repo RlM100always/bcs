@@ -80,3 +80,43 @@ Link: https://sdgs.un.org/2030agenda
 4. World Trade Organization. “What is the WTO?” https://www.wto.org/english/thewto_e/whatis_e/whatis_e.htm
 5. United Nations. “Transforming our world: the 2030 Agenda for Sustainable Development” (2015). https://sdgs.un.org/2030agenda
 6. Bangladesh Public Service Commission. *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005, topic 14. https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf
+
+
+## E. More short, source-linked quotations
+
+### 6. Human equality
+> “All human beings are born free and equal in dignity and rights.”
+**Source:** United Nations, Universal Declaration of Human Rights (1948), Article 1. [Official text](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
+**Use:** inclusion, equal opportunity and fair distribution of globalization's gains.
+
+### 7. Right to work
+> “Everyone has the right to work”
+**Source:** United Nations, Universal Declaration of Human Rights (1948), Article 23. [Official text](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
+**Use:** labour rights, migrant workers and decent work.
+
+### 8. Right to education
+> “Everyone has the right to education.”
+**Source:** United Nations, Universal Declaration of Human Rights (1948), Article 26. [Official text](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
+**Use:** skills, human capital and global competitiveness.
+
+### 9. Right to development
+> “The right to development is an inalienable human right.”
+**Source:** UN General Assembly, Declaration on the Right to Development (1986), Article 1(1). [Official text](https://www.ohchr.org/en/instruments-mechanisms/instruments/declaration-right-development)
+**Use:** fair participation in globalization and development policy.
+
+### 10. Decent work
+> “Decent work sums up the aspirations of people in their working lives.”
+**Source:** International Labour Organization, Decent Work. [Official page](https://www.ilo.org/topics-and-sectors/decent-work)
+**Use:** RMG, migrant workers and supply chains.
+
+### 11. Human development
+> “Human development is about enlarging people’s choices.”
+**Source:** United Nations Development Programme, Human Development. [Official page](https://hdr.undp.org/about/human-development)
+**Use:** evaluate globalization beyond GDP.
+
+### 12. Trade rules
+> “The WTO is the only global international organization dealing with the rules of trade between nations.”
+**Source:** World Trade Organization, What is the WTO? [Official page](https://www.wto.org/english/thewto_e/whatis_e/whatis_e.htm)
+**Use:** multilateral trade and economic diplomacy.
+
+**Attribution rule:** Keep direct quotations short, name the document and article where possible, and do not attribute institutional wording to a famous individual. Section B's exam-ready lines are original synthesis, not sourced quotations.
