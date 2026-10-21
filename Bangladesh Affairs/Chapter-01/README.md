@@ -561,6 +561,66 @@ I --> P
 
 > Past-paper-derived *themes* and original predictions are labelled individually. These are concise **answer frameworks**, not guaranteed full-length 20-mark scripts; scale diagrams, cases and argument depth with the mark allocation.
 
+<a id="question-index"></a>
+
+### ⚡ Quick Question Finder — ৩০টি প্রশ্নে সরাসরি যান
+
+**পদ্ধতি:** English question নির্বাচন করুন → ছোট ধাপে সাজানো বাংলা উত্তর পড়ুন → নীল Source Box থেকে উদ্ধৃতিযোগ্য প্রতিষ্ঠানের নাম শিখুন।
+
+#### A. Location & Strategy
+
+- [Q01 — Explain the geographical location of Bangladesh and its significance in South Asia.](#q01)
+- [Q02 — Describe the major topographical features of Bangladesh with regional examples.](#q02)
+- [Q03 — Assess the strategic geopolitical position and risks of Bangladesh.](#q03)
+- [Q04 — What is the economic importance of the Bay of Bengal for Bangladesh?](#q04)
+
+#### B. Delta & Landforms
+
+- [Q05 — Differentiate between an active delta and an inactive or moribund delta.](#q05)
+- [Q06 — Explain the origin of the Ganges–Brahmaputra–Meghna delta.](#q06)
+- [Q07 — Explain the differences between the Barind Tract and Madhupur Tract.](#q07)
+- [Q08 — Why is the Barind region prone to drought-related stress?](#q08)
+- [Q09 — How did the Brahmaputra–Jamuna change its course historically?](#q09)
+
+#### C. Regional Geography & Livelihoods
+
+- [Q10 — Compare char, haor, beel and baor in the context of Bangladesh.](#q10)
+- [Q11 — Why is the Haor Basin vulnerable to flash floods?](#q11)
+- [Q12 — Explain how river erosion and sedimentation shape human settlement.](#q12)
+- [Q13 — Discuss the importance of the Sundarbans as a deltaic ecosystem.](#q13)
+- [Q14 — What are the opportunities and limitations of Bangladesh’s coastal geography?](#q14)
+
+#### D. Marine Law & Coastal Economy
+
+- [Q15 — Distinguish territorial sea, contiguous zone and exclusive economic zone.](#q15)
+- [Q16 — Describe the significance of the 2012 and 2014 Bay of Bengal maritime judgments.](#q16)
+
+#### E. Human Geography & Risks
+
+- [Q17 — How does geography influence agricultural patterns in Bangladesh?](#q17)
+- [Q18 — Explain the geographical basis of Bangladesh's transport network.](#q18)
+- [Q19 — Evaluate the impact of geographical features on Bangladesh’s culture.](#q19)
+- [Q20 — Define geographical determinism and critically examine its relevance to Bangladesh.](#q20)
+- [Q21 — Why does the position of Bangladesh make it disaster-prone?](#q21)
+
+#### F. Adaptation, Planning & Mapping
+
+- [Q22 — Explain the concept of adaptive delta management in the context of BDP 2100.](#q22)
+- [Q23 — Compare physical geography and human geography with Bangladeshi examples.](#q23)
+- [Q24 — Why is the Pleistocene terrace geologically distinct from recent floodplains?](#q24)
+- [Q25 — Discuss the environmental services provided by floodplains.](#q25)
+- [Q26 — Explain the importance of the six hotspots under the Bangladesh Delta Plan 2100.](#q26)
+- [Q27 — What is the difference between delta formation and coastal erosion?](#q27)
+- [Q28 — What is meant by a physiographic region? Illustrate with examples.](#q28)
+- [Q29 — Explain why geomorphological maps are useful for public planning.](#q29)
+- [Q30 — How does the Bay of Bengal influence Bangladesh’s economic and environmental security?](#q30)
+
+[⬆️ Go to Contents](#top)
+
+---
+
+<a id="q01"></a>
+
 ### 01. Explain the geographical location of Bangladesh and its significance in South Asia.
 
 **Type:** Past-paper theme — 35th (secondary archive); English rendering, not verbatim original · **Suggested marks:** 10–20
@@ -579,6 +639,8 @@ I --> P
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
 
+<a id="q02"></a>
+
 ### 02. Describe the major topographical features of Bangladesh with regional examples.
 
 **Type:** Past-paper theme — 40th/43rd (secondary archive); English rendering, not verbatim original · **Suggested marks:** 10–20
@@ -596,6 +658,8 @@ I --> P
 
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
+
+<a id="q03"></a>
 
 ### 03. Assess the strategic geopolitical position and risks of Bangladesh.
 
@@ -616,6 +680,8 @@ I --> P
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
 
+<a id="q04"></a>
+
 ### 04. What is the economic importance of the Bay of Bengal for Bangladesh?
 
 **Type:** Past-paper theme — 35th (secondary archive); English rendering, not verbatim original · **Suggested marks:** 10–20
@@ -635,6 +701,8 @@ I --> P
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
 
+<a id="q05"></a>
+
 ### 05. Differentiate between an active delta and an inactive or moribund delta.
 
 **Type:** Past-paper theme — 36th (secondary archive); English rendering, not verbatim original · **Suggested marks:** 10–20
@@ -652,6 +720,12 @@ I --> P
 
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
+
+[⬆️ Back to Question Finder](#question-index) · [🏠 Table of Contents](#top)
+
+---
+
+<a id="q06"></a>
 
 ### 06. Explain the origin of the Ganges–Brahmaputra–Meghna delta.
 
@@ -671,6 +745,8 @@ I --> P
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
 
+<a id="q07"></a>
+
 ### 07. Explain the differences between the Barind Tract and Madhupur Tract.
 
 **Type:** Past-paper theme — 43rd-related (secondary archive); English rendering, not verbatim original · **Suggested marks:** 5–10
@@ -688,6 +764,8 @@ I --> P
 
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
+
+<a id="q08"></a>
 
 ### 08. Why is the Barind region prone to drought-related stress?
 
@@ -708,6 +786,8 @@ I --> P
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
 
+<a id="q09"></a>
+
 ### 09. How did the Brahmaputra–Jamuna change its course historically?
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
@@ -724,6 +804,8 @@ I --> P
 
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
+
+<a id="q10"></a>
 
 ### 10. Compare char, haor, beel and baor in the context of Bangladesh.
 
@@ -743,6 +825,12 @@ I --> P
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
 
+[⬆️ Back to Question Finder](#question-index) · [🏠 Table of Contents](#top)
+
+---
+
+<a id="q11"></a>
+
 ### 11. Why is the Haor Basin vulnerable to flash floods?
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
@@ -760,6 +848,8 @@ I --> P
 
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
+
+<a id="q12"></a>
 
 ### 12. Explain how river erosion and sedimentation shape human settlement.
 
@@ -779,6 +869,8 @@ I --> P
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
 
+<a id="q13"></a>
+
 ### 13. Discuss the importance of the Sundarbans as a deltaic ecosystem.
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
@@ -796,6 +888,8 @@ I --> P
 
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
+
+<a id="q14"></a>
 
 ### 14. What are the opportunities and limitations of Bangladesh’s coastal geography?
 
@@ -815,6 +909,8 @@ I --> P
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
 
+<a id="q15"></a>
+
 ### 15. Distinguish territorial sea, contiguous zone and exclusive economic zone.
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
@@ -832,6 +928,12 @@ I --> P
 
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
+
+[⬆️ Back to Question Finder](#question-index) · [🏠 Table of Contents](#top)
+
+---
+
+<a id="q16"></a>
 
 ### 16. Describe the significance of the 2012 and 2014 Bay of Bengal maritime judgments.
 
@@ -851,6 +953,8 @@ I --> P
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
 
+<a id="q17"></a>
+
 ### 17. How does geography influence agricultural patterns in Bangladesh?
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
@@ -867,6 +971,8 @@ I --> P
 
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
+
+<a id="q18"></a>
 
 ### 18. Explain the geographical basis of Bangladesh's transport network.
 
@@ -886,6 +992,8 @@ I --> P
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
 
+<a id="q19"></a>
+
 ### 19. Evaluate the impact of geographical features on Bangladesh’s culture.
 
 **Type:** Past-paper theme — 47th-related (secondary archive); English rendering, not verbatim original · **Suggested marks:** 10–20
@@ -902,6 +1010,8 @@ I --> P
 
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
+
+<a id="q20"></a>
 
 ### 20. Define geographical determinism and critically examine its relevance to Bangladesh.
 
@@ -920,6 +1030,12 @@ I --> P
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
 
+[⬆️ Back to Question Finder](#question-index) · [🏠 Table of Contents](#top)
+
+---
+
+<a id="q21"></a>
+
 ### 21. Why does the position of Bangladesh make it disaster-prone?
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 10–20
@@ -936,6 +1052,8 @@ I --> P
 
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
+
+<a id="q22"></a>
 
 ### 22. Explain the concept of adaptive delta management in the context of BDP 2100.
 
@@ -955,6 +1073,8 @@ I --> P
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
 
+<a id="q23"></a>
+
 ### 23. Compare physical geography and human geography with Bangladeshi examples.
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
@@ -972,6 +1092,8 @@ I --> P
 
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
+
+<a id="q24"></a>
 
 ### 24. Why is the Pleistocene terrace geologically distinct from recent floodplains?
 
@@ -991,6 +1113,8 @@ I --> P
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
 
+<a id="q25"></a>
+
 ### 25. Discuss the environmental services provided by floodplains.
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
@@ -1008,6 +1132,12 @@ I --> P
 
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
+
+[⬆️ Back to Question Finder](#question-index) · [🏠 Table of Contents](#top)
+
+---
+
+<a id="q26"></a>
 
 ### 26. Explain the importance of the six hotspots under the Bangladesh Delta Plan 2100.
 
@@ -1027,6 +1157,8 @@ I --> P
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
 
+<a id="q27"></a>
+
 ### 27. What is the difference between delta formation and coastal erosion?
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
@@ -1044,6 +1176,8 @@ I --> P
 
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
+
+<a id="q28"></a>
 
 ### 28. What is meant by a physiographic region? Illustrate with examples.
 
@@ -1063,6 +1197,8 @@ I --> P
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
 
+<a id="q29"></a>
+
 ### 29. Explain why geomorphological maps are useful for public planning.
 
 **Type:** Editorial high-priority practice (not a previous exam question) · **Suggested marks:** 5–10
@@ -1080,6 +1216,8 @@ I --> P
 
 > [!TIP]
 > 🟢 **Memory cue:** উত্তরে প্রথমে সংজ্ঞা, এরপর কারণ ও প্রভাব, শেষে একটি বাংলাদেশভিত্তিক উদাহরণ ও যুক্তিসংগত উপসংহার লিখুন।
+
+<a id="q30"></a>
 
 ### 30. How does the Bay of Bengal influence Bangladesh’s economic and environmental security?
 
@@ -1101,6 +1239,10 @@ I --> P
 
 
 <a id="worked"></a>
+
+[⬆️ Back to Question Finder](#question-index) · [🏠 Table of Contents](#top)
+
+---
 
 ## ১০A. Worked Answers — ৫/১০/২০ নম্বরের পূর্ণ উদাহরণ
 
