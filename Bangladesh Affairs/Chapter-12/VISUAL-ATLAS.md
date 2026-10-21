@@ -3,9 +3,9 @@
 
 [← Main Chapter](./README.md#top) · [35th–47th PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) · [25 Model Answers](./BCS-WRITTEN-QUESTION-BANK.md) · [8 Essays](./PYQ-BASED-ESSAYS.md) · [Quotations](./QUOTATIONS.md)
 
-> **Visual standard:** 12 local SVG diagrams are designed for this chapter, plus source-linked real-world photos and a submarine-cable landing-site map. Each diagram is explanatory, not a substitute for an official map or legal text. External images remain owned by their original publishers; check reuse permissions before republishing outside this study notebook.
+> **Visual standard:** 14 local SVG diagrams are designed for this chapter, plus source-linked real-world photos and a submarine-cable landing-site map. Each diagram is explanatory, not a substitute for an official map or legal text. External images remain owned by their original publishers; check reuse permissions before republishing outside this study notebook.
 
-## A. Visual revision sheets — 12 diagrams
+## A. Visual revision sheets — 14 diagrams (12 core + 2 bonus)
 
 ### 01. Communication process and feedback
 [![Communication process](./assets/communication-process.svg)](./assets/communication-process.svg)
