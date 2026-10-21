@@ -254,6 +254,24 @@ https://infocom.gov.bd/pages/laws/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%85
 **[S7] United Nations.** *Universal Declaration of Human Rights*, Article 19. https://www.un.org/en/about-us/universal-declaration-of-human-rights  
 **[S8] United Nations Sustainable Development Goals.** Goal 16, target 16.10. https://sdgs.un.org/goals/goal16
 
+**[S9] Bangladesh Telecommunication Regulatory Commission (BTRC).** Internet subscriptions and penetration tables; always note the month and distinguish subscriptions from unique users.  
+https://btrc.gov.bd/pages/static-pages/6922e0a3933eb65569e27f59
+
+**[S10] Bangladesh Submarine Cables PLC (BSCPLC).** Official service and landing-station information.  
+https://bscplc.portal.gov.bd/pages/static-pages/6922de55933eb65569e19f01
+
+**[S11] Government of Bangladesh, National Portal.** Digital Centre service-delivery model.  
+https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e65
+
+**[S12] Digital Centre portal.** Current centre dashboard and service information; figures change over time, so record the consultation date.  
+https://digitalcentre.gov.bd/
+
+**[S13] ICT Division, Bangladesh.** National ICT Policy 2018 and related policy documents.  
+https://ictd.gov.bd/pages/policies
+
+**[S14] BCS EXAM (third-party archive).** Written-question pages for 35th–47th BCS; archive-reported prompts must be checked against original BPSC scans where available.  
+https://bcsexam.org/written-questions
+
 ### উৎস ব্যবহারের নীতি
 1. RTI-এর আইনি বক্তব্যে আইন ও সরকারি নির্দেশনা অগ্রাধিকার দিন।
 2. কোনো নির্দিষ্ট BCS question-এর সাল/নম্বর বলার আগে মূল প্রশ্নপত্র যাচাই করুন।
