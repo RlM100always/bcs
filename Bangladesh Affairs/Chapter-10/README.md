@@ -1,7 +1,7 @@
 # Chapter 10 — রাজনৈতিক দল ও রাজনৈতিক প্রক্রিয়া | Political Parties & Political Process
 
 > **BCS Written · Bangladesh Affairs · Subject Code 005**  
-> বাংলা ব্যাখ্যা + English terminology + source-backed analysis + archive-reported PYQ + ৮টি প্রবন্ধ + ৩৩টি Model Q&A + responsive revision diagrams + English quotation bank.  
+> বাংলা ব্যাখ্যা + English terminology + source-backed analysis + archive-reported PYQ + ৮টি প্রবন্ধ + ৩৩টি Model Q&A + ৬টি responsive revision diagrams + real-institution image atlas + 25-question standalone bank + year-by-year PYQ evidence map + English quotation bank.  
 > **সর্বশেষ উৎস পর্যালোচনা:** ২১ অক্টোবর ২০২৬।
 
 [← Bangladesh Affairs সূচি](../README.md) · [🧭 35th–47th BCS PYQ Map](./PYQ-35-47-MAP.md) · [📘 25 Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [💬 English Quotations + Sources](./QUOTATIONS.md) · [Chapter 1-এর format reference](../Chapter-01/README.md)
