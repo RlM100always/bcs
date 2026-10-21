@@ -2,7 +2,7 @@
 
 > **BCS Written · Bangladesh Affairs · Official Unit 1**  
 > **মূল ভাষা:** বাংলা; প্রশ্ন ও টেকনিক্যাল টার্ম: English  
-> **Source review:** ২১ অক্টোবর ২০২৬ · **পাঠের ধরন:** গল্পধর্মী ব্যাখ্যা → বিশ্লেষণ → বাস্তব মানচিত্র ও chart → PYQ evidence → ৩০টি model answer।
+> **Source review:** ২১ অক্টোবর ২০২৬ · **পাঠের ধরন:** গল্পধর্মী ব্যাখ্যা → বিশ্লেষণ → বাস্তব মানচিত্র ও chart → PYQ evidence → ৩৩টি model answer।
 
 [← মূল ১৬ অধ্যায়ের সূচি](../README.md)
 
@@ -1138,6 +1138,10 @@ E -->|না| C
 | [S16] | GED Knowledge Portal — Government of Bangladesh | *Bangladesh Delta Plan 2100: Overview, Goals, Strategies, Hotspots* (approved 4 September 2018) | [GED official portal](https://bdp2100kp.gov.bd/BDP2100/Overview) |
 | [S17] | GED, Planning Commission — Bangladesh Government | *Bangladesh Delta Plan 2100, Volume 2, Investment Plan, Part 1: The Plan* | [Official investment plan PDF](https://gedkp.gov.bd/wp-content/uploads/2021/02/BDP-2100-Volume-2-Investment-Plan-Part-1-The-Plan.pdf) |
 | [S18] | FAO — Food and Agriculture Organization of the UN | *Study on Livelihood Systems Assessment in Drought-prone Areas of NW Bangladesh*; Barind, Nachole, Porsha and Sapahar | [FAO Barind study](https://www.fao.org/4/ag257e/AG257E06.htm) |
+| [S19] | Banglapedia — Asiatic Society of Bangladesh | *St Martin's Island*, Sifatul Quader Chowdhury; island geology, coral ecology and environment | [Banglapedia official entry](https://en.banglapedia.org/index.php/St_Martin%27s_Island) |
+| [S20] | University of Rajshahi | *Varendra Research Museum*; institution's history and founding team | [University official museum history](https://www.ru.ac.bd/facilities/varendra-research-museum/) |
+| [S21] | Banglapedia — Asiatic Society of Bangladesh | *Tista River*, Mesbah-us-Saleheen; river origin and 1787 course change | [Banglapedia river article](https://en.banglapedia.org/index.php/Tista_River) |
+| [IM1] | Wikimedia Commons, Fahad Faisal | *Coral Reef of Saint Martin Island Bangladesh.JPG*, 2012, CC BY-SA 4.0 | [Image, creator and license](https://commons.wikimedia.org/wiki/File:Coral_Reef_of_Saint_Martin_Island_Bangladesh.JPG) |
 | [Q1] | Secondary archive |
 | 35th | **English:** What is the economic importance of the Bay of Bengal? **বাংলা:** বঙ্গোপসাগরের অর্থনৈতিক গুরুত্ব কী? | 5 | [Q1] | Secondary archive |
 | 36th | **English:** What is meant by inactive or moribund delta regions? **বাংলা:** নিষ্ক্রিয় বা মরিবান্ড বদ্বীপ বলতে কী বোঝায়? | 5 | [Q2] | Secondary archive |
@@ -1154,6 +1158,28 @@ E -->|না| C
 
 <a id="strategy"></a>
 
+
+### 🎯 PYQ Coverage Map — বিগত প্রশ্নের উত্তর কোন Q-এ পাবেন?
+
+এটি secondary question archives-এর **English rendering** অনুযায়ী thematic mapping; মূল BPSC প্রশ্নপত্র থেকে শব্দশব্দ যাচাইয়ের দাবি নয়।
+
+| Archive year | English question theme | বাংলা প্রশ্নের বিষয় | প্রস্তুত উত্তর |
+|---|---|---|---|
+| **35th** | Geographical location, Bay of Bengal economy | অবস্থান ও বঙ্গোপসাগরের অর্থনীতি | [Q01](#q01), [Q04](#q04) |
+| **36th** | Coral island, inactive delta, Barind/Varendra | প্রবাল দ্বীপ, নিষ্ক্রিয় বদ্বীপ, বরেন্দ্র ও জাদুঘর | [Q31](#q31), [Q05](#q05), [Q07](#q07), [Q32](#q32) |
+| **37th** | Location and geographical advantage | অবস্থানের সুবিধা | [Q01](#q01), [Q03](#q03) |
+| **38th** | Strategic geography in International Affairs | অন্য পত্রে ভূ-কৌশলগত গুরুত্ব | [Q03](#q03) |
+| **40th** | Topography and geopolitical risk | ভূপ্রকৃতি ও ভূরাজনীতি | [Q02](#q02), [Q03](#q03) |
+| **41st** | Maritime boundary settlement | সমুদ্রসীমা নিষ্পত্তি | [Q16](#q16) |
+| **43rd** | Location and Barind/topographical regions | অবস্থান, বরেন্দ্র ও অঞ্চলভিত্তিক ভূপ্রকৃতি | [Q01](#q01), [Q07](#q07), [Q02](#q02) |
+| **45th** | Teesta river water sharing | তিস্তার পানি বণ্টন | [Q33](#q33) |
+| **46th** | Marine resources: problems and opportunities | সামুদ্রিক সম্পদের সমস্যা ও সম্ভাবনা | [Q04](#q04), [Q30](#q30) |
+| **47th** | Geographical determinism and culture | ভূগোল ও সংস্কৃতির সম্পর্ক | [Q19](#q19), [Q20](#q20) |
+
+> [!WARNING]
+> 🟨 **আলাদা রাখুন:** ৩৮তমের সংশ্লিষ্ট ভূ-কৌশলগত প্রশ্নটি **International Affairs** পত্রে; ৪৫তমের তিস্তা ও ৪৬তমের সামুদ্রিক সম্পদ প্রশ্ন অন্য সিলেবাস ইউনিটের সঙ্গেও সম্পর্কিত। ৪৪তম থেকে সরাসরি Unit-1 প্রশ্ন নিশ্চিত করে পাওয়া যায়নি। **অনুপস্থিতির অর্থ সে বছরে প্রশ্ন ছিল না—এমন নয়।**
+
+[⬆️ Back to Question Finder](#question-index) · [🏠 Contents](#top)
 
 ### 🔎 Expanded PYQ Evidence — ৩৫তম থেকে ৪৭তমের প্রাসঙ্গিক প্রশ্নধারা
 
@@ -1244,13 +1270,13 @@ E -->|না| C
 
 <a id="questions"></a>
 
-## ১০. Important English Questions — ৩০টি বাংলা Model Answer
+## ১০. Important English Questions — ৩৩টি বাংলা Model Answer
 
 > Past-paper-derived *themes* and original predictions are labelled individually. **Expanded model answers:** every answer includes structured Bengali explanation, examples, and a conceptual Mermaid diagram; comparison tables are used where appropriate. 5/10/20-mark depth should still be adjusted to the question's exact command and available exam time.
 
 <a id="question-index"></a>
 
-### ⚡ Quick Question Finder — ৩০টি প্রশ্নে সরাসরি যান
+### ⚡ Quick Question Finder — ৩৩টি প্রশ্নে সরাসরি যান
 
 **পদ্ধতি:** English question নির্বাচন করুন → ছোট ধাপে সাজানো বাংলা উত্তর পড়ুন → নীল Source Box থেকে উদ্ধৃতিযোগ্য প্রতিষ্ঠানের নাম শিখুন।
 
@@ -1301,6 +1327,12 @@ E -->|না| C
 - [Q28 — What is meant by a physiographic region? Illustrate with examples.](#q28) — *ভূপ্রাকৃতিক অঞ্চল বলতে কী বোঝায়? উদাহরণসহ ব্যাখ্যা করুন।*
 - [Q29 — Explain why geomorphological maps are useful for public planning.](#q29) — *সরকারি পরিকল্পনায় ভূ-আকৃতিগত মানচিত্র কেন গুরুত্বপূর্ণ?*
 - [Q30 — How does the Bay of Bengal influence Bangladesh’s economic and environmental security?](#q30) — *বঙ্গোপসাগর বাংলাদেশের অর্থনৈতিক ও পরিবেশগত নিরাপত্তাকে কীভাবে প্রভাবিত করে?*
+
+#### G. Secondary PYQ Coverage Gaps — অতিরিক্ত গুরুত্বপূর্ণ প্রশ্ন
+
+- [Q31 — Explain why St Martin's Island is important as a coral-bearing island of Bangladesh.](#q31) — *সেন্ট মার্টিনের ভূতাত্ত্বিক, পরিবেশগত ও অর্থনৈতিক গুরুত্ব ব্যাখ্যা করুন।*
+- [Q32 — Explain the significance of Varendra Research Museum and distinguish it from Barind Tract.](#q32) — *বরেন্দ্র গবেষণা জাদুঘরের ঐতিহাসিক ও সাংস্কৃতিক গুরুত্ব ব্যাখ্যা করুন।*
+- [Q33 — Why is a Teesta water-sharing agreement important for Bangladesh?](#q33) — *তিস্তা নদীর পানি বণ্টন চুক্তি কেন গুরুত্বপূর্ণ?*
 
 [⬆️ Go to Contents](#top)
 
@@ -3058,6 +3090,162 @@ flowchart TD
 > [!TIP]
 > 🟢 **Q30 · Recall in 10 Seconds:** **Bay = trade + resources + maritime rights + environmental security**।
 
+
+
+<a id="q31"></a>
+
+### 31. Explain why St Martin's Island is important as a coral-bearing island of Bangladesh.
+
+**বাংলা প্রশ্ন:** বাংলাদেশের প্রবালসমৃদ্ধ দ্বীপ সেন্ট মার্টিনের ভূতাত্ত্বিক, পরিবেশগত ও অর্থনৈতিক গুরুত্ব ব্যাখ্যা করুন।
+
+**Type:** 36th BCS-এর তৃতীয় পক্ষের প্রশ্নসংকলনে *coral island* বিষয়ে প্রশ্নধারার সঙ্গে সম্পর্কিত; এখানে প্রশ্নের English wording শিক্ষামূলক ভাবানুবাদ, BPSC-এর মূল প্রশ্নপত্র নয়। **Suggested:** ১০–২০ নম্বর।
+
+**ভূমিকা ও অবস্থান:** বাংলাদেশের দক্ষিণতম অংশে, কক্সবাজারের টেকনাফ উপদ্বীপের দক্ষিণে বঙ্গোপসাগরে সেন্ট মার্টিন অবস্থিত। স্থানীয়ভাবে নারিকেল জিঞ্জিরা নামে পরিচিত। এখানে প্রবালকলোনি, খোলসযুক্ত চুনাপাথর (shelly limestone), সামুদ্রিক বালু ও উত্থিত ভূতাত্ত্বিক কাঠামো রয়েছে। Banglapedia-তে দ্বীপটির ভূতাত্ত্বিক গঠন এবং জীবিত ও মৃত প্রবালকলোনির পার্থক্য ব্যাখ্যা করা হয়েছে।
+
+#### Coral, Coral Reef & Limestone — তিনটি শব্দের পার্থক্য
+
+| বিষয় | কী | কোথায়/কেন গুরুত্বপূর্ণ |
+|---|---|---|
+| **Living coral colony** | জীবন্ত প্রবাল পলিপের উপনিবেশ | অগভীর সমুদ্রের নির্দিষ্ট অনুকূল পরিবেশে বৃদ্ধি |
+| **Dead/Fossil coral** | মৃত বা জীবাশ্ম প্রবালের অবশেষ | অতীতের সামুদ্রিক পরিবেশ ও ভূমির উত্থানের প্রমাণ হতে পারে |
+| **Coralline / Shelly Limestone** | প্রবাল ও সামুদ্রিক জীবের খোলস-সম্পর্কিত চুনাপাথর | দ্বীপের ভূতাত্ত্বিক ইতিহাস বোঝার উপাদান |
+| **Coral reef ecosystem** | প্রবাল, মাছ, শৈবাল ও অন্যান্য জীবের পারস্পরিক আবাস | জীববৈচিত্র্য, মৎস্য ও পরিবেশ সুরক্ষায় গুরুত্বপূর্ণ |
+
+**কেন গুরুত্বপূর্ণ (Why)**
+
+1. **ভূতাত্ত্বিক শিক্ষা:** দ্বীপের উত্থিত শিলাস্তর, খোলসযুক্ত চুনাপাথর ও প্রবালসমষ্টি সমুদ্রতল ও ভূ-পরিবর্তনের ইতিহাস সম্পর্কে ধারণা দেয়।
+2. **জীববৈচিত্র্য:** প্রবাল ও উপকূলীয় বাস্তুসংস্থানের ক্ষতি হলে সংশ্লিষ্ট মাছ ও অন্যান্য সামুদ্রিক জীবের আবাস ক্ষতিগ্রস্ত হতে পারে।
+3. **অর্থনীতি ও জীবিকা:** স্থানীয় মৎস্য, নৌপরিবহন, পর্যটন ও সেবা খাতের সঙ্গে দ্বীপের পরিবেশগত মান সম্পর্কিত।
+4. **দুর্বলতা:** সীমিত মিঠাপানি, বর্জ্য, পর্যটনজনিত চাপ ও পরিবেশগত অবক্ষয় দ্বীপের টেকসই ব্যবস্থাপনায় গুরুত্বপূর্ণ।
+
+**কীভাবে সুরক্ষা (How):** উপকূলীয় বাস্তুসংস্থানের বৈজ্ঞানিক পর্যবেক্ষণ, বর্জ্য ও পয়োনিষ্কাশনের ব্যবস্থাপনা, নৌযানের পরিবেশগত আচরণ নিয়ন্ত্রণ, মিঠাপানির উৎস সুরক্ষা এবং স্থানীয় মানুষের জীবিকার সঙ্গে সামঞ্জস্য রেখে পর্যটন পরিচালনা করা দরকার।
+
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Coral_Reef_of_Saint_Martin_Island_Bangladesh.JPG"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Coral_Reef_of_Saint_Martin_Island_Bangladesh.JPG?width=720" width="480" alt="Coral reef formation on Saint Martin Island photographed by Fahad Faisal in 2012"></a></p>
+
+*🖼️ **Real Photo — St Martin's coral reef, 2012.** Creator: **Fahad Faisal**; **Wikimedia Commons, CC BY-SA 4.0**। [মূল ছবি ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Coral_Reef_of_Saint_Martin_Island_Bangladesh.JPG)। এটি একটি নির্দিষ্ট সময়ের দৃশ্য; বর্তমান প্রবালের স্বাস্থ্য বা সংখ্যা এই ছবি দিয়ে নির্ণয় করা যাবে না।*
+
+```mermaid
+flowchart TD
+A["St Martin's Island"] --> B["Geology: uplift, shell limestone, coral"]
+A --> C["Ecosystem: coral + associated marine life"]
+B --> D["Scientific importance"]
+C --> E["Fishing + tourism + habitat"]
+D --> F["Conservation and research"]
+E --> F
+```
+
+**সমালোচনামূলক মূল্যায়ন:** ‘বাংলাদেশের প্রবাল দ্বীপ’ পরিচয় থাকলেই পুরো দ্বীপ জীবন্ত প্রবালে গঠিত বা বর্তমান সব প্রবাল সুস্থ—এ কথা বলা যায় না। ভূতাত্ত্বিক স্তর ও বর্তমান জীবন্ত প্রবাল আলাদা প্রমাণ দাবি করে। অনিরীক্ষিত বর্তমান প্রজাতিসংখ্যা, জনসংখ্যা বা প্রবাল ধ্বংসের শতাংশ লিখবেন না।
+
+**উপসংহার:** সেন্ট মার্টিনের গুরুত্ব ভূতাত্ত্বিক ইতিহাস, সামুদ্রিক জীববৈচিত্র্য, স্থানীয় জীবিকা এবং পরিবেশগত নিরাপত্তার সমন্বয়ে। তাই <mark>পর্যটন ও সম্পদের ব্যবহার অবশ্যই বিজ্ঞানভিত্তিক সংরক্ষণের সঙ্গে সামঞ্জস্যপূর্ণ হতে হবে।</mark>
+
+> [!NOTE]
+> 🟦 **Named sources:** **Banglapedia — Asiatic Society of Bangladesh, “St Martin's Island”, Sifatul Quader Chowdhury**। [মূল নিবন্ধ](https://en.banglapedia.org/index.php/St_Martin%27s_Island); photo [Fahad Faisal, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coral_Reef_of_Saint_Martin_Island_Bangladesh.JPG)।
+
+> [!TIP]
+> 🟩 **Recall:** **Location → Geology → Coral → Biodiversity → Livelihood → Conservation.**
+
+---
+
+<a id="q32"></a>
+
+### 32. Explain the historical and cultural significance of Varendra Research Museum and distinguish it from the Barind Tract.
+
+**বাংলা প্রশ্ন:** বরেন্দ্র গবেষণা জাদুঘরের ঐতিহাসিক ও সাংস্কৃতিক গুরুত্ব ব্যাখ্যা করুন এবং বরেন্দ্রভূমির সঙ্গে এর পার্থক্য দেখান।
+
+**Type:** 36th BCS-এর *Barind region & Varendra Museum* সম্পর্কিত secondary archived question-এর আলোকে পূর্ণাঙ্গ উত্তর।
+
+**ভূমিকা:** ‘বরেন্দ্রভূমি’ বাংলাদেশের উত্তর-পশ্চিমের একটি **ভূপ্রাকৃতিক অঞ্চল (Barind Tract)**; অন্যদিকে **বরেন্দ্র গবেষণা জাদুঘর (Varendra Research Museum)** রাজশাহীর একটি **প্রত্নতাত্ত্বিক ও ঐতিহাসিক গবেষণাপ্রতিষ্ঠান**। দুটি শব্দের আঞ্চলিক সম্পর্ক আছে, কিন্তু একটি মাটির বয়স–ভূমিরূপ বোঝায়, অন্যটি ইতিহাস–সংস্কৃতির নিদর্শন সংরক্ষণ করে।
+
+#### প্রতিষ্ঠা ও গুরুত্ব — তথ্যক্রম
+
+1. **১৯১০:** রাজশাহীতে বরেন্দ্র গবেষণা সমিতি ও জাদুঘরের যাত্রা শুরু হয়।
+2. **উদ্যোক্তা:** **কুমার শরৎকুমার রায়**, **অক্ষয়কুমার মৈত্রেয়** ও **রামপ্রসাদ চন্দ** প্রাচীন বাংলার ইতিহাস ও প্রত্ননিদর্শন অনুসন্ধান এবং সংরক্ষণে অগ্রণী ভূমিকা রাখেন।
+3. **সংগ্রহ ও গবেষণা:** প্রাচীন ও মধ্যযুগের ভাস্কর্য, শিলালিপি, মুদ্রা, পাণ্ডুলিপি ও অন্যান্য নিদর্শন গবেষণায় ব্যবহার করা হয়।
+4. **ঐতিহ্যের গুরুত্ব:** বরেন্দ্র ও বৃহত্তর বঙ্গের রাজনৈতিক, ধর্মীয়, শিল্প-সাংস্কৃতিক এবং সামাজিক ইতিহাস বুঝতে জাদুঘরটির সংরক্ষিত উপাদান সহায়ক।
+5. **বর্তমান প্রতিষ্ঠানগত পরিচয়:** এটি রাজশাহী বিশ্ববিদ্যালয়ের অধীন পরিচালিত—তথ্যসূত্র **University of Rajshahi, Varendra Research Museum**।
+
+| তুলনার বিষয় | Barind Tract — বরেন্দ্রভূমি | Varendra Research Museum — জাদুঘর |
+|---|---|---|
+| প্রকৃতি | ভূতাত্ত্বিক/ভূপ্রাকৃতিক অঞ্চল | প্রত্নতাত্ত্বিক গবেষণা ও সংগ্রহশালা |
+| মূল প্রশ্ন | মাটি কীভাবে গঠিত, পানি ও কৃষিতে প্রভাব কী? | অঞ্চলের অতীত ইতিহাস ও সংস্কৃতি কীভাবে জানা যায়? |
+| গবেষণার উপাত্ত | মাটি, উচ্চতা, পলি, বৃষ্টি, ভূমিরূপ | ভাস্কর্য, লিপি, মুদ্রা, পাণ্ডুলিপি |
+| প্রয়োগ | কৃষি–সেচ–দুর্যোগ পরিকল্পনা | ঐতিহ্য সংরক্ষণ, শিক্ষা ও গবেষণা |
+| পরীক্ষার উত্তরে | Physiography | History, culture and heritage |
+
+```mermaid
+flowchart LR
+A["Varendra / Barind Region"] --> B["Physical Landscape"]
+A --> C["Historical Civilisation"]
+B --> D["Barind Tract: terrace + water use"]
+C --> E["Varendra Museum: artefacts + research"]
+```
+
+**কেন গুরুত্বপূর্ণ:** কোনো অঞ্চলের ভূগোল ও ইতিহাস একই সঙ্গে শেখা গেলে সম্পূর্ণ পরিচিতি তৈরি হয়। বরেন্দ্রের মাটি বা খরা দিয়ে রাজশাহীর প্রত্নতাত্ত্বিক ইতিহাস পুরো ব্যাখ্যা করা যায় না; আবার জাদুঘরের প্রতিষ্ঠার সাল জানলেই বরেন্দ্রের ভৌগোলিক বৈশিষ্ট্য জানা হয়ে যায় না।
+
+**উপসংহার:** <mark>বরেন্দ্রভূমি একটি প্রাচীন সোপানভূমি; বরেন্দ্র গবেষণা জাদুঘর সেই অঞ্চলের ঐতিহাসিক ও সাংস্কৃতিক ঐতিহ্যের গবেষণা ও সংরক্ষণকেন্দ্র।</mark> প্রশ্নে কোনটির কথা চাওয়া হয়েছে তা আগে শনাক্ত করা অপরিহার্য।
+
+> [!NOTE]
+> 🟦 **Sources:** **University of Rajshahi — “Varendra Research Museum”**, [official institution page](https://www.ru.ac.bd/facilities/varendra-research-museum/); **Banglapedia — “Varendra Research Society”**, [historical account](https://en.banglapedia.org/index.php/Varendra_Research_Society); **Banglapedia — “Bangladesh Geography”**, [Barind physiography](https://en.banglapedia.org/index.php?title=Bangladesh_Geography)।
+
+> [!TIP]
+> 🟩 **Mnemonic: LAND vs LEGACY.** **BARIND = landform**; **VARENDRA MUSEUM = archaeological heritage**।
+
+---
+
+<a id="q33"></a>
+
+### 33. Why is a Teesta water-sharing agreement important for Bangladesh?
+
+**বাংলা প্রশ্ন:** বাংলাদেশের জন্য তিস্তা নদীর পানি বণ্টন চুক্তি কেন গুরুত্বপূর্ণ? কারণ, প্রভাব ও করণীয় বিশ্লেষণ করুন।
+
+**Type:** 45th BCS Bangladesh Affairs-এর তৃতীয় পক্ষের প্রশ্নসংকলনে পাওয়া cross-unit transboundary-water theme; original paper wording এখানেও সরাসরি যাচাই করা হয়নি। **Suggested marks:** ২০।
+
+**ভূমিকা:** তিস্তা বাংলাদেশের উত্তরাঞ্চলের একটি গুরুত্বপূর্ণ **আন্তঃসীমান্ত নদী (Transboundary River)**। উজান থেকে আসা পানি দুই দেশের পরিবেশ, কৃষি, নদীর প্রবাহ ও মানুষের জীবিকাকে প্রভাবিত করে। নদীটি সিকিম–পশ্চিমবঙ্গ হয়ে বাংলাদেশে প্রবেশ করে এবং উত্তরাঞ্চলের জলপ্রবাহের অংশ হিসেবে গুরুত্বপূর্ণ। তাই পানি বণ্টনের প্রশ্ন শুধু কূটনীতি নয়—এটি ভৌগোলিক, কৃষিভিত্তিক ও সামাজিক সমস্যা।
+
+#### কেন প্রয়োজন — চার স্তরের বিশ্লেষণ
+
+**১. পানির সময়গত বৈষম্য (Seasonal Flow):** বর্ষায় পানির আধিক্য আর শুষ্ক মৌসুমে প্রবাহের ঘাটতি এক ধরনের সমস্যা নয়। কৃষকের সেচের প্রয়োজন ও নদীর পরিবেশগত প্রবাহ (ecological flow) একই সময়ে চাপের মুখে পড়তে পারে।
+
+**২. কৃষি ও খাদ্য নিরাপত্তা:** উত্তরাঞ্চলের কৃষি ও সেচ নির্ভরযোগ্য পানির ওপর নির্ভর করে। প্রবাহ সম্পর্কে পূর্বপরিকল্পনা থাকলে ফসল ক্যালেন্ডার, পানি সংরক্ষণ ও সেচ ব্যবস্থাপনায় সিদ্ধান্ত নেওয়া সহজ হয়।
+
+**৩. নদী ও জলজ প্রতিবেশ:** নদীর পানির পরিমাণ ও মৌসুমি গতি পলি পরিবহন, মাছ, জলজ আবাস, নৌযোগাযোগ ও স্থানীয় ভূগর্ভস্থ পানি ব্যবস্থাকে প্রভাবিত করতে পারে। অতএব চুক্তি শুধুমাত্র 'কত পানি' নয়—'কখন, কীভাবে এবং কোন প্রক্রিয়ায় ব্যবস্থাপনা' এই প্রশ্নও তোলে।
+
+**৪. প্রতিবেশী সহযোগিতা:** উজানের ও ভাটির তথ্য বিনিময়, বৃষ্টিপাত ও প্রবাহ পর্যবেক্ষণ, বন্যার আগাম সতর্কতা এবং সংকটকালে যৌথ আলোচনার প্রতিষ্ঠান—সবকিছু দীর্ঘমেয়াদি আস্থা ও নীতির ধারাবাহিকতায় সাহায্য করে।
+
+#### Teesta Water Governance — সমস্যা থেকে নীতিতে
+
+| সমস্যা | কীভাবে প্রভাব পড়ে | যৌক্তিক নীতিগত অগ্রাধিকার |
+|---|---|---|
+| শুষ্ক মৌসুমে প্রবাহের অনিশ্চয়তা | সেচ ও জীবিকা পরিকল্পনায় চাপ | প্রবাহ পর্যবেক্ষণ, তথ্য ভাগাভাগি, fair allocation framework |
+| অতিবৃষ্টির সময় দ্রুত প্রবাহ | বন্যা ও অবকাঠামোর ঝুঁকি | উজান–ভাটির real-time flood information |
+| পলি ও নদীখাতের পরিবর্তন | চর, তীরভাঙন ও কৃষিজমি | Basin-wide sediment study, river corridor management |
+| পানি নিয়ে পারস্পরিক অনিশ্চয়তা | দ্বিপক্ষীয় আলোচনায় চাপ | কার্যকর যৌথ প্রাতিষ্ঠানিক সংলাপ |
+
+```mermaid
+flowchart LR
+A["Upstream Rainfall + River Flow"] --> B["Transboundary Teesta"]
+B --> C["Dry-season irrigation"]
+B --> D["Wet-season flood risk"]
+B --> E["River ecology"]
+C --> F["Joint flow information + dialogue"]
+D --> F
+E --> F
+F --> G["Predictable, fair and sustainable water governance"]
+```
+
+**ঐতিহাসিক নদী-পরিবর্তনের সঙ্গে সম্পর্ক:** Banglapedia-র *Tista River* নিবন্ধে **১৭৮৭ সালের বন্যা** এবং পুরোনো গঙ্গামুখী গতিপথ থেকে নদীর নতুন প্রবাহপথের ইতিহাস বর্ণিত। এটি উত্তরাঞ্চলের নদীভূগোল যে পরিবর্তনশীল, তার উদাহরণ; বর্তমান পানি বণ্টনের নির্দিষ্ট সংখ্যাগত প্রস্তাবের প্রমাণ নয়।
+
+**Critical Evaluation:** চুক্তি থাকলেই শুষ্ক মৌসুমের পানিসংকট শেষ হয়ে যায় না—বৃষ্টিপাতের পরিবর্তন, স্থানীয় সেচদক্ষতা, নদীর অববাহিকার পরিবেশ ও বাস্তব প্রয়োগও গুরুত্বপূর্ণ। একইভাবে নির্ভরযোগ্য যৌথ তথ্য ও পরিকল্পনা ছাড়া শুধু একপক্ষের অবকাঠামো সব সমস্যার স্থায়ী সমাধান নয়। প্রশ্নটি সমসাময়িক চুক্তির বর্তমান অবস্থা জানতে চাইলে সর্বশেষ সরকারি নথি আলাদাভাবে যাচাই করতে হবে; এখানে কোনো চুক্তি স্বাক্ষরিত হয়েছে বা হয়নি—সেই পরিবর্তনশীল দাবি করা হয়নি।
+
+**উপসংহার:** <mark>তিস্তার যৌক্তিক পানি ব্যবস্থাপনা মানে ন্যায়সংগত বণ্টন, তথ্যভিত্তিক সিদ্ধান্ত, পরিবেশগত প্রবাহ ও উজান–ভাটির সহযোগিতা একসঙ্গে নিশ্চিত করা।</mark>
+
+> [!NOTE]
+> 🟦 **Sources:** **Banglapedia — “Tista River”, Mesbah-us-Saleheen**, [river geography & historical course](https://en.banglapedia.org/index.php/Tista_River); **GED — “Bangladesh Delta Plan 2100”, transboundary water management**, [official overview](https://bdp2100kp.gov.bd/BDP2100/Overview)।
+
+> [!TIP]
+> 🟩 **Recall:** **DRY-SEASON FLOW → AGRICULTURE → ECOLOGY → FAIR WATER GOVERNANCE**।
+
+---
 
 <a id="worked"></a>
 
