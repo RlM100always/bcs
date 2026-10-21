@@ -24,7 +24,7 @@
 | [জলবায়ু পরিবর্তন ও দুর্যোগ](#climate) | [বন, জীববৈচিত্র্য ও জলাভূমি](#biodiversity) | [৩৩টি Practice Questions + ৩০টি Answered Q&A](#questions) |
 | [উপকূল ও সমুদ্র](#coast) | [শহরায়ণ ও পরিবেশগত ন্যায়](#urban) | [Answer Writing Strategy](#strategy) |
 | [আইন, নীতি ও প্রতিষ্ঠান](#laws) | [সমাধান ও সবুজ রূপান্তর](#solutions) | [One-page Revision](#revision) |
-| [Official Map + 12 Visuals](#visuals) | [Source Register](#sources) | [Self-test](#selftest) |
+| [Official Map + 12 Revision Diagrams + 1 Data Chart](#visuals) | [Source Register](#sources) | [Self-test](#selftest) |
 
 ---
 
@@ -515,6 +515,8 @@ The Bangladesh Forest Department's protected-area page reports **470,223.206 hec
 | BCS | Verified environment-related prompt | What to prepare |
 |---|---|---|
 | **35th** | Environmental degradation; river pollution; waste management; sea-level rise. | Definitions, cause–effect, waste hierarchy and coastal adaptation. |
+| **36th** | Cross-paper: Bangla essay on environmental degradation and remedies; not a direct Bangladesh Affairs question. | Practise a structured essay on causes, impacts, enforcement and remedies. |
+| **37th** | Bangladesh Affairs Q20(b): likely adverse impacts of climate change on Bangladesh (10 marks). | Climate impacts, vulnerable regions/groups, adaptation and mitigation. |
 | **38th** | Disaster management; Bangladesh's disaster-management capacity; pollution and natural disasters. | Disaster cycle, hazard–exposure–vulnerability and environmental governance. |
 | **40th** | Green Economy appears in the Bangladesh Affairs short-note list. | Green growth, clean technology, resource efficiency and just transition. |
 | **41st** | Forest-resource protection; sustainable development. | Forest ecosystem services, conservation and source-backed policy. |
