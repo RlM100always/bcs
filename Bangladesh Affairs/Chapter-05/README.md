@@ -5,7 +5,7 @@
 > **পাঠের লক্ষ্য:** পরিবেশগত সমস্যা কারণ–ফলসহ বোঝা, সরকারি নীতি ও আইনের সঙ্গে সমাধান যুক্ত করা এবং পরীক্ষায় উৎসসমৃদ্ধ বিশ্লেষণধর্মী প্রবন্ধ লেখা।  
 > **Source review:** ২১ অক্টোবর ২০২৬।
 
-[← মূল সূচি](../README.md) · [Chapter 01 — ভূগোল](../Chapter-01/README.md) · [Chapter 06 — প্রাকৃতিক সম্পদ](../Chapter-06/README.md) · [📚 English Quotations + Sources](./QUOTATIONS.md) · [পূর্ণাঙ্গ Model Essays](./PYQ-BASED-ESSAYS.md)
+[← মূল সূচি](../README.md) · [Chapter 01 — ভূগোল](../Chapter-01/README.md) · [Chapter 06 — প্রাকৃতিক সম্পদ](../Chapter-06/README.md) · [📚 English Quotations + Sources](./QUOTATIONS.md) · [৩০টি Answered Questions](./BCS-WRITTEN-QUESTION-BANK.md) · [35th–47th PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) · [পূর্ণাঙ্গ Model Essays](./PYQ-BASED-ESSAYS.md)
 
 > 📱 **Mobile-friendly:** এই অধ্যায়ে responsive SVG diagrams দেওয়া হয়েছে। এগুলো আলাদা SVG ফাইল; মোবাইলে Mermaid render-এর ওপর নির্ভরশীল নয়। মূল লেখার জন্য external image load হওয়া জরুরি নয়।
 
@@ -18,13 +18,13 @@
 
 | মূল ধারণা | বাংলাদেশে পরিবেশগত চ্যালেঞ্জ | পরীক্ষা ও পুনরালোচনা |
 |---|---|---|
-| [BPSC syllabus ও শিখনফল](#start) | [বায়ুদূষণ](#air) | [PYQ Theme Analysis](#pyq) |
+| [BPSC syllabus ও শিখনফল](#start) | [বায়ুদূষণ](#air) | [35th–47th PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) |
 | [পরিবেশ ও টেকসই উন্নয়ন](#concepts) | [পানি, নদী ও ভূগর্ভস্থ জল](#water) | [৮টি Model Essay](./PYQ-BASED-ESSAYS.md) |
 | [বাংলাদেশের পরিবেশগত বৈশিষ্ট্য](#bangladesh) | [প্লাস্টিক ও কঠিন বর্জ্য](#waste) | [English Quotations + Sources](./QUOTATIONS.md) |
-| [জলবায়ু পরিবর্তন ও দুর্যোগ](#climate) | [বন, জীববৈচিত্র্য ও জলাভূমি](#biodiversity) | [৩৩টি Written Practice Questions](#questions) |
+| [জলবায়ু পরিবর্তন ও দুর্যোগ](#climate) | [বন, জীববৈচিত্র্য ও জলাভূমি](#biodiversity) | [৩৩টি Practice Questions + ৩০টি Answered Q&A](#questions) |
 | [উপকূল ও সমুদ্র](#coast) | [শহরায়ণ ও পরিবেশগত ন্যায়](#urban) | [Answer Writing Strategy](#strategy) |
 | [আইন, নীতি ও প্রতিষ্ঠান](#laws) | [সমাধান ও সবুজ রূপান্তর](#solutions) | [One-page Revision](#revision) |
-| [Visual Revision](#visuals) | [Source Register](#sources) | [Self-test](#selftest) |
+| [Official Map + 12 Visuals](#visuals) | [Source Register](#sources) | [Self-test](#selftest) |
 
 ---
 
@@ -393,77 +393,139 @@ PM2.5 হলো ব্যাস ২.৫ মাইক্রোমিটার ব
 ---
 
 <a id="visuals"></a>
-## ১২. Quick Revision Visuals
+## ১২. Visual Atlas — official map, diagrams and revision charts
 
-### Visual 1 — পরিবেশগত সমস্যার কারণ–ফল–সমাধান
+এই অংশে সরকারি মানচিত্র, উৎস-সংযুক্ত resource এবং অধ্যায়ের জন্য তৈরি revision diagram রাখা হয়েছে। **Official map** এবং **নিজস্ব schematic diagram** আলাদা করে চিহ্নিত করা হয়েছে; conceptual diagram-কে সরকারি boundary map বা measured statistical chart হিসেবে ব্যবহার করবেন না।
+
+### Quick Jump — সরাসরি প্রয়োজনীয় চিত্রে যান
+
+- [Official protected-area map of Bangladesh](#map-protected)
+- [ECA legal framework](./assets/visuals/06-eca-framework.svg)
+- [Environmental risk model](./assets/visuals/07-risk-matrix.svg)
+- [Climate adaptation and mitigation](./assets/visuals/08-climate-pathway.svg)
+- [River pollution: source to solution](./assets/visuals/09-river-pollution.svg)
+- [Circular economy](./assets/visuals/10-circular-economy.svg)
+- [Ecosystem services](./assets/visuals/11-ecosystem-services.svg)
+- [Five-year governance roadmap](./assets/visuals/12-governance-roadmap.svg)
+- [35th–47th BCS PYQ audit](./PYQ-ANALYSIS-35TH-47TH.md)
+- [৩০টি fully answered questions](./BCS-WRITTEN-QUESTION-BANK.md)
+
+<a id="map-protected"></a>
+### Official map — Protected Areas of Bangladesh
+
+![Protected Areas of Bangladesh — Bangladesh Forest Department map](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bforest/2024/12/867737834ba44849b1ec2e3df7c56889.jpg)
+
+**Source:** Bangladesh Forest Department, Government of Bangladesh. [Official protected-area page and current list](https://bforest.gov.bd/pages/static-pages/6922e13b933eb65569e2b006). The image file is a government-hosted map dated December 2024. Do not use the map image alone as proof of the current protected-area count or as a cadastral boundary map.
+
+**ECA source:** [Ministry of Environment, Forest and Climate Change — ECA documents and rules](https://moef.gov.bd/pages/static-pages/694032cb35ce18e1c0562861). For legal boundaries, names and designation dates, use the applicable Gazette and current official documents rather than estimating boundaries from this protected-area map.
+
+### Visual 1 — Environment cause → effect → solution
+
 ![Environment cause effect solution](./assets/visuals/01-environment-cause-effect.svg)
 
-### Visual 2 — বায়ুদূষণ নিয়ন্ত্রণ
+### Visual 2 — Air pollution management
+
 ![Air pollution management](./assets/visuals/02-air-pollution.svg)
 
-### Visual 3 — জলবায়ু অভিযোজন ও প্রশমন
+### Visual 3 — Climate adaptation and mitigation
+
 ![Climate adaptation mitigation](./assets/visuals/03-climate-action.svg)
 
-### Visual 4 — বর্জ্য ব্যবস্থাপনার চক্র
+### Visual 4 — Waste hierarchy
+
 ![Waste hierarchy](./assets/visuals/04-waste-hierarchy.svg)
 
-### Visual 5 — আইন থেকে বাস্তবায়ন
+### Visual 5 — Environmental governance
+
 ![Environmental governance](./assets/visuals/05-environment-governance.svg)
 
-> [!NOTE]
-> এগুলো নিজস্বভাবে তৈরি revision diagram—কোনো পরিসংখ্যানগত chart নয়। বর্তমান পরিসংখ্যান লিখলে সংশ্লিষ্ট প্রতিবেদনের বছর ও উৎস উল্লেখ করুন।
+### Visual 6 — ECA framework
 
-### অনলাইন ছবি, মানচিত্র ও রিপোর্ট
-- **World Bank, Bangladesh Country Environmental Analysis 2023:** [মূল রিপোর্ট ও overview](https://www.worldbank.org/en/region/sar/publication/bangladesh-country-environment-analysis-2023)
-- **National Adaptation Plan 2023–2050:** [UNDP Bangladesh](https://www.undp.org/bangladesh/publications/national-adaptation-plan-bangladesh-2023-2050)
-- **পরিবেশ আইন ও নীতি:** [পরিবেশ অধিদপ্তর](https://doe.gov.bd/pages/static-pages/6922e0de933eb65569e28f32)
-- **বাংলাদেশ পরিবেশ সংরক্ষণ আইন, ১৯৯৫:** [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-print-791.html)
-- **Bangladesh Climate Change Strategy and Action Plan 2009:** [ADB Law and Policy Reform](https://lpr.adb.org/resource/bangladesh-climate-change-strategy-and-action-plan-2009)
+![ECA framework and management cycle](./assets/visuals/06-eca-framework.svg)
 
-> অনলাইনের ছবি বা map অন্যত্র ব্যবহার করলে সংশ্লিষ্ট ছবির licence, creator ও attribution যাচাই করুন। সরকারি ওয়েবসাইটে থাকা সব ছবি স্বয়ংক্রিয়ভাবে public domain নয়।
+### Visual 7 — Environmental risk model
+
+![Hazard, exposure and vulnerability risk model](./assets/visuals/07-risk-matrix.svg)
+
+### Visual 8 — Climate action pathway
+
+![Climate adaptation and mitigation pathway](./assets/visuals/08-climate-pathway.svg)
+
+### Visual 9 — River pollution
+
+![River pollution source to solution](./assets/visuals/09-river-pollution.svg)
+
+### Visual 10 — Circular economy
+
+![Circular economy and waste hierarchy](./assets/visuals/10-circular-economy.svg)
+
+### Visual 11 — Ecosystem services
+
+![Ecosystem services in Bangladesh](./assets/visuals/11-ecosystem-services.svg)
+
+### Visual 12 — Environmental governance roadmap
+
+![Five-year environmental governance roadmap](./assets/visuals/12-governance-roadmap.svg)
+
+### Official resources for additional maps and photographs
+
+- **Protected areas:** [Bangladesh Forest Department — protected areas and official map](https://bforest.gov.bd/pages/static-pages/6922e13b933eb65569e2b006)
+- **National parks:** [Forest Department / FAO Bangladesh Forest Information System map catalogue](https://bfis.bforest.gov.bd/library/map-of-national-park-locations-in-bangladesh/)
+- **Forest and land-cover maps:** [Bangladesh Forest Information System — maps catalogue](https://bfis.bforest.gov.bd/library/category/maps/)
+- **ECA and legal documents:** [Ministry of Environment, Forest and Climate Change — ECA resources](https://moef.gov.bd/pages/static-pages/694032cb35ce18e1c0562861)
+- **Environment and pollution evidence:** [World Bank, Bangladesh Country Environmental Analysis 2023](https://www.worldbank.org/en/region/sar/publication/bangladesh-country-environmental-analysis-2023)
+- **Climate adaptation:** [National Adaptation Plan 2023–2050, UNDP Bangladesh](https://www.undp.org/bangladesh/publications/national-adaptation-plan-bangladesh-2023-2050)
+
+> **Image-use note:** the embedded protected-area map is a real government-hosted map. The SVGs are original study diagrams, not official boundary maps or numerical datasets. Check licensing and attribution before reusing third-party images elsewhere.
+
+[⬆️ উপরে ফিরুন](#top)
 
 ---
 
 <a id="pyq"></a>
-## ১৩. Previous BCS Question Analysis — High-yield themes
+## ১৩. Previous BCS Question Analysis — 35th–47th BCS
 
-### প্রমাণ-সীমা
-BPSC-এর সরকারি সিলেবাসে Unit 5-এ বাংলাদেশের পরিবেশ ও প্রকৃতি, চ্যালেঞ্জ ও সম্ভাবনা, সংরক্ষণ এবং sustainability স্পষ্টভাবে আছে। [S1] প্রকাশ্য প্রশ্নসংকলন ও পুরোনো লিখিত প্রশ্নের উদাহরণ প্রশ্নের ধরন বোঝাতে সাহায্য করে; কিন্তু প্রতিটি বছরের সব প্রশ্নের মূল BPSC scan যাচাই না করে কোনো topic-কে নিশ্চিত “বারবার আসা” প্রশ্ন বলা উচিত নয়। নিচের অগ্রাধিকার **syllabus-led theme analysis**—পূর্ণাঙ্গ statistical frequency count নয়।
+**[Open full 35th–47th BCS PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md)** — এখানে direct Bangladesh Affairs questions, cross-paper themes এবং যাচাইয়ের সীমাবদ্ধতা আলাদা করে দেখানো হয়েছে।
 
-### Priority A — আগে শেষ করুন
+### Direct Bangladesh Affairs themes verified in the accessible transcription
 
-| বিষয় | কেন high-yield | উত্তর কীভাবে সাজাবেন |
+| BCS | Verified environment-related prompt | What to prepare |
 |---|---|---|
-| জলবায়ু পরিবর্তন ও বাংলাদেশ | পরিবেশ, অর্থনীতি ও দুর্যোগের সংযোগ | ঝুঁকি → প্রভাব → adaptation/mitigation → finance |
-| বায়ুদূষণ ও জনস্বাস্থ্য | পরিমাপযোগ্য পরিবেশগত সমস্যা | উৎস → PM2.5 → স্বাস্থ্য/অর্থনীতি → নিয়ন্ত্রণ |
-| পানি ও নদী দূষণ | নিরাপদ পানি, শিল্প, জনস্বাস্থ্য | উৎস → পানি/স্বাস্থ্য/জীবিকা → শাসন ও সমাধান |
-| সুন্দরবন ও জীববৈচিত্র্য | সংরক্ষণ ও জীবিকার ভারসাম্য | ecological services → threats → community-based conservation |
-| প্লাস্টিক ও বর্জ্য | নগরায়ণ, জলাবদ্ধতা ও নদী দূষণ | waste hierarchy → EPR → municipal system |
-| পরিবেশ আইন ও সুশাসন | নীতি ও বাস্তবায়নের ব্যবধান | আইন → প্রতিষ্ঠান → enforcement gap → accountability |
-| উপকূল, লবণাক্ততা ও দুর্যোগ | বাংলাদেশের ভৌগোলিক ঝুঁকি | exposure → vulnerability → adaptation |
-| পরিবেশ ও টেকসই উন্নয়ন | পুরো ইউনিটের মূল ধারণা | অর্থনীতি + ন্যায় + পরিবেশ → policy mix |
+| **35th** | Environmental degradation; river pollution; waste management; sea-level rise. | Definitions, cause–effect, waste hierarchy and coastal adaptation. |
+| **38th** | Disaster management; Bangladesh's disaster-management capacity; pollution and natural disasters. | Disaster cycle, hazard–exposure–vulnerability and environmental governance. |
+| **40th** | Green Economy appears in the Bangladesh Affairs short-note list. | Green growth, clean technology, resource efficiency and just transition. |
+| **41st** | Forest-resource protection; sustainable development. | Forest ecosystem services, conservation and source-backed policy. |
+| **43rd** | Environmental and nature-related challenges; disaster impacts on agriculture. | Integrated environmental risk and sector-specific adaptation. |
+| **46th** | Environmental degradation causes/remedies; marine-resource use. | 20-mark essay structure, enforcement and sustainable marine management. |
+| **47th** | Ecologically Critical Areas (ECA); sustainable-development priorities. | ECA definition, significance, examples, management and Gazette verification. |
 
-### Priority B — দ্বিতীয় ধাপ
-- Environmental Impact Assessment (EIA) ও পরিবেশগত ছাড়পত্র।
-- জলাভূমি, নদী দখল ও নগর নিষ্কাশন।
-- আর্সেনিক ও নিরাপদ পানির ব্যবস্থাপনা।
-- নবায়নযোগ্য শক্তি, পরিচ্ছন্ন উৎপাদন ও সবুজ কর্মসংস্থান।
-- পরিবেশগত ন্যায়, জনঅংশগ্রহণ ও স্থানীয় সরকার।
-- আন্তর্জাতিক জলবায়ু অর্থায়ন ও বাংলাদেশের ন্যায্যতার যুক্তি।
+> **Evidence limitation:** the accessible archive is a third-party transcription, not a complete authenticated BPSC-scan series. “Not verified” does not mean “never appeared”. See the full audit for coverage limits and sources.
 
-### প্রশ্নের verb অনুযায়ী
-- **Describe:** সংজ্ঞা, বৈশিষ্ট্য, উদাহরণ।
-- **Explain:** কারণ ও প্রক্রিয়া।
-- **Analyse:** কারণ–ফল, কারা বেশি ক্ষতিগ্রস্ত, কেন বর্তমান নীতি যথেষ্ট নয়।
-- **Evaluate:** অর্জন, সীমাবদ্ধতা, প্রমাণ ও বিকল্প নীতি।
-- **Suggest measures:** দায়িত্বপ্রাপ্ত প্রতিষ্ঠান, সময়, অর্থায়ন ও সূচকসহ বাস্তবসম্মত সুপারিশ।
+### Priority themes
+
+1. Environmental degradation, causes and remedies.
+2. River pollution, water security and waste management.
+3. Climate change, sea-level rise, disaster risk and adaptation.
+4. Forest resources, biodiversity and the Sundarbans.
+5. Sustainable development, green economy and environmental justice.
+6. ECA, environmental law, EIA and implementation gaps.
+
+### Question verbs and answer design
+
+- **Define / What is:** precise definition + one Bangladesh example.
+- **Describe:** key features + examples + significance.
+- **Explain / Analyse:** causes → process → impacts → affected groups.
+- **Evaluate:** achievements + limitations + evidence + alternatives.
+- **Recommend:** institution + action + timeframe + measurable indicator.
+
+[⬆️ উপরে ফিরুন](#top) · [Full PYQ audit](./PYQ-ANALYSIS-35TH-47TH.md) · [30 answered questions](./BCS-WRITTEN-QUESTION-BANK.md)
 
 ---
 
 <a id="questions"></a>
 ## ১৪. ৩৩টি BCS Written Practice Questions
 
-> নিচেরগুলো syllabus-led practice questions; এগুলো সবই হুবহু বিগত BPSC প্রশ্ন—এমন দাবি করা হচ্ছে না।
+**Answer support:** [৩০টি পূর্ণাঙ্গ model answer-সহ Question Bank খুলুন](./BCS-WRITTEN-QUESTION-BANK.md)। নিচের ৩৩টি prompt দ্রুত practice-এর জন্য; এগুলো সবই হুবহু বিগত BPSC প্রশ্ন—এমন দাবি করা হচ্ছে না।
 
 ### Core concepts
 1. **Define sustainable development and explain its relevance to Bangladesh.** — টেকসই উন্নয়ন সংজ্ঞায়িত করে বাংলাদেশের জন্য এর গুরুত্ব ব্যাখ্যা করুন।
@@ -602,6 +664,15 @@ https://lpr.adb.org/resource/bangladesh-climate-change-strategy-and-action-plan-
 **[S8] World Bank.** *Country Climate and Development Report for Bangladesh* — climate risks, mitigation opportunities and development context.  
 https://www.worldbank.org/en/news/feature/2022/10/31/key-highlights-country-climate-and-development-report-for-bangladesh
 
+**[S9] Bangladesh Forest Department, Government of Bangladesh.** Protected-area page and official map resource. The linked map file is dated December 2024; consult the current official list and Gazette for present designations.  
+https://bforest.gov.bd/pages/static-pages/6922e13b933eb65569e2b006
+
+**[S10] Ministry of Environment, Forest and Climate Change.** ECA rules and documents; use the applicable Gazette for legal boundaries and current designations.  
+https://moef.gov.bd/pages/static-pages/694032cb35ce18e1c0562861
+
+**[S11] United Nations / IPCC / UN-Water.** Sustainable Development Goals, UNFCCC, IPCC AR6 and water-development source texts used in the quotation bank.  
+https://sdgs.un.org/goals · https://www.ipcc.ch/report/ar6/syr/ · https://www.unwater.org/publications/un-world-water-development-report-2015
+
 ### উৎস ব্যবহারের নিয়ম
 - পরিবেশগত আইন/নীতির ক্ষেত্রে সরকারি আইন ও মন্ত্রণালয়ের উৎস অগ্রাধিকার দিন।
 - World Bank/UNDP রিপোর্টে উল্লেখিত সংখ্যা ব্যবহার করলে **প্রতিবেদনের বছর, হিসাবের সময়কাল ও সূচক** লিখুন।
@@ -609,4 +680,4 @@ https://www.worldbank.org/en/news/feature/2022/10/31/key-highlights-country-clim
 - প্রশ্নসংকলনের থিম আর মূল BPSC প্রশ্নপত্র এক নয়; exact wording/year যাচাই করুন।
 - এই অধ্যায়ের SVG diagrams revision-এর জন্য তৈরি; সেগুলো source data বা official government infographic নয়।
 
-[⬆️ উপরে ফিরুন](#top) · [English Quotations + Sources](./QUOTATIONS.md) · [PYQ-Based Model Essays](./PYQ-BASED-ESSAYS.md)
+[⬆️ উপরে ফিরুন](#top) · [English Quotations + Sources](./QUOTATIONS.md) · [৩০টি Answered Questions](./BCS-WRITTEN-QUESTION-BANK.md) · [35th–47th PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) · [PYQ-Based Model Essays](./PYQ-BASED-ESSAYS.md)
