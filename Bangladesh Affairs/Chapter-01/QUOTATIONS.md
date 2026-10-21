@@ -101,7 +101,11 @@
 
 ### 🟨 ৪. Maritime Zones — সামুদ্রিক অঞ্চল
 
-**Source-backed legal fact:** Banglapedia-র ভূগোলবিষয়ক নিবন্ধে বাংলাদেশের **territorial waters**-এর প্রস্থ ১২ nautical miles হিসেবে উল্লেখ করা হয়েছে। তবে Territorial Sea, Contiguous Zone এবং Exclusive Economic Zone (EEZ)-এর আইনি ক্ষমতা এক নয়।
+**English exam-ready line (সরাসরি উদ্ধৃতি নয়):** Bangladesh's maritime zones carry different legal rights; the territorial sea, contiguous zone and Exclusive Economic Zone (EEZ) must not be treated as equivalent.
+
+**বাংলা অর্থ:** বাংলাদেশের সামুদ্রিক অঞ্চলগুলোর আইনি অধিকার এক নয়; Territorial Sea, Contiguous Zone এবং Exclusive Economic Zone (EEZ)-কে একই ধরনের অধিকার হিসেবে ব্যাখ্যা করা যাবে না।
+
+**Source-backed fact:** Banglapedia-র ভূগোলবিষয়ক নিবন্ধে বাংলাদেশের territorial waters-এর প্রস্থ ১২ nautical miles হিসেবে উল্লেখ করা হয়েছে।
 
 **বাংলা exam line:** সামুদ্রিক সীমানা ব্যাখ্যার সময় শুধু দূরত্ব মুখস্থ করলেই হবে না; **territorial sovereignty** এবং **sovereign rights**-এর পার্থক্যও লিখতে হবে।
 
