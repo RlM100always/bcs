@@ -11,6 +11,18 @@
 
 > **Evidence rule:** BPSC-এর মূল প্রশ্নপত্রের scan/PDF দিয়ে স্বাধীনভাবে যাচাই করা হয়নি—এমন প্রশ্নকে “verified official PYQ” বলা হবে না। তৃতীয়-পক্ষের question archive-এ রিপোর্ট করা প্রশ্নকে “archive-reported” এবং এই অধ্যায়ে তৈরি প্রশ্নকে “model/practice question” বলা হয়েছে।
 
+### অধ্যায় ১১-এর গুরুত্বপূর্ণ উদ্ধৃতি
+
+> “The Election Commission shall be independent in the exercise of its functions.”  
+> — Constitution of Bangladesh, Article 118(4)
+
+> “The power of voters is the liberation of Democracy.”  
+> — Bangladesh Election Commission, National Voters Day 2026 theme
+
+**পরীক্ষায় ব্যবহার:** প্রথম উদ্ধৃতিটি নির্বাচন কমিশনের সাংবিধানিক স্বাধীনতা নিয়ে; দ্বিতীয়টি ভোটারের ভূমিকা ও নাগরিক অংশগ্রহণ নিয়ে লিখতে পারেন। উদ্ধৃতির সঙ্গে সম্পর্কিত ব্যাখ্যা ও আইনি প্রেক্ষাপট অবশ্যই যোগ করবেন।
+
+[সম্পূর্ণ English quotation bank, বাংলা ভাবানুবাদ ও source links →](./QUOTATIONS.md)
+
 ## 🟨🟩 রঙের সংকেত — Reading Colour Code
 
 - 🟨 **মুখস্থযোগ্য তথ্য:** অনুচ্ছেদ, আইন, প্রতিষ্ঠান, গুরুত্বপূর্ণ ধারণা।
