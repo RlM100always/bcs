@@ -155,9 +155,9 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 
 #### বাস্তব ছবি: বাংলাদেশের উর্বর কৃষিজমি
 
-![বাংলাদেশের সবুজ ধানক্ষেত ও কৃষিজমি](https://commons.wikimedia.org/wiki/Special:FilePath/Rice%20field%20in%20Bangladesh.jpg)
+![বাংলাদেশের সবুজ ধানক্ষেত ও কৃষিজমি](https://commons.wikimedia.org/wiki/Special:FilePath/Panorama%20of%20Scenery%20with%20Rice%20Paddy%20-%20Rangamati%20-%20Chittagong%20Hill%20Tracts%20-%20Bangladesh%20%2813240683085%29.jpg)
 
-*চিত্র-পাঠ:* পলিমাটি, ধান উৎপাদন, খাদ্যনিরাপত্তা এবং কৃষিজমি রক্ষার প্রয়োজনীয়তা মিলিয়ে পড়ুন। ছবিটি একটি উদাহরণ; কৃষিজমির পরিমাণের পরিসংখ্যান নয়। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/Category:Rice_fields_in_Bangladesh) · [BBS-এর কৃষি ও ভূমি পরিসংখ্যান](https://bbs.gov.bd/)
+*চিত্র-পাঠ:* পলিমাটি, ধান উৎপাদন, খাদ্যনিরাপত্তা এবং কৃষিজমি রক্ষার প্রয়োজনীয়তা মিলিয়ে পড়ুন। ছবিটি একটি উদাহরণ; কৃষিজমির পরিমাণের পরিসংখ্যান নয়। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Panorama_of_Scenery_with_Rice_Paddy_-_Rangamati_-_Chittagong_Hill_Tracts_-_Bangladesh_(13240683085).jpg) · [BBS-এর কৃষি ও ভূমি পরিসংখ্যান](https://bbs.gov.bd/)
 
 #### মানচিত্র/গবেষণা: যমুনা অববাহিকায় মাটিক্ষয়
 
@@ -200,9 +200,9 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 
 #### বাস্তব ছবি: যমুনা নদী ও নদীতীরের পরিবর্তন
 
-![যমুনা নদীর প্রবাহ ও নদীতীর](https://commons.wikimedia.org/wiki/Special:FilePath/Jamuna%20River%20Bangladesh.jpg)
+![যমুনা নদীর প্রবাহ ও নদীতীর](https://commons.wikimedia.org/wiki/Special:FilePath/Jamuna%20River%20Bangladesh%2C%2025%20June%202022.jpg)
 
-*চিত্র-পাঠ:* নদীসম্পদ সেচ, মৎস্য, নৌপরিবহন ও পলি সরবরাহ করে; একই সঙ্গে ভাঙন, বন্যা ও উজান-ভাটির পানি ব্যবস্থাপনার চ্যালেঞ্জ তৈরি করে। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/Category:Jamuna_River_(Bangladesh)) · [FAO: Bangladesh at a glance](https://www.fao.org/bangladesh/our-office/bangladesh-at-a-glance/en)
+*চিত্র-পাঠ:* নদীসম্পদ সেচ, মৎস্য, নৌপরিবহন ও পলি সরবরাহ করে; একই সঙ্গে ভাঙন, বন্যা ও উজান-ভাটির পানি ব্যবস্থাপনার চ্যালেঞ্জ তৈরি করে। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Jamuna_River_Bangladesh,_25_June_2022.jpg) · [FAO: Bangladesh at a glance](https://www.fao.org/bangladesh/our-office/bangladesh-at-a-glance/en)
 
 
 বাংলাদেশকে নদীমাতৃক দেশ বলা হলেও সারা বছর, সব অঞ্চল ও সব কাজে সমানভাবে নিরাপদ পানি পাওয়া যায় না। বর্ষায় অতিরিক্ত পানি বন্যা ও জলাবদ্ধতা তৈরি করতে পারে; শুষ্ক মৌসুমে নদীর প্রবাহ কমে, সেচ ও পানীয় পানির চাপ বাড়ে। তাই পানি-সম্পদ নীতি কেবল পানি ধরে রাখা নয়—পরিমাণ, গুণমান, সময়, প্রবেশাধিকার এবং নদীর পরিবেশগত কাজকে একসঙ্গে বিবেচনা করবে।
@@ -302,9 +302,9 @@ Integrated Water Resources Management বা IWRM হলো নদী অবব�
 
 #### বাস্তব ছবি: নদী ও অবতরণকেন্দ্রে মাছ ধরা
 
-![বাংলাদেশে নদীর মাছ ধরা ও মৎস্য আহরণ](https://commons.wikimedia.org/wiki/Special:FilePath/Fishing%20in%20Bangladesh.jpg)
+![বাংলাদেশে নদীর মাছ ধরা ও মৎস্য আহরণ](https://commons.wikimedia.org/wiki/Special:FilePath/Fishing%20in%20jamuna%20river%2007.jpg)
 
-*চিত্র-পাঠ:* মৎস্যসম্পদ পুষ্টি, কর্মসংস্থান ও গ্রামীণ আয়ের উৎস; অতিরিক্ত আহরণ, প্রজনন মৌসুমে মাছ ধরা এবং জলদূষণ এর স্থায়িত্বকে ক্ষতিগ্রস্ত করে। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/Category:Fishing_in_Bangladesh) · [Department of Fisheries](https://fisheries.gov.bd/)
+*চিত্র-পাঠ:* মৎস্যসম্পদ পুষ্টি, কর্মসংস্থান ও গ্রামীণ আয়ের উৎস; অতিরিক্ত আহরণ, প্রজনন মৌসুমে মাছ ধরা এবং জলদূষণ এর স্থায়িত্বকে ক্ষতিগ্রস্ত করে। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Fishing_in_jamuna_river_07.jpg) · [Department of Fisheries](https://fisheries.gov.bd/)
 
 #### বাস্তব ছবি: সামুদ্রিক মৎস্য ও উপকূলীয় জীবিকা
 
@@ -355,9 +355,9 @@ Integrated Water Resources Management বা IWRM হলো নদী অবব�
 
 #### বাস্তব ছবি: বড়পুকুরিয়া কয়লাখনি
 
-![বড়পুকুরিয়া কয়লাখনি, দিনাজপুর](https://commons.wikimedia.org/wiki/Special:FilePath/Barapukuria%20Coal%20Mine.jpg)
+![বড়পুকুরিয়া কয়লাখনি, দিনাজপুর](https://commons.wikimedia.org/wiki/Special:FilePath/Barapukuria%20Coal%20Mine%20Dinajpur%20Bangladesh.JPG)
 
-*চিত্র-পাঠ:* কয়লা স্থানীয় জ্বালানি সরবরাহে ভূমিকা রাখতে পারে, তবে খনির নিরাপত্তা, ভূগর্ভস্থ পানি, ভূমি-ব্যবহার, পুনর্বাসন ও নির্গমনের ব্যয়ও মূল্যায়ন করতে হয়। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/Category:Barapukuria_Coal_Mine) · [EMRD](https://emrd.gov.bd/)
+*চিত্র-পাঠ:* কয়লা স্থানীয় জ্বালানি সরবরাহে ভূমিকা রাখতে পারে, তবে খনির নিরাপত্তা, ভূগর্ভস্থ পানি, ভূমি-ব্যবহার, পুনর্বাসন ও নির্গমনের ব্যয়ও মূল্যায়ন করতে হয়। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Barapukuria_Coal_Mine_Dinajpur_Bangladesh.JPG) · [EMRD](https://emrd.gov.bd/)
 
 
 বাংলাদেশের প্রাকৃতিক গ্যাস, কয়লা ও অন্যান্য খনিজ বিদ্যুৎ, শিল্প, সার, নির্মাণ ও অর্থনৈতিক কর্মকাণ্ডে ভূমিকা রাখে। কিন্তু জীবাশ্ম জ্বালানি অনবায়নযোগ্য এবং এর উত্তোলন ও ব্যবহার পরিবেশ, ভূমি, পানি, জনস্বাস্থ্য ও জলবায়ুর ওপর প্রভাব ফেলতে পারে। তাই জ্বালানি নীতিতে সরবরাহের নির্ভরযোগ্যতা, সাশ্রয়, পরিবেশগত নিরাপত্তা, অর্থনৈতিক ব্যয় এবং দীর্ঘমেয়াদি রূপান্তর একসঙ্গে বিবেচনা করা দরকার।
