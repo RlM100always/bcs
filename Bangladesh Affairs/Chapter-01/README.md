@@ -118,6 +118,31 @@ Bangladesh Affairs (Subject Code 005)-এর প্রথম ইউনিটে 
 
 <a id="story"></a>
 
+
+<a id="visual-atlas"></a>
+
+### 🖼️ Visual Atlas — Maps, Field Photos & Satellite Evidence
+
+**ছবি আগে দেখুন, তারপর গল্পটি পড়ুন।** প্রতিটি ছবি সংশ্লিষ্ট বিষয়ের মধ্যেও রাখা আছে। এখানে দ্রুত যাওয়ার পথ:
+
+| Topic / Image | Click to learn |
+|---|---|
+| 🌍 বাংলাদেশের উচ্চতা ও Relief Map | [Map & location](#maps) |
+| 🛰️ ESA Satellite: GBM Delta | [How the delta formed](#location) |
+| 🌾 বরেন্দ্রভূমি, নওগাঁ — বাস্তব কৃষিভূমি | [Barind Tract](#barind-photo) |
+| 🌳 মধুপুরের বনাঞ্চল | [Madhupur Tract](#madhupur-photo) |
+| 🌊 টাঙ্গুয়ার হাওর | [Haor Basin](#haor-photo) |
+| ⛰️ সাজেকের পাহাড় ও locator map | [Chattogram Hill Tracts](#cht-photo) |
+| 🌿 NASA Landsat 9: বাংলাদেশের উপকূল ও সুন্দরবন | [Coastal ecosystem](#coastal-photo) |
+| 🐂 যমুনার চরে জীবিকা | [River Char](#char-photo) |
+| 🛰️ NASA MODIS: মেঘনা থেকে সাগরে পলি | [River sediment](#sediment-photo) |
+
+> [!WARNING]
+> **Photo ≠ Geological Survey:** কোনো কৃষিজমি বা বনের ছবি দিয়ে মাটির বয়স, শ্রেণি বা আয়তন প্রমাণ করা যায় না। ছবি অঞ্চলটি বুঝতে সাহায্য করে; শ্রেণিবিন্যাস ও সংখ্যা নিতে হবে **Banglapedia, FAO/সরকারি প্রতিবেদন এবং বৈজ্ঞানিক তথ্যসূত্র** থেকে।
+
+[⬆️ Go to Contents](#top)
+
+---
 ### 🧠 ৭টি দৃশ্যের Story — পড়ার সময় চোখের সামনে কল্পনা করুন
 
 **দৃশ্য ১ — মানচিত্রে বাংলাদেশ (Location)।** মানচিত্রে দেশটিকে খুঁজুন। উত্তর ও পশ্চিমে ভারত; পূর্বে ভারত ও মিয়ানমার; দক্ষিণে বঙ্গোপসাগর। এই অবস্থানের মধ্যেই নদীর প্রবাহ, বন্দর, প্রতিবেশী রাষ্ট্র ও সমুদ্রবাণিজ্যের ধারণা লুকিয়ে আছে।
@@ -170,15 +195,23 @@ Bangladesh Affairs (Subject Code 005)-এর প্রথম ইউনিটে 
 
 ### ১.২ মানচিত্র — শিক্ষণচিত্র, সীমান্তের আইনগত দলিল নয়
 
-![বাংলাদেশের ভৌত উচ্চতা ও ভূপ্রকৃতির মানচিত্র](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_physical_map.svg)
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Bangladesh_physical_map.svg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_physical_map.svg?width=760" width="320" alt="Bangladesh physical relief map"></a></p>
 
 **Figure 1 — Physical Relief Map of Bangladesh.** Creator: Urutseg; Wikimedia Commons, *Bangladesh physical map.svg*, 2011; License **CC0 1.0**. [Original file, author and license](https://commons.wikimedia.org/wiki/File:Bangladesh_physical_map.svg)। মানচিত্রটি ভূপ্রকৃতি শেখার জন্য; আধুনিক প্রশাসনিক বা সমুদ্রসীমার নিশ্চয়তার জন্য নয়।
 
-![বাংলাদেশের টপোগ্রাফি ও স্থাননাম](https://commons.wikimedia.org/wiki/Special:FilePath/Map_of_Bangladesh-en.svg)
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Map_of_Bangladesh-en.svg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Map_of_Bangladesh-en.svg?width=440" width="320" alt="Bangladesh topography and place names"></a></p>
 
 **Figure 2 — Topographic Map of Bangladesh.** Creator: **Oona Räisänen (Mysid)**, 2010; sources include SRTM relief data, archival CIA cartography and NGDC bathymetry; Wikimedia Commons, **CC BY 3.0 / GFDL**. [Original file and terms](https://commons.wikimedia.org/wiki/File:Map_of_Bangladesh-en.svg)। কিছু স্থাননাম/পরিবহন স্তর পুরোনো; সাম্প্রতিক প্রশাসনিক মানচিত্র হিসেবে ব্যবহার নয়।
 
 <a id="physiography"></a>
+
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Ganges_Delta_ESA22274217.jpeg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ganges_Delta_ESA22274217.jpeg?width=760" width="520" alt="Ganges–Brahmaputra Delta from Space — source: European Space Agency / Copernicus Sentinel-3"></a></p>
+
+*🖼️ Figure 2A — **Ganges–Brahmaputra Delta from Space**। **কী দেখবেন:** নদীর পলি, মোহনার প্রবাহ ও বদ্বীপের বিস্তার। **Credit:** European Space Agency / Copernicus Sentinel-3 (2020-03-31); **License:** Copernicus Sentinel attribution required; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Ganges_Delta_ESA22274217.jpeg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
+
+> [!TIP]
+> **Picture Memory:** নদীর পলি, মোহনার প্রবাহ ও বদ্বীপের বিস্তার—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
+
 
 ## ২. তিনটি প্রধান ভূ-প্রাকৃতিক অঞ্চল (Physiographic Divisions)
 
@@ -227,22 +260,95 @@ G --> H["Adaptive Delta Management"]
 ### ৩.১ উত্তর-পশ্চিম: বরেন্দ্র (Barind Tract) ও Himalayan Piedmont
 বরেন্দ্র বাংলাদেশের উত্তর-পশ্চিমের পুরোনো সোপানভূমি; এটি সদ্য পলি জমা সাধারণ প্লাবনভূমির মতো নয়। উত্তর-পশ্চিমে হিমালয়ের পাদদেশীয় পললভূমিরও প্রসার আছে। বরেন্দ্রকে শুধু একটি জেলা বলে নির্দিষ্ট করা ভুল: বৃহত্তর রাজশাহী–নওগাঁ–চাঁপাইনবাবগঞ্জসহ উত্তর-পশ্চিমে অঞ্চলের বিস্তার সম্পর্কে প্রশাসনিক সীমা ও geomorphic boundary-র পার্থক্য মাথায় রাখুন। উন্নয়ন সমস্যায় **drought, irrigation efficiency, groundwater stress** আলোচনা গুরুত্বপূর্ণ। [S2 — *Bangladesh Geography*; S6 — *BDP 2100*]
 
+<a id="barind-photo"></a>
+
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:The_Neon_Veil_of_Barind-_A_Twilight_Study_in_Naogaon.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/The_Neon_Veil_of_Barind-_A_Twilight_Study_in_Naogaon.jpg?width=760" width="520" alt="Barind Agricultural Landscape, Naogaon — source: S. H. Tanim"></a></p>
+
+*🖼️ Figure 3 — **Barind Agricultural Landscape, Naogaon**। **কী দেখবেন:** নওগাঁর বরেন্দ্র অঞ্চলের গ্রামীণ কৃষি; এটি মাটির ভূতাত্ত্বিক প্রমাণ নয়। **Credit:** S. H. Tanim (2026-03-12); **License:** CC BY-SA 4.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:The_Neon_Veil_of_Barind-_A_Twilight_Study_in_Naogaon.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
+
+> [!TIP]
+> **Picture Memory:** নওগাঁর বরেন্দ্র অঞ্চলের গ্রামীণ কৃষি; এটি মাটির ভূতাত্ত্বিক প্রমাণ নয়—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
+
+ [⬆️ Go to Contents](#top)
+
 ### ৩.২ মধ্যাঞ্চল: মধুপুর গড় (Madhupur Tract)
 মধুপুর গড় মধ্য বাংলাদেশের উচ্চতর প্লাইস্টোসিন ভূমিখণ্ড। পার্শ্ববর্তী নদীপললভূমি থেকে এর আলাদা মাটি ও ভূমিরূপ রয়েছে। বনাঞ্চল, ভূমি-ব্যবহার পরিবর্তন, পরিবহন ও নগর বিস্তার—এসবের সঙ্গে এ অঞ্চলের ভূপ্রকৃতির সম্পর্ক ব্যাখ্যা করুন। বরেন্দ্রের সঙ্গে তুলনায় ‘same broad geological-age category; different geographical setting’ লিখলে বিশ্লেষণ পরিষ্কার হয়। [S2; S3]
+
+<a id="madhupur-photo"></a>
+
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Madhupur_forest.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Madhupur_forest.jpg?width=760" width="440" alt="Madhupur National Park Forest — source: S. M. Tanim"></a></p>
+
+*🖼️ Figure 4 — **Madhupur National Park Forest**। **কী দেখবেন:** মধুপুর অঞ্চলের বনভূমি ও ভূমি ব্যবহার। **Credit:** S. M. Tanim (2017-10-09); **License:** CC BY-SA 4.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Madhupur_forest.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
+
+> [!TIP]
+> **Picture Memory:** মধুপুর অঞ্চলের বনভূমি ও ভূমি ব্যবহার—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
+
+ [⬆️ Go to Contents](#top)
 
 ### ৩.৩ উত্তর-পূর্ব: হাওর (Haor Basin)
 নিচু পিরিচাকৃতির হাওর অববাহিকায় শুষ্ক মৌসুমে কৃষিকাজ ও বর্ষায় বিস্তীর্ণ জলাভূমি দেখা যায়। পাহাড়ি উজানের দ্রুত প্রবাহ আগাম বন্যা (flash flood) তৈরি করতে পারে। কাজেই একদিকে হাওর কৃষি ও মৎস্যের সম্পদ; অন্যদিকে ফসল কাটার আগের আকস্মিক জলবৃদ্ধি আয়ের বড় ঝুঁকি। চাষাবাদের ক্যালেন্ডার, নদীর প্রবাহপথ, আগাম সতর্কতা, বৈজ্ঞানিক বাঁধ ও ecosystem conservation—সব একসঙ্গে ভাবতে হয়। [S2; S6]
 
+<a id="haor-photo"></a>
+
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:%E0%A6%9F%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%B0.JPG"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%9F%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%B0.JPG?width=760" width="520" alt="Tanguar Haor — source: Sarkershuvro"></a></p>
+
+*🖼️ Figure 5 — **Tanguar Haor**। **কী দেখবেন:** হাওরের মৌসুমি জলাভূমির দৃশ্য। **Credit:** Sarkershuvro (2015-03-09); **License:** CC BY-SA 4.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:%E0%A6%9F%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%B0.JPG)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
+
+> [!TIP]
+> **Picture Memory:** হাওরের মৌসুমি জলাভূমির দৃশ্য—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
+
+ [⬆️ Go to Contents](#top)
+
 ### ৩.৪ পূর্ব ও দক্ষিণ-পূর্ব: পাহাড় ও পার্বত্য চট্টগ্রাম
 এ অঞ্চল বদ্বীপের সমতল থেকে ভিন্ন; পাহাড়, শৈলশিরা, উপত্যকা ও দ্রুত ঢালু জলপ্রবাহ রয়েছে। সিলেটের কিছু অংশের টিলা এবং পার্বত্য চট্টগ্রামের বিস্তৃত পাহাড়ি ভূপ্রকৃতি একই নামে সব সময় এক করে ফেলা যাবে না। ভূমিধস, বনহানি, পাহাড় কাটা ও অনিয়ন্ত্রিত নির্মাণ ঝুঁকি বাড়াতে পারে। sustainable hill land-use, slope stabilization, drainage ও community-led conservation প্রয়োজন। [S2; S3; S6]
 
+<a id="cht-photo"></a>
+
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Sajek_Valley_00.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sajek_Valley_00.jpg?width=760" width="520" alt="Sajek Valley — Chattogram Hill Tracts — source: Ahnaf010"></a></p>
+
+*🖼️ Figure 6 — **Sajek Valley — Chattogram Hill Tracts**। **কী দেখবেন:** পাহাড়ের ঢাল ও শৈলশিরা। **Credit:** Ahnaf010 (2022-07-03); **License:** Wikimedia Commons free-licensed image (see file page); **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Sajek_Valley_00.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
+
+> [!TIP]
+> **Picture Memory:** পাহাড়ের ঢাল ও শৈলশিরা—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
+
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Chittagong_Hill_Tracts.PNG"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Chittagong_Hill_Tracts.PNG?width=760" width="280" alt="Chittagong Hill Tracts locator map — source: Armanaziz / AnonyLog"></a></p>
+
+*🖼️ Figure 6B — **Chittagong Hill Tracts locator map**। **কী দেখবেন:** পার্বত্য অঞ্চলের অবস্থান; পুরোনো জেলা সীমানা। **Credit:** Armanaziz / AnonyLog (2009); **License:** GFDL / CC license on file page; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Chittagong_Hill_Tracts.PNG)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
+
+> [!TIP]
+> **Picture Memory:** পার্বত্য অঞ্চলের অবস্থান; পুরোনো জেলা সীমানা—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
+
+[⬆️ Go to Contents](#top)
+
 ### ৩.৫ দক্ষিণ-পশ্চিম: জোয়ারভাটা ও সুন্দরবন
 গঙ্গা বদ্বীপের দক্ষিণ-পশ্চিমে tidal floodplain ও ম্যানগ্রোভ বনের পরিবেশ; এখানকার জলাভূমি লবণাক্ত পানি, মিঠাপানি, পলি ও জোয়ার-ভাটার ভারসাম্যে নির্ভর করে। UNESCO-এর **The Sundarbans (Bangladesh)** World Heritage inscription **১৯৯৭**। মানচিত্রে একই সঙ্গে **Bangladesh Sundarbans Reserve Forest** ও **UNESCO-inscribed property** আলাদা পরিসর হিসেবে বোঝা জরুরি। [S2; S11 — UNESCO World Heritage Centre]
+
+<a id="coastal-photo"></a>
+
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Landset_9_image_of_Bangladesh_coast.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Landset_9_image_of_Bangladesh_coast.jpg?width=760" width="520" alt="Bangladesh Coast: Landsat-9 Natural Colour — source: NASA / USGS Landsat program"></a></p>
+
+*🖼️ Figure 7 — **Bangladesh Coast: Landsat-9 Natural Colour**। **কী দেখবেন:** সুন্দরবনের বনভূমি, কৃষিজমি ও উপকূলের পার্থক্য। **Credit:** NASA / USGS Landsat program (2022-02-08); **License:** Public domain (NASA); **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Landset_9_image_of_Bangladesh_coast.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
+
+> [!TIP]
+> **Picture Memory:** সুন্দরবনের বনভূমি, কৃষিজমি ও উপকূলের পার্থক্য—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
+
+ [⬆️ Go to Contents](#top)
 
 ### ৩.৬ দক্ষিণ ও উপকূল: মোহনা, চর ও দ্বীপ
 নদী-মোহনার মিলিত স্রোতে নতুন চর গঠন, পুরোনো চর ক্ষয় এবং উপকূলরেখা সরে যাওয়া একই বৃহৎ sedimentary process-এর অংশ। কক্সবাজার উপকূল, ফেনী থেকে দক্ষিণ-পূর্বের coastal plain, মেঘনা মোহনা ও বঙ্গোপসাগর উপকূল—সকল অঞ্চল একই ভূমি-উচ্চতা বা sediment regime-এর নয়। প্রশাসনিক কাগুজে আয়তন, বাস্তব উপকূলরেখা ও মহাকাশচিত্রভিত্তিক ভূমির পরিমাপ তাই ভিন্ন হতে পারে। [S2; S3]
 
 <a id="rivers"></a>
+
+<a id="char-photo"></a>
+
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Cattle_on_a_Char_(27917537222).jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cattle_on_a_Char_(27917537222).jpg?width=760" width="520" alt="Livelihoods on a Jamuna River Char — source: David Stanley"></a></p>
+
+*🖼️ Figure 8 — **Livelihoods on a Jamuna River Char**। **কী দেখবেন:** চরে গবাদিপশু পালন ও মানুষের জীবিকা; চর কীভাবে তৈরি তা দেখায় না। **Credit:** David Stanley (2016-02-10); **License:** CC BY 2.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Cattle_on_a_Char_(27917537222).jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
+
+> [!TIP]
+> **Picture Memory:** চরে গবাদিপশু পালন ও মানুষের জীবিকা; চর কীভাবে তৈরি তা দেখায় না—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
+
+ [⬆️ Go to Contents](#top)
 
 ## ৪. নদী: বাংলাদেশের চলমান ভূতত্ত্ব
 
@@ -261,6 +367,17 @@ D --> P
 ```
 
 **Figure 4 — River morphology process (conceptual, adapted from [S2]/[S12]).**
+
+<a id="sediment-photo"></a>
+
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Meghna_River_sediment_in_the_Bay_of_Bengal_(MODIS_2019-11-24).jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Meghna_River_sediment_in_the_Bay_of_Bengal_(MODIS_2019-11-24).jpg?width=760" width="520" alt="Sediment from Meghna into the Bay of Bengal — source: NASA GSFC / MODIS Land Rapid Response Team"></a></p>
+
+*🖼️ Figure 9 — **Sediment from Meghna into the Bay of Bengal**। **কী দেখবেন:** মোহনায় নদীবাহিত পলির রঙ ও প্রবাহের satellite evidence। **Credit:** NASA GSFC / MODIS Land Rapid Response Team (2019-11-21); **License:** Public domain (NASA); **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Meghna_River_sediment_in_the_Bay_of_Bengal_(MODIS_2019-11-24).jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
+
+> [!TIP]
+> **Picture Memory:** মোহনায় নদীবাহিত পলির রঙ ও প্রবাহের satellite evidence—এই দৃশ্য থেকে একটি কারণ এবং একটি ফল ব্যাখ্যা করার চেষ্টা করুন।
+
+ [⬆️ Go to Contents](#top)
 
 ### প্রয়োজনীয় সংজ্ঞা
 
