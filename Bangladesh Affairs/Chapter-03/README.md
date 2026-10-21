@@ -6,7 +6,7 @@
 > **পাঠের লক্ষ্য:** ইতিহাসের ধারাবাহিকতা বোঝা, কারণ–ফল বিশ্লেষণ করা, উৎসসহ প্রবন্ধ লেখা এবং PYQ theme ধরে প্রস্তুতি।  
 > **Source review:** ২১ অক্টোবর ২০২৬।
 
-[← মূল সূচি](../README.md) · [Chapter 01 — ভূগোল](../Chapter-01/README.md) · [Chapter 06 — প্রাকৃতিক সম্পদ](../Chapter-06/README.md) · [📚 English Quotations + Sources](./QUOTATIONS.md) · [পূর্ণাঙ্গ Model Essays](./PYQ-BASED-ESSAYS.md)
+[← মূল সূচি](../README.md) · [Chapter 01 — ভূগোল](../Chapter-01/README.md) · [Chapter 06 — প্রাকৃতিক সম্পদ](../Chapter-06/README.md) · [📚 English Quotations + Sources](./QUOTATIONS.md) · [পূর্ণাঙ্গ Model Essays](./PYQ-BASED-ESSAYS.md) · [২৫টি Model Q&A + 35th–47th PYQ Audit](./QUESTION-ANSWERS.md)
 
 > 📱 **Mobile-friendly:** এই অধ্যায়ে responsive SVG diagrams দেওয়া হয়েছে। ছবিতে tap/click করলে SVG আলাদা করে খোলা যাবে। কোনো external image load না হলেও মূল পাঠ ও diagrams কাজ করবে। দীর্ঘ টেবিল ফোনে প্রয়োজন হলে horizontal scroll করুন।
 
@@ -19,7 +19,7 @@
 
 | ভিত্তি ও ধারাবাহিকতা | গুরুত্বপূর্ণ ঐতিহাসিক অধ্যায় | পরীক্ষা ও পুনরালোচনা |
 |---|---|---|
-| [শিখনফল ও সিলেবাস](#start) | [ভাষা আন্দোলন](#language) | [Previous BCS Question Analysis](#pyq) |
+| [শিখনফল ও সিলেবাস](#start) | [ভাষা আন্দোলন](#language) | [Previous BCS Question Analysis](#pyq) · [25টি worked answer](./QUESTION-ANSWERS.md) |
 | [ইতিহাসের উৎস ও সময়রেখা](#sources-method) | [যুক্তফ্রন্ট ও ১৯৫৪ নির্বাচন](#election1954) | [গুরুত্বপূর্ণ প্রবন্ধ](./PYQ-BASED-ESSAYS.md) |
 | [প্রাচীন বাংলার জনপদ](#ancient) | [ছয় দফা ও স্বায়ত্তশাসন](#sixpoint) | [English Quotations + Sources](./QUOTATIONS.md) |
 | [পাল, সেন ও মধ্যযুগ](#medieval) | [গণঅভ্যুত্থান ও ১৯৭০ নির্বাচন](#mass1970) | [৩৩টি Written Practice Questions](#questions) |
@@ -435,6 +435,48 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 - **প্রাথমিক কূটনৈতিক নথি, ১৯৭১:** [U.S. Department of State, FRUS Volume XI](https://history.state.gov/historicaldocuments/frus1969-76v11)।
 
 > বাহ্যিক ছবি অন্য কাজে ব্যবহার করলে সংশ্লিষ্ট ছবির নিজস্ব licence, creator/photographer ও attribution শর্ত যাচাই করুন। সরকারি বা UNESCO পৃষ্ঠার সব ছবি স্বয়ংক্রিয়ভাবে public domain নয়।
+
+### Visual 7 — সাংস্কৃতিক ঐতিহ্যের ধরন
+![বস্তুগত ও জীবন্ত সাংস্কৃতিক ঐতিহ্য](./assets/visuals/07-cultural-heritage-types.svg)
+
+### Visual 8 — আন্দোলন থেকে স্বাধীনতা: কারণ–ফল
+![ভাষা আন্দোলন থেকে স্বাধীনতার ধারাবাহিকতা](./assets/visuals/08-movements-cause-effect.svg)
+
+### Visual 9 — ঐতিহ্য সংরক্ষণের চক্র
+![ঐতিহ্য সংরক্ষণ ও সম্প্রদায়ের ভূমিকা](./assets/visuals/09-heritage-protection-cycle.svg)
+
+### Visual 10 — BCS Written উত্তরের কাঠামো
+![বিশ্লেষণধর্মী ইতিহাসের উত্তর লেখার ধাপ](./assets/visuals/10-written-answer-structure.svg)
+
+## Internet-sourced historical photographs and exact map references
+> **Map accuracy:** নিচের মানচিত্রগুলো সংশ্লিষ্ট ঐতিহাসিক/প্রাতিষ্ঠানিক উৎসে দেখুন। বর্তমান প্রশাসনিক মানচিত্রকে প্রাচীন জনপদ বা ১৯৭১ সালের যুদ্ধ-সেক্টরের মানচিত্র ধরে ব্যবহার করবেন না। বাইরের ছবির লাইসেন্স ও attribution আলাদা করে উল্লেখ করা হয়েছে।
+
+### Historical map — Liberation War sectors
+![বাংলাদেশের মুক্তিযুদ্ধের সেক্টরসমূহের মানচিত্র](https://commons.wikimedia.org/wiki/Special:FilePath/Sectors_of_Bangladesh_Liberation_War.svg)
+
+**Map source and licence:** [Wikimedia Commons — Sectors of Bangladesh Liberation War.svg](https://commons.wikimedia.org/wiki/File:Sectors_of_Bangladesh_Liberation_War.svg) · creator: Armanaziz · CC BY-SA/GFDL licensing shown on the file page. Use the file page for exact licence terms and attribution.
+
+### World Heritage maps — official sources
+- **Paharpur / Somapura Mahavihara:** [UNESCO heritage record](https://whc.unesco.org/en/list/322/) · [UNESCO official map page](https://whc.unesco.org/en/list/322/maps/)
+- **Historic Mosque City of Bagerhat / Khalifatabad:** [UNESCO heritage record](https://whc.unesco.org/en/list/321/) · [official map and old-city layout](https://whc.unesco.org/en/list/321/maps/)
+- **The Sundarbans:** [UNESCO official map page](https://whc.unesco.org/en/list/798/maps/) · [Government of Bangladesh / UNESCO report containing the “Map of Sundarbans” (PDF)](https://whc.unesco.org/document/191567)
+
+### Photo gallery — verified subject and credit
+<table>
+<thead><tr><th>Image</th><th>Why it matters for BCS</th><th>Photo credit / licence</th></tr></thead>
+<tbody>
+<tr><td><a href="https://commons.wikimedia.org/wiki/File:Paharpur_Maha_Vihara.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Paharpur_Maha_Vihara.jpg?width=420" alt="Paharpur Somapura Mahavihara" width="260"/></a></td><td><b>Paharpur / Somapura Mahavihara</b><br/>Pala-era Buddhist learning and architecture; UNESCO World Heritage property since 1985.</td><td>Zaheed Sarwer Khan · CC0 1.0. <a href="https://commons.wikimedia.org/wiki/File:Paharpur_Maha_Vihara.jpg">File page</a>.</td></tr>
+<tr><td><a href="https://commons.wikimedia.org/wiki/File:View_of_Sixty_Dome_Mosque_Bagerhat.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/View_of_Sixty_Dome_Mosque_Bagerhat.jpg?width=420" alt="Sixty Dome Mosque, Bagerhat" width="260"/></a></td><td><b>Sixty Dome Mosque, Bagerhat</b><br/>Bengal Sultanate architecture and historic urban planning.</td><td>Faisal Photography · CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:View_of_Sixty_Dome_Mosque_Bagerhat.jpg">File page</a>.</td></tr>
+<tr><td><a href="https://commons.wikimedia.org/wiki/File:Shaheed_Minar,_Dhaka,_Bangladesh.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Shaheed_Minar%2C_Dhaka%2C_Bangladesh.jpg?width=420" alt="Central Shaheed Minar in Dhaka" width="260"/></a></td><td><b>Central Shaheed Minar</b><br/>Visual memory of the Language Movement and linguistic rights.</td><td>Subarashitours · CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:Shaheed_Minar,_Dhaka,_Bangladesh.jpg">File page</a>.</td></tr>
+<tr><td><a href="https://commons.wikimedia.org/wiki/File:Mangal_Shobhajatra.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Mangal_Shobhajatra.jpg?width=420" alt="Mangal Shobhajatra procession" width="260"/></a></td><td><b>Mangal Shobhajatra</b><br/>Living heritage, public participation and Bengali New Year traditions; UNESCO ICH inscription in 2016.</td><td>Mustmamun · CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:Mangal_Shobhajatra.jpg">File page</a>.</td></tr>
+<tr><td><a href="https://commons.wikimedia.org/wiki/File:Traditional_Jamdani_Weaving.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Traditional_Jamdani_Weaving.jpg?width=420" alt="Traditional Jamdani weaving" width="260"/></a></td><td><b>Jamdani weaving</b><br/>Traditional craft knowledge, artisanal skill and intangible cultural heritage.</td><td>Joysaha.bd · CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:Traditional_Jamdani_Weaving.jpg">File page</a>.</td></tr>
+<tr><td><a href="https://commons.wikimedia.org/wiki/File:Entry_of_Sundarban_Forest_,Bangladesh.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Entry_of_Sundarban_Forest_%2CBangladesh.jpg?width=420" alt="Sundarbans mangrove forest" width="260"/></a></td><td><b>Sundarbans</b><br/>Natural heritage and the relationship between environment, livelihood and conservation.</td><td>Syed Sajidul Islam · CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:Entry_of_Sundarban_Forest_,Bangladesh.jpg">File page</a>.</td></tr>
+</tbody>
+</table>
+
+**Photo-use rule:** each Commons file page is the definitive place for licence terms. The credits above reflect the listed author/licence at review time; re-check the file page before reusing or modifying a photograph. UNESCO heritage pages establish the historical designation, while Commons file pages establish the photograph’s attribution and licence.
+
+---
 
 ---
 
