@@ -23,7 +23,7 @@
 | 13 | অনানুষ্ঠানিক প্রতিষ্ঠান, সুশীল সমাজ ও NGO | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
 | 14 | বিশ্বায়ন ও বাংলাদেশের বহুপাক্ষিক সম্পর্ক | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
 | 15 | [জেন্ডার ইস্যু ও উন্নয়ন](Chapter-15/README.md) · [PYQ-linked Model Essays](Chapter-15/PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](Chapter-15/QUOTATIONS.md) | 📘 BCS Written অধ্যায় + ৮টি model essay + ৩৩টি practice question + English quotation bank; মূল BPSC PYQ-র year/marks audit আলাদা করে যাচাই করতে হবে |
-| 16 | মুক্তিযুদ্ধ ও তার পটভূমি | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
+| 16 | [মুক্তিযুদ্ধ ও তার পটভূমি](Chapter-16/README.md) · [PYQ-theme Model Essays](Chapter-16/PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](Chapter-16/QUOTATIONS.md) | 📘 পূর্ণ BCS Written অধ্যায় + ৮টি source-backed প্রবন্ধ + ১০টি high-priority question theme + ১০টি practice question + English quotation/exam-line bank; মূল BPSC PYQ-র item-by-item audit বাকি |
 
 ## বই পড়ার পদ্ধতি
 1. অধ্যায়টির **Core Narrative** পড়ে ঐতিহাসিক ও ভৌগোলিক প্রেক্ষাপট বুঝুন।
