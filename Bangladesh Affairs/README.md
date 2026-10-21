@@ -16,7 +16,7 @@
 | 06 | [প্রাকৃতিক সম্পদ ও টেকসই ব্যবস্থাপনা](Chapter-06/README.md) · [বিগত প্রশ্ন](Chapter-06/README.md#pyq) · [Source-backed Exam Lines](Chapter-06/QUOTATIONS.md) | 📖 ৬টি responsive SVG + ২টি direct Bangladesh Affairs PYQ + ৪টি cross-paper question prompt + ৩৩টি practice question + ৫টি প্রবন্ধ |
 | 07 | [বাংলাদেশের সংবিধান](Chapter-07/README.md) · [বিগত প্রশ্ন](Chapter-07/README.md#pyq) · [PYQ-ভিত্তিক প্রবন্ধ](Chapter-07/PYQ-BASED-ESSAYS.md) · [Source-backed Exam Lines](Chapter-07/QUOTATIONS.md) | 📘 ৮টি archive-reported question prompt + ৮টি source-backed প্রবন্ধ + responsive visual/chart + ৩৩টি অনুশীলনী + সরকারি আইন ও আদালতের উৎস |
 | 08 | [রাষ্ট্রের অঙ্গসমূহ—আইন, নির্বাহী ও বিচার বিভাগ](Chapter-08/README.md) · [বিগত প্রশ্ন](Chapter-08/README.md#pyq) · [PYQ-ভিত্তিক প্রবন্ধ](Chapter-08/PYQ-BASED-ESSAYS.md) | 📘 পূর্ণ অধ্যায় + ৪টি archive-reported PYQ prompt + ১২টি গুরুত্বপূর্ণ প্রশ্ন + ৩৩টি অনুশীলনী + model answers + responsive diagram |
-| 09 | পররাষ্ট্রনীতি ও আন্তর্জাতিক সম্পর্ক | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
+| 09 | [বাংলাদেশের পররাষ্ট্রনীতি ও বৈদেশিক সম্পর্ক](Chapter-09/README.md) · [PYQ-ভিত্তিক গুরুত্বপূর্ণ প্রবন্ধ](Chapter-09/PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](Chapter-09/QUOTATIONS.md) | 📘 পূর্ণাঙ্গ BCS Written অধ্যায় + প্রশ্নের থিম বিশ্লেষণ + ৮টি source-backed প্রবন্ধ + ৩৩টি অনুশীলনী + ৩টি responsive SVG diagram + internet image source + ১৪টি English quotation with source links |
 | 10 | রাজনৈতিক দল ও রাজনৈতিক প্রক্রিয়া | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
 | 11 | নির্বাচন ও নির্বাচনী ব্যবস্থাপনা | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
 | 12 | যোগাযোগ, ICT, গণমাধ্যম, RTI ও ই-গভর্ন্যান্স | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
