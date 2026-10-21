@@ -11,7 +11,7 @@
 | 01 | [বাংলাদেশের ভৌগোলিক পরিচিতি ও ভূপ্রকৃতি](Chapter-01/README.md) | 📱 Mobile layout update: ৪৭টি responsive SVG diagram, full-width visuals; Mermaid source collapsible রাখা হয়েছে |
 | 02 | [জনতত্ত্ব, জনমিতি ও সাংস্কৃতিক বৈচিত্র্য](Chapter-02/README.md) | 📱 ৮টি responsive SVG visual; full-width images ও কম centered spacing; ৩৩টি অনুশীলনী এবং ৩টি worked answer |
 | 03 | প্রাচীন থেকে আধুনিক বাংলাদেশের ইতিহাস ও সংস্কৃতি | ⏳ Chapter-03/README.md এখনও তৈরি হয়নি; content তৈরি হলে mobile layout-ও করা হবে |
-| 04 | [স্বাধীনতা-পরবর্তী অর্থনীতি, সমাজ, সাহিত্য ও সংস্কৃতি](Chapter-04/README.md) | 📖 পূর্ণাঙ্গ পাঠ্যনোট, ৬টি visual, ৩৩টি অনুশীলনী, ৩টি model answer, source register ও revision section প্রকাশিত; মূল BPSC PYQ যাচাই বাকি |
+| 04 | [স্বাধীনতা-পরবর্তী অর্থনীতি, সমাজ, সাহিত্য ও সংস্কৃতি](Chapter-04/README.md) · [PYQ-ভিত্তিক গুরুত্বপূর্ণ প্রবন্ধ](Chapter-04/PYQ-BASED-ESSAYS.md) | 📖 পাঠ্যনোট + ৬টি visual + ৩৩টি অনুশীলনী + ৩টি model answer + বিগত প্রশ্নের theme বিশ্লেষণ ও ৭টি source-backed প্রবন্ধ; মূল প্রশ্নপত্র যাচাই বাকি |
 | 05 | পরিবেশ, প্রকৃতি, চ্যালেঞ্জ ও সম্ভাবনা | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
 | 06 | প্রাকৃতিক সম্পদ ও টেকসই ব্যবস্থাপনা | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
 | 07 | বাংলাদেশের সংবিধান | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
