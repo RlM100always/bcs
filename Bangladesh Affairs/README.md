@@ -10,7 +10,7 @@
 |---|---|---|
 | 01 | [বাংলাদেশের ভৌগোলিক পরিচিতি ও ভূপ্রকৃতি](Chapter-01/README.md) · [বিগত প্রশ্ন](Chapter-01/README.md#pyq) | 📱 ৪৭টি responsive SVG visual + archive-reported PYQ analysis + ৩৩টি model Q&A ও ৫/১০/২০ নম্বরের worked answer |
 | 02 | [জনতত্ত্ব, জনমিতি ও সাংস্কৃতিক বৈচিত্র্য](Chapter-02/README.md) · [বিগত প্রশ্ন](Chapter-02/README.md#previous-bcs) | 📱 ৮টি responsive SVG visual + archive-reported PYQ (উৎস-সতর্কতাসহ) + ৩৩টি অনুশীলনী + ৩টি worked answer |
-| 03 | প্রাচীন থেকে আধুনিক বাংলাদেশের ইতিহাস ও সংস্কৃতি | ⏳ Chapter-03/README.md এখনও তৈরি হয়নি; content তৈরি হলে mobile layout-ও করা হবে |
+| 03 | [প্রাচীন থেকে আধুনিক বাংলাদেশের ইতিহাস ও সংস্কৃতি](Chapter-03/README.md) · [৮টি PYQ-based model essay](Chapter-03/PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](Chapter-03/QUOTATIONS.md) | 📖 পূর্ণাঙ্গ ইতিহাস অধ্যায় + ৬টি responsive SVG visual + ৩৩টি practice question + ৮টি source-backed প্রবন্ধ + ইংরেজি quotation/exam-line bank; PYQ-র মূল scan-ভিত্তিক পূর্ণ audit বাকি |
 | 04 | [স্বাধীনতা-পরবর্তী অর্থনীতি, সমাজ, সাহিত্য ও সংস্কৃতি](Chapter-04/README.md) · [বিগত প্রশ্ন](Chapter-04/README.md#pyq) · [PYQ-ভিত্তিক প্রবন্ধ](Chapter-04/PYQ-BASED-ESSAYS.md) | 📖 ৬টি visual + ৫টি archive-reported PYQ prompt + ৫টি আলাদা practice prompt + ৩৩টি অনুশীলনী + ৭টি source-backed প্রবন্ধ |
 | 05 | পরিবেশ, প্রকৃতি, চ্যালেঞ্জ ও সম্ভাবনা | ⏳ পরবর্তী ধাপে গবেষণা ও প্রস্তুতি |
 | 06 | [প্রাকৃতিক সম্পদ ও টেকসই ব্যবস্থাপনা](Chapter-06/README.md) · [বিগত প্রশ্ন](Chapter-06/README.md#pyq) · [Source-backed Exam Lines](Chapter-06/QUOTATIONS.md) | 📖 ৬টি responsive SVG + ২টি direct Bangladesh Affairs PYQ + ৪টি cross-paper question prompt + ৩৩টি practice question + ৫টি প্রবন্ধ |
