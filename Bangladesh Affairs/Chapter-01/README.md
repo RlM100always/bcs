@@ -1350,28 +1350,21 @@ E -->|না| C
 
 নিচের সারণিতে BCS EXAM নামের **তৃতীয় পক্ষের পুনর্গঠিত প্রশ্নসংকলন**-এ পাওয়া বিষয়গুলোর **English rendering** দেওয়া হলো। প্রশ্নসংকলন নিজেই জানিয়েছে এগুলো BPSC মূল কাগজ থেকে সরাসরি টাইপ করা নয়; কয়েকটি পত্র অসম্পূর্ণও থাকতে পারে। **Status: secondary-source match; NOT independently authenticated official paper.** আপনার দেওয়া বইয়ের ছবিগুলো এই অধ্যায়ের বিষয়বস্তুর সঙ্গে ব্যবহার করা হয়েছে, কিন্তু ফটোর সাল-লেবেলকেও মূল BPSC প্রমাণ ধরা হয়নি।
 
-| BCS | English + বাংলা প্রশ্ন (ভাবানুবাদ) | Marks indicated in archive | Archive | Source status |
-|---|---|---:|---|---|
-| 35th | **English:** Explain Bangladesh's geographical position in South Asia. **বাংলা:** দক্ষিণ এশিয়ায় বাংলাদেশের ভৌগোলিক অবস্থান ব্যাখ্যা করুন। | 5 | [S14] | FAO — Food and Agriculture Organization of the UN | *Country Papers: Bangladesh*, physiographic landform 80/8/12 and river basin | [FAO reference](https://www.fao.org/4/ac623e/ac623e0b.htm) |
-| [S15] | Peer-reviewed geomorphology (2021) | *Avulsion of the Brahmaputra in Bangladesh during the 18th–19th century: A review based on cartographic and literary evidence* | [Scientific article](https://www.sciencedirect.com/science/article/pii/S0169555X21001045) |
-| [S16] | GED Knowledge Portal — Government of Bangladesh | *Bangladesh Delta Plan 2100: Overview, Goals, Strategies, Hotspots* (approved 4 September 2018) | [GED official portal](https://bdp2100kp.gov.bd/BDP2100/Overview) |
-| [S17] | GED, Planning Commission — Bangladesh Government | *Bangladesh Delta Plan 2100, Volume 2, Investment Plan, Part 1: The Plan* | [Official investment plan PDF](https://gedkp.gov.bd/wp-content/uploads/2021/02/BDP-2100-Volume-2-Investment-Plan-Part-1-The-Plan.pdf) |
-| [S18] | FAO — Food and Agriculture Organization of the UN | *Study on Livelihood Systems Assessment in Drought-prone Areas of NW Bangladesh*; Barind, Nachole, Porsha and Sapahar | [FAO Barind study](https://www.fao.org/4/ag257e/AG257E06.htm) |
-| [S19] | Banglapedia — Asiatic Society of Bangladesh | *St Martin's Island*, Sifatul Quader Chowdhury; island geology, coral ecology and environment | [Banglapedia official entry](https://en.banglapedia.org/index.php/St_Martin%27s_Island) |
-| [S20] | University of Rajshahi | *Varendra Research Museum*; institution's history and founding team | [University official museum history](https://www.ru.ac.bd/facilities/varendra-research-museum/) |
-| [S21] | Banglapedia — Asiatic Society of Bangladesh | *Tista River*, Mesbah-us-Saleheen; river origin and 1787 course change | [Banglapedia river article](https://en.banglapedia.org/index.php/Tista_River) |
-| [IM1] | Wikimedia Commons, Fahad Faisal | *Coral Reef of Saint Martin Island Bangladesh.JPG*, 2012, CC BY-SA 4.0 | [Image, creator and license](https://commons.wikimedia.org/wiki/File:Coral_Reef_of_Saint_Martin_Island_Bangladesh.JPG) |
-| [Q1] | Secondary archive |
-| 35th | **English:** What is the economic importance of the Bay of Bengal? **বাংলা:** বঙ্গোপসাগরের অর্থনৈতিক গুরুত্ব কী? | 5 | [Q1] | Secondary archive |
-| 36th | **English:** What is meant by inactive or moribund delta regions? **বাংলা:** নিষ্ক্রিয় বা মরিবান্ড বদ্বীপ বলতে কী বোঝায়? | 5 | [Q2] | Secondary archive |
-| 36th | **English:** Explain the importance of the Barind region (question grouped with other subtopics). **বাংলা:** বরেন্দ্র অঞ্চলের গুরুত্ব ব্যাখ্যা করুন (একই প্রশ্নে অন্যান্য উপবিষয়ও ছিল)। | 5 | [Q2] | Secondary archive |
-| 40th | **English:** Describe Bangladesh's geographical location and physiography. **বাংলা:** বাংলাদেশের ভৌগোলিক অবস্থান ও ভূপ্রকৃতি বর্ণনা করুন। | 10 | [Q3] | Secondary archive |
-| 40th | **English:** Discuss Bangladesh's geopolitical importance and risks. **বাংলা:** বাংলাদেশের ভূ-কৌশলগত গুরুত্ব ও ঝুঁকি আলোচনা করুন। | 10 | [Q3] | Secondary archive |
-| 40th | **English:** Short note: Blue Economy. **বাংলা:** সংক্ষিপ্ত টীকা: সুনীল অর্থনীতি (Blue Economy)। | note, question set | [Q3] | Secondary archive |
-| 43rd | **English:** Define Bangladesh's geographical location. **বাংলা:** বাংলাদেশের ভৌগোলিক অবস্থান নির্ণয় করুন। | 5 | [Q4] | Secondary archive |
-| 43rd | **English:** Identify the districts associated with the Barind region. **বাংলা:** বরেন্দ্র অঞ্চলের সংশ্লিষ্ট জেলাগুলো চিহ্নিত করুন। | 5 | [Q4] | Secondary archive |
-| 43rd | **English:** Describe regional topographical features. **বাংলা:** বাংলাদেশের অঞ্চলভিত্তিক ভূপ্রকৃতি বর্ণনা করুন। | 10 | [Q4] | Secondary archive |
-| 47th | **English:** Define geographical determinism and assess geographical factors in Bangladeshi culture. **বাংলা:** ভৌগোলিক নিয়ন্ত্রণবাদের সংজ্ঞা দিন এবং বাংলাদেশের সংস্কৃতিতে ভূগোলের প্রভাব মূল্যায়ন করুন। | 20 | [Q5] | Secondary archive; recent collection, verify official copy |
+| BCS | প্রশ্নের সারমর্ম (English + বাংলা) | আর্কাইভে রিপোর্ট করা নম্বর | প্রশ্নের উৎস ও প্রমাণ-অবস্থা |
+|---|---|---:|---|
+| **35th** | Explain Bangladesh's geographical position in South Asia. — দক্ষিণ এশিয়ায় বাংলাদেশের ভৌগোলিক অবস্থান ব্যাখ্যা করুন। | 5 | [BCS EXAM — 35th Written](https://bcsexam.org/written-questions/35th-bcs-written); secondary archive |
+| **35th** | Explain the economic importance of the Bay of Bengal. — বঙ্গোপসাগরের অর্থনৈতিক গুরুত্ব ব্যাখ্যা করুন। | 5 | [BCS EXAM — 35th Written](https://bcsexam.org/written-questions/35th-bcs-written); secondary archive |
+| **36th** | Explain the meaning of an inactive/moribund delta. — নিষ্ক্রিয় বা মরিবান্ড বদ্বীপ বলতে কী বোঝায়? | 5 | [BCS EXAM — 36th Written](https://bcsexam.org/written-questions/36th-bcs-written); secondary archive |
+| **36th** | Discuss the significance of the Barind region. — বরেন্দ্র অঞ্চলের গুরুত্ব আলোচনা করুন। | 5 | [BCS EXAM — 36th Written](https://bcsexam.org/written-questions/36th-bcs-written); related subtopic |
+| **40th** | Describe Bangladesh's geographical position and physiographic features. — বাংলাদেশের ভৌগোলিক অবস্থান ও ভূপ্রকৃতি বর্ণনা করুন। | 10 | [BCS EXAM — 40th Written](https://bcsexam.org/written-questions/40th-bcs-written); secondary archive |
+| **40th** | Assess Bangladesh's geopolitical importance and related risks. — বাংলাদেশের ভূ-কৌশলগত গুরুত্ব ও ঝুঁকি মূল্যায়ন করুন। | 10 | [BCS EXAM — 40th Written](https://bcsexam.org/written-questions/40th-bcs-written); secondary archive |
+| **40th** | Write a short note on the Blue Economy. — সুনীল অর্থনীতি বিষয়ে সংক্ষিপ্ত টীকা লিখুন। | Short note | [BCS EXAM — 40th Written](https://bcsexam.org/written-questions/40th-bcs-written); secondary archive |
+| **43rd** | Identify Bangladesh's geographical location. — বাংলাদেশের ভৌগোলিক অবস্থান নির্ণয় করুন। | 5 | [BCS EXAM — 43rd Written](https://bcsexam.org/written-questions/43rd-bcs-written); secondary archive |
+| **43rd** | Identify the districts associated with the Barind region. — বরেন্দ্র অঞ্চলের সঙ্গে সম্পর্কিত জেলাগুলো চিহ্নিত করুন। | 5 | [BCS EXAM — 43rd Written](https://bcsexam.org/written-questions/43rd-bcs-written); secondary archive |
+| **43rd** | Describe the topographical features of different regions. — বাংলাদেশের অঞ্চলভিত্তিক ভূপ্রকৃতি বর্ণনা করুন। | 10 | [BCS EXAM — 43rd Written](https://bcsexam.org/written-questions/43rd-bcs-written); secondary archive |
+| **47th** | Define geographical determinism and evaluate geographical influences on Bangladeshi culture. — ভৌগোলিক নিয়ন্ত্রণবাদের সংজ্ঞা দিন এবং বাংলাদেশের সংস্কৃতিতে ভূগোলের প্রভাব মূল্যায়ন করুন। | 20 | [BCS EXAM — 47th Written](https://bcsexam.org/written-questions/47th-bcs-written); recent secondary archive; verify against original paper when available |
+
+> **Source note:** প্রশ্নগুলোর ভাষা সংক্ষিপ্ত ভাবানুবাদ/সারমর্ম; BPSC-এর মূল scan-এর সঙ্গে স্বাধীনভাবে শব্দশব্দ যাচাই করা হয়নি। FAO, Banglapedia, GED, peer-reviewed research ও University of Rajshahi-র মতো তথ্যসূত্রগুলো বিষয়বস্তুর evidence হিসেবে ব্যবহার করুন—এগুলো প্রশ্নপত্রের উৎস নয়।
 
 **Trend interpretation (not statistical forecast):** অবস্থান + ভূপ্রকৃতি; বরেন্দ্র ও বদ্বীপ; ভূরাজনীতি ও বঙ্গোপসাগর; এবং ভূগোলের সমাজ-সংস্কৃতির প্রভাব—এসব recurring question *themes*। প্রশ্নের wording, marks ও সাল BPSC মূল PDF স্ক্যান পাওয়া গেলে পুনরায় মিলিয়ে দেখতে হবে। এই ছোট online corpus থেকে কোনো ‘উত্তর আসবেই’ probability গণনা করা হয়নি।
 
