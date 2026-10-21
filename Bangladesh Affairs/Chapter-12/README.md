@@ -75,11 +75,11 @@ Information and Communication Technology (ICT) হলো তথ্য সংগ�
 
 *চিত্র-পাঠ:* সাবমেরিন কেবল আন্তর্জাতিক data traffic-এর একটি গুরুত্বপূর্ণ পথ। এই ছবিটি ২৯ ডিসেম্বর ২০২৫-এ Cox's Bazar landing station-এ সরকারি পরিদর্শনের সময় তোলা। এটি infrastructure-এর উদাহরণ—capacity বা uptime-এর পরিসংখ্যান নয়। [মূল ছবি ও public-domain তথ্য](https://commons.wikimedia.org/wiki/File:Foyez_Ahmad_Tayyeb,_Special_Assistant_to_Chief_Adviser,_Ministry_of_Post,_Telecommunication,_and_Information_Technology,_inspects_Bangladesh_Submarine_Cable_PLC_landing_station,_Cox%27s_Bazar,_2025-12-29.jpg).
 
-#### বাস্তব ছবি: কক্সবাজার cable landing station
+#### মানচিত্র: SEA-ME-WE 5 submarine cable route
 
-![Submarine cable landing station entrance, Cox's Bazar](https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2024-02/1bac1da4-a4c6-4c5f-ba58-6021257a5ae9/coxsbazar_submarine_cable_280224_01.jpg)
+![SEA-ME-WE 5 submarine cable route map, 2016](https://commons.wikimedia.org/wiki/Special:FilePath/SEA-ME-WE%205%20Route%20Map.jpg)
 
-*চিত্র-পাঠ:* আন্তর্জাতিক connectivity-র physical landing point বোঝাতে ছবিটি ব্যবহার করুন। [মূল সংবাদ ও ছবির উৎস](https://bdnews24.com/technology/bp4721l17g). ছবিটি publisher-এর; পুনঃপ্রকাশের আগে অনুমতি/licence যাচাই করুন।
+*চিত্র-পাঠ:* এই route map-এ Kuakata-সহ SEA-ME-WE 5-এর আন্তর্জাতিক সংযোগ ও landing points বোঝা যায়। এটি ২০১৬ সালের map—বর্তমান সব cable system বা exact cable path-এর পূর্ণাঙ্গ মানচিত্র নয়। **Attribution:** Xcoughing, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল map ও licence](https://commons.wikimedia.org/wiki/File:SEA-ME-WE_5_Route_Map.jpg).
 
 #### বাস্তব ছবি: Cloud ও data-centre infrastructure
 
