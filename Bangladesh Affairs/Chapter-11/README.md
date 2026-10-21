@@ -1,11 +1,58 @@
 <a id="top"></a>
 
+<a id="visual-atlas"></a>
+
+## Visual Atlas — Maps, Official Records & Revision Diagrams
+
+এই অধ্যায়ে **১০টি visual resource** (আগের পাঁচটি diagram-সহ) এবং নির্বাচনী এলাকার সীমানা/আইনের জন্য সরকারি map-record link যুক্ত করা হয়েছে। কোনো screenshot বা boundary image-কে বর্তমান আইনগত সীমানা হিসেবে ভুল বোঝা এড়াতে মানচিত্রের ক্ষেত্রে সরকারি গেজেটকে অগ্রাধিকার দিন।
+
+### ১. বাংলাদেশের নির্বাচনী ব্যবস্থার সাংবিধানিক মানচিত্র
+![Expanded constitutional map for election management](./assets/constitutional-map-expanded.svg)
+
+[Open diagram separately](./assets/constitutional-map-expanded.svg) · **Source:** Constitution of Bangladesh, Part VII, Articles 118–126; [official legal text](https://bdlaws.minlaw.gov.bd/act-print-367.html).
+
+### ২. নির্বাচনচক্র — ভোটার তালিকা থেকে প্রতিকার
+![Expanded election cycle](./assets/election-cycle-expanded.svg)
+
+[Open diagram separately](./assets/election-cycle-expanded.svg) · **Source:** Representation of the People Order, 1972, as amended; [official EC legal register](https://ecs.gov.bd/en/page/national-parliament-election-law).
+
+### ৩. নির্বাচনী সততার ছয়টি স্তম্ভ
+![Election integrity pillars](./assets/election-integrity-pillars.svg)
+
+[Open diagram separately](./assets/election-integrity-pillars.svg). Independence, equal competition, secret ballot, verifiable counting, inclusion and remedies—এগুলোকে উত্তর লেখার analytical framework হিসেবে ব্যবহার করুন।
+
+### ৪. নির্বাচনে প্রযুক্তি: সুবিধা, ঝুঁকি ও safeguards
+![Election technology benefits and risks](./assets/election-technology-risks.svg)
+
+[Open diagram separately](./assets/election-technology-risks.svg). এটি conceptual study diagram; বাংলাদেশের কোনো নির্দিষ্ট প্রযুক্তি বর্তমানে ব্যবহৃত হচ্ছে—এমন দাবি নয়।
+
+### ৫. নির্বাচনী অভিযোগ ও আইনগত প্রতিকার
+![Electoral dispute response flow](./assets/electoral-dispute-flow.svg)
+
+[Open diagram separately](./assets/electoral-dispute-flow.svg). প্রকৃত অভিযোগে সঠিক কর্তৃপক্ষ, সময়সীমা ও প্রতিকার প্রযোজ্য আইন থেকে যাচাই করতে হবে।
+
+### ৬–১০. বিদ্যমান revision diagrams
+- [Constitutional Articles Map](./assets/constitutional-articles-map.svg)
+- [Election Stakeholders and Responsibilities](./assets/election-stakeholders.svg)
+- [Electoral System Comparison](./assets/electoral-system-comparison.svg)
+- [Election Cycle](./assets/election-cycle.svg)
+- [Election Integrity](./assets/election-integrity.svg)
+
+### Official electoral maps and current legal maps
+
+- **৩০০ সংসদীয় আসনের সীমানা:** [Bangladesh Election Commission — National Parliament Election Law](https://ecs.gov.bd/en/page/national-parliament-election-law). এই পৃষ্ঠায় ২০২৫ সালের boundary gazette এবং ১১ ডিসেম্বর ২০২৫-এর সংশোধিত সীমানার গেজেটের তালিকা রয়েছে। পরীক্ষায় “বর্তমান সীমানা” লিখলে সংশ্লিষ্ট সর্বশেষ সংশোধিত গেজেট অনুসরণ করুন।
+- **নির্বাচনী আইন ও ২০২৬ সংশোধন:** [EC — RPO legal records](https://ecs.gov.bd/category/regarding-representation-of-the-people-order-rpo-2830760191), [RPO 1972 (Bangladesh Laws)](https://bdlaws.minlaw.gov.bd/act-print-424.html), [Representation of the People (Amendment) Act, 2026](https://bdlaws.minlaw.gov.bd/act-print-1632.html).
+- **বাংলাদেশ নির্বাচন কমিশনের অবস্থান:** [OpenStreetMap location search](https://www.openstreetmap.org/search?query=Bangladesh%20Election%20Commission%20Agargaon%20Dhaka).
+- **ভোটকেন্দ্র/নির্বাচনী এলাকা:** কোনো নির্দিষ্ট আসন বা কেন্দ্রের map ব্যবহার করার আগে EC-এর সংশ্লিষ্ট constituency gazette বা polling-centre publication মিলিয়ে নিন; সাধারণ web map আইনগত সীমানার বিকল্প নয়।
+
+
+
 # Chapter 11 — নির্বাচন ও নির্বাচনী ব্যবস্থাপনা | Elections & Electoral Management
 
 **BCS Written · Bangladesh Affairs · Subject Code 005**  
 বাংলা ব্যাখ্যা + English terminology + source-backed essays + previous-question analysis + ৩৩টি model question and answer + revision visuals
 
-[📘 English Quotations & Source Bank](./QUOTATIONS.md) · [বিগত BCS প্রশ্ন বিশ্লেষণ](#pyq) · [৩৩টি Model Q&A](#model-questions) · [গুরুত্বপূর্ণ প্রবন্ধ](#essays) · [Sources](#sources)
+[🧭 35th–47th BCS PYQ Map](./PYQ-35-47-MAP.md) · [📘 25 Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [💬 English Quotations & Sources](./QUOTATIONS.md) · [বিগত BCS প্রশ্ন বিশ্লেষণ](#pyq) · [৩৩টি Model Q&A](#model-questions) · [গুরুত্বপূর্ণ প্রবন্ধ](#essays) · [Visual Atlas](#visual-atlas) · [Sources](#sources)
 
 > **এই অধ্যায়ের লক্ষ্য:** একবার মনোযোগ দিয়ে পড়লে বাংলাদেশের নির্বাচনী ব্যবস্থার সাংবিধানিক ভিত্তি, নির্বাচন কমিশনের দায়িত্ব, ভোটার তালিকা, নির্বাচনী প্রক্রিয়া, নির্বাচনী অনিয়ম, সংস্কার এবং পরীক্ষায় বিশ্লেষণধর্মী উত্তর লেখার মূল কাঠামো বুঝতে পারবেন। এটি BPSC-এর সরকারি প্রকাশনা নয়; BCS Written প্রস্তুতির জন্য তৈরি শিক্ষাসামগ্রী।
 
