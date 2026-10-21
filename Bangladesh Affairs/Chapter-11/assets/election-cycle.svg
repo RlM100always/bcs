@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">Bangladesh election cycle</title>
+<desc id="desc">Eight connected stages from legal preparation to post-election review.</desc>
+<defs>
+  <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#52616b"/></marker>
+  <style>
+    .bg{fill:#f7f8fa}.card{fill:#ffffff;stroke:#52616b;stroke-width:2.5;rx:22}.title{font:700 38px Arial,sans-serif;fill:#172b3a}.subtitle{font:22px Arial,sans-serif;fill:#52616b}.step{font:700 25px Arial,sans-serif;fill:#172b3a}.bn{font:23px 'Noto Sans Bengali',Arial,sans-serif;fill:#243746}.small{font:19px Arial,sans-serif;fill:#52616b}.line{stroke:#52616b;stroke-width:4;fill:none;marker-end:url(#arrow)}
+  </style>
+</defs>
+<rect class="bg" width="1600" height="900"/>
+<text class="title" x="800" y="70" text-anchor="middle">THE ELECTION CYCLE</text>
+<text class="subtitle" x="800" y="110" text-anchor="middle">BCS Written Revision • From preparation to accountability</text>
+<path class="line" d="M390 245 H430"/>
+<path class="line" d="M770 245 H810"/>
+<path class="line" d="M1150 245 H1190"/>
+<path class="line" d="M1370 330 V440"/>
+<path class="line" d="M1190 535 H1150"/>
+<path class="line" d="M810 535 H770"/>
+<path class="line" d="M430 535 H390"/>
+<path class="line" d="M220 440 V330"/>
+<rect class="card" x="50" y="170" width="340" height="160"/>
+<text class="step" x="220" y="215" text-anchor="middle">1. Legal framework</text><text class="bn" x="220" y="258" text-anchor="middle">আইন ও পরিকল্পনা</text><text class="small" x="220" y="294" text-anchor="middle">Rules • roles • resources</text>
+<rect class="card" x="430" y="170" width="340" height="160"/>
+<text class="step" x="600" y="215" text-anchor="middle">2. Electoral roll</text><text class="bn" x="600" y="258" text-anchor="middle">ভোটার তালিকা</text><text class="small" x="600" y="294" text-anchor="middle">Accuracy • updates</text>
+<rect class="card" x="810" y="170" width="340" height="160"/>
+<text class="step" x="980" y="215" text-anchor="middle">3. Schedule and seats</text><text class="bn" x="980" y="258" text-anchor="middle">তফসিল ও সীমানা</text><text class="small" x="980" y="294" text-anchor="middle">Timeline • delimitation</text>
+<rect class="card" x="1190" y="170" width="340" height="160"/>
+<text class="step" x="1360" y="215" text-anchor="middle">4. Nomination</text><text class="bn" x="1360" y="258" text-anchor="middle">মনোনয়ন যাচাই</text><text class="small" x="1360" y="294" text-anchor="middle">Scrutiny • appeals</text>
+<rect class="card" x="1190" y="455" width="340" height="160"/>
+<text class="step" x="1360" y="500" text-anchor="middle">5. Campaign</text><text class="bn" x="1360" y="543" text-anchor="middle">প্রচার ও আচরণবিধি</text><text class="small" x="1360" y="579" text-anchor="middle">Fair access • finance</text>
+<rect class="card" x="810" y="455" width="340" height="160"/>
+<text class="step" x="980" y="500" text-anchor="middle">6. Polling</text><text class="bn" x="980" y="543" text-anchor="middle">ভোটগ্রহণ</text><text class="small" x="980" y="579" text-anchor="middle">Secrecy • safety • access</text>
+<rect class="card" x="430" y="455" width="340" height="160"/>
+<text class="step" x="600" y="500" text-anchor="middle">7. Count and result</text><text class="bn" x="600" y="543" text-anchor="middle">গণনা ও ফল প্রকাশ</text><text class="small" x="600" y="579" text-anchor="middle">Records • verification</text>
+<rect class="card" x="50" y="455" width="340" height="160"/>
+<text class="step" x="220" y="500" text-anchor="middle">8. Review and remedy</text><text class="bn" x="220" y="543" text-anchor="middle">পর্যালোচনা ও প্রতিকার</text><text class="small" x="220" y="579" text-anchor="middle">Complaints • learning</text>
+<rect x="360" y="700" width="880" height="105" rx="20" fill="#e8eef2" stroke="#52616b" stroke-width="2"/>
+<text class="step" x="800" y="744" text-anchor="middle">Integrity across every stage</text>
+<text class="bn" x="800" y="780" text-anchor="middle">আইনসম্মততা • অন্তর্ভুক্তি • স্বচ্ছতা • জবাবদিহি</text>
+</svg>
