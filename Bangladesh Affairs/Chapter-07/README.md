@@ -245,7 +245,7 @@
 
 এই অধ্যায়ে ভৌগোলিক মানচিত্র প্রাসঙ্গিক নয়। তাই সংবিধানের **Article Map**, অধিকার বলবৎ করার flowchart, amendment process এবং checks-and-balances diagram-এর পাশাপাশি বাস্তব প্রতিষ্ঠানের ছবিও সংশ্লিষ্ট আলোচনায় দেওয়া হয়েছে: [জাতীয় সংসদ ভবন](#legislature-photo) · [বাংলাদেশ সুপ্রিম কোর্ট](#judiciary-photo)।
 
-------
+---
 
 <a id="article-map"></a>
 <a id="structure"></a>
