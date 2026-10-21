@@ -1,5 +1,5 @@
 # Chapter 16 Companion — BCS Previous-Question Themes & Model Essays
-[← Chapter 16 মূল অধ্যায়](./README.md) · [English Quotations + Sources](./QUOTATIONS.md) · [Bangladesh Affairs সূচি](../README.md)
+[← Chapter 16 মূল অধ্যায়](./README.md#top) · [35th–47th PYQ audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি answered model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [২০টি English Quotations + Sources](./QUOTATIONS.md#verified-quotes) · [Bangladesh Affairs সূচি](../README.md)
 
 > **লক্ষ্য:** মুক্তিযুদ্ধ বিষয়ে একাধিক প্রশ্নের উত্তর দিতে পারে এমন সমন্বিত, source-backed প্রবন্ধ শেখা।  
 > **PYQ audit note:** এগুলো BCS-এ গুরুত্বপূর্ণ হওয়ার সম্ভাবনাময় syllabus-linked themes; মূল BPSC প্রশ্নপত্রের scan দিয়ে যাচাই না করা পর্যন্ত কোনো নির্দিষ্ট বছর বা হুবহু প্রশ্ন হিসেবে দাবি করা হচ্ছে না।
