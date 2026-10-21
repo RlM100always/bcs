@@ -3,7 +3,7 @@
 # 💬 Chapter 11 — English Quotations & Source Bank
 ## নির্বাচন ও নির্বাচনী ব্যবস্থাপনা | BCS Written Revision
 
-[← Back to Chapter 11](./README.md#top) · [Previous BCS Question Analysis](./README.md#pyq) · [Model Essays](./README.md#essays)
+[← Back to Chapter 11](./README.md#top) · [35th–47th BCS PYQ Map](./PYQ-35-47-MAP.md) · [25 Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [Visual Atlas](./README.md#visual-atlas) · [Model Essays](./README.md#essays) · [Bangladesh Affairs Index](../README.md)
 
 > **এই পৃষ্ঠার উদ্দেশ্য:** নির্বাচনী ব্যবস্থাপনা, ভোটাধিকার, নির্বাচন কমিশনের স্বাধীনতা, গণতন্ত্র, অন্তর্ভুক্তি, স্বচ্ছতা ও জবাবদিহি বিষয়ে source-backed English quotations এবং পরীক্ষায় ব্যবহারযোগ্য English lines এক জায়গায় রাখা হয়েছে।
 
