@@ -4,7 +4,7 @@
 > **পাঠের কাঠামো:** ঐতিহাসিক প্রেক্ষাপট → অর্থনৈতিক রূপান্তর → সমাজ ও মানব উন্নয়ন → সাহিত্য-সংস্কৃতি → বৈষম্য ও চ্যালেঞ্জ → নীতিগত বিশ্লেষণ → পরীক্ষার উত্তর।  
 > **সর্বশেষ উৎস-পর্যালোচনা:** ২১ অক্টোবর ২০২৬। পরিবর্তনশীল পরিসংখ্যানের পাশে উৎস ও বছর দেওয়া হয়েছে।
 
-[← Bangladesh Affairs-এর মূল সূচি](../README.md) · [Chapter 01 — ভূগোল](../Chapter-01/README.md) · [Chapter 02 — জনমিতি](../Chapter-02/README.md) · [📚 PYQ Analysis + গুরুত্বপূর্ণ প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](./QUOTATIONS.md) · [📘 25 Model Questions & Answers](./QUESTIONS-ANSWERS.md)
+[← Bangladesh Affairs-এর মূল সূচি](../README.md) · [Chapter 01 — ভূগোল](../Chapter-01/README.md) · [Chapter 02 — জনমিতি](../Chapter-02/README.md) · [📚 35th–47th BCS Question Map](./PYQ-35-47-MAP.md) · [PYQ Analysis + গুরুত্বপূর্ণ প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](./QUOTATIONS.md) · [📘 25 Model Questions & Answers](./QUESTIONS-ANSWERS.md)
 
 <a id="top"></a>
 
@@ -31,6 +31,7 @@
 - [🧭 07 — Development Model](./assets/visual-revision/07-development-model.svg)
 - [📚 25 Model Questions + Answers](./QUESTIONS-ANSWERS.md)
 - [💬 16 English Quotations + Sources](./QUOTATIONS.md)
+- [🧾 35th–47th BCS Question Map](./PYQ-35-47-MAP.md)
 
 ## বিষয়সূচি — সরাসরি অংশে যান
 
