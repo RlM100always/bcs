@@ -239,7 +239,7 @@ https://bcsexam.org/written-questions
 
 **Source:** Oliver Wendell Holmes Jr., *The Common Law* (1881), opening chapter; quotation reproduced with scholarly attribution.  
 **Use:** Constitutional interpretation, judicial reasoning and social context.  
-**Link:** https://link.springer.com/chapter/10.1007/978-0-30-43582-0_3
+**Link:** https://link.springer.com/chapter/10.1007/978-3-030-43582-0_3
 
 ### D. Justice, civil liberty and democratic government
 
