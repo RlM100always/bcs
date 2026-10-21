@@ -246,12 +246,12 @@
 এই অধ্যায়ে ভৌগোলিক মানচিত্র প্রাসঙ্গিক নয়; তাই article map, constitutional process diagram, rights-enforcement flowchart এবং প্রকৃত সাংবিধানিক প্রতিষ্ঠানের ছবি ব্যবহার করা হয়েছে।
 
 <figure>
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Bangladesh_National_Parliament_Building%2C_Dhaka.jpg/1280px-Bangladesh_National_Parliament_Building%2C_Dhaka.jpg" width="100%" alt="জাতীয় সংসদ ভবন, ঢাকা"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bangladesh_National_Parliament_Building%2C_Dhaka.jpg/1280px-Bangladesh_National_Parliament_Building%2C_Dhaka.jpg" width="100%" alt="জাতীয় সংসদ ভবন, ঢাকা"/>
 <figcaption>জাতীয় সংসদ ভবন — আইনসভা ও Article 65-সংক্রান্ত আলোচনার জন্য। ছবি: Wikimedia Commons; [ফাইল ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Bangladesh_National_Parliament_Building,_Dhaka.jpg), CC BY-SA 4.0।</figcaption>
 </figure>
 
 <figure>
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Bangladesh_Supreme_Court_Main_Building.jpg/1280px-Bangladesh_Supreme_Court_Main_Building.jpg" width="100%" alt="বাংলাদেশ সুপ্রিম কোর্টের প্রধান ভবন, ঢাকা"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bangladesh_Supreme_Court_Main_Building.jpg/1280px-Bangladesh_Supreme_Court_Main_Building.jpg" width="100%" alt="বাংলাদেশ সুপ্রিম কোর্টের প্রধান ভবন, ঢাকা"/>
 <figcaption>বাংলাদেশ সুপ্রিম কোর্ট — judicial review, Article 102 ও বিচার বিভাগের স্বাধীনতার আলোচনায়। ছবি: Wikimedia Commons; [ফাইল ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Bangladesh_Supreme_Court_Main_Building.jpg), CC BY-SA 4.0।</figcaption>
 </figure>
 
