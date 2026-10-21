@@ -144,9 +144,9 @@ Structural transformation হলো উৎপাদন ও কর্মসংস
 
 #### Visual: ধান চাষ ও বাংলাদেশের কৃষি
 
-![ধানক্ষেতে বাংলাদেশের কৃষক](https://commons.wikimedia.org/wiki/Special:FilePath/Rice%20cultivation%20in%20Bangladesh.jpg)
+![ধানক্ষেতে বাংলাদেশের কৃষক](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladeshi%20Fully%20Green%20Rice%20cultivation.jpg)
 
-*কী লক্ষ্য করবেন:* কৃষি শুধু ফসল উৎপাদন নয়—কৃষিশ্রম, সেচ, মৌসুমি ঝুঁকি, গ্রামীণ আয় ও খাদ্য সরবরাহের সঙ্গে যুক্ত। [ছবির উৎস ও লাইসেন্স যাচাই](https://commons.wikimedia.org/wiki/Category:Agriculture_in_Bangladesh) · [কৃষি তথ্য: BBS](https://bbs.gov.bd/)
+*কী লক্ষ্য করবেন:* কৃষি শুধু ফসল উৎপাদন নয়—কৃষিশ্রম, সেচ, মৌসুমি ঝুঁকি, গ্রামীণ আয় ও খাদ্য সরবরাহের সঙ্গে যুক্ত। [ছবির উৎস ও লাইসেন্স যাচাই](https://commons.wikimedia.org/wiki/File:Bangladeshi_Fully_Green_Rice_cultivation.jpg) · [কৃষি তথ্য: BBS](https://bbs.gov.bd/)
 
 
 ### ৫.১ কৃষির ভূমিকা
@@ -218,9 +218,9 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 
 #### Visual: বাংলাদেশে তথ্যপ্রযুক্তি ও ডিজিটাল কাজ
 
-![বাংলাদেশের তথ্যপ্রযুক্তি খাত](https://commons.wikimedia.org/wiki/Special:FilePath/ICT%20in%20Bangladesh.jpg)
+![বাংলাদেশের তথ্যপ্রযুক্তি খাত](https://commons.wikimedia.org/wiki/Special:FilePath/IT%20Park%20in%20Jashore%2C%20Bangladesh%202024%20%E2%80%93%20Multi%20Tenant%20Building%2001.jpg)
 
-*কী লক্ষ্য করবেন:* ডিজিটাল অর্থনীতির সুযোগ ব্যাখ্যায় connectivity, skills, cybersecurity, data protection ও সবার প্রবেশাধিকার—এই পাঁচটি দিক যুক্ত করুন। [Wikimedia Commons-এ ছবির উৎস অনুসন্ধান ও লাইসেন্স](https://commons.wikimedia.org/wiki/Category:Information_technology_in_Bangladesh) · [ICT Division](https://ictd.gov.bd/)
+*কী লক্ষ্য করবেন:* ডিজিটাল অর্থনীতির সুযোগ ব্যাখ্যায় connectivity, skills, cybersecurity, data protection ও সবার প্রবেশাধিকার—এই পাঁচটি দিক যুক্ত করুন। [Wikimedia Commons-এ ছবির উৎস অনুসন্ধান ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:IT_Park_in_Jashore,_Bangladesh_2024_%E2%80%93_Multi_Tenant_Building_01.jpg) · [ICT Division](https://ictd.gov.bd/)
 
 
 সেবা খাতে পাইকারি-খুচরা বাণিজ্য, পরিবহন, শিক্ষা, স্বাস্থ্য, আবাসন, আর্থিক সেবা, সরকারি প্রশাসন, পর্যটন, টেলিযোগাযোগ এবং ডিজিটাল সেবা অন্তর্ভুক্ত। সেবা খাতের বিস্তার অর্থনীতিকে বহুমুখী করে, কিন্তু সব সেবা একই উৎপাদনশীলতা বা চাকরির মান দেয় না।
@@ -252,9 +252,9 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 
 #### Visual: আন্তর্জাতিক শ্রম অভিবাসন
 
-![বাংলাদেশি শ্রম অভিবাসন ও বিদেশগামী কর্মী](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladeshi%20migrant%20workers.jpg)
+![বাংলাদেশি শ্রম অভিবাসন ও বিদেশগামী কর্মী](https://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20of%20State%20for%20International%20Development%20Andrew%20Mitchell%20speaking%20to%20Bangladeshi%20migrant%20workers.%20%285499005775%29.jpg)
 
-*কী লক্ষ্য করবেন:* অভিবাসনকে শুধু রেমিট্যান্স হিসেবে নয়—নিয়োগব্যয়, দক্ষতা, নিরাপদ কর্মপরিবেশ, পরিবারের কল্যাণ ও বৈদেশিক মুদ্রার প্রবাহ হিসেবে বিশ্লেষণ করুন। [Wikimedia Commons-এ ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/Category:Emigration_from_Bangladesh) · [Bangladesh Bank](https://www.bb.org.bd/)
+*কী লক্ষ্য করবেন:* অভিবাসনকে শুধু রেমিট্যান্স হিসেবে নয়—নিয়োগব্যয়, দক্ষতা, নিরাপদ কর্মপরিবেশ, পরিবারের কল্যাণ ও বৈদেশিক মুদ্রার প্রবাহ হিসেবে বিশ্লেষণ করুন। [Wikimedia Commons-এ ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Secretary_of_State_for_International_Development_Andrew_Mitchell_speaking_to_Bangladeshi_migrant_workers._(5499005775).jpg) · [Bangladesh Bank](https://www.bb.org.bd/)
 
 
 ### ৮.১ প্রবাসী শ্রম ও রেমিট্যান্স
@@ -304,9 +304,9 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 
 #### Visual: শিক্ষা ও মানব পুঁজি
 
-![বাংলাদেশের শ্রেণিকক্ষে শিক্ষার্থীরা](https://commons.wikimedia.org/wiki/Special:FilePath/School%20children%20in%20Bangladesh.jpg)
+![বাংলাদেশের শ্রেণিকক্ষে শিক্ষার্থীরা](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh%20school%20children%20%288472754825%29.jpg)
 
-*কী লক্ষ্য করবেন:* মানব উন্নয়নে ভর্তি-হার ছাড়াও শেখার মান, সমতা, স্বাস্থ্য, পুষ্টি ও শ্রমবাজারে দক্ষতার ব্যবহার গুরুত্বপূর্ণ। [Wikimedia Commons-এ ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/Category:Schools_in_Bangladesh) · [Bangladesh Bureau of Statistics](https://bbs.gov.bd/)
+*কী লক্ষ্য করবেন:* মানব উন্নয়নে ভর্তি-হার ছাড়াও শেখার মান, সমতা, স্বাস্থ্য, পুষ্টি ও শ্রমবাজারে দক্ষতার ব্যবহার গুরুত্বপূর্ণ। [Wikimedia Commons-এ ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Bangladesh_school_children_(8472754825).jpg) · [Bangladesh Bureau of Statistics](https://bbs.gov.bd/)
 
 
 ### ১০.১ শিক্ষা
@@ -338,9 +338,9 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 
 #### Visual: নারীর অর্থনৈতিক অংশগ্রহণ
 
-![বাংলাদেশের নারীরা উৎপাদনমূলক কাজে](https://commons.wikimedia.org/wiki/Special:FilePath/Women%20workers%20in%20Bangladesh.jpg)
+![বাংলাদেশের নারীরা উৎপাদনমূলক কাজে](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladeshi%20women%20sewing%20clothes.jpg)
 
-*কী লক্ষ্য করবেন:* নারীর কর্মসংস্থান বিশ্লেষণে মজুরি, নিরাপত্তা, unpaid care work, নেতৃত্বে অংশগ্রহণ ও দক্ষতা উন্নয়ন বিবেচনা করুন। [Wikimedia Commons-এ ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/Category:Women_of_Bangladesh_at_work) · [BBS](https://bbs.gov.bd/)
+*কী লক্ষ্য করবেন:* নারীর কর্মসংস্থান বিশ্লেষণে মজুরি, নিরাপত্তা, unpaid care work, নেতৃত্বে অংশগ্রহণ ও দক্ষতা উন্নয়ন বিবেচনা করুন। [Wikimedia Commons-এ ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/Category:Women_garment_workers_in_Bangladesh) · [BBS](https://bbs.gov.bd/)
 
 
 নারীর শিক্ষা, স্বাস্থ্য, রাজনৈতিক অংশগ্রহণ ও শ্রমবাজারে প্রবেশ বাংলাদেশের সামাজিক ও অর্থনৈতিক পরিবর্তনের গুরুত্বপূর্ণ অংশ। তৈরি পোশাক শিল্প বহু নারীর মজুরিভিত্তিক কাজে প্রবেশের পথ তৈরি করেছে; শিক্ষা, ক্ষুদ্র উদ্যোগ, কৃষি, সেবা ও প্রবাসী শ্রমেও নারীর অবদান রয়েছে। বিশ্বব্যাংকের দীর্ঘমেয়াদি উন্নয়ন পর্যালোচনায় নারীর শ্রমবাজারে অংশগ্রহণ এবং শিক্ষা-স্বাস্থ্য খাতে অগ্রগতির কথা উল্লেখ করা হয়েছে [S2](https://www.worldbank.org/en/results/2023/11/20/bangladesh-a-fifty-year-partnership-in-development-achievements)।
