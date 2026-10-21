@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+<title id="title">জনমিতিক রূপান্তর</title><desc id="desc">ধারণাগত মডেল; বাংলাদেশের সব অঞ্চল একই পর্যায়ে নয়</desc>
+<rect width="1000" height="700" rx="24" fill="#f7fafc"/><rect width="1000" height="150" rx="24" fill="#123047"/><rect y="120" width="1000" height="30" fill="#123047"/>
+<text x="50" y="62" fill="#ffffff" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="32" font-weight="700">জনমিতিক রূপান্তর</text>
+<text x="50" y="105" fill="#dbeafe" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="19">ধারণাগত মডেল; বাংলাদেশের সব অঞ্চল একই পর্যায়ে নয়</text>
+
+<g font-family="Noto Sans Bengali, Noto Sans, sans-serif">
+<line x1="100" y1="545" x2="930" y2="545" stroke="#475569" stroke-width="3"/><line x1="100" y1="545" x2="100" y2="205" stroke="#475569" stroke-width="3"/>
+<text x="500" y="600" text-anchor="middle" fill="#334155" font-size="18">সময় ও সামাজিক-অর্থনৈতিক পরিবর্তন →</text><text x="60" y="370" transform="rotate(-90 60 370)" text-anchor="middle" fill="#334155" font-size="18">হার (ধারণাগত)</text>
+<path d="M110 250 C220 230 280 260 365 290 S550 350 640 385 S790 430 920 440" fill="none" stroke="#dc2626" stroke-width="7" stroke-linecap="round"/>
+<path d="M110 265 C230 260 300 275 380 360 S600 475 730 480 S850 482 920 482" fill="none" stroke="#2563eb" stroke-width="7" stroke-linecap="round"/>
+<text x="150" y="220" fill="#b91c1c" font-size="19" font-weight="700">জন্মহার</text><text x="150" y="305" fill="#1d4ed8" font-size="19" font-weight="700">মৃত্যুহার</text>
+<text x="180" y="515" text-anchor="middle" fill="#334155" font-size="15">প্রাথমিক</text><text x="385" y="515" text-anchor="middle" fill="#334155" font-size="15">মৃত্যুহার কমে</text><text x="600" y="515" text-anchor="middle" fill="#334155" font-size="15">জন্মহার কমে</text><text x="815" y="515" text-anchor="middle" fill="#334155" font-size="15">বৃদ্ধি ধীর</text>
+<rect x="145" y="395" width="240" height="66" rx="12" fill="#dbeafe"/><text x="265" y="423" text-anchor="middle" fill="#1e3a8a" font-size="16">ধারণাগত মডেল</text><text x="265" y="445" text-anchor="middle" fill="#1e3a8a" font-size="14">বাস্তব data chart নয়</text>
+</g>
+<line x1="48" y1="628" x2="952" y2="628" stroke="#cbd5e1" stroke-width="2"/>
+<text x="50" y="660" fill="#334155" font-family="Noto Sans Bengali, Noto Sans, sans-serif" font-size="15">এটি তত্ত্বের ব্যাখ্যামূলক চিত্র, বাংলাদেশের জন্ম-মৃত্যুহারের বাস্তব data chart নয়.</text>
+</svg>
