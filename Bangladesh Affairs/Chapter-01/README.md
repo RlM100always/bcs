@@ -1154,6 +1154,10 @@ I --> P
 
 **✅ Model Answer (বাংলা) — Definition → Explanation → Analysis**
 
+**🟨 Exact Yellow Exam Highlight (`#FFF200`) — Q03**
+
+![Q03 important facts highlighted with exact yellow background](./assets/highlights/q03-yellow.svg)
+
 **মূল কথা:** বাংলাদেশ স্থলপথে দক্ষিণ এশিয়ার সঙ্গে যুক্ত এবং <mark>বঙ্গোপসাগরের মাধ্যমে আন্তর্জাতিক সামুদ্রিক পথে প্রবেশ করতে পারে</mark>।
 
 - **পয়েন্ট 1 —** কৌশলগত গুরুত্ব আসে <mark>বন্দর, উপকূলীয় বাণিজ্য, সমুদ্রসীমা, আন্তঃসীমান্ত নদী ও আঞ্চলিক সংযোগ</mark> থেকে।
