@@ -58,7 +58,9 @@
 
 ### 🟨 ২. Three Physiographic Regions — বাংলাদেশের তিন প্রধান ভূপ্রাকৃতিক অঞ্চল
 
-> **“three distinct regions”**
+**Original English quotation (মূল ইংরেজি উদ্ধৃতি):**
+
+> “three distinct regions”
 
 **বাংলা ভাবানুবাদ:** বাংলাদেশের ভূপ্রকৃতিকে তিনটি স্বতন্ত্র অঞ্চলে ভাগ করা যায়।
 
