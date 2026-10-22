@@ -6,7 +6,9 @@ are counted separately: passing this check does not verify remote availability.
 """
 
 import argparse
+import hashlib
 from html.parser import HTMLParser
+import json
 from pathlib import Path
 import re
 from urllib.parse import unquote, urlsplit
@@ -52,7 +54,7 @@ def check(root):
     external = set()
     references = 0
     for document in sorted(root.rglob("*.md")):
-        if ".git" in document.relative_to(root).parts:
+        if {".git", "node_modules"}.intersection(document.relative_to(root).parts):
             continue
         for source in image_sources(document.read_text(encoding="utf-8")):
             references += 1
@@ -64,7 +66,8 @@ def check(root):
             local.add(target.resolve())
             if not source or not url.path or not target.is_file():
                 errors.append(f"{document.relative_to(root)}: missing image {source!r}")
-    svgs = sorted(root.rglob("*.svg"))
+    svgs = sorted(p for p in root.rglob("*.svg")
+                  if not {".git", "node_modules"}.intersection(p.relative_to(root).parts))
     for asset in svgs:
         try:
             element = ET.parse(asset).getroot()
@@ -72,11 +75,46 @@ def check(root):
                 raise ValueError("missing SVG root or SVG namespace")
         except (ET.ParseError, OSError, ValueError) as error:
             errors.append(f"{asset.relative_to(root)}: invalid SVG: {error}")
+    manifest = root / "Bangladesh Affairs/assets/photos/manifest.json"
+    records = []
+    if manifest.is_file():
+        try:
+            records = json.loads(manifest.read_text(encoding="utf-8"))
+            if not isinstance(records, list):
+                raise ValueError("expected an array of image records")
+            names = set()
+            register = (manifest.parent / "SOURCES.md").read_text(encoding="utf-8")
+            for record in records:
+                name = record["file"]
+                if name in names or Path(name).name != name:
+                    raise ValueError(f"duplicate or invalid photo filename: {name}")
+                names.add(name)
+                asset = manifest.parent / name
+                if hashlib.sha256(asset.read_bytes()).hexdigest() != record["sha256"]:
+                    errors.append(f"{name}: cached photo checksum mismatch")
+                if not record.get("title") or not record.get("license") or not record.get("source_page", "").startswith("https://"):
+                    errors.append(f"{name}: missing title, license or HTTPS source page")
+                if f"]({name})" not in register:
+                    errors.append(f"{name}: missing photo source-register entry")
+                if not record.get("used_in"):
+                    errors.append(f"{name}: no document recorded for this photo")
+                for document in record.get("used_in", []):
+                    page = root / document
+                    targets = {
+                        (page.parent / unquote(urlsplit(source).path)).resolve()
+                        for source in image_sources(page.read_text(encoding="utf-8"))
+                        if not urlsplit(source).scheme and not urlsplit(source).netloc
+                    }
+                    if asset.resolve() not in targets:
+                        errors.append(f"{document}: declared cached photo {name} is not embedded")
+        except (OSError, ValueError, KeyError, TypeError) as error:
+            errors.append(f"{manifest.relative_to(root)}: invalid photo manifest: {error}")
     print(f"Image references: {references}; distinct local images: {len(local)}; SVG files: {len(svgs)}")
+    print(f"Cached photo records checked: {len(records)}")
     print(f"External image URLs: {len(external)} (not checked; require a network-enabled audit)")
     for error in errors:
         print(f"ERROR: {error}")
-    print(f"{'FAIL' if errors else 'PASS'}: local image paths and SVG syntax")
+    print(f"{'FAIL' if errors else 'PASS'}: local image paths, SVG syntax and photo provenance records")
     return bool(errors)
 
 

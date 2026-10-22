@@ -20,6 +20,10 @@ This open educational project is independent and is **not affiliated with BPSC**
 
 ## Repository checks
 
-Run `python3 tools/check_images.py` to check local Markdown image paths and SVG syntax. The same check runs on pushes and pull requests. External image URLs are reported separately and require a network-enabled audit.
+With Node.js 24 and Python 3 installed, run `npm ci --ignore-scripts`, then `npm run check`. These checks validate Markdown file links, GitHub heading anchors, unresolved merge markers, local image paths, SVG syntax, cached-photo checksums and source records. They run on pushes and pull requests.
+
+The image check also runs independently with `python3 tools/check_images.py`. External URLs are reported separately and require a network-enabled audit.
+
+In this cloud workspace, use `npm ci --ignore-scripts --cache /tmp/bcs-npm-cache` when the default npm cache directory is not writable.
 
 Image credits and licenses: [photo source register](Bangladesh%20Affairs/assets/photos/SOURCES.md).

@@ -14,7 +14,7 @@
 
 ## 🧭 বিষয়সূচি — সরাসরি অংশে যান
 
-**দ্রুত নেভিগেশন:** [মূল ধারণা](#২-অধ্যায়ের-মূল-ধারণা--৮-মিনিটে) · [অনানুষ্ঠানিক প্রতিষ্ঠান](#৫-informal-institutions--অনানুষ্ঠানিক-প্রতিষ্ঠান-কী-ও-কেন-গুরুত্বপূর্ণ) · [Civil Society](#৬-civil-society--সুশীল-সমাজের-ধারণা-ভূমিকা) · [NGO in Bangladesh](#৭-ngos-in-bangladesh--বিকাশ-ধরন-ও-অবদান) · [আইন ও নিয়ন্ত্রণ](#৮-constitutional-and-legal-framework--সংবিধান-ngoab-ও-mra) · [৩৩টি Model Q&A](#১৪-important-english-questions--৩৩টি-বাংলা-model-answer) · [Visual Atlas](./VISUAL-ATLAS.md) · [Model Essays](./PYQ-BASED-ESSAYS.md) · [Quotations](./QUOTATIONS.md)
+**দ্রুত নেভিগেশন:** [মূল ধারণা](#২-অধ্যায়ের-মূল-ধারণা--৮-মিনিটে) · [অনানুষ্ঠানিক প্রতিষ্ঠান](#৫-informal-institutions--অনানুষ্ঠানিক-প্রতিষ্ঠান-কী-ও-কেন-গুরুত্বপূর্ণ) · [Civil Society](#civil-society) · [NGO in Bangladesh](#৭-ngos-in-bangladesh--বিকাশ-ধরন-ও-অবদান) · [আইন ও নিয়ন্ত্রণ](#৮-constitutional-and-legal-framework--সংবিধান-ngoab-ও-mra) · [৩৩টি Model Q&A](#১৪-important-english-questions--৩৩টি-বাংলা-model-answer) · [Visual Atlas](./VISUAL-ATLAS.md) · [Model Essays](./PYQ-BASED-ESSAYS.md) · [Quotations](./QUOTATIONS.md)
 
 | শেখার ধাপ | মূল অধ্যায় | প্রশ্ন ও পুনরালোচনা |
 |---|---|---|

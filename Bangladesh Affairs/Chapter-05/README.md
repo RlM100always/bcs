@@ -282,6 +282,7 @@ PM2.5 হলো ব্যাস ২.৫ মাইক্রোমিটার ব
 ---
 
 <a id="coast"></a>
+<a id="biodiversity"></a>
 ## ৮. উপকূল, সুন্দরবন, জলাভূমি ও জীববৈচিত্র্য
 
 #### বাস্তব ছবি: সুন্দরবনের ম্যানগ্রোভ বাস্তুতন্ত্র
@@ -694,6 +695,7 @@ The Bangladesh Forest Department's protected-area page reports **470,223.206 hec
 5. **Waste:** reduce → reuse → repair → recycle → safe disposal।
 6. **Governance:** আইন → তথ্য → প্রয়োগ → স্বচ্ছতা → জবাবদিহি।
 
+<a id="selftest"></a>
 ### ১০টি self-test
 1. টেকসই উন্নয়নের তিনটি মাত্রা কী?
 2. PM2.5 জনস্বাস্থ্যের জন্য কেন গুরুত্বপূর্ণ?

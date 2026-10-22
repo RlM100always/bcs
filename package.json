@@ -1,0 +1,16 @@
+{
+  "name": "bcs-written-book-checks",
+  "private": true,
+  "scripts": {
+    "check": "npm run check:links && npm run check:images",
+    "check:links": "node tools/check_links.mjs",
+    "check:images": "python3 tools/check_images.py"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "devDependencies": {
+    "github-slugger": "2.0.0",
+    "markdown-it": "15.0.3"
+  }
+}
