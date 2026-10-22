@@ -79,7 +79,7 @@ Do not list every country or international organisation without explaining how i
 ### Official / primary sources
 - **Constitution of Bangladesh, Article 25:** https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 - **Ministry of Foreign Affairs, Bangladesh — Foreign Policy:** https://sittwe.mofa.gov.bd/pages/static-pages/foreign-policy-of-bangladesh-edc320-695266ac35ce18e1c05aab1e
-- **BPSC, Syllabus for BCS Written Examination, Bangladesh Affairs, Subject Code 005, Unit 9:** https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf
+- **BPSC, Syllabus for BCS Written Examination, Bangladesh Affairs, Subject Code 005, Unit 9:** https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2024/12/df968f7fa918431dae3ed31b43206f6f.pdf
 - **UN Charter:** https://www.un.org/en/about-us/un-charter/full-text
 - **UN Peacekeeping, Troop and Police Contributors:** https://peacekeeping.un.org/en/troop-and-police-contributors
 - **Armed Forces Division — Bangladesh’s troop-contribution position (2026: 4th):** https://afd.gov.bd/index.php/un-peacekeeping/position-of-bangladesh-in-un-peace-operation

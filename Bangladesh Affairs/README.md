@@ -1,39 +1,48 @@
-# Bangladesh Affairs — BCS Written Digital Textbook
+# বাংলাদেশ বিষয়াবলি — বিসিএস লিখিত প্রস্তুতির পাঠ্যবই
 
-**BPSC Subject Code: 005 · Total Marks: 200** · বাংলা ব্যাখ্যা + English প্রশ্ন · গবেষণা ও সোর্সভিত্তিক ডিজিটাল বই
+**বিষয় কোড: ০০৫ · মোট নম্বর: ২০০ · ভাষা: বাংলা**
 
-> **Editorial note (২১ অক্টোবর ২০২৬):** এখানে 'অধ্যায় প্রস্তুত' এবং 'অধ্যায় এখনো লেখা হয়নি' আলাদা করা হয়েছে। শুধু সূচিপত্র থাকাকে অধ্যায় সম্পূর্ণ বলা হচ্ছে না।
+বিষয় গভীরভাবে বুঝে প্রশ্ন অনুযায়ী বিশ্লেষণধর্মী উত্তর লেখার জন্য বইটি তৈরি। প্রতিটি অধ্যায়ে একই পাঠক্রম: **মূলপাঠ → লিখিত অনুশীলন → পুনরালোচনা ও চিত্র → উৎস ও যাচাই**।
 
-## অধ্যায়সূচি ও অগ্রগতি
+[সরকারি সিলেবাস ও বিষয়ভিত্তিক মিল](./SYLLABUS-COVERAGE.md) · [উত্তর লেখার নির্দেশিকা](./ANSWER-WRITING.md) · [উৎস-নিরীক্ষা](./SOURCE-AUDIT.md) · [সম্পাদনা মানদণ্ড](./EDITORIAL-STANDARD.md)
 
-| No. | অধ্যায় | অগ্রগতি |
+## অধ্যায়সূচি
+
+| অধ্যায় | মূল আলোচনা | উত্তরসহ অনুশীলন |
 |---|---|---|
-| 01 | [বাংলাদেশের ভৌগোলিক পরিচিতি ও ভূপ্রকৃতি](Chapter-01/README.md) · [বিগত প্রশ্ন](Chapter-01/README.md#pyq) | 📱 ৪৭টি responsive SVG visual + archive-reported PYQ analysis + ৩৩টি model Q&A ও ৫/১০/২০ নম্বরের worked answer |
-| 02 | [জনতত্ত্ব, জনমিতি ও সাংস্কৃতিক বৈচিত্র্য](Chapter-02/README.md) · [35th–47th PYQ audit](Chapter-02/PYQ-ANALYSIS-35TH-47TH.md) · [২৫টি answered question](Chapter-02/BCS-WRITTEN-QUESTION-BANK.md) · [১৮টি English quotation](Chapter-02/QUOTATIONS.md) · [Visual Atlas](Chapter-02/VISUAL-ATLAS.md) | 📱 ৮টি embedded responsive SVG + ১৫টি visual/map resource link + official BBS census infographics + ২৫টি model Q&A + ১৮টি source-backed quotation; PYQ verification limits stated |
-| 03 | [প্রাচীন থেকে আধুনিক বাংলাদেশের ইতিহাস ও সংস্কৃতি](Chapter-03/README.md) · [২৫টি Model Q&A + 35th–47th PYQ Audit](Chapter-03/QUESTION-ANSWERS.md) · [PYQ-based Essays](Chapter-03/PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](Chapter-03/QUOTATIONS.md) · [Visual Atlas](Chapter-03/VISUAL-ATLAS.md) | 📘 পূর্ণাঙ্গ BCS Written অধ্যায় + ১০টি responsive SVG + Liberation War map + ২৫টি worked Q&A + 35th–47th question-theme audit + source-backed essays/quotations |
-| 04 | [স্বাধীনতা-পরবর্তী অর্থনীতি, সমাজ, সাহিত্য ও সংস্কৃতি](Chapter-04/README.md) · [35th–47th BCS Question Map](Chapter-04/PYQ-35-47-MAP.md) · [২৫টি Model Q&A](Chapter-04/QUESTIONS-ANSWERS.md) · [PYQ-ভিত্তিক প্রবন্ধ](Chapter-04/PYQ-BASED-ESSAYS.md) · [English Quotations](Chapter-04/QUOTATIONS.md) | 📘 ২০টি embedded visual (৯টি topic diagram/data chart + ১১টি ছবি/মানচিত্র) · ২৫টি model answer · 35th–47th BCS topic audit · ১৬টি source-linked quotation |
-| 05 | [পরিবেশ, প্রকৃতি, চ্যালেঞ্জ ও সম্ভাবনা](Chapter-05/README.md) · [35th–47th PYQ audit](Chapter-05/PYQ-ANALYSIS-35TH-47TH.md) · [৩০টি answered question](Chapter-05/BCS-WRITTEN-QUESTION-BANK.md) · [English Quotations + Sources](Chapter-05/QUOTATIONS.md) · [৮টি model essay](Chapter-05/PYQ-BASED-ESSAYS.md) | 📘 সরকারি protected-area map + official BAMIS climate-risk map portal + ১২টি revision diagram + official data-based protected-area chart + ৩০টি source-backed model answer + ১৯টি sourced English quotation + ৮টি model essay + 35th–47th BCS theme audit; map/date/source limitations স্পষ্ট |
-| 06 | [প্রাকৃতিক সম্পদ ও টেকসই ব্যবস্থাপনা](Chapter-06/README.md) · [35th–47th BCS question audit](Chapter-06/PYQ-35TH-47TH-ANALYSIS.md) · [২৫টি answered model Q&A](Chapter-06/BCS-WRITTEN-QUESTION-BANK.md) · [১৬টি sourced English quotation](Chapter-06/QUOTATIONS.md) | 📘 ১০টি responsive SVG/ডেটা চার্ট + সরকারি protected-area, forest-cover ও ECA map + attribution-সহ বাস্তব ছবি + 35th–47th year-by-year PYQ audit + ২৫টি বিস্তারিত model answer + ১৬টি real-source quotation + আগের ৩৩টি practice question ও ৫টি প্রবন্ধ |
-| 07 | [বাংলাদেশের সংবিধান](Chapter-07/README.md) · [35th–47th BCS PYQ Audit](Chapter-07/PYQ-35TH-47TH-AUDIT.md) · [২৫টি Answered Model Q&A](Chapter-07/BCS-WRITTEN-QUESTION-BANK.md) · [৮টি PYQ-ভিত্তিক প্রবন্ধ](Chapter-07/PYQ-BASED-ESSAYS.md) · [২০টি English Quotations + real sources](Chapter-07/QUOTATIONS.md#verified-quotes) | 📘 সংবিধানের পূর্ণাঙ্গ পাঠ + ৩৫তম–৪৭তম year-by-year audit + ২৫টি উত্তরসহ প্রশ্ন + ৮টি source-backed essay + ১২টি responsive SVG visual/chart + মূল দলিলের ছবি ও licence + ২০টি যাচাইযোগ্য quotation |
-| 08 | [রাষ্ট্রের অঙ্গসমূহ—আইন, নির্বাহী ও বিচার বিভাগ](Chapter-08/README.md) · [35th–47th BCS Question Map](Chapter-08/PYQ-35-47-MAP.md) · [২৫টি Answered Model Q&A](Chapter-08/BCS-WRITTEN-QUESTION-BANK.md) · [English Quotations](Chapter-08/QUOTATIONS.md) · [PYQ Essays](Chapter-08/PYQ-BASED-ESSAYS.md) | 📘 পূর্ণাঙ্গ অধ্যায় + সংসদ ও সুপ্রিম কোর্টের উৎস-লিংকসহ ছবি + ৪টি responsive SVG diagram + ২৫টি model Q&A + 35th–47th BCS theme audit + ১৬টি quotation/exam lines |
-| 09 | [বাংলাদেশের পররাষ্ট্রনীতি ও বৈদেশিক সম্পর্ক](Chapter-09/README.md) · [35th–47th PYQ Audit](Chapter-09/PYQ-35TH-47TH-AUDIT.md) · [২৫টি Answered Model Q&A](Chapter-09/BCS-WRITTEN-QUESTION-BANK.md) · [৮টি Model Essay](Chapter-09/PYQ-BASED-ESSAYS.md) · [১৮টি English Quotations](Chapter-09/QUOTATIONS.md#verified-quotes) | 📘 পূর্ণাঙ্গ অধ্যায় + exact-source Bay of Bengal map + ১০টি SVG visual/chart + 35th–47th year-by-year audit + ২৫টি answered model question + ৮টি source-backed essay + ১৮টি sourced English quotation + সময়কালসহ peacekeeping/JRP references ও স্বতন্ত্র যাচাইয়ের সীমা |
-| 10 | [রাজনৈতিক দল ও রাজনৈতিক প্রক্রিয়া](Chapter-10/README.md) · [35th–47th BCS PYQ Map](Chapter-10/PYQ-35-47-MAP.md) · [২৫টি Answered Model Q&A](Chapter-10/BCS-WRITTEN-QUESTION-BANK.md) · [English Quotations + Sources](Chapter-10/QUOTATIONS.md) · [৮টি Model Essays](Chapter-10/README.md#essays) | 📘 ৮টি source-backed essay + ৩৩টি অধ্যায়ভিত্তিক Q&A + ২৫টি standalone model Q&A + 35th–47th year-by-year evidence map + ৬টি responsive SVG + EC ও Parliament building image/source + ১৫টি quotation topic; unverified PYQ status স্পষ্ট |
-| 11 | [নির্বাচন ও নির্বাচনী ব্যবস্থাপনা](Chapter-11/README.md) · [35th–47th BCS year-by-year PYQ audit](Chapter-11/PYQ-35TH-47TH-ANALYSIS.md) · [২৫টি Answered Model Q&A + ৪টি full worked answer](Chapter-11/BCS-WRITTEN-QUESTION-BANK.md) · [১১টি authentic English quotation + ২টি sourced paraphrase](Chapter-11/QUOTATIONS.md#authentic-quotations) · [৮টি Model Essays](Chapter-11/README.md#essays) | 📘 ১৫টি SVG visual/chart + official constituency lookup ও revised boundary gazette + ২০২৬ সালের election photos এবং clearly-labelled result map + ৩৫তম–৪৭তম year-by-year audit + ২৫টি model Q&A ও ৪টি পূর্ণাঙ্গ worked answer + ৩৩টি in-chapter practice Q&A + ১৩টি exact, source-linked English quotation + ৮টি essay |
-| 12 | [যোগাযোগ, ICT, গণমাধ্যম, RTI ও ই-গভর্ন্যান্স](Chapter-12/README.md) · [35th–47th PYQ audit](Chapter-12/PYQ-ANALYSIS-35TH-47TH.md) · [২৫টি answered Q&A](Chapter-12/BCS-WRITTEN-QUESTION-BANK.md) · [৮টি Model Essay](Chapter-12/PYQ-BASED-ESSAYS.md) · [১৮টি English Quotations](Chapter-12/QUOTATIONS.md) · [Visual Atlas + real images/map](Chapter-12/VISUAL-ATLAS.md) | 📘 BCS Written chapter + archive-reported 35th–47th question audit + ২৫টি source-backed model answer + ৮টি essay + ১৮টি real-source quotation + ১৪টি SVG visual + ১০টি topic-linked internet image (main chapter) + source/licence notes; total embedded images and diagrams capped at ৩০ |
-| 13 | [অনানুষ্ঠানিক প্রতিষ্ঠান, সুশীল সমাজ ও NGO](Chapter-13/README.md) · [PYQ-ভিত্তিক প্রবন্ধ](Chapter-13/PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](Chapter-13/QUOTATIONS.md) · [Visual Atlas: 10 diagrams + 10 internet photos](Chapter-13/VISUAL-ATLAS.md) | 📘 BCS Written অধ্যায় + ৩৩টি model Q&A + ৪১তম/৪৭তম/৩৮তম প্রশ্ন-থিম বিশ্লেষণ + ৮টি প্রবন্ধ + ২০টি quotation + ১০টি responsive SVG diagram + ১০টি topic-matched internet photo + attribution/licence register; total ২৯টি embedded visual |
-| 14 | [বিশ্বায়ন ও বাংলাদেশ](Chapter-14/README.md) · [35th–47th BCS PYQ Map](Chapter-14/PYQ-35-47-MAP.md) · [২৮টি Answered Model Q&A](Chapter-14/BCS-WRITTEN-QUESTION-BANK.md) · [English Quotations + Sources](Chapter-14/QUOTATIONS.md) · [PYQ-based Essays](Chapter-14/PYQ-BASED-ESSAYS.md) | 📘 ৭টি topic-specific SVG diagram + ১০টি internet-sourced topic-linked photograph (with attribution/licence) + official data-map links (EPB, Bangladesh Bank, BBS, World Bank, WTO, UNDP, ILO) + ২৮টি answered model question + 35th–47th PYQ evidence map + expanded real-source quotation bank |
-| 15 | [জেন্ডার ইস্যু ও উন্নয়ন](Chapter-15/README.md) · [২৫টি Model Q&A with Answers](Chapter-15/QUESTION-ANSWERS.md) · [Visual Atlas: 8 diagrams + 10 internet photos](Chapter-15/VISUAL-ATLAS.md) · [PYQ-linked Model Essays](Chapter-15/PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](Chapter-15/QUOTATIONS.md) | 📘 BCS Written chapter + ৩৩টি practice prompt + ২৫টি worked answer + ১০টি topic-matched internet photograph with source/licence register + ৮টি SVG diagram; ১৮টি distinct visual asset, মোট ২৬টি image placements (diagram preview দুই ফাইলে থাকায়); 35th–47th মূল প্রশ্নপত্রের পূর্ণ audit আলাদা যাচাইসাপেক্ষ |
-| 16 | [মুক্তিযুদ্ধ ও তার পটভূমি](Chapter-16/README.md) · [35th–47th BCS PYQ Audit](Chapter-16/PYQ-35TH-47TH-AUDIT.md) · [২৫টি Answered Model Q&A](Chapter-16/BCS-WRITTEN-QUESTION-BANK.md) · [৮টি source-backed প্রবন্ধ](Chapter-16/PYQ-BASED-ESSAYS.md) · [২০টি English Quotations](Chapter-16/QUOTATIONS.md#verified-quotes) | 📘 ১০টি topic-matched historical image (মূল পাঠের পাশে) + ৬টি SVG diagram/chart + ২৫টি পূর্ণ মডেল উত্তর + ৩৫তম–৪৭তম year audit + ২০টি quotation with source |
+| ১ | [বাংলাদেশের ভূগোল ও ভূপ্রকৃতি](./Chapter-01/README.md#book-text) | [প্রশ্ন ও উত্তর](./Chapter-01/README.md#written-practice) |
+| ২ | [জনমিতি, জাতিগত ও সাংস্কৃতিক বৈচিত্র্য](./Chapter-02/README.md#book-text) | [প্রশ্ন ও উত্তর](./Chapter-02/BCS-WRITTEN-QUESTION-BANK.md) |
+| ৩ | [প্রাচীনকাল থেকে সমকাল: ইতিহাস ও সংস্কৃতি](./Chapter-03/README.md#book-text) | [প্রশ্ন ও উত্তর](./Chapter-03/QUESTION-ANSWERS.md) |
+| ৪ | [স্বাধীনতা-পরবর্তী অর্থনীতি, সমাজ, সাহিত্য ও সংস্কৃতি](./Chapter-04/README.md#book-text) | [প্রশ্ন ও উত্তর](./Chapter-04/QUESTIONS-ANSWERS.md) |
+| ৫ | [পরিবেশ, প্রকৃতি ও টেকসই উন্নয়ন](./Chapter-05/README.md#book-text) | [প্রশ্ন ও উত্তর](./Chapter-05/BCS-WRITTEN-QUESTION-BANK.md) |
+| ৬ | [প্রাকৃতিক সম্পদ ও টেকসই ব্যবস্থাপনা](./Chapter-06/README.md#book-text) | [প্রশ্ন ও উত্তর](./Chapter-06/BCS-WRITTEN-QUESTION-BANK.md) |
+| ৭ | [বাংলাদেশের সংবিধান](./Chapter-07/README.md#book-text) | [প্রশ্ন ও উত্তর](./Chapter-07/BCS-WRITTEN-QUESTION-BANK.md) |
+| ৮ | [রাষ্ট্রের অঙ্গসমূহ: আইনসভা, নির্বাহী ও বিচার বিভাগ](./Chapter-08/README.md#book-text) | [প্রশ্ন ও উত্তর](./Chapter-08/BCS-WRITTEN-QUESTION-BANK.md) |
+| ৯ | [পররাষ্ট্রনীতি ও বৈদেশিক সম্পর্ক](./Chapter-09/README.md#book-text) | [প্রশ্ন ও উত্তর](./Chapter-09/BCS-WRITTEN-QUESTION-BANK.md) |
+| ১০ | [রাজনৈতিক দল ও রাজনৈতিক প্রক্রিয়া](./Chapter-10/README.md#book-text) | [প্রশ্ন ও উত্তর](./Chapter-10/BCS-WRITTEN-QUESTION-BANK.md) |
+| ১১ | [নির্বাচন ও নির্বাচনী ব্যবস্থাপনা](./Chapter-11/README.md#book-text) | [প্রশ্ন ও উত্তর](./Chapter-11/BCS-WRITTEN-QUESTION-BANK.md) |
+| ১২ | [যোগাযোগ, ICT, গণমাধ্যম, তথ্য অধিকার ও ই-গভর্ন্যান্স](./Chapter-12/README.md#book-text) | [প্রশ্ন ও উত্তর](./Chapter-12/BCS-WRITTEN-QUESTION-BANK.md) |
+| ১৩ | [অনানুষ্ঠানিক প্রতিষ্ঠান, সুশীল সমাজ, স্বার্থগোষ্ঠী ও এনজিও](./Chapter-13/README.md#book-text) | [প্রশ্ন ও উত্তর](./Chapter-13/README.md#written-practice) |
+| ১৪ | [বিশ্বায়ন ও বাংলাদেশ](./Chapter-14/README.md#book-text) | [প্রশ্ন ও উত্তর](./Chapter-14/BCS-WRITTEN-QUESTION-BANK.md) |
+| ১৫ | [জেন্ডার ও উন্নয়ন](./Chapter-15/README.md#book-text) | [প্রশ্ন ও উত্তর](./Chapter-15/QUESTION-ANSWERS.md) |
+| ১৬ | [মুক্তিযুদ্ধ ও তার পটভূমি](./Chapter-16/README.md#book-text) | [প্রশ্ন ও উত্তর](./Chapter-16/BCS-WRITTEN-QUESTION-BANK.md) |
 
-## বই পড়ার পদ্ধতি
-1. অধ্যায়টির **Core Narrative** পড়ে ঐতিহাসিক ও ভৌগোলিক প্রেক্ষাপট বুঝুন।
-2. **Definitions, Tables, Visuals** খাতায় অনুশীলন করুন। সব সংখ্যাযুক্ত ডায়াগ্রামে dataset এবং reference থাকবে।
-3. **English Question → বাংলা Model Answer** অংশে প্রশ্ন ধরে লিখুন। প্রতিটি উত্তরে সংক্ষিপ্ত ভূমিকা, কারণ/বিশ্লেষণ, তথ্যসহ উদাহরণ, উপসংহার রাখুন।
-4. **Source Name for Exam**—উত্তরে প্রতিবেদন/প্রতিষ্ঠানের নাম ও প্রকাশসাল লিখুন। URL খাতায় লেখার প্রয়োজন নেই।
-5. **PYQ Evidence**—BPSC মূল প্রশ্নপত্র না মিললে কোনো তৃতীয় পক্ষের প্রশ্নকে verified past paper দাবি করা হবে না।
+সরকারি সিলেবাসের পরিদর্শিত পাঠে অধ্যায় ১৬-এর বিষয়ের পাশে **৫০ নম্বর** আছে। অন্য অধ্যায়ের পৃথক নম্বরবণ্টন এই পাতায় নেই। [মূল প্রমাণ](./SYLLABUS-COVERAGE.md#official-scope)।
 
-### উৎস ও নীতি
-- **Official syllabus:** [Bangladesh Public Service Commission (BPSC), Syllabus for BCS (Written) Examination, pp. 6–7](https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf).
-- প্রাথমিক উৎসের অগ্রাধিকার: BPSC, BBS, বাংলাদেশ সরকারি সংস্থা, আইন ও রায়, Banglapedia (Bangladesh Asiatic Society), UNESCO, UN, World Bank ও প্রকাশিত বৈজ্ঞানিক গবেষণা।
-- **স্থির/ঐতিহাসিক তথ্য** ও **পরিবর্তনশীল সমসাময়িক তথ্য** আলাদা করা হয়। ভিন্ন উৎসে সংখ্যা ভিন্ন হলে সংজ্ঞা/সময়সীমা উল্লেখ করা হয়।
-- বইটি BPSC দ্বারা অনুমোদিত নয়; নির্দিষ্ট নম্বরের নিশ্চয়তা দেয় না।
+## কীভাবে পড়বেন
+
+১. **মূলপাঠ:** সংজ্ঞা, ঘটনাপ্রবাহ ও কার্যপ্রক্রিয়া বুঝুন। কারণ, ফল ও সুপারিশ আলাদা করে নোট করুন।
+
+২. **প্রমাণ:** সংখ্যার সংজ্ঞা ও সময়কাল, আইনের ধারা এবং ইতিহাসের নির্দিষ্ট দলিল বা গবেষণা দেখুন।
+
+৩. **অনুশীলন:** প্রশ্নে বর্ণনা, বিশ্লেষণ, তুলনা বা মূল্যায়ন—কোন কাজ চাওয়া হয়েছে তা ধরে নিজের উত্তর লিখুন।
+
+৪. **পুনরালোচনা:** বই বন্ধ করে মূল যুক্তি বলুন; তারপর সারণি ও চিত্রের সঙ্গে মিলিয়ে নিন। ছবি মূল উৎসের বিকল্প নয়।
+
+## এই সংস্করণের যাচাইয়ের অবস্থা
+
+১৬টি অধ্যায়ে মূলপাঠ ও অনুশীলন আছে। **পাঠ থাকা, সিলেবাসের বিষয় আলোচনা করা এবং প্রতিটি দাবি স্বাধীনভাবে যাচাই করা আলাদা অবস্থা।** ২২ অক্টোবর ২০২৬-এর সম্পাদনায় নির্দিষ্ট কিছু মূল দলিল পড়া হয়েছে; কয়েকটি সরকারি আইনপাতা ও আন্তর্জাতিক উৎস অপ্রাপ্য ছিল। সব দাবি বা সব উদ্ধৃতি যাচাইকৃত—এমন দাবি করা হচ্ছে না। [বিস্তারিত উৎস-নিরীক্ষা](./SOURCE-AUDIT.md)।
+
+তৃতীয় পক্ষের প্রশ্নসংকলন মূল BPSC প্রশ্নপত্র নয়। নিজের তৈরি প্রশ্ন সম্পাদকীয় অনুশীলন; নমুনা উত্তর সরকারি উত্তরমালা নয়। নির্দিষ্ট পরীক্ষার নির্দেশনা ও প্রযোজ্য সরকারি বিজ্ঞপ্তি প্রাধান্য পাবে।
+
+বইটি স্বাধীন শিক্ষামূলক উদ্যোগ; BPSC-এর অনুমোদিত প্রকাশনা নয়। [ছবির কৃতিত্ব ও লাইসেন্স](./assets/photos/SOURCES.md)।

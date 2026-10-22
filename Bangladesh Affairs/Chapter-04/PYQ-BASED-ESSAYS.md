@@ -140,12 +140,12 @@ BBS-এর HIES 2022 অনুযায়ী জাতীয় দারিদ্র
 
 ### কার্যকর করণীয়
 
-১. **উৎপাদনশীল চাকরি:** ক্ষুদ্র উদ্যোগ, কৃষি-প্রক্রিয়াজাতকরণ, শিল্প ও স্থানীয় সেবা খাতে মানসম্মত কাজ বাড়ানো।  
-২. **দক্ষতা ও শিক্ষা:** শ্রমবাজারের চাহিদার সঙ্গে কারিগরি শিক্ষা, apprenticeship এবং পুনঃপ্রশিক্ষণ যুক্ত করা।  
-৩. **নারী ও যুবক:** নিরাপদ কর্মক্ষেত্র, childcare, যাতায়াত, দক্ষতা এবং নিয়োগে বৈষম্য কমানো।  
-৪. **লক্ষ্যভিত্তিক সামাজিক সুরক্ষা:** দরিদ্র ও ঝুঁকিপূর্ণ পরিবারের সঠিক তালিকা, সময়মতো সুবিধা এবং অভিযোগ নিষ্পত্তি।  
-৫. **কৃষি ও স্থানীয় বাজার:** সংরক্ষণ, প্রক্রিয়াজাতকরণ, পরিবহন ও কৃষকের ন্যায্য মূল্য নিশ্চিত করা।  
-৬. **দুর্যোগ-সহনশীলতা:** বন্যা, ঘূর্ণিঝড়, নদীভাঙন ও জলবায়ু ঝুঁকিতে আগাম সতর্কতা, নিরাপদ আশ্রয় এবং দ্রুত সহায়তা।  
+১. **উৎপাদনশীল চাকরি:** ক্ষুদ্র উদ্যোগ, কৃষি-প্রক্রিয়াজাতকরণ, শিল্প ও স্থানীয় সেবা খাতে মানসম্মত কাজ বাড়ানো।\
+২. **দক্ষতা ও শিক্ষা:** শ্রমবাজারের চাহিদার সঙ্গে কারিগরি শিক্ষা, apprenticeship এবং পুনঃপ্রশিক্ষণ যুক্ত করা।\
+৩. **নারী ও যুবক:** নিরাপদ কর্মক্ষেত্র, childcare, যাতায়াত, দক্ষতা এবং নিয়োগে বৈষম্য কমানো।\
+৪. **লক্ষ্যভিত্তিক সামাজিক সুরক্ষা:** দরিদ্র ও ঝুঁকিপূর্ণ পরিবারের সঠিক তালিকা, সময়মতো সুবিধা এবং অভিযোগ নিষ্পত্তি।\
+৫. **কৃষি ও স্থানীয় বাজার:** সংরক্ষণ, প্রক্রিয়াজাতকরণ, পরিবহন ও কৃষকের ন্যায্য মূল্য নিশ্চিত করা।\
+৬. **দুর্যোগ-সহনশীলতা:** বন্যা, ঘূর্ণিঝড়, নদীভাঙন ও জলবায়ু ঝুঁকিতে আগাম সতর্কতা, নিরাপদ আশ্রয় এবং দ্রুত সহায়তা।\
 ৭. **ন্যায্য রাজস্ব:** করব্যবস্থা ও সরকারি ব্যয়কে এমনভাবে শক্তিশালী করা যাতে মানসম্মত শিক্ষা, স্বাস্থ্য ও সুরক্ষায় স্থায়ী অর্থায়ন থাকে।
 
 ### উপসংহার
@@ -219,12 +219,12 @@ World Bank-এর *Bangladesh—Learning Poverty Brief 2024* শেখার ফ
 
 ### শিক্ষা থেকে কর্মসংস্থান: সংযোগ গড়ার উপায়
 
-১. শিল্প, কৃষি, সেবা ও প্রযুক্তি খাতের দক্ষতার চাহিদা নিয়মিত বিশ্লেষণ করা।  
-২. TVET, apprenticeship, internship ও workplace learning বাড়ানো।  
-৩. নিয়োগদাতা, বিশ্ববিদ্যালয়, কলেজ ও কারিগরি প্রতিষ্ঠানের যৌথ পাঠ্যক্রম তৈরি।  
-৪. নারী ও প্রতিবন্ধী শিক্ষার্থীর নিরাপদ প্রশিক্ষণ ও কাজের সুযোগ নিশ্চিত।  
-৫. শিক্ষক প্রশিক্ষণ, শিক্ষার্থীর মূল্যায়ন এবং স্কুলভিত্তিক সহায়তার ফলাফল প্রকাশ।  
-৬. গ্রামীণ ও দরিদ্র শিক্ষার্থীর জন্য ইন্টারনেট, ডিভাইস, পুষ্টি ও যাতায়াতের বাধা কমানো।  
+১. শিল্প, কৃষি, সেবা ও প্রযুক্তি খাতের দক্ষতার চাহিদা নিয়মিত বিশ্লেষণ করা।\
+২. TVET, apprenticeship, internship ও workplace learning বাড়ানো।\
+৩. নিয়োগদাতা, বিশ্ববিদ্যালয়, কলেজ ও কারিগরি প্রতিষ্ঠানের যৌথ পাঠ্যক্রম তৈরি।\
+৪. নারী ও প্রতিবন্ধী শিক্ষার্থীর নিরাপদ প্রশিক্ষণ ও কাজের সুযোগ নিশ্চিত।\
+৫. শিক্ষক প্রশিক্ষণ, শিক্ষার্থীর মূল্যায়ন এবং স্কুলভিত্তিক সহায়তার ফলাফল প্রকাশ।\
+৬. গ্রামীণ ও দরিদ্র শিক্ষার্থীর জন্য ইন্টারনেট, ডিভাইস, পুষ্টি ও যাতায়াতের বাধা কমানো।\
 ৭. আজীবন শিক্ষা ও পুনঃপ্রশিক্ষণের সুযোগ তৈরি, কারণ প্রযুক্তি ও কাজের ধরন বদলাতে থাকবে।
 
 ### মানবসম্পদ উন্নয়নের সামাজিক ফল
@@ -299,13 +299,13 @@ World Bank-এর Bangladesh Poverty and Equity Assessment 2025 নারী ও
 
 ### কার্যকর ডিজিটাল সেবার শর্ত
 
-১. **User-centred design:** ব্যবহারকারীর ভাষা, সক্ষমতা ও প্রয়োজন অনুযায়ী সহজ ইন্টারফেস।  
-২. **Interoperability:** সরকারি ব্যবস্থার মধ্যে নিরাপদ ও প্রয়োজনভিত্তিক তথ্য বিনিময়।  
-৩. **Privacy by design:** প্রয়োজনের অতিরিক্ত ব্যক্তিগত তথ্য সংগ্রহ না করা; প্রবেশাধিকার নিয়ন্ত্রণ ও নিরাপত্তা।  
-৪. **Accessibility:** প্রতিবন্ধী ব্যক্তি, কম ডিজিটাল দক্ষ ব্যবহারকারী ও ধীর ইন্টারনেটের জন্য বিকল্প।  
-৫. **Grievance redress:** অভিযোগ, ভুল সংশোধন, আপিল ও মানবিক সহায়তার ব্যবস্থা।  
-৬. **Transparency:** সেবার খরচ, সময়সীমা, যোগ্যতা ও দায়িত্বরত কর্তৃপক্ষ স্পষ্ট করা।  
-৭. **Digital literacy:** নাগরিক ও সরকারি কর্মচারীর প্রশিক্ষণ, প্রতারণা শনাক্তকরণ ও তথ্য যাচাইয়ের দক্ষতা।  
+১. **User-centred design:** ব্যবহারকারীর ভাষা, সক্ষমতা ও প্রয়োজন অনুযায়ী সহজ ইন্টারফেস।\
+২. **Interoperability:** সরকারি ব্যবস্থার মধ্যে নিরাপদ ও প্রয়োজনভিত্তিক তথ্য বিনিময়।\
+৩. **Privacy by design:** প্রয়োজনের অতিরিক্ত ব্যক্তিগত তথ্য সংগ্রহ না করা; প্রবেশাধিকার নিয়ন্ত্রণ ও নিরাপত্তা।\
+৪. **Accessibility:** প্রতিবন্ধী ব্যক্তি, কম ডিজিটাল দক্ষ ব্যবহারকারী ও ধীর ইন্টারনেটের জন্য বিকল্প।\
+৫. **Grievance redress:** অভিযোগ, ভুল সংশোধন, আপিল ও মানবিক সহায়তার ব্যবস্থা।\
+৬. **Transparency:** সেবার খরচ, সময়সীমা, যোগ্যতা ও দায়িত্বরত কর্তৃপক্ষ স্পষ্ট করা।\
+৭. **Digital literacy:** নাগরিক ও সরকারি কর্মচারীর প্রশিক্ষণ, প্রতারণা শনাক্তকরণ ও তথ্য যাচাইয়ের দক্ষতা।\
 ৮. **Independent evaluation:** কতটি সেবা অনলাইনে হয়েছে নয়; সময়, খরচ, সফলতা, বাদ পড়া ব্যবহারকারী ও অভিযোগের হার মাপা।
 
 ### প্রযুক্তি ও মানবসম্পদ
@@ -420,43 +420,43 @@ World Bank-এর Bangladesh Poverty and Equity Assessment 2025 নারী ও
 <a id="sources"></a>
 ## ১২. Source Register — পরীক্ষার খাতায় ব্যবহারযোগ্য নির্ভরযোগ্য উৎস
 
-**[S1] Bangladesh Public Service Commission (BPSC).** *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compulsory), Subject Code 005. সরকারি সিলেবাসে বিষয়ভিত্তিক coverage যাচাইয়ের প্রাথমিক উৎস।  
-https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf
+**[S1] Bangladesh Public Service Commission (BPSC).** *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compulsory), Subject Code 005. সরকারি সিলেবাসে বিষয়ভিত্তিক coverage যাচাইয়ের প্রাথমিক উৎস।\
+https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2024/12/df968f7fa918431dae3ed31b43206f6f.pdf
 
-**[S2] Satt Academy.** BCS Bangladesh Affairs 2024 Written question bank (প্রকাশ্য secondary compilation; ৪৫তম BCS হিসেবে ট্যাগ করা প্রশ্নসহ)। প্রশ্নের theme শনাক্ত করতে সহায়ক; মূল BPSC scan নয়।  
+**[S2] Satt Academy.** BCS Bangladesh Affairs 2024 Written question bank (প্রকাশ্য secondary compilation; ৪৫তম BCS হিসেবে ট্যাগ করা প্রশ্নসহ)। প্রশ্নের theme শনাক্ত করতে সহায়ক; মূল BPSC scan নয়।\
 https://sattacademy.com/question-bank/বিসিএস-লিখিত/বাংলাদেশ-বিষয়াবলী-25932/2024/written
 
-**[S3] Satt Academy.** BCS Bangladesh Affairs 2025 Written question bank (প্রকাশ্য secondary compilation; ৪৬তম/৪৭তম BCS হিসেবে ট্যাগ করা প্রশ্নসহ)।  
+**[S3] Satt Academy.** BCS Bangladesh Affairs 2025 Written question bank (প্রকাশ্য secondary compilation; ৪৬তম/৪৭তম BCS হিসেবে ট্যাগ করা প্রশ্নসহ)।\
 https://sattacademy.com/question-bank/বিসিএস-লিখিত/বাংলাদেশ-বিষয়াবলী-25932/2025/written
 
-**[S4] BCSEXAM.** *বিগত বিসিএস লিখিত প্রশ্ন — ৩৫তম থেকে ৫০তম*; subject-wise public archive. নিজস্ব পৃষ্ঠায় জানায় প্রশ্নগুলো প্রকাশ্য প্রশ্নব্যাংক থেকে সংগৃহীত, সরাসরি BPSC-এর মূল প্রশ্নপত্র থেকে টাইপ করা নয়।  
+**[S4] BCSEXAM.** *বিগত বিসিএস লিখিত প্রশ্ন — ৩৫তম থেকে ৫০তম*; subject-wise public archive. নিজস্ব পৃষ্ঠায় জানায় প্রশ্নগুলো প্রকাশ্য প্রশ্নব্যাংক থেকে সংগৃহীত, সরাসরি BPSC-এর মূল প্রশ্নপত্র থেকে টাইপ করা নয়।\
 https://bcsexam.org/written-questions
 
-**[S5] Bangladesh Bureau of Statistics (BBS).** *Household Income and Expenditure Survey (HIES) 2022*, final report, key findings and tables. ২০২২ সালের সরকারি আয়, ব্যয় ও দারিদ্র্য সূচকের উৎস।  
+**[S5] Bangladesh Bureau of Statistics (BBS).** *Household Income and Expenditure Survey (HIES) 2022*, final report, key findings and tables. ২০২২ সালের সরকারি আয়, ব্যয় ও দারিদ্র্য সূচকের উৎস।\
 https://bbs.gov.bd/pages/static-pages/6922dc57933eb65569e0fd4c
 
-**[S6] World Bank.** *Bangladesh Poverty and Equity Assessment 2025: Navigating the Road to Prosperity* (Report No. 206850; released November 2025). দারিদ্র্য, বৈষম্য, চাকরি ও সামাজিক সুরক্ষা বিশ্লেষণ।  
+**[S6] World Bank.** *Bangladesh Poverty and Equity Assessment 2025: Navigating the Road to Prosperity* (Report No. 206850; released November 2025). দারিদ্র্য, বৈষম্য, চাকরি ও সামাজিক সুরক্ষা বিশ্লেষণ।\
 https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099112525183511448
 
-**[S7] Bangladesh Bank.** Quarterly Review on Readymade Garments (RMG), including export and raw-material import tables.  
+**[S7] Bangladesh Bank.** Quarterly Review on Readymade Garments (RMG), including export and raw-material import tables.\
 https://www.bb.org.bd/pub/quaterly/rmg/
 
-**[S8] World Bank.** *Bangladesh — Learning Poverty Brief 2024*. শেখার ফল ও শিক্ষার গুণগত মানের ধারণাগত/পরিসংখ্যানভিত্তিক উৎস।  
+**[S8] World Bank.** *Bangladesh — Learning Poverty Brief 2024*. শেখার ফল ও শিক্ষার গুণগত মানের ধারণাগত/পরিসংখ্যানভিত্তিক উৎস।\
 https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099090524113159222
 
-**[S9] Bangladesh Bureau of Statistics (BBS).** Labour Force Survey, latest available edition; workforce, employment, unemployment and labour-force participation.  
+**[S9] Bangladesh Bureau of Statistics (BBS).** Labour Force Survey, latest available edition; workforce, employment, unemployment and labour-force participation.\
 https://bbs.gov.bd/
 
-**[S10] Export Promotion Bureau (EPB).** Bangladesh export statistics, product and market data.  
+**[S10] Export Promotion Bureau (EPB).** Bangladesh export statistics, product and market data.\
 https://epb.gov.bd/
 
-**[S11] World Bank.** Bangladesh country overview and economic updates; use only with the publication date and whether a number is actual, estimate or forecast.  
+**[S11] World Bank.** Bangladesh country overview and economic updates; use only with the publication date and whether a number is actual, estimate or forecast.\
 https://www.worldbank.org/ext/en/country/bangladesh
 
-**[S12] Banglapedia, Asiatic Society of Bangladesh.** বাংলাদেশের ইতিহাস, সাহিত্য, শিল্পী, বস্ত্র ঐতিহ্য ও সাংস্কৃতিক প্রতিষ্ঠান সম্পর্কিত নিবন্ধ।  
+**[S12] Banglapedia, Asiatic Society of Bangladesh.** বাংলাদেশের ইতিহাস, সাহিত্য, শিল্পী, বস্ত্র ঐতিহ্য ও সাংস্কৃতিক প্রতিষ্ঠান সম্পর্কিত নিবন্ধ।\
 https://en.banglapedia.org/ · https://bn.banglapedia.org/
 
-**[S13] UNESCO.** Intangible Cultural Heritage: cultural safeguarding and community participation framework.  
+**[S13] UNESCO.** Intangible Cultural Heritage: cultural safeguarding and community participation framework.\
 https://ich.unesco.org/
 
 ### Source-use rules

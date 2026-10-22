@@ -13,15 +13,15 @@
 - NGO এবং সুশীল সমাজের মধ্যে পার্থক্য আলোচনা করুন। (৫)
 - বাংলাদেশে নারীর ক্ষমতায়নে NGO-র ভূমিকা আলোচনা করুন। (১০)
 
-**প্যাটার্ন:** প্রথম অংশে নির্ভুল সংজ্ঞা, দ্বিতীয় অংশে একই মানদণ্ডে তুলনা, তৃতীয় অংশে ক্ষেত্রভিত্তিক বিশ্লেষণ ও মূল্যায়ন।  
+**প্যাটার্ন:** প্রথম অংশে নির্ভুল সংজ্ঞা, দ্বিতীয় অংশে একই মানদণ্ডে তুলনা, তৃতীয় অংশে ক্ষেত্রভিত্তিক বিশ্লেষণ ও মূল্যায়ন।\
 **Source:** [BCS EXAM — 41st BCS Written](https://bcsexam.org/written-questions/41st-bcs-written).
 
 ### ১.২ Related question: 47th BCS Written, Bangladesh Affairs, Q25
-আর্কাইভে চিন্তা, বিবেক, বাক্‌স্বাধীনতা ও সংবাদপত্রের স্বাধীনতার সাংবিধানিক বিধান এবং নাগরিকদের অভিজ্ঞতা বিশ্লেষণের ২০ নম্বরের প্রশ্ন রয়েছে। এটি civil society, rights organisations, media, freedom of association এবং civic space-এর সঙ্গে সম্পর্কিত।  
+আর্কাইভে চিন্তা, বিবেক, বাক্‌স্বাধীনতা ও সংবাদপত্রের স্বাধীনতার সাংবিধানিক বিধান এবং নাগরিকদের অভিজ্ঞতা বিশ্লেষণের ২০ নম্বরের প্রশ্ন রয়েছে। এটি civil society, rights organisations, media, freedom of association এবং civic space-এর সঙ্গে সম্পর্কিত।\
 **Source:** [BCS EXAM — 47th BCS Written](https://bcsexam.org/written-questions/47th-bcs-written).
 
 ### ১.৩ Related inclusion theme: 38th BCS Written, Bangladesh Affairs, Q22
-ক্ষুদ্র নৃগোষ্ঠীর সংজ্ঞা এবং বাংলাদেশের অর্থনৈতিক ও সামাজিক ক্ষেত্রে তাদের অবদান নিয়ে প্রশ্ন সংরক্ষিত আছে। এটি NGO-সম্পর্কিত সরাসরি প্রশ্ন নয়; inclusion, representation, community voice ও rights-based development-এর সঙ্গে cross-topic connection হিসেবে ব্যবহারযোগ্য।  
+ক্ষুদ্র নৃগোষ্ঠীর সংজ্ঞা এবং বাংলাদেশের অর্থনৈতিক ও সামাজিক ক্ষেত্রে তাদের অবদান নিয়ে প্রশ্ন সংরক্ষিত আছে। এটি NGO-সম্পর্কিত সরাসরি প্রশ্ন নয়; inclusion, representation, community voice ও rights-based development-এর সঙ্গে cross-topic connection হিসেবে ব্যবহারযোগ্য।\
 **Source:** [BCS EXAM — 38th BCS Written](https://bcsexam.org/written-questions/38th-bcs-written).
 
 ### ১.৪ Priority map
@@ -169,7 +169,7 @@ NGO-রা উন্নয়ন, ত্রাণ, সামাজিক সেব�
 
 ## Source Register
 
-- **[S1] BPSC:** *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005. https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf
+- **[S1] BPSC:** *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005. https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2024/12/df968f7fa918431dae3ed31b43206f6f.pdf
 - **[S2] Government of Bangladesh:** *Constitution of the People’s Republic of Bangladesh*, Articles 37–39. https://bdlaws.minlaw.gov.bd/act-print-367.html
 - **[S3] Laws of Bangladesh:** *Foreign Donations (Voluntary Activities) Regulation Act, 2016*, current consolidated text. https://bdlaws.minlaw.gov.bd/act-print-1197.html
 - **[S4] World Bank:** *New Players, New Scenarios: Defining Broader Engagement with Civil Society*. https://documents1.worldbank.org/curated/en/914211468322455786/pdf/341600ENGLISH01and1Options01PUBLIC1.pdf

@@ -1,6 +1,12 @@
 <a id="top"></a>
 
-# 💬 Chapter 10 — English Quotations & Source Bank
+
+<a id="-chapter-10--english-quotations--source-bank"></a>
+# অধ্যায় ১০ — ইংরেজি উদ্ধৃতি, ভাবার্থ ও উৎস
+
+[বইয়ের সূচি](../README.md) · [মূল অধ্যায়](./README.md#references-audit) · [উৎস-নিরীক্ষা](../SOURCE-AUDIT.md#quotations)
+
+**ব্যবহারের নিয়ম:** উৎসনির্দেশ থাকা মানেই প্রতিটি উদ্ধৃতির হুবহু পাঠ এই সংস্করণে যাচাই হয়েছে—এমন নয়। মূল নথিতে শব্দ ও প্রসঙ্গ মিলিয়ে নিন। ভাবার্থ বা সম্পাদকীয় সংশ্লেষ উদ্ধৃতিচিহ্নে লিখবেন না।
 ## Political Parties and Political Process | BCS Written Revision
 
 [← Back to Chapter 10](./README.md#top) · [35th–47th BCS PYQ Map](./PYQ-35-47-MAP.md) · [25 Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [Model Essays](./README.md#essays) · [Bangladesh Affairs Index](../README.md)
@@ -45,7 +51,7 @@
 
 **পরীক্ষায় ব্যবহার:** রাজনৈতিক সংস্কৃতি, গণতান্ত্রিক রাজনৈতিক প্রক্রিয়া, নির্বাচিত প্রতিনিধির মাধ্যমে জনগণের অংশগ্রহণ ও জনজবাবদিহি।
 
-**Source:** Constitution of the People’s Republic of Bangladesh, Article 11.  
+**Source:** Constitution of the People’s Republic of Bangladesh, Article 11.\
 **Source link:** [Laws of Bangladesh — Constitution](https://bdlaws.minlaw.gov.bd/act-367.html)
 
 [⬆ Quick Navigation](#top)
@@ -64,7 +70,7 @@
 
 **পরীক্ষায় ব্যবহার:** রাজনৈতিক দলের স্বাধীনতা, নাগরিক সমাজ, রাজনৈতিক অংশগ্রহণ ও সংগঠনের অধিকার।
 
-**Source:** Constitution of Bangladesh, Article 38.  
+**Source:** Constitution of Bangladesh, Article 38.\
 **Source link:** [Laws of Bangladesh — Constitution](https://bdlaws.minlaw.gov.bd/act-367.html)
 
 [⬆ Quick Navigation](#top)
@@ -85,7 +91,7 @@
 
 **সতর্কতা:** Article 39-এ অধিকারগুলোর সঙ্গে সংবিধান ও আইননির্ধারিত সীমাবদ্ধতাও রয়েছে।
 
-**Source:** Constitution of Bangladesh, Article 39.  
+**Source:** Constitution of Bangladesh, Article 39.\
 **Source link:** [Laws of Bangladesh — Constitution](https://bdlaws.minlaw.gov.bd/act-367.html)
 
 [⬆ Quick Navigation](#top)
@@ -106,7 +112,7 @@
 
 **বিশ্লেষণ:** দলীয় শৃঙ্খলা স্থিতিশীলতা রক্ষা করতে পারে; অন্যদিকে এর প্রভাব সংসদ সদস্যের স্বাধীন বিচার-বিবেচনা ও নির্বাহী বিভাগের ওপর নজরদারির সঙ্গে তুলনা করে লিখুন।
 
-**Source:** Constitution of Bangladesh, Article 70.  
+**Source:** Constitution of Bangladesh, Article 70.\
 **Source link:** [Laws of Bangladesh — Constitution](https://bdlaws.minlaw.gov.bd/act-367.html)
 
 [⬆ Quick Navigation](#top)
@@ -125,7 +131,7 @@
 
 **পরীক্ষায় ব্যবহার:** রাজনৈতিক অংশগ্রহণ, নাগরিক অধিকার, প্রতিনিধিত্ব ও অন্তর্ভুক্তিমূলক গণতন্ত্র।
 
-**Source:** United Nations, Universal Declaration of Human Rights, Article 21(1).  
+**Source:** United Nations, Universal Declaration of Human Rights, Article 21(1).\
 **Source link:** [United Nations — UDHR](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
 [⬆ Quick Navigation](#top)
@@ -146,7 +152,7 @@
 
 **কীভাবে বিশ্লেষণ করবেন:** নির্বাচনী ম্যান্ডেট গুরুত্বপূর্ণ হলেও সরকার সীমাহীন ক্ষমতার অধিকারী নয়; সংবিধান, মৌলিক অধিকার, আইনের শাসন ও জবাবদিহিও প্রয়োজন।
 
-**Source:** United Nations, Universal Declaration of Human Rights, Article 21(3).  
+**Source:** United Nations, Universal Declaration of Human Rights, Article 21(3).\
 **Source link:** [United Nations — UDHR](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
 [⬆ Quick Navigation](#top)
@@ -165,7 +171,7 @@
 
 **পরীক্ষায় ব্যবহার:** ভোটাধিকার, জনমত, রাজনৈতিক সংগঠন, নির্বাচিত প্রতিনিধিত্ব ও সমান সুযোগ।
 
-**Source:** International Covenant on Civil and Political Rights, Article 25.  
+**Source:** International Covenant on Civil and Political Rights, Article 25.\
 **Source link:** [OHCHR — ICCPR](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights)
 
 [⬆ Quick Navigation](#top)
@@ -184,7 +190,7 @@
 
 **পরীক্ষায় ব্যবহার:** রাজনৈতিক দলের সংজ্ঞা, বৈশিষ্ট্য, প্রতিনিধিত্ব, নীতি প্রণয়ন ও দলীয় সংগঠন।
 
-**Source:** International IDEA, *Political Parties: Constitutional Roles, Recognition, Rights and Regulations*, Constitution-Building Primer No. 25 (2025).  
+**Source:** International IDEA, *Political Parties: Constitutional Roles, Recognition, Rights and Regulations*, Constitution-Building Primer No. 25 (2025).\
 **Source link:** [International IDEA — Political Parties Primer (PDF)](https://www.idea.int/sites/default/files/2025-09/political-parties-constitutional-roles-recognition-rights-and-regulations.pdf)
 
 [⬆ Quick Navigation](#top)
@@ -203,7 +209,7 @@
 
 **পরীক্ষায় ব্যবহার:** রাজনৈতিক সংস্কার, নারী ও তরুণের অংশগ্রহণ, স্থানীয় সরকার ও নাগরিক সমাজ।
 
-**Source:** United Nations, Sustainable Development Goal 16, Target 16.7.  
+**Source:** United Nations, Sustainable Development Goal 16, Target 16.7.\
 **Source link:** [United Nations — SDG 16](https://sdgs.un.org/goals/goal16)
 
 [⬆ Quick Navigation](#top)
@@ -222,7 +228,7 @@
 
 **পরীক্ষায় ব্যবহার:** রাজনৈতিক দল ও রাষ্ট্রীয় প্রতিষ্ঠানের জবাবদিহি, দুর্নীতি প্রতিরোধ ও সংসদীয় নজরদারি।
 
-**Source:** United Nations, Sustainable Development Goal 16, Target 16.6.  
+**Source:** United Nations, Sustainable Development Goal 16, Target 16.6.\
 **Source link:** [United Nations — SDG 16](https://sdgs.un.org/goals/goal16)
 
 [⬆ Quick Navigation](#top)
@@ -243,7 +249,7 @@
 
 **সতর্কতা:** এটি আইনপাঠের লক্ষ্যসংক্রান্ত অংশ; বাস্তবে অর্জিত প্রতিনিধিত্বের পরিসংখ্যান নয়। লক্ষ্য ও বাস্তব ফল আলাদা করে লিখবেন।
 
-**Source:** Representation of the People Order, 1972, Article 90B, as amended.  
+**Source:** Representation of the People Order, 1972, Article 90B, as amended.\
 **Source link:** [Laws of Bangladesh — Party registration](https://bdlaws.minlaw.gov.bd/act-424/chapter-details-709.html)
 
 [⬆ Quick Navigation](#top)
@@ -262,7 +268,7 @@
 
 **পরীক্ষায় ব্যবহার:** রাজনৈতিক দলের সংজ্ঞা, দলীয় নীতি, জনস্বার্থ ও রাজনৈতিক প্রতিযোগিতা।
 
-**Source:** Edmund Burke, *Thoughts on the Cause of the Present Discontents* (1770).  
+**Source:** Edmund Burke, *Thoughts on the Cause of the Present Discontents* (1770).\
 **Source link:** [Wikisource — Burke’s text](https://en.wikisource.org/wiki/Thoughts_on_the_Cause_of_the_Present_Discontents)
 
 > **Note:** উদ্ধৃতিটি Burke-এর রাজনৈতিক দল সম্পর্কিত বক্তব্যের সংক্ষিপ্ত অংশ। পরীক্ষায় লেখার আগে মূল পাঠে wording মিলিয়ে নেওয়া উত্তম; অন্যথায় নিচের exam-ready paraphrase ব্যবহার করুন।
@@ -283,7 +289,7 @@
 
 **পরীক্ষায় ব্যবহার:** গণতন্ত্রে রাজনৈতিক দলের ভূমিকা, প্রতিনিধিত্ব, দলীয় ব্যবস্থা ও রাজনৈতিক প্রক্রিয়া।
 
-**Source:** E. E. Schattschneider, *Party Government* (1942).  
+**Source:** E. E. Schattschneider, *Party Government* (1942).\
 **Source link:** [Internet Archive — title search](https://archive.org/search?query=E.+E.+Schattschneider+Party+Government)
 
 [⬆ Quick Navigation](#top)
@@ -302,7 +308,7 @@
 
 **পরীক্ষায় ব্যবহার:** গণতন্ত্র, রাজনৈতিক বৈধতা, নির্বাচিত প্রতিনিধি, অংশগ্রহণ ও জনকল্যাণ।
 
-**Source:** Abraham Lincoln, Gettysburg Address (1863).  
+**Source:** Abraham Lincoln, Gettysburg Address (1863).\
 **Source link:** [U.S. National Park Service — Gettysburg Address](https://www.nps.gov/linc/learn/historyculture/gettysburg-address.htm)
 
 [⬆ Quick Navigation](#top)
@@ -321,7 +327,7 @@
 
 **পরীক্ষায় ব্যবহার:** রাজনৈতিক জবাবদিহি, সংসদীয় নজরদারি, ক্ষমতার ভারসাম্য ও গণতান্ত্রিক প্রতিষ্ঠান।
 
-**Source:** James Madison, *The Federalist No. 47* (1788).  
+**Source:** James Madison, *The Federalist No. 47* (1788).\
 **Source link:** [Library of Congress — The Federalist Papers](https://www.loc.gov/resource/rbpe.17801300/?sp=1)
 
 [⬆ Quick Navigation](#top)
@@ -334,41 +340,41 @@
 
 নিচের বাক্যগুলো **পরীক্ষার উপযোগী paraphrase**, হুবহু উদ্ধৃতি নয়। এগুলো quotation marks-এ দিয়ে কোনো লেখক বা প্রতিষ্ঠানের সরাসরি বক্তব্য হিসেবে উপস্থাপন করবেন না।
 
-1. **A political party is democratic only when its internal rules allow meaningful participation and accountability.**  
+1. **A political party is democratic only when its internal rules allow meaningful participation and accountability.**\
    ব্যবহার: অভ্যন্তরীণ দলীয় গণতন্ত্র।
-2. **Elections are essential to democracy, but democratic politics also requires rights, scrutiny and remedies between elections.**  
+2. **Elections are essential to democracy, but democratic politics also requires rights, scrutiny and remedies between elections.**\
    ব্যবহার: রাজনৈতিক প্রক্রিয়া ও গণতন্ত্র।
-3. **Political competition is healthy when opponents are treated as legitimate rivals rather than enemies.**  
+3. **Political competition is healthy when opponents are treated as legitimate rivals rather than enemies.**\
    ব্যবহার: রাজনৈতিক সহনশীলতা ও মেরুকরণ।
-4. **A transparent nomination process can reduce factional conflict and strengthen the legitimacy of party leadership.**  
+4. **A transparent nomination process can reduce factional conflict and strengthen the legitimacy of party leadership.**\
    ব্যবহার: প্রার্থী মনোনয়ন।
-5. **Party finance rules should make lawful political activity possible while reducing hidden influence and conflicts of interest.**  
+5. **Party finance rules should make lawful political activity possible while reducing hidden influence and conflicts of interest.**\
    ব্যবহার: রাজনৈতিক অর্থায়ন।
-6. **The credibility of reform depends on equal enforcement, public information and accessible remedies.**  
+6. **The credibility of reform depends on equal enforcement, public information and accessible remedies.**\
    ব্যবহার: রাজনৈতিক সংস্কার ও আইনের শাসন।
-7. **Internal party elections can renew leadership and connect national programmes with members’ local concerns.**  
+7. **Internal party elections can renew leadership and connect national programmes with members’ local concerns.**\
    ব্যবহার: দলীয় গঠনতন্ত্র ও নেতৃত্ব।
-8. **Political tolerance does not remove disagreement; it makes disagreement manageable through lawful institutions.**  
+8. **Political tolerance does not remove disagreement; it makes disagreement manageable through lawful institutions.**\
    ব্যবহার: রাজনৈতিক সংস্কৃতি।
-9. **Representation is meaningful when underrepresented groups can influence decisions, not merely occupy symbolic positions.**  
+9. **Representation is meaningful when underrepresented groups can influence decisions, not merely occupy symbolic positions.**\
    ব্যবহার: নারী, তরুণ ও প্রান্তিক জনগোষ্ঠী।
-10. **Political finance disclosure is effective only when reports are timely, auditable and followed by fair enforcement.**  
+10. **Political finance disclosure is effective only when reports are timely, auditable and followed by fair enforcement.**\
     ব্যবহার: অর্থায়ন ও জবাবদিহি।
-11. **Parliamentary accountability requires both disciplined political parties and meaningful scrutiny of executive decisions.**  
+11. **Parliamentary accountability requires both disciplined political parties and meaningful scrutiny of executive decisions.**\
     ব্যবহার: Article 70 ও সংসদীয় ব্যবস্থা।
-12. **Digital participation can widen political engagement, but it also increases the importance of verification and privacy.**  
+12. **Digital participation can widen political engagement, but it also increases the importance of verification and privacy.**\
     ব্যবহার: সামাজিক মাধ্যম ও AI।
-13. **A stable party system depends on predictable rules, credible competition and peaceful transfers of power.**  
+13. **A stable party system depends on predictable rules, credible competition and peaceful transfers of power.**\
     ব্যবহার: দলীয় ব্যবস্থার প্রাতিষ্ঠানিকীকরণ।
-14. **Civic education should develop independent judgement, constitutional literacy and respect for peaceful political disagreement.**  
+14. **Civic education should develop independent judgement, constitutional literacy and respect for peaceful political disagreement.**\
     ব্যবহার: রাজনৈতিক সমাজীকরণ।
-15. **Political reform should be assessed by measurable changes in participation, transparency and accountability.**  
+15. **Political reform should be assessed by measurable changes in participation, transparency and accountability.**\
     ব্যবহার: সংস্কারের ফলাফল মূল্যায়ন।
-16. **The purpose of political pluralism is not to eliminate differences but to protect their peaceful expression.**  
+16. **The purpose of political pluralism is not to eliminate differences but to protect their peaceful expression.**\
     ব্যবহার: বহুত্ববাদ ও নাগরিক অধিকার।
-17. **Women’s political representation should be measured through leadership, nominations and decision-making influence.**  
+17. **Women’s political representation should be measured through leadership, nominations and decision-making influence.**\
     ব্যবহার: নারীর ক্ষমতায়ন।
-18. **Public trust grows when political institutions explain decisions, apply rules consistently and correct failures.**  
+18. **Public trust grows when political institutions explain decisions, apply rules consistently and correct failures.**\
     ব্যবহার: আস্থা ও প্রাতিষ্ঠানিক জবাবদিহি।
 
 ### Quotations কীভাবে ব্যবহার করবেন?

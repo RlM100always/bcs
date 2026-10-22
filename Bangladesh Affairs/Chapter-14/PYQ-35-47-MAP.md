@@ -36,7 +36,7 @@
 
 ## Official and authoritative sources
 
-- **BPSC Written Syllabus, Bangladesh Affairs, Subject Code 005:** [Official syllabus PDF](https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf).
+- **BPSC Written Syllabus, Bangladesh Affairs, Subject Code 005:** [Official syllabus PDF](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2024/12/df968f7fa918431dae3ed31b43206f6f.pdf).
 - **Export Promotion Bureau (EPB):** [Official portal](https://epb.gov.bd/) — exports and product-market data.
 - **Bangladesh Bank:** [Official portal](https://www.bb.org.bd/) — remittances and balance of payments.
 - **Bangladesh Bureau of Statistics:** [Official portal](https://bbs.gov.bd/) — national accounts, labour and social indicators.

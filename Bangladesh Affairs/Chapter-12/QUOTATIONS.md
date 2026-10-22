@@ -1,4 +1,11 @@
-# Chapter 12 — English Quotations + বাংলা ভাবার্থ + Sources
+<a id="chapter-12--english-quotations--বাংলা-ভাবার্থ--sources"></a>
+# অধ্যায় ১২ — ইংরেজি উদ্ধৃতি, ভাবার্থ ও উৎস
+
+[বইয়ের সূচি](../README.md) · [মূল অধ্যায়](./README.md#references-audit) · [উৎস-নিরীক্ষা](../SOURCE-AUDIT.md#quotations)
+
+**ব্যবহারের নিয়ম:** উৎসনির্দেশ থাকা মানেই প্রতিটি উদ্ধৃতির হুবহু পাঠ এই সংস্করণে যাচাই হয়েছে—এমন নয়। মূল নথিতে শব্দ ও প্রসঙ্গ মিলিয়ে নিন। ভাবার্থ বা সম্পাদকীয় সংশ্লেষ উদ্ধৃতিচিহ্নে লিখবেন না।
+
+
 ## Communication, ICT, Media, RTI and E-Governance | BCS Written
 
 [← মূল অধ্যায়](./README.md) · [PYQ-ভিত্তিক Model Essays](./PYQ-BASED-ESSAYS.md)
@@ -7,123 +14,123 @@
 
 ## ১. “Everyone has the right to freedom of opinion and expression.”
 
-**বাংলা ভাবার্থ:** প্রত্যেকের মতামত ও মতপ্রকাশের স্বাধীনতার অধিকার রয়েছে।  
-**Source:** United Nations, *Universal Declaration of Human Rights*, Article 19.  
+**বাংলা ভাবার্থ:** প্রত্যেকের মতামত ও মতপ্রকাশের স্বাধীনতার অধিকার রয়েছে।\
+**Source:** United Nations, *Universal Declaration of Human Rights*, Article 19.\
 https://www.un.org/en/about-us/universal-declaration-of-human-rights
 
-**Use for:** গণমাধ্যমের স্বাধীনতা, social media, public debate, freedom of expression.  
+**Use for:** গণমাধ্যমের স্বাধীনতা, social media, public debate, freedom of expression.\
 **Exam link:** মতপ্রকাশের স্বাধীনতা জনপরিসরে বিতর্ক ও জবাবদিহি শক্তিশালী করে; একই সঙ্গে তথ্যের নির্ভুলতা ও অন্যের অধিকার বিবেচ্য।
 
 ## ২. “to seek, receive and impart information and ideas through any media”
 
-**বাংলা ভাবার্থ:** যেকোনো গণমাধ্যমে তথ্য ও ধারণা খোঁজা, গ্রহণ ও প্রচার করা।  
-**Source:** UDHR, Article 19; excerpt.  
+**বাংলা ভাবার্থ:** যেকোনো গণমাধ্যমে তথ্য ও ধারণা খোঁজা, গ্রহণ ও প্রচার করা।\
+**Source:** UDHR, Article 19; excerpt.\
 https://www.un.org/en/about-us/universal-declaration-of-human-rights
 
 **Use for:** contemporary communication, media, digital platforms, information access.
 
 ## ৩. “freedom of the press”
 
-**বাংলা ভাবার্থ:** সংবাদমাধ্যমের স্বাধীনতা।  
-**Source:** Constitution of Bangladesh, Article 39(2)(b), read with the full Article 39.  
+**বাংলা ভাবার্থ:** সংবাদমাধ্যমের স্বাধীনতা।\
+**Source:** Constitution of Bangladesh, Article 39(2)(b), read with the full Article 39.\
 https://bdlaws.minlaw.gov.bd/act-367.html
 
-**Use for:** media freedom, watchdog role, good governance.  
+**Use for:** media freedom, watchdog role, good governance.\
 **Caution:** Article 39-এর পূর্ণ পাঠ ও সাংবিধানিক সীমাবদ্ধতা না পড়ে একে সীমাহীন অধিকার হিসেবে লিখবেন না।
 
 ## ৪. “the right of every citizen to freedom of speech and expression”
 
-**বাংলা ভাবার্থ:** প্রত্যেক নাগরিকের বাক্‌স্বাধীনতা ও মতপ্রকাশের অধিকার।  
-**Source:** Constitution of Bangladesh, Article 39(2)(a).  
+**বাংলা ভাবার্থ:** প্রত্যেক নাগরিকের বাক্‌স্বাধীনতা ও মতপ্রকাশের অধিকার।\
+**Source:** Constitution of Bangladesh, Article 39(2)(a).\
 https://bdlaws.minlaw.gov.bd/act-367.html
 
 **Use for:** মতপ্রকাশ, নাগরিক অংশগ্রহণ, গণমাধ্যম ও গণতন্ত্র।
 
 ## ৫. “every citizen shall have the right to information from the authority”
 
-**বাংলা ভাবার্থ:** প্রত্যেক নাগরিকের কর্তৃপক্ষের কাছ থেকে তথ্য পাওয়ার অধিকার থাকবে।  
-**Source:** *Right to Information Act, 2009*, section 4 (English rendering; consult the official Bengali text for precise legal wording).  
+**বাংলা ভাবার্থ:** প্রত্যেক নাগরিকের কর্তৃপক্ষের কাছ থেকে তথ্য পাওয়ার অধিকার থাকবে।\
+**Source:** *Right to Information Act, 2009*, section 4 (English rendering; consult the official Bengali text for precise legal wording).\
 https://bdlaws.minlaw.gov.bd/act-1011/act-chapter-print-2220.html
 
 **Use for:** RTI, transparency, accountability, citizen empowerment.
 
 ## ৬. “catalogue and index of all its information”
 
-**বাংলা ভাবার্থ:** কর্তৃপক্ষের তথ্যের catalogue ও index।  
-**Source:** *Right to Information Act, 2009*, section 5; excerpt/English rendering.  
+**বাংলা ভাবার্থ:** কর্তৃপক্ষের তথ্যের catalogue ও index।\
+**Source:** *Right to Information Act, 2009*, section 5; excerpt/English rendering.\
 https://bdlaws.minlaw.gov.bd/act-1011/act-chapter-print-2220.html
 
-**Use for:** records management, proactive disclosure, RTI implementation.  
+**Use for:** records management, proactive disclosure, RTI implementation.\
 **Exam link:** তথ্য অধিকার কার্যকর করতে শুধু আবেদন নয়, সঠিকভাবে তথ্য সংরক্ষণ ও খুঁজে পাওয়ার ব্যবস্থা দরকার।
 
 ## ৭. “Ensure public access to information”
 
-**বাংলা ভাবার্থ:** জনগণের তথ্যপ্রাপ্তির সুযোগ নিশ্চিত করা।  
-**Source:** UN Sustainable Development Goal 16, Target 16.10; excerpt from the official target.  
+**বাংলা ভাবার্থ:** জনগণের তথ্যপ্রাপ্তির সুযোগ নিশ্চিত করা।\
+**Source:** UN Sustainable Development Goal 16, Target 16.10; excerpt from the official target.\
 https://sdgs.un.org/goals/goal16
 
 **Use for:** RTI, transparency, open government, e-governance.
 
 ## ৮. “protect fundamental freedoms”
 
-**বাংলা ভাবার্থ:** মৌলিক স্বাধীনতাগুলো সুরক্ষিত রাখা।  
-**Source:** UN SDG 16, Target 16.10; excerpt.  
+**বাংলা ভাবার্থ:** মৌলিক স্বাধীনতাগুলো সুরক্ষিত রাখা।\
+**Source:** UN SDG 16, Target 16.10; excerpt.\
 https://sdgs.un.org/goals/goal16
 
 **Use for:** media freedom, civic space, public information, digital rights.
 
 ## ৯. “Effective, accountable and transparent institutions at all levels”
 
-**বাংলা ভাবার্থ:** সব স্তরে কার্যকর, জবাবদিহিমূলক ও স্বচ্ছ প্রতিষ্ঠান।  
-**Source:** UN SDG 16, Target 16.6.  
+**বাংলা ভাবার্থ:** সব স্তরে কার্যকর, জবাবদিহিমূলক ও স্বচ্ছ প্রতিষ্ঠান।\
+**Source:** UN SDG 16, Target 16.6.\
 https://sdgs.un.org/goals/goal16
 
 **Use for:** e-governance, good governance, RTI, public service reform.
 
 ## ১০. “responsive, inclusive, participatory and representative decision-making”
 
-**বাংলা ভাবার্থ:** সাড়া-দেওয়া, অন্তর্ভুক্তিমূলক, অংশগ্রহণমূলক ও প্রতিনিধিত্বশীল সিদ্ধান্ত গ্রহণ।  
-**Source:** UN SDG 16, Target 16.7.  
+**বাংলা ভাবার্থ:** সাড়া-দেওয়া, অন্তর্ভুক্তিমূলক, অংশগ্রহণমূলক ও প্রতিনিধিত্বশীল সিদ্ধান্ত গ্রহণ।\
+**Source:** UN SDG 16, Target 16.7.\
 https://sdgs.un.org/goals/goal16
 
 **Use for:** e-governance, citizen participation, digital inclusion.
 
 ## ১১. “No one will be left behind.”
 
-**বাংলা ভাবার্থ:** কাউকে পিছনে ফেলে রাখা হবে না।  
-**Source:** United Nations, *The 2030 Agenda for Sustainable Development*, central commitment.  
+**বাংলা ভাবার্থ:** কাউকে পিছনে ফেলে রাখা হবে না।\
+**Source:** United Nations, *The 2030 Agenda for Sustainable Development*, central commitment.\
 https://sdgs.un.org/2030agenda
 
 **Use for:** digital divide, disability access, rural connectivity, gender inclusion.
 
 ## ১২. “Leaving no one behind”
 
-**বাংলা ভাবার্থ:** কাউকে বাদ না রেখে উন্নয়ন নিশ্চিত করা।  
-**Source:** United Nations, *The 2030 Agenda for Sustainable Development*.  
+**বাংলা ভাবার্থ:** কাউকে বাদ না রেখে উন্নয়ন নিশ্চিত করা।\
+**Source:** United Nations, *The 2030 Agenda for Sustainable Development*.\
 https://sdgs.un.org/2030agenda
 
 **Use for:** inclusive ICT, digital public services, education technology and accessibility.
 
 ## ১৩. “public access to information”
 
-**বাংলা ভাবার্থ:** জনগণের তথ্যপ্রাপ্তির সুযোগ।  
-**Source:** UN SDG 16, Target 16.10; phrase excerpt.  
+**বাংলা ভাবার্থ:** জনগণের তথ্যপ্রাপ্তির সুযোগ।\
+**Source:** UN SDG 16, Target 16.10; phrase excerpt.\
 https://sdgs.un.org/goals/goal16
 
 **Use for:** proactive disclosure, RTI, open government.
 
 ## ১৪. “freedom to hold opinions without interference”
 
-**বাংলা ভাবার্থ:** হস্তক্ষেপ ছাড়া মতামত ধারণের স্বাধীনতা।  
-**Source:** UDHR, Article 19; excerpt.  
+**বাংলা ভাবার্থ:** হস্তক্ষেপ ছাড়া মতামত ধারণের স্বাধীনতা।\
+**Source:** UDHR, Article 19; excerpt.\
 https://www.un.org/en/about-us/universal-declaration-of-human-rights
 
 **Use for:** media freedom, social media and public debate.
 
 ## ১৫. “through any media and regardless of frontiers”
 
-**বাংলা ভাবার্থ:** যেকোনো গণমাধ্যমে এবং সীমান্ত নির্বিশেষে।  
-**Source:** UDHR, Article 19; excerpt.  
+**বাংলা ভাবার্থ:** যেকোনো গণমাধ্যমে এবং সীমান্ত নির্বিশেষে।\
+**Source:** UDHR, Article 19; excerpt.\
 https://www.un.org/en/about-us/universal-declaration-of-human-rights
 
 **Use for:** digital platforms, contemporary communication, cross-border information flows.
@@ -132,30 +139,30 @@ https://www.un.org/en/about-us/universal-declaration-of-human-rights
 
 **বাংলা ভাবার্থ:** জনসমক্ষে তথ্য প্রকাশ অনিয়ম উন্মোচনে শক্তিশালী ভূমিকা রাখতে পারে।
 
-**Source:** Louis D. Brandeis, *Other People's Money and How the Bankers Use It* (1914), Chapter V, “What Publicity Can Do”.  
+**Source:** Louis D. Brandeis, *Other People's Money and How the Bankers Use It* (1914), Chapter V, “What Publicity Can Do”.\
 [Louis D. Brandeis School of Law Library — primary text](https://law.louisville.edu/lawlibrary/special-collections/louis-d-brandeis-collection/writings-louis-d-brandeis/other-peoples-money-3) · [Project Gutenberg edition](https://www.gutenberg.org/files/57819/57819-h/57819-h.htm)
 
-**Use for:** RTI, proactive disclosure, investigative journalism, transparency and anti-corruption.  
+**Use for:** RTI, proactive disclosure, investigative journalism, transparency and anti-corruption.\
 **Exam link:** Publicity and access to records can expose irregularities, but disclosure must be paired with verification, privacy safeguards and consequences for proven misconduct.
 
 ## ১৭. “A popular Government, without popular information, or the means of acquiring it, is but a Prologue to a Farce or a Tragedy; or, perhaps both.”
 
 **বাংলা ভাবার্থ:** জনগণের তথ্যপ্রাপ্তি ও তথ্য অর্জনের উপায় ছাড়া জনপ্রতিনিধিত্বমূলক সরকার কার্যকরভাবে জবাবদিহি করতে পারে না।
 
-**Source:** James Madison, letter to W. T. Barry, 4 August 1822; manuscript held by the Library of Congress.  
+**Source:** James Madison, letter to W. T. Barry, 4 August 1822; manuscript held by the Library of Congress.\
 [Library of Congress — James Madison to W. T. Barry](https://www.loc.gov/resource/mjm.20_0155_0159/?sp=1&st=text)
 
-**Use for:** RTI, public information, civic education, accountability and democratic participation.  
+**Use for:** RTI, public information, civic education, accountability and democratic participation.\
 **Exam link:** Citizens need timely, reliable information to scrutinise public decisions and participate meaningfully.
 
 ## ১৮. “The medium is the message.”
 
 **বাংলা ভাবার্থ:** যোগাযোগের মাধ্যম নিজেই মানুষের অভিজ্ঞতা, আচরণ ও সামাজিক সম্পর্ককে প্রভাবিত করে।
 
-**Source:** Marshall McLuhan, *Understanding Media: The Extensions of Man* (1964), Chapter 1.  
+**Source:** Marshall McLuhan, *Understanding Media: The Extensions of Man* (1964), Chapter 1.\
 [The Estate of Marshall McLuhan — explanation and book context](https://marshallmcluhan.org/common-questions/) · [McLuhan's New Sciences — text references](https://mcluhansnewsciences.com/mcluhan/2019/03/media-definition/)
 
-**Use for:** communication theory, social media, digital platforms, ICT and changing public debate.  
+**Use for:** communication theory, social media, digital platforms, ICT and changing public debate.\
 **Exam link:** A platform's speed, reach and design can shape what people see and share, so technology policy should examine both content and the effects of the medium.
 
 ## ১৯. Quote-to-question map

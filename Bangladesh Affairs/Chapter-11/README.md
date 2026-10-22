@@ -1,221 +1,77 @@
 <a id="top"></a>
+<a id="chapter-11--নির্বাচন-ও-নির্বাচনী-ব্যবস্থাপনা--elections--electoral-management"></a>
+# অধ্যায় ১১ — নির্বাচন ও নির্বাচনী ব্যবস্থাপনা | Elections & Electoral Management
 
-<a id="visual-atlas"></a>
+**বিসিএস লিখিত · বাংলাদেশ বিষয়াবলি · বিষয় কোড ০০৫ · সিলেবাসের বিষয় ১১**
 
-## Visual Atlas — Maps, Official Records & Revision Diagrams
+[বইয়ের সূচি](../README.md) · [সরকারি সিলেবাস ও বিষয়ভিত্তিক মিল](../SYLLABUS-COVERAGE.md) · [উৎস ও যাচাইয়ের অবস্থা](../SOURCE-AUDIT.md) · [উত্তর লেখার নির্দেশিকা](../ANSWER-WRITING.md)
 
-এই অধ্যায়ে **১৫টি SVG visual resource** (আগের ১০টি diagram-সহ), বর্তমান ভোটার-তথ্যের chart, ২০২৬ সালের নির্বাচন-সংক্রান্ত বাস্তব ছবি এবং সরকারি constituency boundary records যুক্ত করা হয়েছে। আইনগত সীমানা যাচাইয়ের ক্ষেত্রে সরকারি গেজেট ও নির্বাচন কমিশনের constituency lookup-ই চূড়ান্ত reference; তৃতীয়-পক্ষের result map-কে আইনি boundary map হিসেবে ব্যবহার করবেন না। কোনো screenshot বা boundary image-কে বর্তমান আইনগত সীমানা হিসেবে ভুল বোঝা এড়াতে মানচিত্রের ক্ষেত্রে সরকারি গেজেটকে অগ্রাধিকার দিন।
+মূল ধারণা ও ব্যাখ্যা পড়ুন, বাংলাদেশের উদাহরণের সঙ্গে মিলিয়ে বিশ্লেষণ করুন, তারপর প্রশ্ন অনুযায়ী উত্তর লিখুন। সংখ্যার সঙ্গে তথ্যের সময়কাল এবং আইনি বক্তব্যের সঙ্গে প্রযোজ্য পাঠ দেখুন।
 
-### ১. বাংলাদেশের নির্বাচনী ব্যবস্থার সাংবিধানিক মানচিত্র
-![Expanded constitutional map for election management](./assets/constitutional-map-expanded.svg)
-
-[Open diagram separately](./assets/constitutional-map-expanded.svg) · **Source:** Constitution of Bangladesh, Part VII, Articles 118–126; [official legal text](https://bdlaws.minlaw.gov.bd/act-print-367.html).
-
-### ২. নির্বাচনচক্র — ভোটার তালিকা থেকে প্রতিকার
-![Expanded election cycle](./assets/election-cycle-expanded.svg)
-
-[Open diagram separately](./assets/election-cycle-expanded.svg) · **Source:** Representation of the People Order, 1972, as amended; [official EC legal register](https://ecs.gov.bd/en/page/national-parliament-election-law).
-
-### ৩. নির্বাচনী সততার ছয়টি স্তম্ভ
-![Election integrity pillars](./assets/electoral-integrity-dashboard.svg)
-
-[Open diagram separately](./assets/electoral-integrity-dashboard.svg). Independence, equal competition, secret ballot, verifiable counting, inclusion and remedies—এগুলোকে উত্তর লেখার analytical framework হিসেবে ব্যবহার করুন।
-
-### ৪. নির্বাচনে প্রযুক্তি: সুবিধা, ঝুঁকি ও safeguards
-![Election technology benefits and risks](./assets/election-technology-risks.svg)
-
-[Open diagram separately](./assets/election-technology-risks.svg). এটি conceptual study diagram; বাংলাদেশের কোনো নির্দিষ্ট প্রযুক্তি বর্তমানে ব্যবহৃত হচ্ছে—এমন দাবি নয়।
-
-### ৫. নির্বাচনী অভিযোগ ও আইনগত প্রতিকার
-![Electoral dispute response flow](./assets/electoral-dispute-flow.svg)
-
-[Open diagram separately](./assets/electoral-dispute-flow.svg). প্রকৃত অভিযোগে সঠিক কর্তৃপক্ষ, সময়সীমা ও প্রতিকার প্রযোজ্য আইন থেকে যাচাই করতে হবে।
-
-### ৬–১০. বিদ্যমান revision diagrams
-- [Constitutional Articles Map](./assets/constitutional-articles-map.svg)
-- [Election Stakeholders and Responsibilities](./assets/election-stakeholders.svg)
-- [Electoral System Comparison](./assets/electoral-system-comparison.svg)
-- [Election Cycle](./assets/election-cycle.svg)
-- [Election Integrity](./assets/election-integrity.svg)
-
-### ১১–১৭. নতুন source-linked SVG visuals
-
-#### ১১. Voter-register snapshot — 21 October 2026
-![Bangladesh registered voters by published category](./assets/voter-register-snapshot-2026.svg)
-
-[Open chart](./assets/voter-register-snapshot-2026.svg) · Source: [Bangladesh Election Commission](https://ecs.gov.bd/en/constituency). This is a dated snapshot; current counts can change.
-
-#### ১২. Constitutional articles map — Articles 118–126
-![Constitutional articles map for elections](./assets/constitutional-articles-map.svg)
-
-[Open diagram](./assets/constitutional-articles-map.svg) · Source: [Constitution of Bangladesh](https://bdlaws.minlaw.gov.bd/act-print-367.html).
-
-#### ১৩. Expanded election cycle
-![Election cycle from legal framework to post-election review](./assets/election-cycle-expanded.svg)
-
-[Open diagram](./assets/election-cycle-expanded.svg) · Source: [RPO 1972, as amended](https://bdlaws.minlaw.gov.bd/act-print-424.html).
-
-#### ১৪. Six pillars of electoral integrity
-![Six pillars of electoral integrity](./assets/electoral-integrity-dashboard.svg)
-
-[Open diagram](./assets/electoral-integrity-dashboard.svg) · Study framework based on the Constitution, ICCPR and [International IDEA](https://www.idea.int/publications/catalogue/electoral-management-design-revised-edition?lang=en).
-
-#### ১৫. Stakeholder roles and accountability
-![Election stakeholders and their responsibilities](./assets/election-stakeholder-accountability.svg)
-
-[Open diagram](./assets/election-stakeholder-accountability.svg) · Constitutional anchor: Article 126 and the applicable election laws.
-
-#### ১৬. RPO Amendment Act 2026 — study map
-![Key themes in the Representation of the People Amendment Act 2026](./assets/rpo-amendment-2026-map.svg)
-
-[Open diagram](./assets/rpo-amendment-2026-map.svg) · Read the exact provision in the [official Act No. 03 of 2026](https://bdlaws.minlaw.gov.bd/act-print-1632.html); this is a revision aid, not a substitute for statutory text.
-
-#### ১৭. BCS PYQ topic timeline
-![Election-related BCS Written themes from 35th to 47th BCS](./assets/pyq-topic-timeline-35-47.svg)
-
-[Open timeline](./assets/pyq-topic-timeline-35-47.svg) · For exact scope and caveats, read the [full 35th–47th audit](./PYQ-35TH-47TH-ANALYSIS.md).
-
-### Official and real-world photo references
-
-#### Postal ballot paper — 2026 referendum
-![Bangladesh Election Commission postal ballot paper for the 2026 constitutional referendum](../assets/photos/commons-aacbfab16b70eca9.png)
-
-**Source and licence:** Official Bangladesh Election Commission facsimile, hosted by Wikimedia Commons and marked public domain. [File page and licensing](https://commons.wikimedia.org/wiki/File:2026_Bangladesh_Constitutional_Referendum_Postal_Ballot.png) · [ECS postal voting information](https://www.ecs.gov.bd/page/postal-voting-it-supported?lang=en). Use to understand postal voting; the image relates to the 2026 referendum.
-
-#### Postal ballot sending envelope
-![Bangladesh postal ballot sending envelope for the 2026 election and referendum](../assets/photos/commons-f526ee9b5339d699.png)
-
-**Source and licence:** Official Election Commission facsimile, public domain as described on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2026_Bangladeshi_general_election_and_referendum_postal_ballot_sending_envelope.png). Link this visual to postal voting, ballot security and voter access.
-
-#### International election observation
-![European Union observation team visits a polling station during the 2026 Bangladesh election](../assets/photos/commons-66d9f9ef6d67d6cc.jpg)
-
-**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/Category:2026_Bangladeshi_constitutional_referendum). Use to discuss election observation and transparency; observation is distinct from election administration and adjudication.
-
-
-#### Voting in the 2026 national election and referendum
-![Voters casting ballots during Bangladesh's 2026 election and referendum](../assets/photos/commons-30591039ac7de200.jpg)
-
-**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:2026-02-12_Thirteenth_National_Parliamentary_Election_and_Referendum_2026,_voting_in_the_capital.jpg). Use this as a dated example of voting procedures, not as a measure of overall election quality.
-
-#### Chief Election Commissioner casting a vote
-![Chief Election Commissioner A. M. M. Nasir Uddin voting on 12 February 2026](../assets/photos/commons-ba0b74b56667cbef.jpg)
-
-**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Chief_Election_Commissioner_A._M._M._Nasir_Uddin_voting_in_2026_referendum_and_13th_national_parliamentary_election,_Eskaton_Garden_High_School,_Ramna,_Dhaka_2026-02-12.jpg). Useful for discussing universal franchise and institutional leadership; it does not imply endorsement.
-
-#### Election result collection and reporting centre
-![Officials at the Election Commission results collection and presentation centre, 13 February 2026](../assets/photos/commons-e380683ffb754709.jpg)
-
-**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Chief_Election_Commissioner_A,_M,_M,_Nasir_Uddin_briefed_the_results_collection_and_presentation_center_of_the_'Referendum_and_Thirteenth_National_Parliament_Election_2026.jpg). Link this visual to counting, tabulation, result publication and audit trails.
-
-#### Election result centre — inter-agency coordination
-![Information and Broadcasting Secretary at the Election Commission result centre, 12 February 2026](../assets/photos/commons-7944aa29cde1b7f3.jpg)
-
-**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Mahbuba_Farzana,_Information_and_Broadcasting_Secretary,_at_Bangladesh_Election_Commission_results_center,_Dhaka,_for_2026_Referendum_and_Thirteenth_Parliament_Election,_2026-02-12.jpg). Use to discuss public information, official results and coordinated communication.
-
-#### Voters queuing at polling stations in the capital
-![Voters at polling stations in Dhaka during the 2026 election and referendum](../assets/photos/commons-2427f1b62c59d555.jpg)
-
-**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Voters_at_polling_stations_in_the_capital_during_13th_National_Parliamentary_Election_and_Referendum_2026,_2026-02-12.jpg). Use as a dated illustration of turnout logistics, not as a turnout statistic.
-
-#### Official Election Commission headquarters
-![Election Commission headquarters, Agargaon, Dhaka](https://asset.ecs.gov.bd/media/uploaded_files/configuration/carousel/2026/02/f2145a87-a861-4a65-bbc9-13cd3bda19d5.webp)
-
-**Source:** [Bangladesh Election Commission official website](https://ecs.gov.bd/en). This identifies the institution responsible for election management; legal powers must be sourced to the Constitution and statutes.
-
-
-#### Bangladesh Election Commission headquarters
-![Bangladesh Election Commission headquarters in Agargaon, Dhaka](https://asset.ecs.gov.bd/media/uploaded_files/configuration/carousel/2026/02/f2145a87-a861-4a65-bbc9-13cd3bda19d5.webp)
-
-**Source:** Bangladesh Election Commission official website, 2026 carousel. This is an institutional reference image, not an electoral map. [Official ECS website](https://ecs.gov.bd/en).
-
-#### Voters at a polling station — 12 February 2026
-![Voters queue at a polling station in Dhaka during the 13th National Parliament Election and 2026 referendum](../assets/photos/commons-26bddb798acc915f.jpg)
-
-**Source and licence:** Bangladesh Press Information Department photograph hosted on Wikimedia Commons; marked public domain in Bangladesh. [Original file and licensing page](https://commons.wikimedia.org/wiki/File:Queues_of_voters_at_polling_station,_capital_city,_Thirteenth_National_Parliament_Election_and_2026_Referendum_2026-02-12.jpg). The photo illustrates participation; it is not evidence about overall election quality.
-
-#### 2026 constituency result map — supplementary visual only
-![2026 Bangladesh general election alliance-wise result map](../assets/photos/commons-895ee6ca5ae23036.png)
-
-**Attribution:** FlyJet777, *2026 Bangladesh General Election Alliance Wise Result Map*, CC BY 4.0. [File page and licence](https://commons.wikimedia.org/wiki/File:2026_Bangladesh_General_Election_Alliance_Wise_Result_Map.svg).
-
-**Critical limitation:** this is a community-created election-results map, not an official legal boundary map, and it is a dated results snapshot. For exact current boundaries, use the EC’s official constituency lookup and revised 300-seat boundary gazette below. Do not quote current party seat totals from this image without checking the latest official results.
-
-### Official electoral maps and current legal maps
-
-- **বর্তমান constituency lookup:** [Bangladesh Election Commission — Constituency](https://ecs.gov.bd/en/constituency). আসন-নির্দিষ্ট তথ্য যাচাইয়ের জন্য এই অফিসিয়াল lookup ব্যবহার করুন।
-- **৩০০ সংসদীয় আসনের সীমানার সরকারি নথি:** [EC — National Parliament Election Law](https://ecs.gov.bd/en/page/national-parliament-election-law) এবং [revised boundary gazette, 11 December 2025 (PDF)](https://asset.ecs.gov.bd/media/uploaded_files/notices/2025/12/gTe7PMU3SDbRB5pni6rdNQYZyZ7AQXrgUui3SDPs.pdf). এই PDF-তে constituency boundary description রয়েছে; এটি নিজে illustrated map নয়। পরীক্ষায় “বর্তমান সীমানা” লিখলে সংশ্লিষ্ট সর্বশেষ সংশোধিত গেজেট অনুসরণ করুন।
-- **নির্বাচনী আইন ও ২০২৬ সংশোধন:** [EC — RPO legal records](https://ecs.gov.bd/category/regarding-representation-of-the-people-order-rpo-2830760191), [RPO 1972 (Bangladesh Laws)](https://bdlaws.minlaw.gov.bd/act-print-424.html), [Representation of the People (Amendment) Act, 2026](https://bdlaws.minlaw.gov.bd/act-print-1632.html).
-- **বাংলাদেশ নির্বাচন কমিশনের অবস্থান:** [OpenStreetMap location search](https://www.openstreetmap.org/search?query=Bangladesh%20Election%20Commission%20Agargaon%20Dhaka).
-- **ভোটকেন্দ্র/নির্বাচনী এলাকা:** কোনো নির্দিষ্ট আসন বা কেন্দ্রের map ব্যবহার করার আগে EC-এর সংশ্লিষ্ট constituency gazette বা polling-centre publication মিলিয়ে নিন; সাধারণ web map আইনগত সীমানার বিকল্প নয়।
-
-
-
-# Chapter 11 — নির্বাচন ও নির্বাচনী ব্যবস্থাপনা | Elections & Electoral Management
-
-**BCS Written · Bangladesh Affairs · Subject Code 005**  
-বাংলা ব্যাখ্যা + English terminology + source-backed essays + previous-question analysis + ৩৩টি model question and answer + revision visuals
-
-[🧭 35th–47th BCS PYQ Audit](./PYQ-35TH-47TH-ANALYSIS.md) · [📘 25 Answered Model Q&A + 4 full worked answers](./BCS-WRITTEN-QUESTION-BANK.md) · [💬 English Quotations & Sources](./QUOTATIONS.md) · [বিগত BCS প্রশ্ন বিশ্লেষণ](#pyq) · [৩৩টি Model Q&A](#model-questions) · [গুরুত্বপূর্ণ প্রবন্ধ](#essays) · [Visual Atlas](#visual-atlas) · [Sources](#sources)
-
-> **এই অধ্যায়ের লক্ষ্য:** একবার মনোযোগ দিয়ে পড়লে বাংলাদেশের নির্বাচনী ব্যবস্থার সাংবিধানিক ভিত্তি, নির্বাচন কমিশনের দায়িত্ব, ভোটার তালিকা, নির্বাচনী প্রক্রিয়া, নির্বাচনী অনিয়ম, সংস্কার এবং পরীক্ষায় বিশ্লেষণধর্মী উত্তর লেখার মূল কাঠামো বুঝতে পারবেন। এটি BPSC-এর সরকারি প্রকাশনা নয়; BCS Written প্রস্তুতির জন্য তৈরি শিক্ষাসামগ্রী।
-
-> **Evidence rule:** BPSC-এর মূল প্রশ্নপত্রের scan/PDF দিয়ে স্বাধীনভাবে যাচাই করা হয়নি—এমন প্রশ্নকে “verified official PYQ” বলা হবে না। তৃতীয়-পক্ষের question archive-এ রিপোর্ট করা প্রশ্নকে “archive-reported” এবং এই অধ্যায়ে তৈরি প্রশ্নকে “model/practice question” বলা হয়েছে।
-
-### অধ্যায় ১১-এর গুরুত্বপূর্ণ উদ্ধৃতি
-
-> “In the exercise of his functions under this Constitution, the Election Commission shall be independent and subject only to this Constitution and any other law.”  
-> — Constitution of Bangladesh, Article 118(4)
-
-> “The power of voters is the liberation of Democracy.”  
-> — Bangladesh Election Commission, National Voters Day 2026 theme
-
-**পরীক্ষায় ব্যবহার:** প্রথম উদ্ধৃতিটি নির্বাচন কমিশনের সাংবিধানিক স্বাধীনতা নিয়ে; দ্বিতীয়টি ভোটারের ভূমিকা ও নাগরিক অংশগ্রহণ নিয়ে লিখতে পারেন। উদ্ধৃতির সঙ্গে সম্পর্কিত ব্যাখ্যা ও আইনি প্রেক্ষাপট অবশ্যই যোগ করবেন।
-
-[সম্পূর্ণ English quotation bank, বাংলা ভাবানুবাদ ও source links →](./QUOTATIONS.md)
-
-## 🟨🟩 রঙের সংকেত — Reading Colour Code
-
-- 🟨 **মুখস্থযোগ্য তথ্য:** অনুচ্ছেদ, আইন, প্রতিষ্ঠান, গুরুত্বপূর্ণ ধারণা।
-- 🟩 **বিশ্লেষণ:** কারণ, প্রভাব, সুবিধা–সীমাবদ্ধতা, নীতিগত সুপারিশ।
-- 🟦 **Source/evidence:** সরকারি আইন, সংবিধান, BPSC, নির্বাচন কমিশন, আন্তর্জাতিক সংস্থা।
-- 🟥 **Exam trap:** পুরোনো আইন, অসমর্থিত দাবি, direct PYQ ও model question গুলিয়ে ফেলা।
-
-## 📑 বিষয়সূচি — সরাসরি অংশে যান
-
-| অংশ | বিষয় |
+| অংশ | কী পড়বেন |
 |---|---|
-| ১ | শিখনফল, সিলেবাস ও দ্রুত পরিচিতি |
-| ২ | মূল পরিভাষা ও নির্বাচনী ব্যবস্থার ধারণা |
-| ৩ | বাংলাদেশের সাংবিধানিক কাঠামো: অনুচ্ছেদ ১১৮–১২৬ |
-| ৪ | নির্বাচন কমিশন: গঠন, স্বাধীনতা ও কার্যাবলি |
-| ৫ | ভোটার তালিকা, ভোটাধিকার ও অন্তর্ভুক্তিমূলক অংশগ্রহণ |
-| ৬ | নির্বাচনী এলাকার সীমানা, প্রার্থী মনোনয়ন ও দল নিবন্ধন |
-| ৭ | নির্বাচন পরিচালনার ধাপ: তফসিল থেকে ফলাফল |
-| ৮ | নির্বাচন আইন ও ২০২৬ সালের গুরুত্বপূর্ণ সংশোধন |
-| ৯ | নির্বাচনী সততা, চ্যালেঞ্জ ও প্রতিকার |
-| ১০ | নির্বাচনে প্রযুক্তি, গণমাধ্যম ও তথ্যের সততা |
-| ১১ | নারী, তরুণ, সংখ্যালঘু ও প্রতিবন্ধী ভোটারের অংশগ্রহণ |
-| ১২ | নির্বাচনী বিরোধ, অভিযোগ ও জবাবদিহি |
-| ১৩ | Previous BCS Question Analysis |
-| ১৩A | [৩৫তম–৪৭তম BCS-এর পূর্ণ year-by-year audit](./PYQ-35TH-47TH-ANALYSIS.md) |
-| ১৩B | [২৫টি Answered Model Q&A + ৪টি full 15/20-mark worked answer](./BCS-WRITTEN-QUESTION-BANK.md) |
-| ১৪ | গুরুত্বপূর্ণ প্রবন্ধ ও model essays |
-| ১৫ | ৩৩টি English–বাংলা Model Questions & Answers |
-| ১৬ | ৫, ১০ ও ২০ নম্বরের উত্তর লেখার কৌশল |
-| ১৭ | Quick revision ও self-test |
-| ১৮ | Source register |
-| ১৮A | [১৩টি authentic English quotation with direct source links](./QUOTATIONS.md#authentic-quotations) |
+| [অংশ ক — মূলপাঠ](#book-text) | ধারণা, পটভূমি, বিস্তারিত আলোচনা, কারণ–প্রভাব ও নীতিগত মূল্যায়ন |
+| [অংশ খ — লিখিত অনুশীলন](#written-practice) | প্রশ্নের উৎস, উত্তর-পরিকল্পনা, অনুশীলনী ও নমুনা উত্তর |
+| [অংশ গ — পুনরালোচনা ও চিত্র](#revision-atlas) | সারসংক্ষেপ, মানচিত্র, চিত্র ও স্মৃতি যাচাই |
+| [অংশ ঘ — উৎস ও যাচাই](#references-audit) | তথ্যসূত্র, উদ্ধৃতির সীমা ও যাচাইয়ের অবস্থা |
+
+<a id="-রঙের-সংকেত--reading-colour-code"></a>
+<a id="-বিষয়সূচি--সরাসরি-অংশে-যান"></a>
+<details>
+<summary>বিস্তারিত বিষয়সূচি</summary>
+
+**অংশ ক — মূলপাঠ**
+
+- [BPSC Syllabus Mapping ও শিখনফল](#core-01)
+- [মূল পরিভাষা — English Term, বাংলা অর্থ ও সহজ ব্যাখ্যা](#core-02)
+- [বাংলাদেশের নির্বাচনী ব্যবস্থার সাংবিধানিক কাঠামো](#core-03)
+- [নির্বাচন কমিশন: গঠন, স্বাধীনতা ও কার্যাবলি](#core-04)
+- [ভোটার তালিকা, ভোটাধিকার ও অন্তর্ভুক্তিমূলক অংশগ্রহণ](#core-05)
+- [নির্বাচনী সীমানা, মনোনয়ন ও রাজনৈতিক দলের নিবন্ধন](#core-06)
+- [নির্বাচন পরিচালনার ধাপ: তফসিল থেকে ফলাফল](#core-07)
+- [নির্বাচন আইন ও ২০২৬ সালের গুরুত্বপূর্ণ সংশোধন](#core-08)
+- [নির্বাচনী সততা, চ্যালেঞ্জ ও প্রতিকার](#core-09)
+- [নির্বাচনে প্রযুক্তি, গণমাধ্যম ও তথ্যের সততা](#core-10)
+- [নারী, তরুণ, সংখ্যালঘু ও প্রতিবন্ধী ভোটারের অংশগ্রহণ](#core-11)
+- [নির্বাচনী বিরোধ, অভিযোগ ও জবাবদিহি](#core-12)
+
+- [নির্বাচনী প্রচারণা, পর্যবেক্ষণ ও প্রমাণের মূল্যায়ন](#core-analysis)
+
+**অংশ খ — লিখিত অনুশীলন**
+
+- [Previous BCS Question Analysis — বিগত প্রশ্নের থিম ও প্রস্তুতির অগ্রাধিকার](#practice-01)
+- [BCS Written-এর জন্য গুরুত্বপূর্ণ প্রবন্ধ ও Model Essays](#practice-02)
+- [৩৩টি English–বাংলা Model Questions & Answers](#practice-03)
+- [BCS Written Answer Strategy — ৫, ১০ ও ২০ নম্বর](#practice-04)
+
+**অংশ গ — পুনরালোচনা ও চিত্র**
+
+- [Visual Atlas — Maps, Official Records & Revision Diagrams](#revision-01)
+- [One-page Revision — শেষ মুহূর্তে মনে রাখুন](#revision-02)
+- [শেষ কথা](#revision-03)
+
+**অংশ ঘ — উৎস ও যাচাই**
+
+- [এই অধ্যায়ের যাচাইয়ের অবস্থা](#chapter-fact-check)
+- [Full Source Register — সরকারি ও প্রাতিষ্ঠানিক উৎস](#sources-01)
+- [অধ্যায়ের গুরুত্বপূর্ণ English Quotations](#sources-02)
+
+</details>
 
 ---
 
+<a id="book-text"></a>
+## অংশ ক — মূলপাঠ
+
+<a id="core-01"></a>
 <a id="learning-goals"></a>
 
-## ১. BPSC Syllabus Mapping ও শিখনফল
+<a id="১-bpsc-syllabus-mapping-ও-শিখনফল"></a>
+### BPSC Syllabus Mapping ও শিখনফল
 
 BCS Written Bangladesh Affairs একটি ২০০ নম্বরের compulsory paper। নির্বাচন ও নির্বাচনী ব্যবস্থাপনা বিষয়টি বাংলাদেশের রাজনৈতিক প্রতিষ্ঠান, গণতন্ত্র, সাংবিধানিক শাসন, রাজনৈতিক সংস্কৃতি ও সুশাসনের সঙ্গে সম্পর্কিত। এই অধ্যায়কে রাজনৈতিক দল ও রাজনৈতিক প্রক্রিয়ার অধ্যায়ের সঙ্গে মিলিয়ে পড়লে বিষয়গুলো সহজে মনে থাকবে। [BPSC Written Syllabus](https://bpsc.gov.bd/pages/psc-exams/%E0%A6%AC%E0%A6%BF-%E0%A6%B8%E0%A6%BF-%E0%A6%8F%E0%A6%B8-%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%BF%E0%A6%A4-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%AC%E0%A6%BE%E0%A6%B8-08e202-6919974adbfbab28ceff0121)
 
-### অধ্যায় শেষে আপনি পারবেন
+#### অধ্যায় শেষে আপনি পারবেন
 
 1. বাংলাদেশের নির্বাচন কমিশনের সাংবিধানিক ভিত্তি ও দায়িত্ব ব্যাখ্যা করতে।
 2. সংবিধানের ১১৮–১২৬ অনুচ্ছেদের মূল বিষয়গুলো উদাহরণসহ লিখতে।
@@ -225,7 +81,7 @@ BCS Written Bangladesh Affairs একটি ২০০ নম্বরের comp
 6. ২০২৬ সালের Representation of the People (Amendment) Act-এর গুরুত্বপূর্ণ পরিবর্তনকে পুরোনো বিধানের সঙ্গে গুলিয়ে না ফেলতে।
 7. ৫, ১০ ও ২০ নম্বরের প্রশ্নে তথ্য, বিশ্লেষণ, উদাহরণ এবং সুপারিশ যুক্ত করতে।
 
-### এক নজরে গুরুত্বপূর্ণ তথ্য
+#### এক নজরে গুরুত্বপূর্ণ তথ্য
 
 | বিষয় | পরীক্ষায় মনে রাখবেন |
 |---|---|
@@ -248,9 +104,11 @@ BCS Written Bangladesh Affairs একটি ২০০ নম্বরের comp
 
 ---
 
+<a id="core-02"></a>
 <a id="terms"></a>
 
-## ২. মূল পরিভাষা — English Term, বাংলা অর্থ ও সহজ ব্যাখ্যা
+<a id="২-মূল-পরিভাষা--english-term-বাংলা-অর্থ-ও-সহজ-ব্যাখ্যা"></a>
+### মূল পরিভাষা — English Term, বাংলা অর্থ ও সহজ ব্যাখ্যা
 
 | English term | বাংলা অর্থ | সহজ ব্যাখ্যা |
 |---|---|---|
@@ -281,15 +139,17 @@ BCS Written Bangladesh Affairs একটি ২০০ নম্বরের comp
 | Postal ballot | ডাকযোগে ব্যালট | আইন ও কমিশনের নির্ধারিত যোগ্যতা/প্রক্রিয়ায় ডাকযোগে ভোট দেওয়া |
 | No Vote option | ‘কোনো প্রার্থীকে নয়’ বিকল্প | ২০২৬ সালের সংশোধিত RPO-তে একক প্রার্থী থাকলে প্রযোজ্য নির্দিষ্ট ব্যবস্থার অংশ; সাধারণ নির্বাচনে সব ক্ষেত্রে প্রযোজ্য বলে লিখবেন না |
 
-### একটি গুরুত্বপূর্ণ পার্থক্য
+#### একটি গুরুত্বপূর্ণ পার্থক্য
 
 **Election administration** হলো নির্বাচন পরিচালনার বাস্তব কাজ; **electoral integrity** হলো সেই কাজ কতটা আইনসম্মত, নিরপেক্ষ, অন্তর্ভুক্তিমূলক, স্বচ্ছ ও বিশ্বাসযোগ্য—তার সামগ্রিক মান। কেবল ভোটগ্রহণ সম্পন্ন হলেই নির্বাচনের মান বিচার শেষ হয় না; ভোটারের স্বাধীনতা, প্রতিদ্বন্দ্বিতার ন্যায্যতা, গণনা, অভিযোগ নিষ্পত্তি ও ফলের গ্রহণযোগ্যতাও বিবেচ্য। [International IDEA — Electoral Management Design](https://www.idea.int/publications/catalogue/electoral-management-design-revised-edition?lang=en)
 
 ---
 
+<a id="core-03"></a>
 <a id="constitutional-framework"></a>
 
-## ৩. বাংলাদেশের নির্বাচনী ব্যবস্থার সাংবিধানিক কাঠামো
+<a id="৩-বাংলাদেশের-নির্বাচনী-ব্যবস্থার-সাংবিধানিক-কাঠামো"></a>
+### বাংলাদেশের নির্বাচনী ব্যবস্থার সাংবিধানিক কাঠামো
 
 ![বাংলাদেশের নির্বাচনী ব্যবস্থার সাংবিধানিক কাঠামো](./assets/constitutional-map.svg)
 
@@ -307,25 +167,33 @@ BCS Written Bangladesh Affairs একটি ২০০ নম্বরের comp
 | ১২৫ | নির্বাচনী আইনের বৈধতা ও নির্বাচনী আবেদন | নির্বাচনী বিরোধের আইনি পথ |
 | ১২৬ | নির্বাহী কর্তৃপক্ষের কমিশনকে সহায়তা | প্রতিষ্ঠানগুলোর সহযোগিতা ও বাস্তব প্রয়োগ |
 
-### ৩.১ অনুচ্ছেদ ১১৮: কমিশনের গঠন ও স্বাধীনতা
+<a id="৩১-অনুচ্ছেদ-১১৮-কমিশনের-গঠন-ও-স্বাধীনতা"></a>
+<a id="১-অনুচ্ছেদ-১১৮-কমিশনের-গঠন-ও-স্বাধীনতা"></a>
+#### অনুচ্ছেদ ১১৮: কমিশনের গঠন ও স্বাধীনতা
 
 সংবিধান অনুযায়ী নির্বাচন কমিশনে একজন প্রধান নির্বাচন কমিশনার এবং অনধিক চারজন নির্বাচন কমিশনার থাকতে পারেন। নিয়োগ রাষ্ট্রপতি করেন, সংবিধান ও প্রযোজ্য আইনের বিধান সাপেক্ষে। কমিশনারের সাংবিধানিক মেয়াদ পাঁচ বছর। সংবিধান কমিশনকে দায়িত্ব পালনের ক্ষেত্রে স্বাধীন হিসেবে নির্ধারণ করেছে। [Article 118](https://bdlaws.minlaw.gov.bd/act-367/act-part-print-205.html)
 
 **বিশ্লেষণ:** স্বাধীনতা শুধু আইনের ভাষায় থাকলেই যথেষ্ট নয়। নিরপেক্ষ সিদ্ধান্ত, দক্ষ জনবল, পর্যাপ্ত অর্থ ও লজিস্টিক, তথ্যের নির্ভরযোগ্যতা, আইন প্রয়োগে ধারাবাহিকতা এবং সব পক্ষের জন্য একই মানদণ্ড প্রয়োজন। একই সঙ্গে কমিশনকেও আইন, যুক্তিসংগত সিদ্ধান্ত, স্বচ্ছতা ও জবাবদিহির মধ্যে কাজ করতে হয়।
 
-### ৩.২ অনুচ্ছেদ ১১৯: নির্বাচন কমিশনের প্রধান দায়িত্ব
+<a id="৩২-অনুচ্ছেদ-১১৯-নির্বাচন-কমিশনের-প্রধান-দায়িত্ব"></a>
+<a id="২-অনুচ্ছেদ-১১৯-নির্বাচন-কমিশনের-প্রধান-দায়িত্ব"></a>
+#### অনুচ্ছেদ ১১৯: নির্বাচন কমিশনের প্রধান দায়িত্ব
 
 কমিশনের মূল দায়িত্বের মধ্যে রয়েছে সংসদ ও রাষ্ট্রপতি নির্বাচন পরিচালনা, ভোটার তালিকা প্রস্তুতির তত্ত্বাবধান-নির্দেশ-নিয়ন্ত্রণ এবং সংসদীয় নির্বাচনী এলাকার সীমানা নির্ধারণ। অন্যান্য দায়িত্ব সংবিধান বা আইনেও নির্ধারিত হতে পারে। [Article 119](https://bdlaws.minlaw.gov.bd/act-367/section-24678.html)
 
 **পরীক্ষায় প্রয়োগ:** “নির্বাচন কমিশনের ভূমিকা মূল্যায়ন করুন” প্রশ্নে দায়িত্বের তালিকা দিয়ে থামবেন না। দায়িত্ব পালনের সক্ষমতা, নিরপেক্ষতা, অভিযোগ নিষ্পত্তি, রাজনৈতিক আস্থা, মাঠ প্রশাসনের সহযোগিতা এবং সংস্কারের প্রয়োজন ব্যাখ্যা করুন।
 
-### ৩.৩ অনুচ্ছেদ ১২১–১২২: সমতা ও ভোটার হওয়ার যোগ্যতা
+<a id="৩৩-অনুচ্ছেদ-১২১১২২-সমতা-ও-ভোটার-হওয়ার-যোগ্যতা"></a>
+<a id="৩-অনুচ্ছেদ-১২১১২২-সমতা-ও-ভোটার-হওয়ার-যোগ্যতা"></a>
+#### অনুচ্ছেদ ১২১–১২২: সমতা ও ভোটার হওয়ার যোগ্যতা
 
 অনুচ্ছেদ ১২১ প্রতিটি নির্বাচনী এলাকার জন্য একটি ভোটার তালিকার কথা বলে এবং ধর্ম, জাত, বর্ণ বা লিঙ্গের ভিত্তিতে পৃথক বিশেষ তালিকা তৈরির অনুমতি দেয় না। অনুচ্ছেদ ১২২ সংসদ নির্বাচনে adult franchise এবং ভোটার হিসেবে নিবন্ধনের আইনি যোগ্যতার ভিত্তি। বাস্তবে ভোটার তালিকার কাজ Electoral Rolls Act, 2009 ও সংশ্লিষ্ট নিয়মের সঙ্গে মিলিয়ে পড়তে হবে।
 
 **বিশ্লেষণ:** সঠিক ভোটার তালিকা নির্বাচনের গ্রহণযোগ্যতার ভিত্তি। মৃত বা অযোগ্য ব্যক্তির নাম, যোগ্য ভোটারের বাদ পড়া, দ্বৈত নিবন্ধন, স্থানান্তর-সংক্রান্ত সমস্যা বা নথি যাচাইয়ের অসামঞ্জস্য থাকলে ভোটের সমতা ও বিশ্বাসযোগ্যতা ক্ষতিগ্রস্ত হতে পারে। সমাধানে নিয়মিত হালনাগাদ, সহজ সংশোধন, প্রকাশ্য যাচাই, অভিযোগের সুযোগ ও ব্যক্তিগত তথ্যের নিরাপত্তা দরকার।
 
-### ৩.৪ অনুচ্ছেদ ১২৩–১২৬: সময়, আইন, বিরোধ ও সহায়তা
+<a id="৩৪-অনুচ্ছেদ-১২৩১২৬-সময়-আইন-বিরোধ-ও-সহায়তা"></a>
+<a id="৪-অনুচ্ছেদ-১২৩১২৬-সময়-আইন-বিরোধ-ও-সহায়তা"></a>
+#### অনুচ্ছেদ ১২৩–১২৬: সময়, আইন, বিরোধ ও সহায়তা
 
 অনুচ্ছেদ ১২৩ নির্বাচনের সময়-সংক্রান্ত সাংবিধানিক বিধান নির্ধারণ করে; নির্দিষ্ট পরিস্থিতির ক্ষেত্রে প্রযোজ্য সময়সীমা সংবিধানের বর্তমান পাঠ দেখে লিখতে হবে। অনুচ্ছেদ ১২৪ সংসদকে নির্বাচন-সম্পর্কিত আইন প্রণয়নের ক্ষমতা দেয়। অনুচ্ছেদ ১২৫ নির্বাচনের বৈধতা চ্যালেঞ্জের জন্য আইননির্ধারিত election petition-এর পথ নির্দেশ করে। অনুচ্ছেদ ১২৬ অনুযায়ী নির্বাহী কর্তৃপক্ষের নির্বাচন কমিশনকে দায়িত্ব পালনে সহায়তা করা কর্তব্য। [Constitution of Bangladesh](https://bdlaws.minlaw.gov.bd/act-print-367.html)
 
@@ -333,22 +201,28 @@ BCS Written Bangladesh Affairs একটি ২০০ নম্বরের comp
 
 ---
 
+<a id="core-04"></a>
 <a id="ec"></a>
 
-## ৪. নির্বাচন কমিশন: গঠন, স্বাধীনতা ও কার্যাবলি
+<a id="৪-নির্বাচন-কমিশন-গঠন-স্বাধীনতা-ও-কার্যাবলি"></a>
+### নির্বাচন কমিশন: গঠন, স্বাধীনতা ও কার্যাবলি
 
 ![নির্বাচনী ব্যবস্থার অংশীজন ও দায়িত্ব](./assets/election-stakeholders.svg)
 
 বাংলাদেশ নির্বাচন কমিশন একটি সাংবিধানিক প্রতিষ্ঠান। এর দায়িত্ব শুধু ভোটের দিন ব্যালট নেওয়া নয়; ভোটার তালিকা, সীমানা নির্ধারণ, নির্বাচন-সংক্রান্ত বিধি বাস্তবায়ন, প্রার্থী ও দলের আইনগত শর্ত, তফসিল, ভোটকেন্দ্র, গণনা ও ফলাফল-সম্পর্কিত কাজও নির্বাচনী কাঠামোর অংশ। কমিশনের সরকারি পরিচিতি ও দায়িত্বের সারাংশ [Election Commission of Bangladesh](https://ecs.gov.bd/en/page/about-bangladesh-election-commission)-এ দেওয়া আছে।
 
-### ৪.১ কমিশনের কাজকে চার ভাগে মনে রাখুন
+<a id="৪১-কমিশনের-কাজকে-চার-ভাগে-মনে-রাখুন"></a>
+<a id="১-কমিশনের-কাজকে-চার-ভাগে-মনে-রাখুন"></a>
+#### কমিশনের কাজকে চার ভাগে মনে রাখুন
 
 1. **Preparation:** ভোটার তালিকা, নির্বাচনী এলাকার সীমানা, ভোটকেন্দ্র, কর্মী ও লজিস্টিক।
 2. **Regulation:** মনোনয়ন, রাজনৈতিক দলের নিবন্ধন, আচরণবিধি, প্রচার ও ব্যয়ের নিয়ম।
 3. **Conduct:** ভোটগ্রহণ, পর্যবেক্ষণ, অভিযোগ, গণনা ও ফল একীভূত করা।
 4. **Accountability:** অনিয়মের অভিযোগ, আইনগত ব্যবস্থা, তদন্ত, ফল প্রকাশ ও প্রযোজ্য বিরোধ নিষ্পত্তি।
 
-### ৪.২ স্বাধীন কমিশন কেন জরুরি?
+<a id="৪২-স্বাধীন-কমিশন-কেন-জরুরি"></a>
+<a id="২-স্বাধীন-কমিশন-কেন-জরুরি"></a>
+#### স্বাধীন কমিশন কেন জরুরি?
 
 - সরকার বা ক্ষমতাসীন দলের দৈনন্দিন রাজনৈতিক নির্দেশ থেকে নির্বাচনী সিদ্ধান্তকে পৃথক রাখা।
 - প্রার্থী, দল ও ভোটারের ক্ষেত্রে একই আইন প্রয়োগ।
@@ -356,19 +230,25 @@ BCS Written Bangladesh Affairs একটি ২০০ নম্বরের comp
 - অনিয়মের অভিযোগের দ্রুত, ন্যায্য ও নথিভিত্তিক নিষ্পত্তি।
 - মাঠ প্রশাসন ও আইনশৃঙ্খলা বাহিনীর সঙ্গে স্পষ্ট দায়িত্ববণ্টন।
 
-### ৪.৩ স্বাধীনতার পাশাপাশি জবাবদিহি
+<a id="৪৩-স্বাধীনতার-পাশাপাশি-জবাবদিহি"></a>
+<a id="৩-স্বাধীনতার-পাশাপাশি-জবাবদিহি"></a>
+#### স্বাধীনতার পাশাপাশি জবাবদিহি
 
 কমিশনের স্বাধীনতা মানে সিদ্ধান্তের ব্যাখ্যা না দেওয়া নয়। আইনসম্মত কারণ প্রকাশ, সময়মতো নির্দেশনা, নির্ভরযোগ্য তথ্য, অভিযোগের রেকর্ড, ব্যয়ের স্বচ্ছতা, পর্যবেক্ষকদের জন্য স্পষ্ট নিয়ম এবং সিদ্ধান্তের বিরুদ্ধে আইনি প্রতিকারের সুযোগ—এসবই প্রাতিষ্ঠানিক বিশ্বাসযোগ্যতার অংশ। একটি শক্তিশালী উত্তর তাই “কমিশনকে স্বাধীন করতে হবে” বলেই শেষ হয় না; স্বাধীনতা কার্যকর করার ব্যবস্থা ব্যাখ্যা করে।
 
 ---
 
+<a id="core-05"></a>
 <a id="voters"></a>
 
-## ৫. ভোটার তালিকা, ভোটাধিকার ও অন্তর্ভুক্তিমূলক অংশগ্রহণ
+<a id="৫-ভোটার-তালিকা-ভোটাধিকার-ও-অন্তর্ভুক্তিমূলক-অংশগ্রহণ"></a>
+### ভোটার তালিকা, ভোটাধিকার ও অন্তর্ভুক্তিমূলক অংশগ্রহণ
 
 ভোটার তালিকা একটি প্রশাসনিক তালিকা হলেও এর রাজনৈতিক গুরুত্ব মৌলিক: কে ভোট দিতে পারবেন, কোন এলাকায় ভোট দেবেন এবং নির্বাচনে অংশগ্রহণের সুযোগ কতটা সমান—এসব প্রশ্ন এর সঙ্গে যুক্ত। ভোটার নিবন্ধনের কাজকে গোপনীয়তা, সঠিকতা, সহজ সংশোধন ও ন্যায্য আপিলের সঙ্গে যুক্ত রাখতে হয়।
 
-### ৫.১ ভোটার তালিকার গুণগত মানের চারটি মানদণ্ড
+<a id="৫১-ভোটার-তালিকার-গুণগত-মানের-চারটি-মানদণ্ড"></a>
+<a id="১-ভোটার-তালিকার-গুণগত-মানের-চারটি-মানদণ্ড"></a>
+#### ভোটার তালিকার গুণগত মানের চারটি মানদণ্ড
 
 | মানদণ্ড | অর্থ | ঝুঁকি হলে কী হতে পারে |
 |---|---|---|
@@ -377,11 +257,15 @@ BCS Written Bangladesh Affairs একটি ২০০ নম্বরের comp
 | Currency | মৃত্যু, স্থানান্তর ও সংশোধন সময়মতো হালনাগাদ | পুরোনো তথ্য |
 | Accessibility | ভোটার সহজে তালিকা যাচাই/সংশোধন করতে পারেন | দরিদ্র, প্রবীণ, প্রতিবন্ধী বা দূরবর্তী এলাকার মানুষের বাধা |
 
-### ৫.২ ভোটাধিকার ও নাগরিক দায়িত্ব
+<a id="৫২-ভোটাধিকার-ও-নাগরিক-দায়িত্ব"></a>
+<a id="২-ভোটাধিকার-ও-নাগরিক-দায়িত্ব"></a>
+#### ভোটাধিকার ও নাগরিক দায়িত্ব
 
 ভোটাধিকার নাগরিকের রাজনৈতিক অংশগ্রহণের গুরুত্বপূর্ণ মাধ্যম। তবে শুধু ভোটকেন্দ্রে উপস্থিত হওয়াই অংশগ্রহণের পূর্ণ রূপ নয়। নির্ভরযোগ্য তথ্য জানা, প্রার্থীর নীতি ও হলফনামা পড়া, গুজব যাচাই, শান্তিপূর্ণ রাজনৈতিক মতপ্রকাশ, অনিয়মের আইনসম্মত অভিযোগ এবং ফলাফলের জবাবদিহি চাওয়াও গণতান্ত্রিক সংস্কৃতির অংশ।
 
-### ৫.৩ অন্তর্ভুক্তিমূলক ভোটার সেবা
+<a id="৫৩-অন্তর্ভুক্তিমূলক-ভোটার-সেবা"></a>
+<a id="৩-অন্তর্ভুক্তিমূলক-ভোটার-সেবা"></a>
+#### অন্তর্ভুক্তিমূলক ভোটার সেবা
 
 - ভোটকেন্দ্রে শারীরিক প্রবেশগম্যতা ও সহায়ক ব্যবস্থা।
 - ভোটের নিয়ম সহজ ভাষায় এবং প্রয়োজনীয় ফরম্যাটে প্রকাশ।
@@ -395,25 +279,35 @@ BCS Written Bangladesh Affairs একটি ২০০ নম্বরের comp
 
 ---
 
+<a id="core-06"></a>
 <a id="delimitation"></a>
 
-## ৬. নির্বাচনী সীমানা, মনোনয়ন ও রাজনৈতিক দলের নিবন্ধন
+<a id="৬-নির্বাচনী-সীমানা-মনোনয়ন-ও-রাজনৈতিক-দলের-নিবন্ধন"></a>
+### নির্বাচনী সীমানা, মনোনয়ন ও রাজনৈতিক দলের নিবন্ধন
 
-### ৬.১ নির্বাচনী এলাকার সীমানা নির্ধারণ
+<a id="৬১-নির্বাচনী-এলাকার-সীমানা-নির্ধারণ"></a>
+<a id="১-নির্বাচনী-এলাকার-সীমানা-নির্ধারণ"></a>
+#### নির্বাচনী এলাকার সীমানা নির্ধারণ
 
 Delimitation-এর লক্ষ্য হলো আইনসম্মত, যুক্তিসংগত ও প্রতিনিধিত্বমূলক নির্বাচনী এলাকার সীমানা নির্ধারণ। জনসংখ্যার পরিবর্তন, ভৌগোলিক ধারাবাহিকতা, যোগাযোগ, প্রশাসনিক সীমানা এবং প্রযোজ্য আইন বিবেচ্য হতে পারে। সীমানা নির্ধারণে অস্বচ্ছতা বা পক্ষপাতের ধারণা তৈরি হলে ভোটের সমতা ও রাজনৈতিক আস্থা ক্ষতিগ্রস্ত হয়।
 
 **একটি ভালো বিশ্লেষণে থাকবে:** আইনি ভিত্তি → তথ্যের মান → সীমানার যুক্তি → জনশুনানি/অভিযোগের সুযোগ যেখানে প্রযোজ্য → সিদ্ধান্তের ব্যাখ্যা → আইনসম্মত পর্যালোচনা।
 
-### ৬.২ মনোনয়ন ও যাচাই
+<a id="৬২-মনোনয়ন-ও-যাচাই"></a>
+<a id="২-মনোনয়ন-ও-যাচাই"></a>
+#### মনোনয়ন ও যাচাই
 
 প্রার্থী মনোনয়নে নির্ধারিত ফরম, জামানত, হলফনামা, প্রয়োজনীয় নথি এবং আইনগত যোগ্যতা গুরুত্বপূর্ণ। রিটার্নিং কর্মকর্তা মনোনয়নপত্র যাচাই করেন; সিদ্ধান্তে অসন্তুষ্ট পক্ষের জন্য RPO-তে নির্ধারিত আপিলের পথ থাকতে পারে। নির্দিষ্ট সময়সীমা ও যোগ্যতা লিখতে হলে সর্বশেষ সংশোধিত আইনের পাঠ ব্যবহার করুন।
 
-### ৬.৩ রাজনৈতিক দলের নিবন্ধন
+<a id="৬৩-রাজনৈতিক-দলের-নিবন্ধন"></a>
+<a id="৩-রাজনৈতিক-দলের-নিবন্ধন"></a>
+#### রাজনৈতিক দলের নিবন্ধন
 
 দল নিবন্ধন নির্বাচনী প্রতিযোগিতায় অংশগ্রহণের আইনগত কাঠামোর অংশ। নিবন্ধনের মানদণ্ড স্বচ্ছ, পূর্বঘোষিত, সকল দলের জন্য সমান এবং আইনসম্মতভাবে প্রয়োগ করা জরুরি। নিবন্ধন-প্রক্রিয়ার স্বচ্ছতা রাজনৈতিক বহুত্ববাদ ও জনআস্থাকে প্রভাবিত করে।
 
-### ৬.৪ নির্বাচনী অর্থায়ন
+<a id="৬৪-নির্বাচনী-অর্থায়ন"></a>
+<a id="৪-নির্বাচনী-অর্থায়ন"></a>
+#### নির্বাচনী অর্থায়ন
 
 প্রচার ব্যয় ও অনুদানের নিয়মের উদ্দেশ্য হলো অর্থের অস্বচ্ছ প্রভাব, ভোট কেনাবেচা এবং অসম প্রতিযোগিতার ঝুঁকি কমানো। কার্যকর ব্যবস্থা হিসেবে প্রয়োজন:
 - আয় ও ব্যয়ের নির্ধারিত হিসাব;
@@ -425,7 +319,9 @@ Delimitation-এর লক্ষ্য হলো আইনসম্মত, য�
 
 International IDEA-র বিশ্লেষণ অনুযায়ী, যথাযথ নিয়ন্ত্রণ না থাকলে রাজনৈতিক অর্থায়ন নির্বাচনী প্রক্রিয়া ও প্রতিষ্ঠানের সততাকে দুর্বল করতে পারে। [International IDEA — Money in Politics](https://www.idea.int/theme/money-politics)
 
-### ৬.৫ নির্বাচনী পদ্ধতি: FPTP, PR ও বাংলাদেশের ব্যবস্থা
+<a id="৬৫-নির্বাচনী-পদ্ধতি-fptp-pr-ও-বাংলাদেশের-ব্যবস্থা"></a>
+<a id="৫-নির্বাচনী-পদ্ধতি-fptp-pr-ও-বাংলাদেশের-ব্যবস্থা"></a>
+#### নির্বাচনী পদ্ধতি: FPTP, PR ও বাংলাদেশের ব্যবস্থা
 
 ![নির্বাচনী পদ্ধতির তুলনা](./assets/electoral-system-comparison.svg)
 
@@ -443,15 +339,19 @@ International IDEA-র বিশ্লেষণ অনুযায়ী, যথা
 
 ---
 
+<a id="core-07"></a>
 <a id="election-cycle"></a>
 
-## ৭. নির্বাচন পরিচালনার ধাপ: তফসিল থেকে ফলাফল
+<a id="৭-নির্বাচন-পরিচালনার-ধাপ-তফসিল-থেকে-ফলাফল"></a>
+### নির্বাচন পরিচালনার ধাপ: তফসিল থেকে ফলাফল
 
 ![নির্বাচনী প্রক্রিয়ার ধাপ](./assets/election-cycle.svg)
 
 একটি নির্বাচনকে এক দিনের ঘটনা হিসেবে নয়, ধারাবাহিক প্রশাসনিক প্রক্রিয়া হিসেবে বুঝতে হবে। প্রক্রিয়ার কোনো এক ধাপে অনিয়ম হলে পরবর্তী ধাপগুলোর ওপরও তার প্রভাব পড়তে পারে।
 
-### ৭.১ নির্বাচন-পূর্ব ধাপ
+<a id="৭১-নির্বাচন-পূর্ব-ধাপ"></a>
+<a id="১-নির্বাচন-পূর্ব-ধাপ"></a>
+#### নির্বাচন-পূর্ব ধাপ
 
 1. প্রযোজ্য আইন, নিয়ম ও নির্বাচনকালীন নির্দেশনা নির্ধারণ।
 2. ভোটার তালিকা ও নির্বাচনী এলাকার তথ্য যাচাই।
@@ -462,7 +362,9 @@ International IDEA-র বিশ্লেষণ অনুযায়ী, যথা
 7. আচরণবিধি, প্রচার ব্যয় ও ভোটার-তথ্য প্রচার।
 8. পর্যবেক্ষক ও গণমাধ্যমের প্রবেশাধিকার বিষয়ে নিয়ম প্রয়োগ।
 
-### ৭.২ ভোটগ্রহণের দিন
+<a id="৭২-ভোটগ্রহণের-দিন"></a>
+<a id="২-ভোটগ্রহণের-দিন"></a>
+#### ভোটগ্রহণের দিন
 
 - ভোটকেন্দ্র সময়মতো প্রস্তুত ও খোলা;
 - ভোটারের পরিচয় ও তালিকা যাচাই;
@@ -472,11 +374,15 @@ International IDEA-র বিশ্লেষণ অনুযায়ী, যথা
 - অনিয়ম, বাধা বা ব্যালটের ক্ষতি হলে আইন অনুযায়ী রিপোর্ট ও প্রয়োজনীয় ব্যবস্থা;
 - ভোটগ্রহণ শেষে ব্যালট ও নথির হিসাব মিলানো।
 
-### ৭.৩ গণনা ও ফল প্রকাশ
+<a id="৭৩-গণনা-ও-ফল-প্রকাশ"></a>
+<a id="৩-গণনা-ও-ফল-প্রকাশ"></a>
+#### গণনা ও ফল প্রকাশ
 
 গণনায় স্বচ্ছ পদ্ধতি, ব্যালটের সঠিক শ্রেণিবিন্যাস, প্রার্থীদের/এজেন্টদের প্রযোজ্য উপস্থিতির সুযোগ, গণনার রেকর্ড, ফল একীভূতকরণ এবং ফল প্রকাশ গুরুত্বপূর্ণ। গণনায় বিরোধ বা অনিয়মের অভিযোগ থাকলে নির্ধারিত আইনগত পদ্ধতি অনুসরণ করতে হয়।
 
-### ৭.৪ নির্বাচন-পরবর্তী ধাপ
+<a id="৭৪-নির্বাচন-পরবর্তী-ধাপ"></a>
+<a id="৪-নির্বাচন-পরবর্তী-ধাপ"></a>
+#### নির্বাচন-পরবর্তী ধাপ
 
 - ফলাফল ও প্রাসঙ্গিক নথি সংরক্ষণ;
 - ব্যয় ও হলফনামার নিয়ম অনুযায়ী প্রতিবেদন;
@@ -484,18 +390,24 @@ International IDEA-র বিশ্লেষণ অনুযায়ী, যথা
 - প্রশাসনিক মূল্যায়ন এবং শেখা বিষয় নথিবদ্ধ করা;
 - পরবর্তী নির্বাচনের জন্য লজিস্টিক, প্রশিক্ষণ ও আইন প্রয়োগের উন্নয়ন।
 
-**Memory code:** **L–R–N–C–P–V–C–R**  
+**Memory code:** **L–R–N–C–P–V–C–R**\
 Law → Roll → Nomination → Campaign → Polling → Verification/count → Result → Review.
 
 ---
 
+<a id="core-08"></a>
 <a id="law-update"></a>
 
-## ৮. নির্বাচন আইন ও ২০২৬ সালের গুরুত্বপূর্ণ সংশোধন
+<a id="৮-নির্বাচন-আইন-ও-২০২৬-সালের-গুরুত্বপূর্ণ-সংশোধন"></a>
+### নির্বাচন আইন ও ২০২৬ সালের গুরুত্বপূর্ণ সংশোধন
+
+> **স্বতন্ত্র যাচাই বাকি:** নিচের সংশোধনী-সারাংশের মূল আইনপাতা এই দফায় HTTP 503 ফেরত দিয়েছে। “No Vote”, EVM বা অন্য নির্দিষ্ট বিধানকে বর্তমান চূড়ান্ত আইন হিসেবে লেখার আগে মূল আইন ও পরবর্তী সংশোধন যাচাই করুন। [যাচাইয়ের অবস্থা](../SOURCE-AUDIT.md)।
 
 বাংলাদেশের সংসদ নির্বাচনের জন্য গুরুত্বপূর্ণ আইন হলো Representation of the People Order, 1972 (RPO), যা পরবর্তী আইন ও সংশোধনীর মাধ্যমে পরিবর্তিত হয়েছে। ভোটার তালিকার জন্য Electoral Rolls Act, 2009-ও গুরুত্বপূর্ণ। পরীক্ষার আগে পুরোনো গাইডের সঙ্গে বর্তমান সরকারি আইন মিলিয়ে নেওয়া জরুরি। [RPO 1972](https://bdlaws.minlaw.gov.bd/act-print-424.html) · [RPO Amendment Act 2026](https://bdlaws.minlaw.gov.bd/act-print-1632.html)
 
-### ৮.১ ২০২৬ সালের সংশোধনী থেকে যে বিষয়গুলো পড়বেন
+<a id="৮১-২০২৬-সালের-সংশোধনী-থেকে-যে-বিষয়গুলো-পড়বেন"></a>
+<a id="১-২০২৬-সালের-সংশোধনী-থেকে-যে-বিষয়গুলো-পড়বেন"></a>
+#### ২০২৬ সালের সংশোধনী থেকে যে বিষয়গুলো পড়বেন
 
 | বিষয় | ২০২৬ সালের সংশোধনীতে কী দেখা যায় | পরীক্ষায় কীভাবে ব্যবহার করবেন |
 |---|---|---|
@@ -509,7 +421,9 @@ Law → Roll → Nomination → Campaign → Polling → Verification/count → 
 
 **সতর্কতা:** এই সারণি ১০ এপ্রিল ২০২৬-এর Representation of the People (Amendment) Act, 2026-এর পাঠের সারাংশ। আইন প্রয়োগ, বিধি, পরবর্তী সংশোধনী ও কমিশনের সার্কুলার পরিবর্তিত হতে পারে। নির্দিষ্ট ধারার ভাষা বা শাস্তি উদ্ধৃত করার আগে [সরকারি আইনপাঠ](https://bdlaws.minlaw.gov.bd/act-print-1632.html) এবং [বাংলাদেশ নির্বাচন কমিশন](https://ecs.gov.bd/) দেখুন।
 
-### ৮.২ “No Vote” ব্যবস্থা নিয়ে উত্তর লেখার কাঠামো
+<a id="৮২-no-vote-ব্যবস্থা-নিয়ে-উত্তর-লেখার-কাঠামো"></a>
+<a id="২-no-vote-ব্যবস্থা-নিয়ে-উত্তর-লেখার-কাঠামো"></a>
+#### “No Vote” ব্যবস্থা নিয়ে উত্তর লেখার কাঠামো
 
 **সংজ্ঞা:** নির্দিষ্ট আইনি পরিস্থিতিতে যখন যাচাইয়ের পর বা প্রত্যাহারের পর একজন প্রার্থীই অবশিষ্ট থাকেন, সংশোধিত RPO-তে সেই প্রার্থী ও “No Vote” বিকল্পের মধ্যে ভোটের ব্যবস্থা করা হয়েছে।
 
@@ -517,15 +431,19 @@ Law → Roll → Nomination → Campaign → Polling → Verification/count → 
 
 ---
 
+<a id="core-09"></a>
 <a id="integrity"></a>
 
-## ৯. নির্বাচনী সততা, চ্যালেঞ্জ ও প্রতিকার
+<a id="৯-নির্বাচনী-সততা-চ্যালেঞ্জ-ও-প্রতিকার"></a>
+### নির্বাচনী সততা, চ্যালেঞ্জ ও প্রতিকার
 
 ![নির্বাচনী সততার প্রধান স্তম্ভ](./assets/election-integrity.svg)
 
 Free and fair election-এর মূল্যায়ন শুধু ভোটের সংখ্যা বা ভোটকেন্দ্র খোলা থাকার ওপর নির্ভর করে না। ভোটার স্বাধীনভাবে সিদ্ধান্ত নিতে পেরেছেন কি না, প্রার্থীরা ন্যায্য প্রতিযোগিতার সুযোগ পেয়েছেন কি না, প্রশাসন নিরপেক্ষ ছিল কি না, গণনা যাচাইযোগ্য কি না এবং অভিযোগের কার্যকর প্রতিকার ছিল কি না—এসবও গুরুত্বপূর্ণ। [International IDEA — International Electoral Standards](https://www.idea.int/publications/catalogue/international-electoral-standards-guidelines-reviewing-legal-framework)
 
-### ৯.১ প্রধান চ্যালেঞ্জ
+<a id="৯১-প্রধান-চ্যালেঞ্জ"></a>
+<a id="১-প্রধান-চ্যালেঞ্জ"></a>
+#### প্রধান চ্যালেঞ্জ
 
 | চ্যালেঞ্জ | কীভাবে সততা ক্ষতিগ্রস্ত হয় | সম্ভাব্য প্রতিকার |
 |---|---|---|
@@ -540,7 +458,9 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 | নারী ও প্রান্তিক ভোটারের বাধা | অংশগ্রহণে বৈষম্য তৈরি হয় | নিরাপত্তা, প্রবেশগম্যতা, তথ্য ও অভিযোগসেবা |
 | প্রচার ব্যয়ের অস্বচ্ছতা | বড় অর্থের প্রভাব ও অসম প্রতিযোগিতা | আয়-ব্যয়ের প্রতিবেদন, প্রকাশ, নিরীক্ষা ও শাস্তির সমান প্রয়োগ |
 
-### ৯.২ নির্বাচনকে কীভাবে মূল্যায়ন করবেন?
+<a id="৯২-নির্বাচনকে-কীভাবে-মূল্যায়ন-করবেন"></a>
+<a id="২-নির্বাচনকে-কীভাবে-মূল্যায়ন-করবেন"></a>
+#### নির্বাচনকে কীভাবে মূল্যায়ন করবেন?
 
 একটি ভালো analytical answer পাঁচটি মানদণ্ড ব্যবহার করতে পারে:
 
@@ -552,7 +472,9 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 কোনো একটি সূচক দিয়ে পুরো নির্বাচনের মান ঘোষণা করবেন না। প্রমাণ, সময়সীমা, উৎস এবং সীমাবদ্ধতা উল্লেখ করে সিদ্ধান্ত দিন।
 
-### ৯.৩ সংস্কারের অগ্রাধিকার
+<a id="৯৩-সংস্কারের-অগ্রাধিকার"></a>
+<a id="৩-সংস্কারের-অগ্রাধিকার"></a>
+#### সংস্কারের অগ্রাধিকার
 
 - কমিশনের প্রাতিষ্ঠানিক স্বাধীনতা ও প্রশাসনিক সক্ষমতা কার্যকর করা;
 - ভোটার তালিকা যাচাই, সংশোধন ও অভিযোগের সুযোগ সহজ করা;
@@ -567,13 +489,17 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 ---
 
+<a id="core-10"></a>
 <a id="technology"></a>
 
-## ১০. নির্বাচনে প্রযুক্তি, গণমাধ্যম ও তথ্যের সততা
+<a id="১০-নির্বাচনে-প্রযুক্তি-গণমাধ্যম-ও-তথ্যের-সততা"></a>
+### নির্বাচনে প্রযুক্তি, গণমাধ্যম ও তথ্যের সততা
 
 প্রযুক্তি ভোটার নিবন্ধন, তথ্য প্রকাশ, ফল ব্যবস্থাপনা, অভিযোগ গ্রহণ ও নাগরিক যোগাযোগকে দ্রুত করতে পারে। কিন্তু প্রযুক্তি নিজে নিরপেক্ষতা বা নির্ভুলতার নিশ্চয়তা দেয় না। ভুল ডেটা, দুর্বল সাইবার নিরাপত্তা, ডিজিটাল বিভাজন, ব্যক্তিগত তথ্যের অপব্যবহার, গুজব এবং অস্বচ্ছ algorithmic decision—এসব ঝুঁকিও আছে।
 
-### ১০.১ প্রযুক্তির সম্ভাবনা ও ঝুঁকি
+<a id="১০১-প্রযুক্তির-সম্ভাবনা-ও-ঝুঁকি"></a>
+<a id="১-প্রযুক্তির-সম্ভাবনা-ও-ঝুঁকি"></a>
+#### প্রযুক্তির সম্ভাবনা ও ঝুঁকি
 
 | প্রয়োগ | সম্ভাব্য সুবিধা | ঝুঁকি ও সুরক্ষা |
 |---|---|---|
@@ -584,7 +510,9 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 | ডিজিটাল postal ballot workflow | যোগ্য ভোটারের অংশগ্রহণ সহজ করা | পরিচয় যাচাই, গোপনীয়তা, ballot tracking ও সময়সীমা |
 | তথ্য বিশ্লেষণ | লজিস্টিক পরিকল্পনা ও ঝুঁকি শনাক্ত | পক্ষপাতদুষ্ট ডেটা, অতিরিক্ত নজরদারি ও ভুল অনুমান |
 
-### ১০.২ গণমাধ্যমের ভূমিকা
+<a id="১০২-গণমাধ্যমের-ভূমিকা"></a>
+<a id="২-গণমাধ্যমের-ভূমিকা"></a>
+#### গণমাধ্যমের ভূমিকা
 
 - নির্বাচন কমিশনের আনুষ্ঠানিক ঘোষণা ও আইনি নথি যাচাই করে প্রকাশ;
 - প্রার্থী ও দলের বক্তব্যের সঙ্গে তথ্যের সত্যতা যাচাই;
@@ -593,31 +521,43 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 - নির্বাচনী সহিংসতা বা অনিয়মের রিপোর্টে ব্যক্তিগত নিরাপত্তা ও গোপনীয়তা রক্ষা;
 - ফলাফল সম্পর্কে প্রাথমিক/অসম্পূর্ণ তথ্যকে চূড়ান্ত বলে উপস্থাপন না করা।
 
-### ১০.৩ AI-উৎপাদিত মিথ্যা কনটেন্ট
+<a id="১০৩-ai-উৎপাদিত-মিথ্যা-কনটেন্ট"></a>
+<a id="৩-ai-উৎপাদিত-মিথ্যা-কনটেন্ট"></a>
+#### AI-উৎপাদিত মিথ্যা কনটেন্ট
 
 ২০২৬ সালের সংশোধিত RPO-তে নির্দিষ্ট নির্বাচনী সময়কালে নির্বাচনী সততা বা ফলকে প্রভাবিত করার উদ্দেশ্যে মিথ্যা বা বিভ্রান্তিকর কনটেন্ট, synthetic media বা automated bot ব্যবহারের বিষয়ে বিধান যুক্ত হয়েছে। তবে সব AI-তৈরি কনটেন্ট নিজে থেকেই বেআইনি—এমন সাধারণীকরণ করা ঠিক নয়; প্রযোজ্য আইনের ভাষা, উদ্দেশ্য, সময়সীমা ও নির্দিষ্ট পরিস্থিতি বিবেচ্য। [RPO Amendment Act 2026](https://bdlaws.minlaw.gov.bd/act-print-1632.html)
 
 ---
 
+<a id="core-11"></a>
 <a id="inclusion"></a>
 
-## ১১. নারী, তরুণ, সংখ্যালঘু ও প্রতিবন্ধী ভোটারের অংশগ্রহণ
+<a id="১১-নারী-তরুণ-সংখ্যালঘু-ও-প্রতিবন্ধী-ভোটারের-অংশগ্রহণ"></a>
+### নারী, তরুণ, সংখ্যালঘু ও প্রতিবন্ধী ভোটারের অংশগ্রহণ
 
 অন্তর্ভুক্তিমূলক নির্বাচন মানে প্রত্যেক নাগরিকের রাজনৈতিক অধিকারকে বাস্তবে প্রয়োগের সুযোগ দেওয়া। আইনগত অধিকার থাকা সত্ত্বেও নিরাপত্তা, যাতায়াত, তথ্যের অভাব, সামাজিক বাধা, পরিচয়পত্র-সংক্রান্ত সমস্যা বা শারীরিক প্রবেশগম্যতার অভাবে কেউ অংশ নিতে না পারলে গণতান্ত্রিক অংশগ্রহণ অসম্পূর্ণ থাকে।
 
-### ১১.১ নারী ও প্রতিনিধিত্ব
+<a id="১১১-নারী-ও-প্রতিনিধিত্ব"></a>
+<a id="১-নারী-ও-প্রতিনিধিত্ব"></a>
+#### নারী ও প্রতিনিধিত্ব
 
 নারীর ভোটার হিসেবে অংশগ্রহণ এবং নির্বাচিত প্রতিনিধি হিসেবে অংশগ্রহণ দুটি সম্পর্কিত কিন্তু আলাদা বিষয়। নারীর নিরাপত্তা, প্রচারে সমান সুযোগ, অর্থায়ন, দলীয় মনোনয়ন, হয়রানি প্রতিরোধ এবং নেতৃত্বের বিকাশকে একসঙ্গে দেখতে হবে। শুধু সংরক্ষিত আসনের সংখ্যা দিয়ে রাজনৈতিক প্রতিনিধিত্বের সব দিক মূল্যায়ন করা যায় না।
 
-### ১১.২ তরুণ ভোটার
+<a id="১১২-তরুণ-ভোটার"></a>
+<a id="২-তরুণ-ভোটার"></a>
+#### তরুণ ভোটার
 
 তরুণ ভোটারদের জন্য নাগরিক শিক্ষা, প্রার্থীর নীতি তুলনা, তথ্য যাচাই, রাজনৈতিক সহনশীলতা এবং শান্তিপূর্ণ অংশগ্রহণ গুরুত্বপূর্ণ। অনলাইনে সক্রিয়তা ভোটার-সচেতনতা বাড়াতে পারে; আবার ভুল তথ্য ও আবেগনির্ভর প্রচারও দ্রুত ছড়াতে পারে। তাই media literacy এবং civic education সমান জরুরি।
 
-### ১১.৩ সংখ্যালঘু ও প্রান্তিক জনগোষ্ঠী
+<a id="১১৩-সংখ্যালঘু-ও-প্রান্তিক-জনগোষ্ঠী"></a>
+<a id="৩-সংখ্যালঘু-ও-প্রান্তিক-জনগোষ্ঠী"></a>
+#### সংখ্যালঘু ও প্রান্তিক জনগোষ্ঠী
 
 নির্বাচনী পরিবেশে ভয়ভীতি, বৈষম্য বা নিরাপত্তাহীনতা কোনো গোষ্ঠীর অংশগ্রহণ কমিয়ে দিতে পারে। প্রতিকার হিসেবে অভিযোগের নিরাপদ পথ, নিরপেক্ষ নিরাপত্তা, তথ্যের সহজলভ্যতা এবং আইন প্রয়োগের সমতা প্রয়োজন। “অন্তর্ভুক্তি”কে প্রতীকী প্রচার নয়, বাস্তব বাধা কমানোর মাধ্যমে মূল্যায়ন করা উচিত।
 
-### ১১.৪ প্রতিবন্ধী ও দূরবর্তী এলাকার ভোটার
+<a id="১১৪-প্রতিবন্ধী-ও-দূরবর্তী-এলাকার-ভোটার"></a>
+<a id="৪-প্রতিবন্ধী-ও-দূরবর্তী-এলাকার-ভোটার"></a>
+#### প্রতিবন্ধী ও দূরবর্তী এলাকার ভোটার
 
 ভোটকেন্দ্রে প্রবেশগম্যতা, উপযুক্ত নির্দেশনা, সহায়তার আইনসম্মত ব্যবস্থা, সহজ ভাষায় তথ্য এবং দুর্গম অঞ্চলের পরিবহন-লজিস্টিক পরিকল্পনা অংশগ্রহণ বাড়াতে পারে। সহায়তার পদ্ধতি এমন হওয়া দরকার যাতে ভোটের গোপনীয়তা ও ভোটারের স্বাধীন সিদ্ধান্ত অক্ষুণ্ণ থাকে।
 
@@ -625,13 +565,15 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 ---
 
+<a id="core-12"></a>
 <a id="disputes"></a>
 
-## ১২. নির্বাচনী বিরোধ, অভিযোগ ও জবাবদিহি
+<a id="১২-নির্বাচনী-বিরোধ-অভিযোগ-ও-জবাবদিহি"></a>
+### নির্বাচনী বিরোধ, অভিযোগ ও জবাবদিহি
 
 নির্বাচনী অভিযোগের ব্যবস্থা এমন হতে হবে যাতে অভিযোগ জমা দেওয়া সম্ভব, প্রমাণ সংরক্ষণ করা যায়, সংশ্লিষ্ট পক্ষের বক্তব্য শোনা হয় এবং আইনের নির্ধারিত পদ্ধতিতে সিদ্ধান্ত আসে। নির্বাচনী বিরোধের ক্ষেত্রে সংবিধানের ১২৫ অনুচ্ছেদ এবং RPO-র প্রাসঙ্গিক বিধান গুরুত্বপূর্ণ। [Article 125](https://bdlaws.minlaw.gov.bd/act-367/section-24684.html)
 
-### অভিযোগের কার্যকর ব্যবস্থার উপাদান
+#### অভিযোগের কার্যকর ব্যবস্থার উপাদান
 
 1. অভিযোগের ধরন ও দায়িত্বপ্রাপ্ত কর্তৃপক্ষ স্পষ্ট করা।
 2. সময়মতো জমা দেওয়ার নিয়ম প্রকাশ করা।
@@ -643,15 +585,50 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 **Exam point:** অভিযোগের সংখ্যা বেশি মানেই সব অভিযোগ সত্য নয়; আবার অভিযোগ কম মানেই অনিয়ম নেই—এমনও নয়। অভিযোগের প্রবেশগম্যতা, নথির মান, তদন্ত, নিষ্পত্তি এবং ফলের ওপর তার প্রভাব আলাদাভাবে বিচার করতে হবে।
 
+[বিষয়সূচিতে ফিরুন](#top)
+
+<a id="core-analysis"></a>
+### নির্বাচনী প্রচারণা, পর্যবেক্ষণ ও প্রমাণের মূল্যায়ন
+
+#### নির্বাচনের মান শুধু ভোটের দিনের প্রশ্ন নয়
+
+ভোটার তালিকা, সীমানা, প্রার্থী হওয়ার সুযোগ, প্রচারণা, ভোটগ্রহণ, গণনা, ফল প্রকাশ এবং অভিযোগ নিষ্পত্তি—প্রতিটি পর্যায়ের তথ্য প্রয়োজন। সরকারি সিলেবাসে নির্বাচন কমিশন, electoral law ও RPO-এর পাশাপাশি **campaigns** এবং **election observation teams** সরাসরি আছে। [BPSC, বিষয় ১১, পৃষ্ঠা ৬](../SYLLABUS-COVERAGE.md#official-scope)।
+
+| পর্যবেক্ষণের ক্ষেত্র | কী দেখবেন | কোন তথ্য দিয়ে সমর্থন করবেন |
+|---|---|---|
+| প্রচারণায় সুযোগ | সভা, প্রচার, সংবাদে উপস্থিতি ও নিরাপত্তার সুযোগ | সময় ও স্থানসহ নথিভুক্ত পর্যবেক্ষণ |
+| ব্যয় ও অর্থায়ন | ঘোষিত ব্যয় ও প্রচারণার বাস্তব কার্যক্রমের সম্পর্ক | প্রযোজ্য আইন, দাখিলকৃত হিসাব ও যাচাইযোগ্য রেকর্ড |
+| অংশগ্রহণ | নারী, প্রতিবন্ধী ব্যক্তি ও প্রান্তিক ভোটারের বাধা | প্রবেশগম্যতা, সহায়তা ও অভিযোগের তথ্য |
+| ভোট ও গণনা | নিয়ম মানা, নথি সংরক্ষণ ও ফলের সামঞ্জস্য | পর্যবেক্ষণপত্র, গণনার রেকর্ড ও প্রযোজ্য বিধি |
+| প্রতিকার | অভিযোগ গ্রহণ, সিদ্ধান্ত ও বাস্তব প্রতিকার | অভিযোগের সংখ্যা ছাড়াও নিষ্পত্তির ধরন ও সময় |
+
+সারণিটি সম্পাদকীয় মূল্যায়ন-কাঠামো; কোনো নির্দিষ্ট নির্বাচনের ফল সম্পর্কে সিদ্ধান্ত নয়। কার্যকর, জবাবদিহিমূলক প্রতিষ্ঠান ও অন্তর্ভুক্তিমূলক সিদ্ধান্তের আন্তর্জাতিক লক্ষ্য: [UNDP, SDG 16, targets 16.6–16.7](https://www.undp.org/sustainable-development-goals/peace-justice-and-strong-institutions)।
+
+#### পর্যবেক্ষক, নির্বাচন পরিচালনাকারী ও বিচারকারী আলাদা
+
+পর্যবেক্ষক তথ্য সংগ্রহ ও মূল্যায়ন করেন; তাঁর পর্যবেক্ষণকে নির্বাচন কমিশন বা আদালতের আইনগত সিদ্ধান্তের সঙ্গে এক করা যায় না। কোনো প্রতিবেদন মূল্যায়ন করতে দলের পরিচয়, পদ্ধতি, পর্যবেক্ষিত কেন্দ্রের পরিধি, নমুনা নির্বাচন, সীমাবদ্ধতা এবং প্রকাশিত প্রমাণ দেখুন। সীমিত কিছু কেন্দ্রে পর্যবেক্ষণ থেকে সারা দেশের বিষয়ে অনিশ্চয়তাহীন সিদ্ধান্ত টানা যুক্তিসংগত নয়।
+
+**আইন ব্যবহারের সীমা:** অধ্যায়ে উল্লিখিত ২০২৬ সালের RPO সংশোধন, “No Vote” ও প্রযুক্তি-সংক্রান্ত বিধানের মূল আইনপাতা এই সম্পাদনায় 503 ফেরত দিয়েছে। **মূল উৎসে যাচাই করা সম্ভব হয়নি**; সংশ্লিষ্ট অনুচ্ছেদগুলো স্বতন্ত্র যাচাই বাকি থাকা সারাংশ হিসেবে পড়ুন। আইন কার্যকর হওয়ার সময়, বিধির ভাষা ও পরবর্তী সংশোধন না মিলিয়ে এগুলোকে বর্তমান চূড়ান্ত বিধান হিসেবে উদ্ধৃত করবেন না।
+
+
+[বিষয়সূচিতে ফিরুন](#top)
+
 ---
 
+<a id="written-practice"></a>
+## অংশ খ — লিখিত অনুশীলন
+
+**অনুশীলনের নিয়ম:** প্রথমে প্রশ্নের নির্দেশক শব্দ ও চাওয়া বিষয় নির্ধারণ করুন। এখানে দেওয়া নমুনা, সময় বা শব্দসংখ্যার পরামর্শ সম্পাদকীয় অনুশীলন; প্রশ্নপত্রের নির্দিষ্ট নির্দেশই প্রাধান্য পাবে। মূল BPSC প্রশ্নপত্রের পাঠ যাচাই ছাড়া archive-reported প্রশ্নকে যাচাইকৃত বিগত প্রশ্ন বলবেন না।
+
+<a id="practice-01"></a>
 <a id="pyq"></a>
 
-## ১৩. Previous BCS Question Analysis — বিগত প্রশ্নের থিম ও প্রস্তুতির অগ্রাধিকার
+<a id="১৩-previous-bcs-question-analysis--বিগত-প্রশ্নের-থিম-ও-প্রস্তুতির-অগ্রাধিকার"></a>
+### Previous BCS Question Analysis — বিগত প্রশ্নের থিম ও প্রস্তুতির অগ্রাধিকার
 
 ৩৫তম–৪৭তম BCS-এর year-by-year audit এখন আলাদা ফাইলে আছে: **[Open full PYQ audit](./PYQ-35TH-47TH-ANALYSIS.md)**। এতে সরাসরি নির্বাচন কমিশন/RPO প্রশ্ন, সম্পর্কিত রাজনৈতিক সংস্কৃতি/প্রতিনিধিত্বের প্রশ্ন, special BCS paper-এর সীমাবদ্ধতা এবং secondary-source caveat আলাদা করা হয়েছে।
 
-### এই অধ্যায়ের জন্য গুরুত্বপূর্ণ archive-reported clusters
+#### এই অধ্যায়ের জন্য গুরুত্বপূর্ণ archive-reported clusters
 
 | পরীক্ষা | রিপোর্ট করা প্রশ্নের থিম | প্রস্তুতির গুরুত্ব |
 |---|---|---|
@@ -666,7 +643,7 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 **৩৯তম ও ৪২তম ছিল special BCS**; এগুলোকে ordinary Bangladesh Affairs written-paper frequency-তে গণনা করা হয়নি। ৪৪তম–৪৬তমের consulted Bangladesh Affairs archives-এ সরাসরি EC/RPO প্রশ্ন নিশ্চিত করা যায়নি; ৪৬তমের “গণতান্ত্রিক রাষ্ট্র ও স্বাধীন গণমাধ্যম” রচনাটি Bangla paper-এর, Bangladesh Affairs paper-এর নয়।
 
-### Exam strategy
+#### Exam strategy
 - **প্রথমে শিখুন:** Articles 118–126, EC functions, RPO, observer role, campaign finance.
 - **এরপর অনুশীলন করুন:** free/fair election, political culture, women’s representation, dispute resolution, digital misinformation.
 - **উত্তরের কাঠামো:** legal basis → institution/process → evidence-based analysis → limitations → actionable recommendations.
@@ -676,13 +653,15 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 ---
 
+<a id="practice-02"></a>
 <a id="essays"></a>
 
-## ১৪. BCS Written-এর জন্য গুরুত্বপূর্ণ প্রবন্ধ ও Model Essays
+<a id="১৪-bcs-written-এর-জন্য-গুরুত্বপূর্ণ-প্রবন্ধ-ও-model-essays"></a>
+### BCS Written-এর জন্য গুরুত্বপূর্ণ প্রবন্ধ ও Model Essays
 
 নিচের আটটি প্রবন্ধ এই অধ্যায়ের প্রধান থিমগুলোকে একত্র করেছে। প্রতিটি প্রবন্ধে ভূমিকা, মূল বিশ্লেষণ, বাংলাদেশের প্রেক্ষাপট, করণীয় এবং উপসংহার রয়েছে। পরীক্ষায় প্রশ্নের ভাষা অনুযায়ী প্রবন্ধ ছোট বা বড় করবেন। সংবিধান ও আইনের নির্দিষ্ট তথ্যের জন্য [Source Register](#sources) দেখুন।
 
-### প্রবন্ধ ১ — বাংলাদেশে অবাধ, সুষ্ঠু ও বিশ্বাসযোগ্য নির্বাচনের পূর্বশর্ত
+#### প্রবন্ধ ১ — বাংলাদেশে অবাধ, সুষ্ঠু ও বিশ্বাসযোগ্য নির্বাচনের পূর্বশর্ত
 
 গণতন্ত্রের স্থায়িত্ব নির্ভর করে নাগরিকরা স্বাধীনভাবে প্রতিনিধি নির্বাচন করতে পারেন কি না এবং নির্বাচিত প্রতিনিধিরা জনসম্মতির ভিত্তিতে দায়িত্ব পালন করেন কি না তার ওপর। নির্বাচন কেবল ভোটগ্রহণের একটি দিন নয়; ভোটার তালিকা, প্রার্থী মনোনয়ন, প্রচার, ভোটগ্রহণ, গণনা, ফল প্রকাশ এবং অভিযোগ নিষ্পত্তির সমন্বিত প্রক্রিয়া। এই প্রতিটি ধাপে আইন, নিরপেক্ষতা ও জবাবদিহি বজায় না থাকলে নির্বাচনের বিশ্বাসযোগ্যতা দুর্বল হতে পারে।
 
@@ -694,7 +673,7 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 **Source lines:** Constitution of Bangladesh, Articles 118–126; RPO 1972 (as amended); International IDEA, *International Electoral Standards*.
 
-### প্রবন্ধ ২ — নির্বাচন কমিশনের স্বাধীনতা ও কার্যকারিতা: বাংলাদেশের প্রেক্ষাপট
+#### প্রবন্ধ ২ — নির্বাচন কমিশনের স্বাধীনতা ও কার্যকারিতা: বাংলাদেশের প্রেক্ষাপট
 
 নির্বাচন কমিশন গণতান্ত্রিক ব্যবস্থার একটি গুরুত্বপূর্ণ সাংবিধানিক প্রতিষ্ঠান। এর দায়িত্ব হলো নির্বাচনী আইন অনুযায়ী ভোটার তালিকা, নির্বাচনী এলাকার সীমানা এবং রাষ্ট্রপতি ও সংসদ নির্বাচন পরিচালনা করা। সংবিধানের ১১৮ অনুচ্ছেদ কমিশনের গঠন ও স্বাধীনতা এবং ১১৯ অনুচ্ছেদ তার প্রধান কার্যাবলি নির্ধারণ করেছে। কিন্তু আইনে স্বাধীনতার স্বীকৃতি থাকলেই কার্যকর স্বাধীনতা নিশ্চিত হয় না; এর জন্য বাস্তব সক্ষমতা ও জবাবদিহিও প্রয়োজন।
 
@@ -706,7 +685,7 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 **Source lines:** Constitution, Articles 118, 119 and 126; Bangladesh Election Commission, “About the Commission”; International IDEA, *Electoral Management Design*.
 
-### প্রবন্ধ ৩ — ভোটার তালিকার নির্ভুলতা ও সর্বজনীন ভোটাধিকার
+#### প্রবন্ধ ৩ — ভোটার তালিকার নির্ভুলতা ও সর্বজনীন ভোটাধিকার
 
 ভোটার তালিকা নির্বাচনী ব্যবস্থার ভিত্তি। কে ভোট দিতে পারবেন এবং কোন নির্বাচনী এলাকায় ভোট দেবেন, তা সঠিকভাবে নির্ধারণ না হলে সমান ভোটাধিকার বাস্তবে নিশ্চিত করা কঠিন। বাংলাদেশের সংবিধানের ১২১ অনুচ্ছেদ প্রতিটি নির্বাচনী এলাকার জন্য একটি ভোটার তালিকা এবং ধর্ম, জাত, বর্ণ বা লিঙ্গের ভিত্তিতে পৃথক বিশেষ তালিকা না করার নীতি নির্ধারণ করে। ১২২ অনুচ্ছেদ সংসদ নির্বাচনে adult franchise-এর ভিত্তি স্থাপন করে।
 
@@ -718,7 +697,7 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 **Source lines:** Constitution, Articles 121–122; Electoral Rolls Act, 2009; Bangladesh Election Commission.
 
-### প্রবন্ধ ৪ — নির্বাচনী ব্যবস্থাপনার ধাপ ও প্রশাসনিক সমন্বয়
+#### প্রবন্ধ ৪ — নির্বাচনী ব্যবস্থাপনার ধাপ ও প্রশাসনিক সমন্বয়
 
 নির্বাচনী ব্যবস্থাপনা একটি ধারাবাহিক প্রক্রিয়া, যার মধ্যে পরিকল্পনা, ভোটার তালিকা, তফসিল, মনোনয়ন, প্রচার, ভোটগ্রহণ, গণনা, ফল প্রকাশ ও বিরোধ নিষ্পত্তি অন্তর্ভুক্ত। এই ধাপগুলোর যেকোনো একটিতে গুরুতর ত্রুটি হলে পুরো প্রক্রিয়ার বিশ্বাসযোগ্যতা ক্ষতিগ্রস্ত হতে পারে। তাই নির্বাচন পরিচালনার জন্য আইনি স্পষ্টতা, সময়মতো পরিকল্পনা এবং দায়িত্বপ্রাপ্ত প্রতিষ্ঠানগুলোর সমন্বয় প্রয়োজন।
 
@@ -732,7 +711,7 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 **Source lines:** Constitution, Articles 119–126; RPO 1972 (as amended); International IDEA, *Electoral Management Design*.
 
-### প্রবন্ধ ৫ — নির্বাচনী অর্থায়ন, আচরণবিধি ও সমান প্রতিযোগিতা
+#### প্রবন্ধ ৫ — নির্বাচনী অর্থায়ন, আচরণবিধি ও সমান প্রতিযোগিতা
 
 নির্বাচনী প্রচারে অর্থের প্রয়োজন রয়েছে, কারণ প্রার্থী ও দলকে ভোটারের কাছে নীতি, কর্মসূচি ও পরিচিতি পৌঁছে দিতে হয়। কিন্তু অর্থের উৎস ও ব্যয় অস্বচ্ছ হলে বড় আর্থিক শক্তি প্রতিযোগিতায় অসম প্রভাব ফেলতে পারে। ভোট কেনাবেচা, অবৈধ অনুদান, প্রশাসনিক সম্পদের অপব্যবহার ও ব্যয়সীমা লঙ্ঘন নির্বাচনের ন্যায্যতাকে দুর্বল করতে পারে। তাই নির্বাচনী অর্থায়নকে স্বচ্ছ ও জবাবদিহিমূলক করা জরুরি।
 
@@ -744,7 +723,7 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 **Source lines:** RPO 1972 (as amended), Articles on campaign finance and conduct; Representation of the People (Amendment) Act, 2026; International IDEA, *Money in Politics*.
 
-### প্রবন্ধ ৬ — ডিজিটাল যুগে নির্বাচন: ভুল তথ্য, AI ও গণমাধ্যমের দায়িত্ব
+#### প্রবন্ধ ৬ — ডিজিটাল যুগে নির্বাচন: ভুল তথ্য, AI ও গণমাধ্যমের দায়িত্ব
 
 ডিজিটাল প্রযুক্তি নির্বাচনী তথ্য দ্রুত ছড়াতে, ভোটারকে সেবা দিতে এবং ফল প্রকাশে সহায়তা করতে পারে। কিন্তু একই প্রযুক্তি ভুয়া ছবি, পুরোনো ভিডিও, deepfake, automated bot এবং বিভ্রান্তিকর প্রচারকে দ্রুত ছড়িয়ে দিতে পারে। তাই প্রযুক্তির ব্যবহার নির্বাচনের স্বচ্ছতা বাড়াতে পারে, তবে এর জন্য নিরাপত্তা, যাচাই ও জবাবদিহির ব্যবস্থা অপরিহার্য।
 
@@ -758,7 +737,7 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 **Source lines:** RPO Amendment Act 2026; Bangladesh Election Commission; International IDEA, *Electoral Processes*; UN Guidance Note on Democracy.
 
-### প্রবন্ধ ৭ — নির্বাচনে নারী ও প্রান্তিক জনগোষ্ঠীর অর্থবহ অংশগ্রহণ
+#### প্রবন্ধ ৭ — নির্বাচনে নারী ও প্রান্তিক জনগোষ্ঠীর অর্থবহ অংশগ্রহণ
 
 গণতন্ত্রের গুণমান নির্ভর করে রাজনৈতিক প্রক্রিয়ায় কারা অংশ নিতে পারেন এবং কার কণ্ঠস্বর সিদ্ধান্তে প্রতিফলিত হয় তার ওপর। ভোটার হিসেবে অংশগ্রহণ এবং নির্বাচিত প্রতিনিধি হিসেবে অংশগ্রহণ আলাদা বিষয়। নারী, তরুণ, সংখ্যালঘু, প্রতিবন্ধী ব্যক্তি, দূরবর্তী এলাকার বাসিন্দা এবং সামাজিকভাবে প্রান্তিক জনগোষ্ঠী বিভিন্ন ধরনের বাস্তব বাধার মুখোমুখি হতে পারেন।
 
@@ -770,7 +749,7 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 **Source lines:** Constitution, Articles 121–122; UN Guidance Note on Democracy; International IDEA, *Electoral Management Design*.
 
-### প্রবন্ধ ৮ — নির্বাচনী সংস্কার, জবাবদিহি ও জনআস্থা
+#### প্রবন্ধ ৮ — নির্বাচনী সংস্কার, জবাবদিহি ও জনআস্থা
 
 নির্বাচনী সংস্কারের উদ্দেশ্য কেবল নিয়ম পরিবর্তন নয়; এমন প্রতিষ্ঠান ও প্রক্রিয়া গড়ে তোলা, যাতে ভোটার স্বাধীনভাবে সিদ্ধান্ত নিতে পারেন, প্রতিযোগিতা ন্যায্য থাকে এবং ফলাফল নিয়ে বিরোধ হলে আইনসম্মত প্রতিকার পাওয়া যায়। সংস্কারকে বাস্তব সমস্যা, প্রমাণ, সাংবিধানিক কাঠামো ও প্রশাসনিক সক্ষমতার সঙ্গে যুক্ত করতে হয়।
 
@@ -784,164 +763,203 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 ---
 
+<a id="practice-03"></a>
 <a id="model-questions"></a>
 
-## ১৫. ৩৩টি English–বাংলা Model Questions & Answers
+<a id="১৫-৩৩টি-englishবাংলা-model-questions--answers"></a>
+### ৩৩টি English–বাংলা Model Questions & Answers
 
 **ব্যবহারের নিয়ম:** প্রশ্নের English wording দেখে আগে নিজের ভাষায় উত্তর লেখার চেষ্টা করুন। নিচের উত্তরগুলো সংক্ষিপ্ত model framework; ২০ নম্বরের উত্তরে প্রয়োজন অনুযায়ী আইন, উদাহরণ, বিশ্লেষণ ও সুপারিশ যোগ করবেন। এগুলো model/practice questions, অতীতের আসল প্রশ্ন নয়—যদি না প্রশ্নের পাশে স্পষ্টভাবে archive-reported বলা থাকে।
 
-### A. সংজ্ঞা ও সাংবিধানিক ভিত্তি
+#### A. সংজ্ঞা ও সাংবিধানিক ভিত্তি
 
-#### 01. What is an election, and why is it important in a democracy? (5 marks)
+<a id="01-what-is-an-election-and-why-is-it-important-in-a-democracy-5-marks"></a>
+##### What is an election, and why is it important in a democracy? (5 marks)
 
 **Model answer:** An election is a legally regulated process through which voters choose representatives or decide on a public question. In a democracy, it provides political participation, representation and a mechanism of accountability. A credible election requires eligible voters, genuine competition, secret ballot, transparent counting and effective remedies for violations. Elections alone cannot guarantee democracy; civil liberties, rule of law and responsible institutions are also essential.
 
-#### 02. Explain the constitutional status of the Election Commission of Bangladesh. (10 marks)
+<a id="02-explain-the-constitutional-status-of-the-election-commission-of-bangladesh-10-marks"></a>
+##### Explain the constitutional status of the Election Commission of Bangladesh. (10 marks)
 
 **Model answer:** The Election Commission is a constitutional body established under Article 118 of the Constitution. Article 119 assigns it key responsibilities relating to electoral rolls, elections to Parliament and the presidency, and delimitation of parliamentary constituencies. Article 126 requires executive authorities to assist it. Its effectiveness depends on independence, professional capacity, impartial application of law, transparency and accountability. A strong answer should distinguish constitutional authority from the practical ability to carry out that authority.
 
-#### 03. Discuss the importance of Articles 118 and 119 of the Constitution. (10 marks)
+<a id="03-discuss-the-importance-of-articles-118-and-119-of-the-constitution-10-marks"></a>
+##### Discuss the importance of Articles 118 and 119 of the Constitution. (10 marks)
 
 **Model answer:** Article 118 establishes the Commission and sets out its constitutional structure, tenure and independence. Article 119 defines core functions, including electoral-roll preparation and the conduct of parliamentary and presidential elections. Together, they provide the institutional foundation for electoral administration. Their practical value depends on competent staff, adequate logistics, transparent decisions and cooperation from other public authorities. The articles should be explained as complementary: one establishes the institution, while the other defines its central mandate.
 
-#### 04. Why is Article 126 important for election administration? (5 marks)
+<a id="04-why-is-article-126-important-for-election-administration-5-marks"></a>
+##### Why is Article 126 important for election administration? (5 marks)
 
 **Model answer:** Article 126 makes it the duty of executive authorities to assist the Election Commission in carrying out its functions. Election administration requires coordination with field officials, security agencies and public services. Such assistance must support the Commission’s lawful mandate rather than undermine its independence. The article therefore connects constitutional responsibility with practical implementation.
 
-#### 05. Explain adult franchise and its significance. (5 marks)
+<a id="05-explain-adult-franchise-and-its-significance-5-marks"></a>
+##### Explain adult franchise and its significance. (5 marks)
 
 **Model answer:** Adult franchise is the principle that eligible adult citizens should have the right to participate in elections under the law. Article 122 of Bangladesh’s Constitution provides the constitutional basis for adult franchise in parliamentary elections and sets the framework for voter qualification. Its significance lies in political equality, representation and accountability. In practice, the principle requires accurate registration, accessible information and protection against unlawful exclusion.
 
-#### 06. What is an electoral roll? Why must it be accurate? (5 marks)
+<a id="06-what-is-an-electoral-roll-why-must-it-be-accurate-5-marks"></a>
+##### What is an electoral roll? Why must it be accurate? (5 marks)
 
 **Model answer:** An electoral roll is the official list of eligible registered voters for an electoral area. Accuracy is essential because errors may exclude eligible voters or create incorrect entries. A reliable roll should be accurate, complete, up to date and accessible for lawful verification and correction. Regular updating, transparent procedures and privacy protection help improve confidence in the list.
 
-#### 07. Explain constituency delimitation and its democratic importance. (10 marks)
+<a id="07-explain-constituency-delimitation-and-its-democratic-importance-10-marks"></a>
+##### Explain constituency delimitation and its democratic importance. (10 marks)
 
 **Model answer:** Constituency delimitation is the process of defining electoral boundaries under the Constitution and applicable law. It affects how voters are grouped and how representatives relate to communities. Transparent delimitation should use reliable information and apply consistent legal criteria. Unclear or apparently partisan boundaries may undermine equality and public trust. A sound process requires clear reasons, accessible information and lawful opportunities to raise objections where provided.
 
-#### 08. Compare FPTP and proportional representation with reference to Bangladesh. (10 marks)
+<a id="08-compare-fptp-and-proportional-representation-with-reference-to-bangladesh-10-marks"></a>
+##### Compare FPTP and proportional representation with reference to Bangladesh. (10 marks)
 
 **Model answer:** Under first-past-the-post (FPTP), the candidate with the highest number of votes in a single-member constituency wins; the winner does not necessarily need more than half of all votes. Proportional representation (PR) aims to relate the allocation of seats to the share of votes under a specified formula. In Bangladesh, Article 65(2) provides for direct election from 300 territorial constituencies, while Article 65(3) provides for reserved women’s seats elected by members of Parliament through proportional representation using the single transferable vote. The two arrangements should be distinguished. FPTP can strengthen a local representative link, while PR can support proportional representation; each system also has design-specific trade-offs.
 
-### B. Election process and electoral integrity
+#### B. Election process and electoral integrity
 
-#### 09. Describe the major stages of a parliamentary election. (10 marks)
+<a id="09-describe-the-major-stages-of-a-parliamentary-election-10-marks"></a>
+##### Describe the major stages of a parliamentary election. (10 marks)
 
 **Model answer:** The main stages include legal and logistical preparation, electoral-roll verification, announcement of the schedule, nomination, scrutiny and withdrawal, campaign, polling, counting, consolidation and publication of results, and post-election review or legal challenges. Each stage has specific rules and deadlines. Transparent communication, trained officials, security planning and documented decisions are essential throughout the cycle.
 
-#### 10. What are the essential conditions for a free and fair election? (10 marks)
+<a id="10-what-are-the-essential-conditions-for-a-free-and-fair-election-10-marks"></a>
+##### What are the essential conditions for a free and fair election? (10 marks)
 
 **Model answer:** Essential conditions include an impartial legal framework, an effective election-management body, accurate voter rolls, genuine competition, freedom from coercion, secret ballot, fair campaign opportunities, transparent counting, accessible observation and effective remedies. These conditions are interconnected. A technically well-organised polling day cannot compensate for systematic exclusion or a lack of meaningful competition before polling.
 
-#### 11. Assess the role of the Election Commission in ensuring electoral integrity. (20 marks)
+<a id="11-assess-the-role-of-the-election-commission-in-ensuring-electoral-integrity-20-marks"></a>
+##### Assess the role of the Election Commission in ensuring electoral integrity. (20 marks)
 
 **Model answer framework:** Begin with Articles 118–119. Explain electoral rolls, delimitation, schedule, nominations, campaign regulation, polling, counting and results. Evaluate independence, staffing, logistics, consistent enforcement and complaint handling. Discuss the need for cooperation under Article 126. Recommend transparent procedures, timely information, documented decisions, impartial law enforcement and post-election evaluation. Conclude that credibility depends on both legal authority and effective, fair implementation.
 
-#### 12. Why is secret ballot important? (5 marks)
+<a id="12-why-is-secret-ballot-important-5-marks"></a>
+##### Why is secret ballot important? (5 marks)
 
 **Model answer:** Secret ballot protects voters from pressure, retaliation and coercion by preventing others from knowing their individual choice. It helps voters make decisions independently. The secrecy of the vote must be combined with transparent and verifiable procedures for counting and reporting the aggregate result. Secrecy protects individual choice; transparency supports confidence in the overall process.
 
-#### 13. Discuss the role of political parties and candidates in credible elections. (10 marks)
+<a id="13-discuss-the-role-of-political-parties-and-candidates-in-credible-elections-10-marks"></a>
+##### Discuss the role of political parties and candidates in credible elections. (10 marks)
 
 **Model answer:** Political parties and candidates present policies, nominate representatives, mobilise voters and contribute to political debate. They also have responsibilities to follow election law, respect opponents, avoid intimidation, disclose campaign expenditure as required and refrain from disinformation or vote buying. Fair competition requires both effective regulation and responsible political conduct. Parties should promote peaceful participation and respect lawful outcomes and remedies.
 
-#### 14. What is campaign finance, and why should it be regulated? (10 marks)
+<a id="14-what-is-campaign-finance-and-why-should-it-be-regulated-10-marks"></a>
+##### What is campaign finance, and why should it be regulated? (10 marks)
 
 **Model answer:** Campaign finance refers to the money received and spent in connection with electoral campaigning. Regulation is necessary to reduce opaque funding, vote buying, excessive financial influence and unfair advantages. Effective rules require clear expenditure limits, records, disclosure, audit and equal enforcement. The objective is not to eliminate legitimate campaigning but to protect fair competition and public accountability.
 
-#### 15. Explain the role of election observers. (5 marks)
+<a id="15-explain-the-role-of-election-observers-5-marks"></a>
+##### Explain the role of election observers. (5 marks)
 
 **Model answer:** Election observers monitor relevant stages of the process according to the rules governing their accreditation and access. They may document procedures, identify concerns and provide evidence-based assessments. Observers do not replace the Election Commission or courts, and their access must respect voter secrecy and the law. Clear methodology and impartial reporting improve the usefulness of observation.
 
-#### 16. Why is transparent vote counting important? (10 marks)
+<a id="16-why-is-transparent-vote-counting-important-10-marks"></a>
+##### Why is transparent vote counting important? (10 marks)
 
 **Model answer:** Counting is the stage where individual ballots are converted into an official result. Transparent procedures, accurate ballot accounting, proper documentation and lawful access for authorised representatives help reduce disputes. Results should be consolidated and published according to law. When irregularities occur, records and established remedies are needed to investigate them fairly rather than relying on rumours.
 
-#### 17. Explain the purpose of an election petition. (5 marks)
+<a id="17-explain-the-purpose-of-an-election-petition-5-marks"></a>
+##### Explain the purpose of an election petition. (5 marks)
 
 **Model answer:** An election petition is a legal mechanism for challenging an election in the manner prescribed by law. It allows specific disputes to be assessed through evidence and lawful procedure rather than through intimidation or unsupported public claims. The applicable authority, grounds, deadline and remedy must be checked in the relevant law. Article 125 of the Constitution is a key starting point for parliamentary election disputes.
 
-### C. Problems, reform and current law
+#### C. Problems, reform and current law
 
-#### 18. Analyse the main challenges to credible elections in Bangladesh. (20 marks)
+<a id="18-analyse-the-main-challenges-to-credible-elections-in-bangladesh-20-marks"></a>
+##### Analyse the main challenges to credible elections in Bangladesh. (20 marks)
 
 **Model answer framework:** Discuss political distrust, voter-roll errors, intimidation, violence, unequal campaign resources, opaque finance, misinformation, administrative bias concerns and delayed remedies. Separate allegations from established evidence. Link each challenge to a remedy: transparent procedures, impartial enforcement, voter services, campaign-finance oversight, secure counting, accessible complaints and timely adjudication. Conclude that no single reform can solve every problem.
 
-#### 19. How can voter-roll management be improved? (10 marks)
+<a id="19-how-can-voter-roll-management-be-improved-10-marks"></a>
+##### How can voter-roll management be improved? (10 marks)
 
 **Model answer:** Regular updating, accessible verification, timely correction, clear appeal routes, privacy protection and reliable field-level records are important. Information should be available through both digital and non-digital channels. The process should protect eligible voters from wrongful exclusion while preventing duplicate or inaccurate entries. Independent quality checks and public reporting of aggregate corrections can strengthen trust.
 
-#### 20. Discuss the relationship between election administration and public trust. (10 marks)
+<a id="20-discuss-the-relationship-between-election-administration-and-public-trust-10-marks"></a>
+##### Discuss the relationship between election administration and public trust. (10 marks)
 
 **Model answer:** Public trust grows when rules are clear, decisions are impartial, information is timely, polling and counting are verifiable, and complaints are handled fairly. Trust may decline when procedures appear inconsistent or evidence is not addressed. Trust is not simply public approval of a result; it also depends on whether people believe that the process and remedies are lawful and fair.
 
-#### 21. Explain the risks of election-related misinformation and deepfakes. (10 marks)
+<a id="21-explain-the-risks-of-election-related-misinformation-and-deepfakes-10-marks"></a>
+##### Explain the risks of election-related misinformation and deepfakes. (10 marks)
 
 **Model answer:** False claims, manipulated images, synthetic audio or video and automated accounts may confuse voters, damage reputations and weaken confidence. Responses should include prompt official information, independent fact-checking, media literacy, evidence preservation and lawful investigation. Restrictions must be grounded in law and proportionate; not every mistaken statement or AI-generated item is automatically an electoral offence.
 
-#### 22. What important election-related changes were introduced by the Representation of the People (Amendment) Act, 2026? (10 marks)
+<a id="22-what-important-election-related-changes-were-introduced-by-the-representation-of-the-people-amendment-act-2026-10-marks"></a>
+##### What important election-related changes were introduced by the Representation of the People (Amendment) Act, 2026? (10 marks)
 
 **Model answer:** The 2026 Act amended the RPO on several issues, including a “No Vote” mechanism in the specified single-candidate situation, postal-ballot provisions for defined eligible groups, campaign-expenditure limits and rules addressing certain election-related false or misleading content. It also changed other operational provisions. Candidates should read the current official text before quoting exact article numbers or penalties. The key lesson is to distinguish current law from superseded ordinances and older guidebooks.
 
-#### 23. Discuss the advantages and risks of technology in election management. (10 marks)
+<a id="23-discuss-the-advantages-and-risks-of-technology-in-election-management-10-marks"></a>
+##### Discuss the advantages and risks of technology in election management. (10 marks)
 
 **Model answer:** Technology can improve access to information, voter-service delivery, logistics and result publication. Risks include cyberattack, inaccurate data, privacy breaches, unequal digital access and rapid spread of disinformation. Every tool should be assessed for accuracy, security, auditability, accessibility and legal compliance. Technology should support transparent procedures rather than replace accountability.
 
-#### 24. How can women and marginalised groups participate more effectively in elections? (10 marks)
+<a id="24-how-can-women-and-marginalised-groups-participate-more-effectively-in-elections-10-marks"></a>
+##### How can women and marginalised groups participate more effectively in elections? (10 marks)
 
 **Model answer:** Measures include accessible polling stations, safe transport and voting environments, inclusive voter education, effective complaints, protection from intimidation and fair opportunities for political participation. Parties can improve nomination and leadership pathways. Evaluation should consider both numerical representation and the real ability to participate without coercion or discrimination.
 
-#### 25. Explain the importance of election-related complaint mechanisms. (10 marks)
+<a id="25-explain-the-importance-of-election-related-complaint-mechanisms-10-marks"></a>
+##### Explain the importance of election-related complaint mechanisms. (10 marks)
 
 **Model answer:** Complaint mechanisms allow voters, candidates and authorised stakeholders to report alleged violations. They need clear jurisdiction, deadlines, secure evidence handling, impartial investigation, written decisions and lawful appeal. The number of complaints alone does not prove the presence or absence of irregularities. Their accessibility, credibility and resolution are more informative.
 
-#### 26. “An independent Election Commission is necessary but not sufficient for a credible election.” Discuss. (20 marks)
+<a id="26-an-independent-election-commission-is-necessary-but-not-sufficient-for-a-credible-election-discuss-20-marks"></a>
+##### “An independent Election Commission is necessary but not sufficient for a credible election.” Discuss. (20 marks)
 
 **Model answer framework:** Explain constitutional independence under Article 118. Then discuss voter-roll quality, fair competition, trained staff, security, finance rules, media, observers, counting and remedies. Independence can be weakened in practice by inadequate capacity or inconsistent enforcement. Recommend institutional independence plus transparent procedures, resources, cooperation under Article 126 and accountability. Conclude that credibility is a system-wide outcome.
 
-#### 27. How does electoral culture affect democratic consolidation? (20 marks)
+<a id="27-how-does-electoral-culture-affect-democratic-consolidation-20-marks"></a>
+##### How does electoral culture affect democratic consolidation? (20 marks)
 
 **Model answer framework:** Define electoral culture as the norms and practices through which parties, candidates, institutions and voters engage in elections. Analyse tolerance, respect for opposition, lawful campaigning, acceptance of verified outcomes and peaceful dispute resolution. Discuss intimidation, misinformation, winner-takes-all attitudes and distrust as potential obstacles. Recommend civic education, responsible parties, impartial institutions, free media and credible legal remedies.
 
-#### 28. Evaluate the importance of campaign expenditure disclosure. (10 marks)
+<a id="28-evaluate-the-importance-of-campaign-expenditure-disclosure-10-marks"></a>
+##### Evaluate the importance of campaign expenditure disclosure. (10 marks)
 
 **Model answer:** Disclosure makes it easier to assess whether campaign-finance rules are followed and whether donors or expenditure create conflicts of interest. It can deter hidden funding and improve public scrutiny. Disclosure must be supported by usable formats, audit, consistent deadlines and sanctions for false reporting. Privacy and lawful protections should also be respected where relevant.
 
-#### 29. What is the difference between election observation and election administration? (5 marks)
+<a id="29-what-is-the-difference-between-election-observation-and-election-administration-5-marks"></a>
+##### What is the difference between election observation and election administration? (5 marks)
 
 **Model answer:** Election administration is the official conduct of legally assigned electoral duties. Election observation is the monitoring of relevant processes by accredited or authorised observers under the applicable rules. Observers can report findings but do not replace election officials or adjudicating bodies. The distinction protects both operational authority and independent scrutiny.
 
-#### 30. Discuss the importance of post-election review. (10 marks)
+<a id="30-discuss-the-importance-of-post-election-review-10-marks"></a>
+##### Discuss the importance of post-election review. (10 marks)
 
 **Model answer:** A post-election review identifies logistical failures, training gaps, complaint patterns, data errors and lessons for future elections. It should use evidence, document corrective actions and assign responsibility for follow-up. Review is not a substitute for legal adjudication of a disputed election; administrative learning and legal remedies serve different purposes.
 
-#### 31. What should a fair election-reform agenda include? (20 marks)
+<a id="31-what-should-a-fair-election-reform-agenda-include-20-marks"></a>
+##### What should a fair election-reform agenda include? (20 marks)
 
 **Model answer framework:** Start from documented problems and constitutional requirements. Include EC capacity and independence, voter-roll quality, delimitation transparency, candidate and party rules, campaign finance, voter access, polling security, counting records, misinformation response and complaint resolution. Consult stakeholders, estimate costs and assess unintended effects. Define measurable indicators and publish progress. Reform should strengthen equal application of law rather than advantage a particular party.
 
-#### 32. Explain the importance of voter education. (5 marks)
+<a id="32-explain-the-importance-of-voter-education-5-marks"></a>
+##### Explain the importance of voter education. (5 marks)
 
 **Model answer:** Voter education helps citizens understand registration, polling procedures, ballot secrecy, candidate information, misinformation and lawful complaint channels. It should be accurate, accessible, impartial and available through multiple channels. The aim is to help voters make independent decisions, not to promote any party or candidate.
 
-#### 33. Write a conclusion on the future of electoral democracy in Bangladesh. (10 marks)
+<a id="33-write-a-conclusion-on-the-future-of-electoral-democracy-in-bangladesh-10-marks"></a>
+##### Write a conclusion on the future of electoral democracy in Bangladesh. (10 marks)
 
 **Model answer:** The future of electoral democracy depends on more than holding elections at regular intervals. Constitutional institutions must be effective, voters must participate freely, parties must compete lawfully, information must be trustworthy and disputes must receive fair remedies. Reforms should be evidence-based, inclusive and transparent. Long-term public confidence grows when citizens can verify that rules apply equally and their political rights are protected.
 
 ---
 
+<a id="practice-04"></a>
 <a id="answer-writing"></a>
 
-## ১৬. BCS Written Answer Strategy — ৫, ১০ ও ২০ নম্বর
+<a id="১৬-bcs-written-answer-strategy--৫-১০-ও-২০-নম্বর"></a>
+### BCS Written Answer Strategy — ৫, ১০ ও ২০ নম্বর
 
-### ৫ নম্বর: Definition + Law + Significance
+<a id="৫-নম্বর-definition--law--significance"></a>
+#### নম্বর: Definition + Law + Significance
 
 - ১–২ বাক্যে সংজ্ঞা;
 - প্রাসঙ্গিক অনুচ্ছেদ বা আইন;
 - ২–৩টি মূল পয়েন্ট;
 - একটি ছোট উপসংহার।
 
-### ১০ নম্বর: Context + Analysis + Remedy
+<a id="১০-নম্বর-context--analysis--remedy"></a>
+#### নম্বর: Context + Analysis + Remedy
 
 - ভূমিকা ও সংজ্ঞা;
 - সাংবিধানিক/আইনি ভিত্তি;
@@ -950,7 +968,8 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 - ২–৩টি বাস্তবসম্মত সুপারিশ;
 - উপসংহার।
 
-### ২০ নম্বর: WHIP-C Method
+<a id="২০-নম্বর-whip-c-method"></a>
+#### নম্বর: WHIP-C Method
 
 - **W — What:** বিষয়টি কী, সংজ্ঞা ও প্রেক্ষাপট।
 - **H — How:** আইন, প্রতিষ্ঠান ও প্রক্রিয়া কীভাবে কাজ করে।
@@ -958,7 +977,7 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 - **P — Policy:** বাস্তবায়নযোগ্য সুপারিশ, দায়িত্বপ্রাপ্ত প্রতিষ্ঠান ও অগ্রাধিকার।
 - **C — Conclusion:** প্রশ্নের নির্দেশক শব্দের সরাসরি উত্তর।
 
-### Question verb দেখেই উত্তর পরিকল্পনা করুন
+#### Question verb দেখেই উত্তর পরিকল্পনা করুন
 
 | Verb | পরীক্ষক কী চান | উত্তর লেখার পদ্ধতি |
 |---|---|---|
@@ -972,7 +991,7 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 | Recommend | করণীয় | নির্দিষ্ট পদক্ষেপ + দায়িত্ব + বাস্তবায়ন |
 | Compare | তুলনা | একই মানদণ্ডে সাদৃশ্য ও পার্থক্য |
 
-### Source citing in the exam
+#### Source citing in the exam
 
 পরীক্ষার খাতায় URL লিখতে হবে না। প্রয়োজনমতো উৎসের নাম ও প্রাসঙ্গিক অনুচ্ছেদ/আইন উল্লেখ করুন:
 - Constitution of Bangladesh, Articles 118–126;
@@ -985,13 +1004,187 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 **সতর্কতা:** সুনির্দিষ্ট সংখ্যা, শাস্তি বা সময়সীমা লিখলে সর্বশেষ আইনপাঠ যাচাই করবেন। ভুল ধারা উদ্ধৃত করার চেয়ে নীতিটি সঠিকভাবে ব্যাখ্যা করা ভালো।
 
+**সহায়ক অনুশীলন:** [উত্তরসহ অনুশীলন](./BCS-WRITTEN-QUESTION-BANK.md) · [প্রশ্নের উৎস-নিরীক্ষা](./PYQ-35-47-MAP.md) · [প্রশ্নের উৎস-নিরীক্ষা](./PYQ-35TH-47TH-ANALYSIS.md) · [উদ্ধৃতি ও ভাবার্থ](./QUOTATIONS.md)
+
+[বিষয়সূচিতে ফিরুন](#top)
+
 ---
 
+<a id="revision-atlas"></a>
+## অংশ গ — পুনরালোচনা ও চিত্র
+
+<a id="revision-01"></a>
+<a id="visual-atlas"></a>
+
+### Visual Atlas — Maps, Official Records & Revision Diagrams
+
+এই অধ্যায়ে **১৫টি SVG visual resource** (আগের ১০টি diagram-সহ), বর্তমান ভোটার-তথ্যের chart, ২০২৬ সালের নির্বাচন-সংক্রান্ত বাস্তব ছবি এবং সরকারি constituency boundary records যুক্ত করা হয়েছে। আইনগত সীমানা যাচাইয়ের ক্ষেত্রে সরকারি গেজেট ও নির্বাচন কমিশনের constituency lookup-ই চূড়ান্ত reference; তৃতীয়-পক্ষের result map-কে আইনি boundary map হিসেবে ব্যবহার করবেন না। কোনো screenshot বা boundary image-কে বর্তমান আইনগত সীমানা হিসেবে ভুল বোঝা এড়াতে মানচিত্রের ক্ষেত্রে সরকারি গেজেটকে অগ্রাধিকার দিন।
+
+<a id="১-বাংলাদেশের-নির্বাচনী-ব্যবস্থার-সাংবিধানিক-মানচিত্র"></a>
+#### বাংলাদেশের নির্বাচনী ব্যবস্থার সাংবিধানিক মানচিত্র
+![Expanded constitutional map for election management](./assets/constitutional-map-expanded.svg)
+
+[Open diagram separately](./assets/constitutional-map-expanded.svg) · **Source:** Constitution of Bangladesh, Part VII, Articles 118–126; [official legal text](https://bdlaws.minlaw.gov.bd/act-print-367.html).
+
+<a id="২-নির্বাচনচক্র--ভোটার-তালিকা-থেকে-প্রতিকার"></a>
+#### নির্বাচনচক্র — ভোটার তালিকা থেকে প্রতিকার
+![Expanded election cycle](./assets/election-cycle-expanded.svg)
+
+[Open diagram separately](./assets/election-cycle-expanded.svg) · **Source:** Representation of the People Order, 1972, as amended; [official EC legal register](https://ecs.gov.bd/en/page/national-parliament-election-law).
+
+<a id="৩-নির্বাচনী-সততার-ছয়টি-স্তম্ভ"></a>
+#### নির্বাচনী সততার ছয়টি স্তম্ভ
+![Election integrity pillars](./assets/electoral-integrity-dashboard.svg)
+
+[Open diagram separately](./assets/electoral-integrity-dashboard.svg). Independence, equal competition, secret ballot, verifiable counting, inclusion and remedies—এগুলোকে উত্তর লেখার analytical framework হিসেবে ব্যবহার করুন।
+
+<a id="৪-নির্বাচনে-প্রযুক্তি-সুবিধা-ঝুঁকি-ও-safeguards"></a>
+#### নির্বাচনে প্রযুক্তি: সুবিধা, ঝুঁকি ও safeguards
+![Election technology benefits and risks](./assets/election-technology-risks.svg)
+
+[Open diagram separately](./assets/election-technology-risks.svg). এটি conceptual study diagram; বাংলাদেশের কোনো নির্দিষ্ট প্রযুক্তি বর্তমানে ব্যবহৃত হচ্ছে—এমন দাবি নয়।
+
+<a id="৫-নির্বাচনী-অভিযোগ-ও-আইনগত-প্রতিকার"></a>
+#### নির্বাচনী অভিযোগ ও আইনগত প্রতিকার
+![Electoral dispute response flow](./assets/electoral-dispute-flow.svg)
+
+[Open diagram separately](./assets/electoral-dispute-flow.svg). প্রকৃত অভিযোগে সঠিক কর্তৃপক্ষ, সময়সীমা ও প্রতিকার প্রযোজ্য আইন থেকে যাচাই করতে হবে।
+
+#### ৬–১০. বিদ্যমান revision diagrams
+- [Constitutional Articles Map](./assets/constitutional-articles-map.svg)
+- [Election Stakeholders and Responsibilities](./assets/election-stakeholders.svg)
+- [Electoral System Comparison](./assets/electoral-system-comparison.svg)
+- [Election Cycle](./assets/election-cycle.svg)
+- [Election Integrity](./assets/election-integrity.svg)
+
+#### ১১–১৭. নতুন source-linked SVG visuals
+
+<a id="১১-voter-register-snapshot--21-october-2026"></a>
+##### Voter-register snapshot — 21 October 2026
+![Bangladesh registered voters by published category](./assets/voter-register-snapshot-2026.svg)
+
+[Open chart](./assets/voter-register-snapshot-2026.svg) · Source: [Bangladesh Election Commission](https://ecs.gov.bd/en/constituency). This is a dated snapshot; current counts can change.
+
+<a id="১২-constitutional-articles-map--articles-118126"></a>
+##### Constitutional articles map — Articles 118–126
+![Constitutional articles map for elections](./assets/constitutional-articles-map.svg)
+
+[Open diagram](./assets/constitutional-articles-map.svg) · Source: [Constitution of Bangladesh](https://bdlaws.minlaw.gov.bd/act-print-367.html).
+
+<a id="১৩-expanded-election-cycle"></a>
+##### Expanded election cycle
+![Election cycle from legal framework to post-election review](./assets/election-cycle-expanded.svg)
+
+[Open diagram](./assets/election-cycle-expanded.svg) · Source: [RPO 1972, as amended](https://bdlaws.minlaw.gov.bd/act-print-424.html).
+
+<a id="১৪-six-pillars-of-electoral-integrity"></a>
+##### Six pillars of electoral integrity
+![Six pillars of electoral integrity](./assets/electoral-integrity-dashboard.svg)
+
+[Open diagram](./assets/electoral-integrity-dashboard.svg) · Study framework based on the Constitution, ICCPR and [International IDEA](https://www.idea.int/publications/catalogue/electoral-management-design-revised-edition?lang=en).
+
+<a id="১৫-stakeholder-roles-and-accountability"></a>
+##### Stakeholder roles and accountability
+![Election stakeholders and their responsibilities](./assets/election-stakeholder-accountability.svg)
+
+[Open diagram](./assets/election-stakeholder-accountability.svg) · Constitutional anchor: Article 126 and the applicable election laws.
+
+<a id="১৬-rpo-amendment-act-2026--study-map"></a>
+##### RPO Amendment Act 2026 — study map
+![Key themes in the Representation of the People Amendment Act 2026](./assets/rpo-amendment-2026-map.svg)
+
+[Open diagram](./assets/rpo-amendment-2026-map.svg) · Read the exact provision in the [official Act No. 03 of 2026](https://bdlaws.minlaw.gov.bd/act-print-1632.html); this is a revision aid, not a substitute for statutory text.
+
+<a id="১৭-bcs-pyq-topic-timeline"></a>
+##### BCS PYQ topic timeline
+![Election-related BCS Written themes from 35th to 47th BCS](./assets/pyq-topic-timeline-35-47.svg)
+
+[Open timeline](./assets/pyq-topic-timeline-35-47.svg) · For exact scope and caveats, read the [full 35th–47th audit](./PYQ-35TH-47TH-ANALYSIS.md).
+
+#### Official and real-world photo references
+
+##### Postal ballot paper — 2026 referendum
+![Bangladesh Election Commission postal ballot paper for the 2026 constitutional referendum](../assets/photos/commons-aacbfab16b70eca9.png)
+
+**Source and licence:** Official Bangladesh Election Commission facsimile, hosted by Wikimedia Commons and marked public domain. [File page and licensing](https://commons.wikimedia.org/wiki/File:2026_Bangladesh_Constitutional_Referendum_Postal_Ballot.png) · [ECS postal voting information](https://www.ecs.gov.bd/page/postal-voting-it-supported?lang=en). Use to understand postal voting; the image relates to the 2026 referendum.
+
+##### Postal ballot sending envelope
+![Bangladesh postal ballot sending envelope for the 2026 election and referendum](../assets/photos/commons-f526ee9b5339d699.png)
+
+**Source and licence:** Official Election Commission facsimile, public domain as described on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2026_Bangladeshi_general_election_and_referendum_postal_ballot_sending_envelope.png). Link this visual to postal voting, ballot security and voter access.
+
+##### International election observation
+![European Union observation team visits a polling station during the 2026 Bangladesh election](../assets/photos/commons-66d9f9ef6d67d6cc.jpg)
+
+**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/Category:2026_Bangladeshi_constitutional_referendum). Use to discuss election observation and transparency; observation is distinct from election administration and adjudication.
+
+
+##### Voting in the 2026 national election and referendum
+![Voters casting ballots during Bangladesh's 2026 election and referendum](../assets/photos/commons-30591039ac7de200.jpg)
+
+**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:2026-02-12_Thirteenth_National_Parliamentary_Election_and_Referendum_2026,_voting_in_the_capital.jpg). Use this as a dated example of voting procedures, not as a measure of overall election quality.
+
+##### Chief Election Commissioner casting a vote
+![Chief Election Commissioner A. M. M. Nasir Uddin voting on 12 February 2026](../assets/photos/commons-ba0b74b56667cbef.jpg)
+
+**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Chief_Election_Commissioner_A._M._M._Nasir_Uddin_voting_in_2026_referendum_and_13th_national_parliamentary_election,_Eskaton_Garden_High_School,_Ramna,_Dhaka_2026-02-12.jpg). Useful for discussing universal franchise and institutional leadership; it does not imply endorsement.
+
+##### Election result collection and reporting centre
+![Officials at the Election Commission results collection and presentation centre, 13 February 2026](../assets/photos/commons-e380683ffb754709.jpg)
+
+**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Chief_Election_Commissioner_A,_M,_M,_Nasir_Uddin_briefed_the_results_collection_and_presentation_center_of_the_'Referendum_and_Thirteenth_National_Parliament_Election_2026.jpg). Link this visual to counting, tabulation, result publication and audit trails.
+
+##### Election result centre — inter-agency coordination
+![Information and Broadcasting Secretary at the Election Commission result centre, 12 February 2026](../assets/photos/commons-7944aa29cde1b7f3.jpg)
+
+**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Mahbuba_Farzana,_Information_and_Broadcasting_Secretary,_at_Bangladesh_Election_Commission_results_center,_Dhaka,_for_2026_Referendum_and_Thirteenth_Parliament_Election,_2026-02-12.jpg). Use to discuss public information, official results and coordinated communication.
+
+##### Voters queuing at polling stations in the capital
+![Voters at polling stations in Dhaka during the 2026 election and referendum](../assets/photos/commons-2427f1b62c59d555.jpg)
+
+**Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Voters_at_polling_stations_in_the_capital_during_13th_National_Parliamentary_Election_and_Referendum_2026,_2026-02-12.jpg). Use as a dated illustration of turnout logistics, not as a turnout statistic.
+
+##### Official Election Commission headquarters
+![Election Commission headquarters, Agargaon, Dhaka](https://asset.ecs.gov.bd/media/uploaded_files/configuration/carousel/2026/02/f2145a87-a861-4a65-bbc9-13cd3bda19d5.webp)
+
+**Source:** [Bangladesh Election Commission official website](https://ecs.gov.bd/en). This identifies the institution responsible for election management; legal powers must be sourced to the Constitution and statutes.
+
+
+##### Bangladesh Election Commission headquarters
+![Bangladesh Election Commission headquarters in Agargaon, Dhaka](https://asset.ecs.gov.bd/media/uploaded_files/configuration/carousel/2026/02/f2145a87-a861-4a65-bbc9-13cd3bda19d5.webp)
+
+**Source:** Bangladesh Election Commission official website, 2026 carousel. This is an institutional reference image, not an electoral map. [Official ECS website](https://ecs.gov.bd/en).
+
+##### Voters at a polling station — 12 February 2026
+![Voters queue at a polling station in Dhaka during the 13th National Parliament Election and 2026 referendum](../assets/photos/commons-26bddb798acc915f.jpg)
+
+**Source and licence:** Bangladesh Press Information Department photograph hosted on Wikimedia Commons; marked public domain in Bangladesh. [Original file and licensing page](https://commons.wikimedia.org/wiki/File:Queues_of_voters_at_polling_station,_capital_city,_Thirteenth_National_Parliament_Election_and_2026_Referendum_2026-02-12.jpg). The photo illustrates participation; it is not evidence about overall election quality.
+
+<a id="2026-constituency-result-map--supplementary-visual-only"></a>
+##### constituency result map — supplementary visual only
+![2026 Bangladesh general election alliance-wise result map](../assets/photos/commons-895ee6ca5ae23036.png)
+
+**Attribution:** FlyJet777, *2026 Bangladesh General Election Alliance Wise Result Map*, CC BY 4.0. [File page and licence](https://commons.wikimedia.org/wiki/File:2026_Bangladesh_General_Election_Alliance_Wise_Result_Map.svg).
+
+**Critical limitation:** this is a community-created election-results map, not an official legal boundary map, and it is a dated results snapshot. For exact current boundaries, use the EC’s official constituency lookup and revised 300-seat boundary gazette below. Do not quote current party seat totals from this image without checking the latest official results.
+
+#### Official electoral maps and current legal maps
+
+- **বর্তমান constituency lookup:** [Bangladesh Election Commission — Constituency](https://ecs.gov.bd/en/constituency). আসন-নির্দিষ্ট তথ্য যাচাইয়ের জন্য এই অফিসিয়াল lookup ব্যবহার করুন।
+- **৩০০ সংসদীয় আসনের সীমানার সরকারি নথি:** [EC — National Parliament Election Law](https://ecs.gov.bd/en/page/national-parliament-election-law) এবং [revised boundary gazette, 11 December 2025 (PDF)](https://asset.ecs.gov.bd/media/uploaded_files/notices/2025/12/gTe7PMU3SDbRB5pni6rdNQYZyZ7AQXrgUui3SDPs.pdf). এই PDF-তে constituency boundary description রয়েছে; এটি নিজে illustrated map নয়। পরীক্ষায় “বর্তমান সীমানা” লিখলে সংশ্লিষ্ট সর্বশেষ সংশোধিত গেজেট অনুসরণ করুন।
+- **নির্বাচনী আইন ও ২০২৬ সংশোধন:** [EC — RPO legal records](https://ecs.gov.bd/category/regarding-representation-of-the-people-order-rpo-2830760191), [RPO 1972 (Bangladesh Laws)](https://bdlaws.minlaw.gov.bd/act-print-424.html), [Representation of the People (Amendment) Act, 2026](https://bdlaws.minlaw.gov.bd/act-print-1632.html).
+- **বাংলাদেশ নির্বাচন কমিশনের অবস্থান:** [OpenStreetMap location search](https://www.openstreetmap.org/search?query=Bangladesh%20Election%20Commission%20Agargaon%20Dhaka).
+- **ভোটকেন্দ্র/নির্বাচনী এলাকা:** কোনো নির্দিষ্ট আসন বা কেন্দ্রের map ব্যবহার করার আগে EC-এর সংশ্লিষ্ট constituency gazette বা polling-centre publication মিলিয়ে নিন; সাধারণ web map আইনগত সীমানার বিকল্প নয়।
+
+---
+
+<a id="revision-02"></a>
 <a id="revision"></a>
 
-## ১৭. One-page Revision — শেষ মুহূর্তে মনে রাখুন
+<a id="১৭-one-page-revision--শেষ-মুহূর্তে-মনে-রাখুন"></a>
+### One-page Revision — শেষ মুহূর্তে মনে রাখুন
 
-### সাতটি মূল কথা
+#### সাতটি মূল কথা
 
 1. **Article 118:** নির্বাচন কমিশন প্রতিষ্ঠা, গঠন, মেয়াদ ও স্বাধীনতা।
 2. **Article 119:** ভোটার তালিকা, নির্বাচন পরিচালনা ও সংসদীয় নির্বাচনী সীমানা।
@@ -1001,7 +1194,7 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 6. **Electoral integrity:** legality + inclusion + competition + transparency + accountability.
 7. **Answer structure:** definition → constitutional/legal basis → analysis → evidence/example → feasible reforms → conclusion.
 
-### ১২টি Self-test
+#### ১২টি Self-test
 
 1. Article 118 ও 119-এর পার্থক্য কী?
 2. Article 126 কেন গুরুত্বপূর্ণ?
@@ -1016,7 +1209,7 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 11. Election petition কেন গুরুত্বপূর্ণ?
 12. নির্বাচনী সংস্কারের অগ্রগতি কীভাবে পরিমাপ করবেন?
 
-### পরীক্ষার আগে চেকলিস্ট
+#### পরীক্ষার আগে চেকলিস্ট
 
 - [ ] সংবিধানের ১১৮–১২৬ অনুচ্ছেদের মূল বিষয় বলতে পারি।
 - [ ] ভোটার তালিকা ও নির্বাচনী এলাকার সীমানা ব্যাখ্যা করতে পারি।
@@ -1028,86 +1221,117 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 ---
 
+<a id="revision-03"></a>
+### শেষ কথা
+
+নির্বাচন গণতন্ত্রের গুরুত্বপূর্ণ প্রক্রিয়া, কিন্তু শুধু ভোটগ্রহণই গণতন্ত্রের পূর্ণ পরিচয় নয়। সংবিধানসম্মত প্রতিষ্ঠান, সঠিক ভোটার তালিকা, সমান প্রতিযোগিতা, গোপন ভোট, স্বচ্ছ গণনা, অন্তর্ভুক্তিমূলক অংশগ্রহণ এবং কার্যকর আইনি প্রতিকার—সবগুলো উপাদান একত্রে নির্বাচনী বিশ্বাসযোগ্যতা তৈরি করে। BCS Written-এ সবচেয়ে ভালো উত্তর হবে সেই উত্তর, যা আইন ও প্রতিষ্ঠানের তথ্যের সঙ্গে বাংলাদেশের বাস্তব সমস্যা, প্রমাণভিত্তিক বিশ্লেষণ এবং বাস্তবায়নযোগ্য সংস্কার যুক্ত করে।
+
+[⬆ Back to top](#top)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।
+
+[বিষয়সূচিতে ফিরুন](#top)
+
+---
+
+<a id="references-audit"></a>
+## অংশ ঘ — উৎস ও যাচাই
+
+<a id="chapter-fact-check"></a>
+### এই অধ্যায়ের যাচাইয়ের অবস্থা
+
+| শ্রেণি | এই সম্পাদনায় নির্দিষ্ট অবস্থা |
+|---|---|
+| VERIFIED | সরকারি সিলেবাসে কমিশন, আইন, প্রচারণা, RPO ও পর্যবেক্ষক দলের পরিধি; SDG 16-এর প্রাসঙ্গিক লক্ষ্য। |
+| UNVERIFIED | ২০২৬ সালের RPO সংশোধনের মূল আইনপাতা 503; নির্দিষ্ট নতুন বিধানের পুনঃযাচাই বাকি। |
+
+যাচাই করা নির্দিষ্ট বক্তব্যের উৎস ও অবস্থান [উৎস-নিরীক্ষায়](../SOURCE-AUDIT.md) আছে। এই শ্রেণিবিন্যাস পুরো অধ্যায়ের সব দাবি যাচাই হওয়ার সনদ নয়।
+
+
+<a id="sources-01"></a>
 <a id="sources"></a>
 
-## ১৮. Full Source Register — সরকারি ও প্রাতিষ্ঠানিক উৎস
+<a id="১৮-full-source-register--সরকারি-ও-প্রাতিষ্ঠানিক-উৎস"></a>
+### Full Source Register — সরকারি ও প্রাতিষ্ঠানিক উৎস
 
-### S1. Bangladesh Public Service Commission (BPSC)
-**Source:** *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005.  
-**ব্যবহার:** পরীক্ষার কাঠামো ও সিলেবাসভিত্তিক প্রস্তুতি।  
+#### S1. Bangladesh Public Service Commission (BPSC)
+**Source:** *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005.\
+**ব্যবহার:** পরীক্ষার কাঠামো ও সিলেবাসভিত্তিক প্রস্তুতি।\
 **Link:** [BPSC Written Syllabus](https://bpsc.gov.bd/pages/psc-exams/%E0%A6%AC%E0%A6%BF-%E0%A6%B8%E0%A6%BF-%E0%A6%8F%E0%A6%B8-%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%BF%E0%A6%A4-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%AC%E0%A6%BE%E0%A6%B8-08e202-6919974adbfbab28ceff0121)
 
-### S2. Constitution of the People’s Republic of Bangladesh
-**Source:** Part VII, Elections; Articles 118–126.  
-**ব্যবহার:** নির্বাচন কমিশন, ভোটার তালিকা, adult franchise, নির্বাচনী বিরোধ ও নির্বাহী সহায়তা।  
+#### S2. Constitution of the People’s Republic of Bangladesh
+**Source:** Part VII, Elections; Articles 118–126.\
+**ব্যবহার:** নির্বাচন কমিশন, ভোটার তালিকা, adult franchise, নির্বাচনী বিরোধ ও নির্বাহী সহায়তা।\
 **Link:** [Laws of Bangladesh — Constitution](https://bdlaws.minlaw.gov.bd/act-print-367.html)
 
-### S3. Bangladesh Election Commission
-**Source:** Official Commission overview and election-related services.  
-**ব্যবহার:** কমিশনের দায়িত্ব, অফিসিয়াল ঘোষণা, ভোটার সেবা, নির্বাচন-সংক্রান্ত নির্দেশনা।  
+#### S3. Bangladesh Election Commission
+**Source:** Official Commission overview and election-related services.\
+**ব্যবহার:** কমিশনের দায়িত্ব, অফিসিয়াল ঘোষণা, ভোটার সেবা, নির্বাচন-সংক্রান্ত নির্দেশনা।\
 **Link:** [Election Commission of Bangladesh](https://ecs.gov.bd/en/page/about-bangladesh-election-commission) · [ECS home](https://ecs.gov.bd/)
 
-### S4. Representation of the People Order, 1972
-**Source:** President’s Order No. 155 of 1972, as amended.  
-**ব্যবহার:** সংসদ নির্বাচন, মনোনয়ন, প্রচার, ভোটগ্রহণ, গণনা, ফল, আচরণবিধি ও সংশ্লিষ্ট আইন।  
+#### S4. Representation of the People Order, 1972
+**Source:** President’s Order No. 155 of 1972, as amended.\
+**ব্যবহার:** সংসদ নির্বাচন, মনোনয়ন, প্রচার, ভোটগ্রহণ, গণনা, ফল, আচরণবিধি ও সংশ্লিষ্ট আইন।\
 **Link:** [Laws of Bangladesh — RPO 1972](https://bdlaws.minlaw.gov.bd/act-print-424.html)
 
-### S5. Representation of the People (Amendment) Act, 2026
-**Source:** Act No. 03 of 2026, dated 10 April 2026; the Act states its deemed effective date as 3 November 2025.  
-**ব্যবহার:** “No Vote” বিধান, postal ballot, ব্যয়সীমা, AI/মিথ্যা কনটেন্ট, ভোটকেন্দ্র ও অন্যান্য সংশোধন।  
+#### S5. Representation of the People (Amendment) Act, 2026
+**Source:** Act No. 03 of 2026, dated 10 April 2026; the Act states its deemed effective date as 3 November 2025.\
+**ব্যবহার:** “No Vote” বিধান, postal ballot, ব্যয়সীমা, AI/মিথ্যা কনটেন্ট, ভোটকেন্দ্র ও অন্যান্য সংশোধন।\
 **Link:** [Official 2026 Amendment Act](https://bdlaws.minlaw.gov.bd/act-print-1632.html)
 
-### S6. Electoral Rolls Act, 2009
-**Source:** Electoral Rolls Act, 2009, read with the Constitution and current Election Commission directions.  
-**ব্যবহার:** ভোটার নিবন্ধন, ভোটার এলাকার অধিবাসী ও ভোটার তালিকা-সম্পর্কিত বিধান।  
-**Link:** [Election Commission source document referring to the Act](https://www.ecs.gov.bd/files/AP1v1XGZtUbdN73nwvuRHaBkNjHHGRZUVTHaokYd.pdf)  
+#### S6. Electoral Rolls Act, 2009
+**Source:** Electoral Rolls Act, 2009, read with the Constitution and current Election Commission directions.\
+**ব্যবহার:** ভোটার নিবন্ধন, ভোটার এলাকার অধিবাসী ও ভোটার তালিকা-সম্পর্কিত বিধান।\
+**Link:** [Election Commission source document referring to the Act](https://www.ecs.gov.bd/files/AP1v1XGZtUbdN73nwvuRHaBkNjHHGRZUVTHaokYd.pdf)\
 **Note:** ভোটার নিবন্ধনের নির্দিষ্ট শর্ত উদ্ধৃত করার আগে আইনটির বর্তমান পাঠ এবং কমিশনের নির্দেশনা মিলিয়ে নিন।
 
-### S7. BCS EXAM — Previous Written Questions
-**Source:** Public secondary archive of BCS Written questions, including the 47th BCS Bangladesh Affairs paper.  
-**ব্যবহার:** archive-reported প্রশ্নের থিম বিশ্লেষণ; BPSC original paper নয়।  
+#### S7. BCS EXAM — Previous Written Questions
+**Source:** Public secondary archive of BCS Written questions, including the 47th BCS Bangladesh Affairs paper.\
+**ব্যবহার:** archive-reported প্রশ্নের থিম বিশ্লেষণ; BPSC original paper নয়।\
 **Link:** [BCS Written archive](https://bcsexam.org/written-questions) · [47th BCS Written](https://bcsexam.org/written-questions/47th-bcs-written) · [46th BCS Written](https://bcsexam.org/written-questions/46th-bcs-written)
 
-### S8. International IDEA — Electoral Management Design
-**Source:** *Electoral Management Design: Revised Edition*.  
-**ব্যবহার:** নির্বাচনী ব্যবস্থাপনা প্রতিষ্ঠান, দায়িত্ব, পরিকল্পনা, প্রযুক্তি, অংশীজন ও মূল্যায়ন।  
+#### S8. International IDEA — Electoral Management Design
+**Source:** *Electoral Management Design: Revised Edition*.\
+**ব্যবহার:** নির্বাচনী ব্যবস্থাপনা প্রতিষ্ঠান, দায়িত্ব, পরিকল্পনা, প্রযুক্তি, অংশীজন ও মূল্যায়ন।\
 **Link:** [International IDEA publication](https://www.idea.int/publications/catalogue/electoral-management-design-revised-edition?lang=en)
 
-### S9. International IDEA — International Electoral Standards
-**Source:** *International Electoral Standards: Guidelines for Reviewing the Legal Framework of Elections*.  
-**ব্যবহার:** নির্বাচনী আইন, সীমানা নির্ধারণ, ভোটার নিবন্ধন, প্রচার ব্যয়, ভোটগ্রহণ, গণনা, অভিযোগ ও পর্যবেক্ষণ।  
+#### S9. International IDEA — International Electoral Standards
+**Source:** *International Electoral Standards: Guidelines for Reviewing the Legal Framework of Elections*.\
+**ব্যবহার:** নির্বাচনী আইন, সীমানা নির্ধারণ, ভোটার নিবন্ধন, প্রচার ব্যয়, ভোটগ্রহণ, গণনা, অভিযোগ ও পর্যবেক্ষণ।\
 **Link:** [International IDEA publication](https://www.idea.int/publications/catalogue/international-electoral-standards-guidelines-reviewing-legal-framework)
 
-### S10. International IDEA — Electoral System Design
-**Source:** *The New International IDEA Handbook*.  
-**ব্যবহার:** নির্বাচনী পদ্ধতি, প্রতিনিধিত্ব, সিস্টেম ডিজাইনের সুবিধা ও সীমাবদ্ধতা।  
+#### S10. International IDEA — Electoral System Design
+**Source:** *The New International IDEA Handbook*.\
+**ব্যবহার:** নির্বাচনী পদ্ধতি, প্রতিনিধিত্ব, সিস্টেম ডিজাইনের সুবিধা ও সীমাবদ্ধতা।\
 **Link:** [International IDEA publication](https://www.idea.int/publications/catalogue/electoral-system-design-new-international-idea-handbook)
 
-### S11. International IDEA — Money in Politics
-**Source:** Political finance, transparency and accountability resources.  
-**ব্যবহার:** নির্বাচনী অর্থায়ন ও ব্যয়সীমার নীতিগত বিশ্লেষণ।  
+#### S11. International IDEA — Money in Politics
+**Source:** Political finance, transparency and accountability resources.\
+**ব্যবহার:** নির্বাচনী অর্থায়ন ও ব্যয়সীমার নীতিগত বিশ্লেষণ।\
 **Link:** [International IDEA — Money in Politics](https://www.idea.int/theme/money-politics)
 
-### S12. United Nations — Universal Declaration of Human Rights
-**Source:** Article 21, participation in government and genuine elections.  
-**ব্যবহার:** ভোটাধিকার ও রাজনৈতিক অংশগ্রহণের আন্তর্জাতিক নীতিগত ভিত্তি।  
+#### S12. United Nations — Universal Declaration of Human Rights
+**Source:** Article 21, participation in government and genuine elections.\
+**ব্যবহার:** ভোটাধিকার ও রাজনৈতিক অংশগ্রহণের আন্তর্জাতিক নীতিগত ভিত্তি।\
 **Link:** [UN — Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
-### S13. United Nations — Guidance Note on Democracy
-**Source:** *Guidance Note of the UN Secretary-General on Democracy*.  
-**ব্যবহার:** অংশগ্রহণ, রাজনৈতিক সমতা, অন্তর্ভুক্তিমূলক প্রতিষ্ঠান ও free and fair elections।  
+#### S13. United Nations — Guidance Note on Democracy
+**Source:** *Guidance Note of the UN Secretary-General on Democracy*.\
+**ব্যবহার:** অংশগ্রহণ, রাজনৈতিক সমতা, অন্তর্ভুক্তিমূলক প্রতিষ্ঠান ও free and fair elections।\
 **Link:** [UN Democracy Fund](https://www.un.org/democracyfund/en/content/guidance-note-un-secretary-general-democracy)
 
-### S14. International Covenant on Civil and Political Rights (ICCPR)
-**Source:** Article 25, political participation and genuine periodic elections.  
-**ব্যবহার:** ভোট দেওয়া, নির্বাচিত হওয়ার সুযোগ এবং স্বাধীন ভোটের নীতিগত ভিত্তি।  
+#### S14. International Covenant on Civil and Political Rights (ICCPR)
+**Source:** Article 25, political participation and genuine periodic elections.\
+**ব্যবহার:** ভোট দেওয়া, নির্বাচিত হওয়ার সুযোগ এবং স্বাধীন ভোটের নীতিগত ভিত্তি।\
 **Link:** [OHCHR — ICCPR](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights)
 
 ---
 
+<a id="sources-02"></a>
 <a id="quote-bank"></a>
 
-## অধ্যায়ের গুরুত্বপূর্ণ English Quotations
+<a id="অধ্যায়-১১-এর-গুরুত্বপূর্ণ-উদ্ধৃতি"></a>
+### অধ্যায়ের গুরুত্বপূর্ণ English Quotations
 
 এই অধ্যায়ের জন্য আলাদা quotation bank রাখা হয়েছে, যেখানে সংক্ষিপ্ত English quotation, বাংলা ভাবানুবাদ, পরীক্ষায় ব্যবহার এবং প্রত্যক্ষ source link দেওয়া আছে।
 
@@ -1115,12 +1339,8 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 
 সেখানে Constitution, UDHR, ICCPR, International IDEA, UN এবং বাংলাদেশের নির্বাচন-আইনের সঙ্গে সম্পর্কিত source-backed lines সাজানো হয়েছে। হুবহু quotation ও exam-ready paraphrase আলাদা রাখা হয়েছে, যাতে পরীক্ষার খাতায় ভুলভাবে কোনো বাক্যকে সরাসরি উদ্ধৃতি হিসেবে না লেখা হয়।
 
+[বিষয়সূচিতে ফিরুন](#top)
+
 ---
 
-## শেষ কথা
-
-নির্বাচন গণতন্ত্রের গুরুত্বপূর্ণ প্রক্রিয়া, কিন্তু শুধু ভোটগ্রহণই গণতন্ত্রের পূর্ণ পরিচয় নয়। সংবিধানসম্মত প্রতিষ্ঠান, সঠিক ভোটার তালিকা, সমান প্রতিযোগিতা, গোপন ভোট, স্বচ্ছ গণনা, অন্তর্ভুক্তিমূলক অংশগ্রহণ এবং কার্যকর আইনি প্রতিকার—সবগুলো উপাদান একত্রে নির্বাচনী বিশ্বাসযোগ্যতা তৈরি করে। BCS Written-এ সবচেয়ে ভালো উত্তর হবে সেই উত্তর, যা আইন ও প্রতিষ্ঠানের তথ্যের সঙ্গে বাংলাদেশের বাস্তব সমস্যা, প্রমাণভিত্তিক বিশ্লেষণ এবং বাস্তবায়নযোগ্য সংস্কার যুক্ত করে।
-
-[⬆ Back to top](#top)
-
-**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।
+[আগের অধ্যায়](../Chapter-10/README.md#book-text) · [বইয়ের সূচি](../README.md) · [পরের অধ্যায়](../Chapter-12/README.md#book-text)

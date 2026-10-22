@@ -1,6 +1,6 @@
 # Chapter 08 — PYQ-BASED ESSAYS
 ## রাষ্ট্রের অঙ্গসমূহ: আইনসভা, নির্বাহী ও বিচার বিভাগ
-> BCS Written · Bangladesh Affairs · Source-backed model essays  
+> BCS Written · Bangladesh Affairs · Source-backed model essays\
 > **Evidence note:** নিচের অগ্রাধিকার সরকারি syllabus ও প্রকাশ্য question archive-এর theme-ভিত্তিক। প্রতিটি মূল BPSC প্রশ্নপত্র আলাদাভাবে যাচাই করা হয়নি; তাই নির্দিষ্ট বছরকে “verified PYQ” দাবি করা হয়নি।
 
 [← Chapter 08 মূল পাঠ](./README.md) · [← অধ্যায়সূচি](../README.md)
@@ -157,19 +157,19 @@ Judicial review হলো উপযুক্ত মামলায় আইন ব
 - **Article 109:** অধস্তন আদালতের ওপর হাইকোর্ট বিভাগের তত্ত্বাবধান/নিয়ন্ত্রণ।
 - **Article 111:** সুপ্রিম কোর্টের ঘোষিত আইনের বাধ্যতামূলক প্রভাব।
 
-**[S1] Bangladesh Public Service Commission (BPSC).** *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005.  
-https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf
+**[S1] Bangladesh Public Service Commission (BPSC).** *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005.\
+https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2024/12/df968f7fa918431dae3ed31b43206f6f.pdf
 
-**[S2] Government of Bangladesh, Laws of Bangladesh (BDLaws).** *The Constitution of the People’s Republic of Bangladesh*, Article 65 / Part V.  
+**[S2] Government of Bangladesh, Laws of Bangladesh (BDLaws).** *The Constitution of the People’s Republic of Bangladesh*, Article 65 / Part V.\
 https://bdlaws.minlaw.gov.bd/act-367/act-part-print-202.html
 
-**[S3] Government of Bangladesh, Laws of Bangladesh (BDLaws).** *The Constitution of the People’s Republic of Bangladesh*, Part VI—The Judiciary.  
+**[S3] Government of Bangladesh, Laws of Bangladesh (BDLaws).** *The Constitution of the People’s Republic of Bangladesh*, Part VI—The Judiciary.\
 https://bdlaws.minlaw.gov.bd/act-chapter-print-688.html
 
-**[S4] Government of Bangladesh, Laws of Bangladesh (BDLaws).** Constitution, including Article 55 and executive provisions.  
+**[S4] Government of Bangladesh, Laws of Bangladesh (BDLaws).** Constitution, including Article 55 and executive provisions.\
 https://bdlaws.minlaw.gov.bd/act-print-367.html
 
-**[S5] BCS EXAM.** *বিগত বিসিএস লিখিত প্রশ্ন—৩৫তম থেকে ৫০তম* (secondary archive; verify year-specific questions against original papers).  
+**[S5] BCS EXAM.** *বিগত বিসিএস লিখিত প্রশ্ন—৩৫তম থেকে ৫০তম* (secondary archive; verify year-specific questions against original papers).\
 https://bcsexam.org/written-questions
 
 **Editorial note:** এটি BCS Written প্রস্তুতির সহায়ক মডেল-প্রবন্ধ, BPSC-অনুমোদিত উত্তর নয়। সাংবিধানিক অনুচ্ছেদের সর্বশেষ সরকারি পাঠ পরীক্ষার আগে যাচাই করুন।

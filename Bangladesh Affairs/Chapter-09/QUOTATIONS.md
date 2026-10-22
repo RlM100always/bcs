@@ -1,4 +1,11 @@
-# Chapter 09 — English Quotations + বাংলা অর্থ + Source Links
+<a id="chapter-09--english-quotations--বাংলা-অর্থ--source-links"></a>
+# অধ্যায় ৯ — ইংরেজি উদ্ধৃতি, ভাবার্থ ও উৎস
+
+[বইয়ের সূচি](../README.md) · [মূল অধ্যায়](./README.md#references-audit) · [উৎস-নিরীক্ষা](../SOURCE-AUDIT.md#quotations)
+
+**ব্যবহারের নিয়ম:** উৎসনির্দেশ থাকা মানেই প্রতিটি উদ্ধৃতির হুবহু পাঠ এই সংস্করণে যাচাই হয়েছে—এমন নয়। মূল নথিতে শব্দ ও প্রসঙ্গ মিলিয়ে নিন। ভাবার্থ বা সম্পাদকীয় সংশ্লেষ উদ্ধৃতিচিহ্নে লিখবেন না।
+
+
 ## Foreign Policy and External Relations of Bangladesh | BCS Written
 
 **১৮টি source-linked English quotations** — exact wording, source attribution, বাংলা ভাবার্থ এবং exam-use guidance.
@@ -34,8 +41,8 @@
 <a id="q1"></a>
 ## ১. “Friendship to all, malice towards none.”
 
-**বাংলা ভাবার্থ:** সবার সঙ্গে বন্ধুত্ব, কারও প্রতি বিদ্বেষ নয়।  
-**উৎস:** Ministry of Foreign Affairs, Bangladesh, *Foreign Policy of Bangladesh*.  
+**বাংলা ভাবার্থ:** সবার সঙ্গে বন্ধুত্ব, কারও প্রতি বিদ্বেষ নয়।\
+**উৎস:** Ministry of Foreign Affairs, Bangladesh, *Foreign Policy of Bangladesh*.\
 https://sittwe.mofa.gov.bd/pages/static-pages/foreign-policy-of-bangladesh-edc320-695266ac35ce18e1c05aab1e
 
 **যে প্রশ্নে ব্যবহার:** পররাষ্ট্রনীতির মূলনীতি; জাতীয় স্বার্থ; বড় শক্তির প্রতিযোগিতা; প্রতিবেশী কূটনীতি।
@@ -45,8 +52,8 @@ https://sittwe.mofa.gov.bd/pages/static-pages/foreign-policy-of-bangladesh-edc32
 <a id="q2"></a>
 ## ২. “respect for national sovereignty and equality”
 
-**বাংলা ভাবার্থ:** জাতীয় সার্বভৌমত্ব ও সমতার প্রতি শ্রদ্ধা।  
-**উৎস:** Constitution of Bangladesh, Article 25; Laws of Bangladesh.  
+**বাংলা ভাবার্থ:** জাতীয় সার্বভৌমত্ব ও সমতার প্রতি শ্রদ্ধা।\
+**উৎস:** Constitution of Bangladesh, Article 25; Laws of Bangladesh.\
 https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 
 **যে প্রশ্নে ব্যবহার:** সাংবিধানিক ভিত্তি; sovereignty; national interest; আন্তর্জাতিক সম্পর্ক।
@@ -56,8 +63,8 @@ https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 <a id="q3"></a>
 ## ৩. “non interference in the internal affairs of other countries”
 
-**বাংলা ভাবার্থ:** অন্য রাষ্ট্রের অভ্যন্তরীণ বিষয়ে হস্তক্ষেপ না করা।  
-**উৎস:** Constitution of Bangladesh, Article 25.  
+**বাংলা ভাবার্থ:** অন্য রাষ্ট্রের অভ্যন্তরীণ বিষয়ে হস্তক্ষেপ না করা।\
+**উৎস:** Constitution of Bangladesh, Article 25.\
 https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 
 **যে প্রশ্নে ব্যবহার:** non-intervention; পররাষ্ট্রনীতির মূলনীতি; আন্তর্জাতিক সম্পর্কের সীমা।
@@ -67,8 +74,8 @@ https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 <a id="q4"></a>
 ## ৪. “peaceful settlement of international disputes”
 
-**বাংলা ভাবার্থ:** আন্তর্জাতিক বিরোধের শান্তিপূর্ণ নিষ্পত্তি।  
-**উৎস:** Constitution of Bangladesh, Article 25.  
+**বাংলা ভাবার্থ:** আন্তর্জাতিক বিরোধের শান্তিপূর্ণ নিষ্পত্তি।\
+**উৎস:** Constitution of Bangladesh, Article 25.\
 https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 
 **যে প্রশ্নে ব্যবহার:** কূটনীতি; আঞ্চলিক বিরোধ; আন্তর্জাতিক আইন; প্রতিবেশী সম্পর্ক।
@@ -78,8 +85,8 @@ https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 <a id="q5"></a>
 ## ৫. “All Members shall settle their international disputes by peaceful means”
 
-**বাংলা ভাবার্থ:** জাতিসংঘের সদস্যরা আন্তর্জাতিক বিরোধ শান্তিপূর্ণ উপায়ে নিষ্পত্তি করবে।  
-**উৎস:** Charter of the United Nations, Article 2(3).  
+**বাংলা ভাবার্থ:** জাতিসংঘের সদস্যরা আন্তর্জাতিক বিরোধ শান্তিপূর্ণ উপায়ে নিষ্পত্তি করবে।\
+**উৎস:** Charter of the United Nations, Article 2(3).\
 https://www.un.org/en/about-us/un-charter/full-text
 
 **যে প্রশ্নে ব্যবহার:** UN-এর ভূমিকা; peaceful settlement; বাংলাদেশের Article 25; আঞ্চলিক বিরোধ।
@@ -89,8 +96,8 @@ https://www.un.org/en/about-us/un-charter/full-text
 <a id="q6"></a>
 ## ৬. “All Members shall refrain in their international relations from the threat or use of force”
 
-**বাংলা ভাবার্থ:** আন্তর্জাতিক সম্পর্কে সদস্য রাষ্ট্রগুলো বলপ্রয়োগের হুমকি বা ব্যবহার থেকে বিরত থাকবে।  
-**উৎস:** Charter of the United Nations, Article 2(4).  
+**বাংলা ভাবার্থ:** আন্তর্জাতিক সম্পর্কে সদস্য রাষ্ট্রগুলো বলপ্রয়োগের হুমকি বা ব্যবহার থেকে বিরত থাকবে।\
+**উৎস:** Charter of the United Nations, Article 2(4).\
 https://www.un.org/en/about-us/un-charter/full-text
 
 **যে প্রশ্নে ব্যবহার:** আন্তর্জাতিক শান্তি ও নিরাপত্তা; sovereignty; disarmament; conflict resolution.
@@ -100,8 +107,8 @@ https://www.un.org/en/about-us/un-charter/full-text
 <a id="q7"></a>
 ## ৭. “to develop friendly relations among nations”
 
-**বাংলা ভাবার্থ:** জাতিসমূহের মধ্যে বন্ধুত্বপূর্ণ সম্পর্ক গড়ে তোলা।  
-**উৎস:** Charter of the United Nations, Article 1(2).  
+**বাংলা ভাবার্থ:** জাতিসমূহের মধ্যে বন্ধুত্বপূর্ণ সম্পর্ক গড়ে তোলা।\
+**উৎস:** Charter of the United Nations, Article 1(2).\
 https://www.un.org/en/about-us/un-charter/full-text
 
 **যে প্রশ্নে ব্যবহার:** multilateral diplomacy; UN; regional cooperation; “Friendship to all”.
@@ -109,8 +116,8 @@ https://www.un.org/en/about-us/un-charter/full-text
 <a id="q8"></a>
 ## ৮. “the right of every people freely to determine and build up its own social, economic and political system”
 
-**বাংলা ভাবার্থ:** প্রত্যেক জনগোষ্ঠীর নিজস্ব সামাজিক, অর্থনৈতিক ও রাজনৈতিক ব্যবস্থা স্বাধীনভাবে নির্ধারণের অধিকার।  
-**উৎস:** Constitution of Bangladesh, Article 25(b).  
+**বাংলা ভাবার্থ:** প্রত্যেক জনগোষ্ঠীর নিজস্ব সামাজিক, অর্থনৈতিক ও রাজনৈতিক ব্যবস্থা স্বাধীনভাবে নির্ধারণের অধিকার।\
+**উৎস:** Constitution of Bangladesh, Article 25(b).\
 https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 
 **যে প্রশ্নে ব্যবহার:** self-determination; মুক্তিযুদ্ধের ঐতিহাসিক প্রেক্ষাপট; anti-colonial principle; আন্তর্জাতিক আইন।
@@ -118,8 +125,8 @@ https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 <a id="q9"></a>
 ## ৯. “We the peoples of the United Nations”
 
-**বাংলা ভাবার্থ:** “আমরা, জাতিসংঘের জনগণ”—UN Charter-এর preamble-এর সূচনা।  
-**উৎস:** Charter of the United Nations, Preamble.  
+**বাংলা ভাবার্থ:** “আমরা, জাতিসংঘের জনগণ”—UN Charter-এর preamble-এর সূচনা।\
+**উৎস:** Charter of the United Nations, Preamble.\
 https://www.un.org/en/about-us/un-charter/full-text
 
 **যে প্রশ্নে ব্যবহার:** UN; multilateralism; human security; আন্তর্জাতিক সহযোগিতা।
@@ -129,8 +136,8 @@ https://www.un.org/en/about-us/un-charter/full-text
 <a id="q10"></a>
 ## ১০. “Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development”
 
-**বাংলা ভাবার্থ:** বাস্তবায়নের উপায় শক্তিশালী করা এবং টেকসই উন্নয়নের বৈশ্বিক অংশীদারত্ব পুনরুজ্জীবিত করা।  
-**উৎস:** United Nations, Sustainable Development Goal 17, title.  
+**বাংলা ভাবার্থ:** বাস্তবায়নের উপায় শক্তিশালী করা এবং টেকসই উন্নয়নের বৈশ্বিক অংশীদারত্ব পুনরুজ্জীবিত করা।\
+**উৎস:** United Nations, Sustainable Development Goal 17, title.\
 https://sdgs.un.org/goals/goal17
 
 **যে প্রশ্নে ব্যবহার:** development diplomacy; foreign aid; technology transfer; SDGs; international cooperation.
@@ -138,8 +145,8 @@ https://sdgs.un.org/goals/goal17
 <a id="q11"></a>
 ## ১১. “Take urgent action to combat climate change and its impacts”
 
-**বাংলা ভাবার্থ:** জলবায়ু পরিবর্তন ও এর প্রভাব মোকাবিলায় জরুরি পদক্ষেপ নেওয়া।  
-**উৎস:** United Nations, Sustainable Development Goal 13, title.  
+**বাংলা ভাবার্থ:** জলবায়ু পরিবর্তন ও এর প্রভাব মোকাবিলায় জরুরি পদক্ষেপ নেওয়া।\
+**উৎস:** United Nations, Sustainable Development Goal 13, title.\
 https://sdgs.un.org/goals/goal13
 
 **যে প্রশ্নে ব্যবহার:** climate diplomacy; adaptation finance; loss and damage; জলবায়ু-ঝুঁকিপূর্ণ দেশের কূটনীতি।
@@ -147,8 +154,8 @@ https://sdgs.un.org/goals/goal13
 <a id="q12"></a>
 ## ১২. “raising standards of living, ensuring full employment and a large and steadily growing volume of real income and effective demand”
 
-**বাংলা ভাবার্থ:** জীবনযাত্রার মান ও কর্মসংস্থান বৃদ্ধি এবং প্রকৃত আয় ও কার্যকর চাহিদার ধারাবাহিক উন্নতি।  
-**উৎস:** Marrakesh Agreement Establishing the World Trade Organization, Preamble.  
+**বাংলা ভাবার্থ:** জীবনযাত্রার মান ও কর্মসংস্থান বৃদ্ধি এবং প্রকৃত আয় ও কার্যকর চাহিদার ধারাবাহিক উন্নতি।\
+**উৎস:** Marrakesh Agreement Establishing the World Trade Organization, Preamble.\
 https://www.wto.org/english/docs_e/legal_e/04-wto_e.htm
 
 **যে প্রশ্নে ব্যবহার:** international trade; economic diplomacy; export diversification; employment and development.
@@ -158,8 +165,8 @@ https://www.wto.org/english/docs_e/legal_e/04-wto_e.htm
 <a id="q13"></a>
 ## ১৩. “The United Nations remains the focus of man’s hope for the future.”
 
-**বাংলা ভাবার্থ:** ভবিষ্যৎ নিয়ে মানবজাতির আশার একটি প্রধান কেন্দ্র জাতিসংঘ।  
-**উৎস:** UN document A/75/557 (2021), quoting Sheikh Mujibur Rahman’s 1974 UN address.  
+**বাংলা ভাবার্থ:** ভবিষ্যৎ নিয়ে মানবজাতির আশার একটি প্রধান কেন্দ্র জাতিসংঘ।\
+**উৎস:** UN document A/75/557 (2021), quoting Sheikh Mujibur Rahman’s 1974 UN address.\
 https://digitallibrary.un.org/record/3905679/files/A_75_557-EN.pdf
 
 **যে প্রশ্নে ব্যবহার:** বাংলাদেশের UN membership; multilateralism; শান্তি ও আন্তর্জাতিক সহযোগিতা।
@@ -169,8 +176,8 @@ https://digitallibrary.un.org/record/3905679/files/A_75_557-EN.pdf
 <a id="q14"></a>
 ## ১৪. “general and complete disarmament”
 
-**বাংলা ভাবার্থ:** সাধারণ ও সম্পূর্ণ নিরস্ত্রীকরণ।  
-**উৎস:** Constitution of Bangladesh, Article 25(a).  
+**বাংলা ভাবার্থ:** সাধারণ ও সম্পূর্ণ নিরস্ত্রীকরণ।\
+**উৎস:** Constitution of Bangladesh, Article 25(a).\
 https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 
 **যে প্রশ্নে ব্যবহার:** international security; arms control; peacekeeping; disarmament.
@@ -180,8 +187,8 @@ https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 <a id="q15"></a>
 ## ১৫. “Mankind must put an end to war—or war will put an end to mankind.”
 
-**বাংলা ভাবার্থ:** মানবজাতিকে যুদ্ধের অবসান ঘটাতে হবে; নইলে যুদ্ধ মানবজাতিরই অবসান ঘটাতে পারে।  
-**উৎস:** John F. Kennedy, Address to the United Nations General Assembly, 25 September 1961; transcript published by the Miller Center / John F. Kennedy Presidential Library.  
+**বাংলা ভাবার্থ:** মানবজাতিকে যুদ্ধের অবসান ঘটাতে হবে; নইলে যুদ্ধ মানবজাতিরই অবসান ঘটাতে পারে।\
+**উৎস:** John F. Kennedy, Address to the United Nations General Assembly, 25 September 1961; transcript published by the Miller Center / John F. Kennedy Presidential Library.\
 https://millercenter.org/the-presidency/presidential-speeches/september-25-1961-address-un-general-assembly
 
 **যে প্রশ্নে ব্যবহার:** UN peacekeeping, disarmament, international security, peaceful settlement of disputes.
@@ -191,8 +198,8 @@ https://millercenter.org/the-presidency/presidential-speeches/september-25-1961-
 <a id="q16"></a>
 ## ১৬. “It isn't enough to talk of peace. One must believe it. And it isn't enough to believe in it. One must work at it.”
 
-**বাংলা ভাবার্থ:** শান্তির কথা বলা বা তাতে বিশ্বাস করাই যথেষ্ট নয়; শান্তির জন্য কাজও করতে হয়।  
-**উৎস:** Eleanor Roosevelt, Voice of America broadcast, 11 November 1951; quotation and broadcast attribution documented by Friends of Silence.  
+**বাংলা ভাবার্থ:** শান্তির কথা বলা বা তাতে বিশ্বাস করাই যথেষ্ট নয়; শান্তির জন্য কাজও করতে হয়।\
+**উৎস:** Eleanor Roosevelt, Voice of America broadcast, 11 November 1951; quotation and broadcast attribution documented by Friends of Silence.\
 https://www.friendsofsilence.net/quote/2022-06/it-isnt-enough-talk-about-peace
 
 **যে প্রশ্নে ব্যবহার:** peacekeeping, conflict prevention, diplomacy, multilateral cooperation.
@@ -202,8 +209,8 @@ https://www.friendsofsilence.net/quote/2022-06/it-isnt-enough-talk-about-peace
 <a id="q17"></a>
 ## ১৭. “The Organization is based on the principle of the sovereign equality of all its Members.”
 
-**বাংলা ভাবার্থ:** জাতিসংঘের ভিত্তি তার সব সদস্যের সার্বভৌম সমতার নীতি।  
-**উৎস:** Charter of the United Nations, Article 2(1).  
+**বাংলা ভাবার্থ:** জাতিসংঘের ভিত্তি তার সব সদস্যের সার্বভৌম সমতার নীতি।\
+**উৎস:** Charter of the United Nations, Article 2(1).\
 https://www.un.org/en/about-us/un-charter/full-text
 
 **যে প্রশ্নে ব্যবহার:** Bangladesh’s sovereignty, multilateral diplomacy, UN reform, small-state bargaining power.
@@ -213,8 +220,8 @@ https://www.un.org/en/about-us/un-charter/full-text
 <a id="q18"></a>
 ## ১৮. “To maintain international peace and security”
 
-**বাংলা ভাবার্থ:** আন্তর্জাতিক শান্তি ও নিরাপত্তা বজায় রাখা।  
-**উৎস:** Charter of the United Nations, Article 1(1), excerpt.  
+**বাংলা ভাবার্থ:** আন্তর্জাতিক শান্তি ও নিরাপত্তা বজায় রাখা।\
+**উৎস:** Charter of the United Nations, Article 1(1), excerpt.\
 https://www.un.org/en/about-us/un-charter/full-text
 
 **যে প্রশ্নে ব্যবহার:** UN, peacekeeping, conflict prevention, Rohingya diplomacy and regional stability.
