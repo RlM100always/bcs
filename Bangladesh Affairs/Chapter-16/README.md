@@ -4,7 +4,7 @@
 > **মূল ভাষা:** বাংলা; প্রশ্ন, key terms ও quotation: English  
 > **Source review:** ২১ অক্টোবর ২০২৬ · **পাঠের কাঠামো:** ঐতিহাসিক ধারাবাহিকতা → কারণ–ফল বিশ্লেষণ → দলিল ও সময়রেখা → বিগত প্রশ্নের theme audit → প্রবন্ধ → model Q&A।
 
-[← Bangladesh Affairs-এর মূল সূচি](../README.md) · [📚 PYQ-ভিত্তিক গুরুত্বপূর্ণ প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [💬 English Quotations + Sources](./QUOTATIONS.md)
+[← Bangladesh Affairs-এর মূল সূচি](../README.md) · [৩৫তম–৪৭তম BCS PYQ Audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি উত্তরসহ Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [৮টি source-backed প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [২০টি English Quotations + Sources](./QUOTATIONS.md#verified-quotes)
 
 <a id="top"></a>
 
@@ -21,6 +21,43 @@
 | [গণহত্যা ও শরণার্থী](#atrocities) | [বিজয় ও প্রত্যাবর্তন](#victory) | [প্রবন্ধ](./PYQ-BASED-ESSAYS.md) |
 | [পরিভাষা](#terms) | [অনুশীলনী](#questions) | [English quotations](./QUOTATIONS.md) |
 | [এক পৃষ্ঠার revision](#revision) | [উৎসতালিকা](#sources) | [Accuracy note](#accuracy) |
+| [Visual Atlas: ৬টি SVG diagram/chart](#visual-atlas) | [২৫টি answered model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) | [৩৫তম–৪৭তম PYQ audit](./PYQ-35TH-47TH-AUDIT.md) |
+
+
+<a id="visual-atlas"></a>
+## Visual Atlas — ৬টি revision diagram/chart
+
+**ব্যবহারবিধি:** এখানে ছয়টি revision diagram রয়েছে। ১০টি internet-sourced historical image এখন সংশ্লিষ্ট পাঠের পাশে রাখা হয়েছে; প্রতিটির caption-এ মূল file page, উৎস ও licence/reuse note রয়েছে। মুক্তিযুদ্ধের সেক্টর মানচিত্রটি সংশ্লিষ্ট যুদ্ধ-সংগঠন অংশে রয়েছে; সীমানা ও কমান্ডের পরিবর্তন বোঝাতে নির্দিষ্ট সময় উল্লেখ করুন।
+
+### A. ছয়টি দ্রুত revision diagram
+
+**১. ১৯৪৭–১৯৭১ সময়রেখা**
+
+![Liberation War timeline from 1947 to 1971](./assets/visuals/01-timeline.svg)
+
+**২. মুক্তিযুদ্ধের বহুমাত্রিক কারণ**
+
+![Political, cultural, economic and democratic causes of the Liberation War](./assets/visuals/02-causes-map.svg)
+
+**৩. মুজিবনগর সরকারের কাঠামো**
+
+![Mujibnagar provisional government structure](./assets/visuals/03-mujibnagar-structure.svg)
+
+**৪. মুক্তিযুদ্ধের সংগঠন ও সামরিক কার্যক্রম**
+
+![Liberation War operational structure](./assets/visuals/04-war-operations.svg)
+
+**৫. BCS Written ২০ নম্বরের উত্তর কাঠামো**
+
+![Six-part BCS Written answer architecture](./assets/visuals/05-answer-architecture.svg)
+
+**৬. PYQ evidence matrix** — এটি সরকারি frequency chart নয়; নথিভুক্ত উদাহরণ ও audit status-এর visual summary।
+
+![BCS Liberation War question theme evidence matrix](./assets/visuals/06-pyq-themes.svg)
+
+> **Image integrity:** ছবিগুলো সংশ্লিষ্ট পাঠের পাশে বসানো হয়েছে; প্রতিটি ছবির caption-এ মূল file page, উৎস ও প্রযোজ্য licence রয়েছে। ছবিকে একা বিতর্কিত ঐতিহাসিক দাবির প্রমাণ হিসেবে ব্যবহার করবেন না.
+
+---
 
 <a id="goals"></a>
 ## ১. শিখনফল ও সিলেবাসের সঙ্গে সম্পর্ক
@@ -71,6 +108,16 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Subjec
 ২. ছাত্রসমাজ ও নাগরিক সমাজের সংগঠিত ভূমিকা দৃশ্যমান হয়।  
 ৩. পরবর্তী স্বায়ত্তশাসন ও স্বাধীনতা আন্দোলনের জন্য প্রতীক, স্মৃতি ও সংগঠনের ভিত্তি তৈরি হয়।  
 ৪. ২১ ফেব্রুয়ারি পরবর্তীকালে UNESCO-র International Mother Language Day হিসেবে আন্তর্জাতিক স্বীকৃতি পায়। [S4]
+
+#### ১. ১৯৫২ সালের ভাষা আন্দোলন
+![1952 Bengali Language Movement procession in Dhaka](../assets/photos/commons-94772d3b8eb9b2b4.jpg)
+
+**পরীক্ষায় প্রয়োগ:** ভাষা আন্দোলনের গণভিত্তি ও বাঙালি জাতীয়তাবাদের সাংস্কৃতিক শিকড়। Source/file page: [Wikimedia Commons — 1952 Bengali Language movement.jpg](https://commons.wikimedia.org/wiki/File:1952_Bengali_Language_movement.jpg) (file page lists public-domain status).
+
+#### ২. শহিদ মিনার
+![Shaheed Minar of the Bengali language movement](../assets/photos/commons-07362ffe0dc9f0f8.jpg)
+
+**পরীক্ষায় প্রয়োগ:** ভাষা-শহিদদের স্মৃতি, সাংস্কৃতিক পরিচয় ও স্মৃতির রাজনীতি। Source/licence: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Shaheed_Minar_of_the_Bengali_language_movement.jpg), CC BY-SA 4.0; attribution required.
 
 ### ৩.৩ ১৯৫৪ সালের যুক্তফ্রন্ট নির্বাচন
 
@@ -130,6 +177,11 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Subjec
 
 ১ মার্চ জাতীয় পরিষদের অধিবেশন স্থগিতের ঘোষণার পর পূর্ব বাংলায় ব্যাপক প্রতিবাদ শুরু হয়। প্রশাসন, শিক্ষা প্রতিষ্ঠান, ব্যবসা ও দৈনন্দিন কার্যক্রমে অসহযোগ আন্দোলন ছড়িয়ে পড়ে। আওয়ামী লীগের নেতৃত্বে কেন্দ্রীয় সরকারের কর্তৃত্ব কার্যত চ্যালেঞ্জের মুখে পড়ে। এ আন্দোলন শুধু রাজনৈতিক সভা-সমাবেশে সীমিত ছিল না; প্রশাসনিক নির্দেশ পালন, রাজস্ব ও যোগাযোগ ব্যবস্থার ওপরও এর প্রভাব পড়ে।
 
+#### ৩. ৭ মার্চের ভাষণ
+![Sheikh Mujibur Rahman delivering the 7 March 1971 speech](../assets/photos/commons-ca8ae83e5e644293.jpg)
+
+**পরীক্ষায় প্রয়োগ:** অসহযোগ আন্দোলন, গণসংগঠন ও স্বাধীনতার রাজনৈতিক প্রস্তুতি। Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Sheikh_Mujibur_Rahman_Delivering_7_March_Speech_of_Sheikh_Mujibur_Rahman_at_Ramna_Race_Course_Dhaka_1971-03-07_%28PID-0033891%29.jpg); verify the file page for attribution and reuse terms. Related authoritative record: [UNESCO Memory of the World](https://www.unesco.org/en/memory-world/historic-7th-march-speech-bangabandhu-sheikh-mujibur-rahman).
+
 ### ৭ মার্চের ভাষণের ঐতিহাসিক তাৎপর্য
 
 ১৯৭১ সালের ৭ মার্চ ঢাকার রেসকোর্স ময়দানে শেখ মুজিবুর রহমানের ভাষণ আন্দোলনকে ঐক্যবদ্ধ দিকনির্দেশ দেয়। ভাষণটিতে জনগণের অধিকার, রাজনৈতিক সমঝোতার শর্ত, প্রতিরোধের প্রস্তুতি এবং মুক্তির লক্ষ্য একত্রে উঠে আসে। ভাষণের তাৎপর্য তিন স্তরে ব্যাখ্যা করা যায়:
@@ -173,6 +225,16 @@ UNESCO ২০১৭ সালে ভাষণটিকে Memory of the World In
 
 **সংখ্যা ব্যবহারের নিয়ম:** মৃত্যুর সংখ্যা, ধর্ষণের শিকার, শরণার্থী এবং বাস্তুচ্যুত মানুষের সংখ্যা বিভিন্ন সরকারি, গবেষণামূলক ও আন্তর্জাতিক উৎসে ভিন্নভাবে পাওয়া যায়। পরীক্ষায় নির্দিষ্ট সংখ্যা লিখলে উৎস, সংজ্ঞা ও অনুমানের সীমা উল্লেখ করুন। কোনো সংখ্যা যাচাই করতে না পারলে “millions of refugees” বা “widespread atrocities” ধরনের সংযত বর্ণনা ব্যবহার করুন এবং প্রতিষ্ঠিত উৎস উল্লেখ করুন। [S6, S7]
 
+#### ৮. জাতীয় স্মৃতিসৌধ, সাভার
+![National Martyrs Memorial in Savar](../assets/photos/commons-bbfbf559f1a136c7.jpg)
+
+**পরীক্ষায় প্রয়োগ:** জাতীয় স্মৃতি, আত্মত্যাগ ও স্বাধীনতার প্রতীক। Source/licence: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:The_National_Martyrs%E2%80%99_Memorial.jpg); file page credits Shafiul Islam Shaikot.
+
+#### ৯. মুক্তিযুদ্ধ জাদুঘর
+![Bangladesh Liberation War Museum](../assets/photos/commons-5fce4598f3b669d6.jpg)
+
+**পরীক্ষায় প্রয়োগ:** দলিল সংরক্ষণ, মৌখিক ইতিহাস, প্রমাণ ও জাতীয় স্মৃতি। Source/licence: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Bangladesh_Liberation_War_Museum.jpg), CC BY 2.0.
+
 ### বুদ্ধিজীবী হত্যাকাণ্ড
 
 ডিসেম্বর ১৯৭১-এর শেষ পর্যায়ে বুদ্ধিজীবী হত্যাকাণ্ড বাংলাদেশের জ্ঞান, শিক্ষা, সংস্কৃতি ও ভবিষ্যৎ নেতৃত্বকে আঘাত করার একটি ভয়াবহ ঘটনা হিসেবে স্মরণ করা হয়। শিক্ষক, চিকিৎসক, সাংবাদিক, লেখক ও অন্যান্য পেশাজীবী নিহত হন। এ ঘটনা রাষ্ট্রগঠন-পরবর্তী মানবসম্পদ, স্মৃতি ও ন্যায়বিচারের আলোচনায় গুরুত্বপূর্ণ।
@@ -185,6 +247,16 @@ UNESCO ২০১৭ সালে ভাষণটিকে Memory of the World In
 ## ৮. মুজিবনগর সরকার: গঠন, নেতৃত্ব ও কার্যাবলি
 
 স্বাধীনতার ঘোষণাপত্র ১০ এপ্রিল ১৯৭১-এ গৃহীত হয়; ১৭ এপ্রিল মেহেরপুরের বৈদ্যনাথতলায় অস্থায়ী সরকারের শপথ অনুষ্ঠিত হয়। স্থানটি পরে মুজিবনগর নামে পরিচিত হয়। বঙ্গবন্ধু শেখ মুজিবুর রহমান রাষ্ট্রপতি, সৈয়দ নজরুল ইসলাম অস্থায়ী রাষ্ট্রপতি, তাজউদ্দীন আহমদ প্রধানমন্ত্রী এবং অন্যান্য নেতারা সরকার পরিচালনায় দায়িত্ব পালন করেন। বঙ্গবন্ধু পাকিস্তানে বন্দি থাকায় অস্থায়ী রাষ্ট্রপতি কার্যনির্বাহী নেতৃত্ব দেন। নাম ও পদবির বিস্তারিত প্রাথমিক ঘোষণাপত্র ও সরকারি নথি অনুযায়ী লিখুন। [S8]
+
+#### ৪. মুজিবনগর সরকার: ১৭ এপ্রিল ১৯৭১
+![Provisional Government of Bangladesh on 17 April 1971](../assets/photos/commons-7496b88200dbef8d.jpg)
+
+**পরীক্ষায় প্রয়োগ:** অস্থায়ী সরকারের শপথ, বৈধতা ও মুক্তিযুদ্ধের প্রশাসনিক কাঠামো। Source/file page: [Wikimedia Commons — Provisional Government of BD.jpg](https://commons.wikimedia.org/wiki/File:Provisional_Government_of_BD.jpg); attribution/licence details are on the file page.
+
+#### ৫. মুজিবনগর স্মৃতিসৌধ ও বাংলাদেশের মানচিত্র
+![Aerial view of the map at Mujibnagar Memorial Complex](../assets/photos/commons-7d90a866513c215f.jpg)
+
+**পরীক্ষায় প্রয়োগ:** মুজিবনগরের ভৌগোলিক অবস্থান, অস্থায়ী সরকারের শপথ এবং মুক্তিযুদ্ধের স্মৃতির মানচিত্রায়ন। Source/licence: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Mujibnagar_Memorial_Bangladesh_Map._%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%A8%E0%A6%97%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A7%8C%E0%A6%A7_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A5%A4.jpg); CC BY 4.0 according to the file page.
 
 ### প্রধান কার্যাবলি
 1. স্বাধীনতার রাজনৈতিক ও সাংবিধানিক ভিত্তি তুলে ধরা;
@@ -201,12 +273,27 @@ UNESCO ২০১৭ সালে ভাষণটিকে Memory of the World In
 
 মুক্তিযুদ্ধ ছিল নিয়মিত বাহিনী, গেরিলা যোদ্ধা, স্থানীয় প্রতিরোধ এবং সাধারণ মানুষের সহায়তার সমন্বিত সংগ্রাম। যুদ্ধ পরিচালনায় অঞ্চলভিত্তিক সেক্টর সংগঠন, প্রশিক্ষণ, যোগাযোগ, গোয়েন্দা তথ্য, সরবরাহ এবং স্থানীয় জনসমর্থন গুরুত্বপূর্ণ ছিল। মুক্তিবাহিনীর অভিযান পাকিস্তানি বাহিনীর চলাচল ও নিয়ন্ত্রণকে চ্যালেঞ্জ করে। ডিসেম্বর ১৯৭১-এ ভারতীয় বাহিনী ও বাংলাদেশের মুক্তিবাহিনীর যৌথ সামরিক অগ্রযাত্রার মধ্যে যুদ্ধ দ্রুত চূড়ান্ত পর্যায়ে পৌঁছায়।
 
+#### ৬. মুক্তিযুদ্ধের ১১টি সেক্টরের মানচিত্র
+![Bangladesh Liberation War sectors map](../assets/photos/commons-cbda349f23350a10.png)
+
+**পরীক্ষায় প্রয়োগ:** সেক্টরভিত্তিক সংগঠন, আঞ্চলিক প্রতিরোধ ও গেরিলা যুদ্ধ। Source/licence: [Wikimedia Commons sector map](https://commons.wikimedia.org/wiki/File:%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A7%80%E0%A6%A8%E0%A6%A4%E0%A6%BE_%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9.svg); CC0/public-domain dedication on the file page. Historical boundary simplifications should not replace a dated operational map.
+
+#### ৭. আত্মসমর্পণ দলিল, ১৬ ডিসেম্বর ১৯৭১
+![Signing of the Instrument of Surrender on 16 December 1971](../assets/photos/commons-e1de03b85b0356ff.jpg)
+
+**পরীক্ষায় প্রয়োগ:** চূড়ান্ত বিজয়, আত্মসমর্পণ ও যুদ্ধের সামরিক সমাপ্তি। Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:1971_Instrument_of_Surrender_WaPo.jpg); check file-page source/licence before reuse.
+
 ### ১৬ ডিসেম্বর ১৯৭১
 
 ঢাকায় পাকিস্তানি বাহিনীর আত্মসমর্পণের মাধ্যমে বাংলাদেশের বিজয় নিশ্চিত হয়। এই আত্মসমর্পণ শুধু সামরিক পরাজয়ের ঘটনা নয়; এটি জনগণের আত্মনিয়ন্ত্রণের সংগ্রাম, রাজনৈতিক নেতৃত্ব, মুক্তিযোদ্ধাদের ত্যাগ এবং আন্তর্জাতিক-আঞ্চলিক পরিস্থিতির সম্মিলিত ফল। তবে বিজয়ের পরও ধ্বংসপ্রাপ্ত অবকাঠামো, বাস্তুচ্যুত মানুষ, যুদ্ধাহত ব্যক্তি, পরিবার হারানো শিশু, অর্থনৈতিক বিপর্যয় ও পুনর্বাসনের বিশাল দায়িত্ব থেকে যায়।
 
 <a id="victory"></a>
 ## ১০. প্রধান শক্তি, জাতিসংঘ ও আন্তর্জাতিক প্রতিক্রিয়া
+
+#### ১০. ১৯৭১-এর “Blood Telegram” দলিলের পুনরুৎপাদন
+![Reproduction of the Blood Telegram at the Liberation War Museum](../assets/photos/commons-6e53097304bf53bb.jpg)
+
+**পরীক্ষায় প্রয়োগ:** আন্তর্জাতিক কূটনীতি, মার্কিন কনস্যুলেটের প্রতিবাদ, মানবাধিকার ও শীতল যুদ্ধের প্রেক্ষাপট। Source/licence: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Detail_of_Reproduction_of_the_Blood_Telegram_from_1971_Genocide_-_Liberation_War_Museum_-_Dhaka_-_Bangladesh_%2812826753894%29.jpg), CC BY-SA 2.0.
 
 ### ভারতের ভূমিকা
 ভারত শরণার্থীদের আশ্রয়, প্রশিক্ষণ ও সহায়তা, কূটনৈতিক প্রচার এবং যুদ্ধের শেষ পর্যায়ে সামরিক অংশগ্রহণের মাধ্যমে গুরুত্বপূর্ণ ভূমিকা রাখে। একই সঙ্গে শরণার্থী সংকট ভারতের ওপর বড় অর্থনৈতিক ও প্রশাসনিক চাপ সৃষ্টি করে। মূল্যায়নে মানবিক, কূটনৈতিক ও সামরিক ভূমিকা পৃথক করে লিখুন।
@@ -235,6 +322,8 @@ UNESCO ২০১৭ সালে ভাষণটিকে Memory of the World In
 <a id="pyq"></a>
 ## ১২. Previous BCS Question Analysis — কী পড়লে একাধিক প্রশ্নের উত্তর হবে?
 
+**[➡️ ৩৫তম–৪৭তম BCS year-by-year PYQ audit খুলুন](./PYQ-35TH-47TH-AUDIT.md)** · **[➡️ ২৫টি পূর্ণ মডেল উত্তর](./BCS-WRITTEN-QUESTION-BANK.md)** · **[➡️ ২০টি source-backed English quotation](./QUOTATIONS.md#verified-quotes)**
+
 ### প্রমাণ ও সীমাবদ্ধতা
 এই অধ্যায়ের জন্য প্রকাশ্যে প্রচলিত BCS প্রশ্নসংকলনে দেখা যায় এমন বিষয়-থিমকে পরীক্ষামুখী করে সাজানো হয়েছে। **এগুলোকে BPSC-এর মূল প্রশ্নপত্রের হুবহু প্রতিলিপি বলা হচ্ছে না**; প্রতিটি প্রশ্নের বছর/শব্দচয়ন দাবি করতে হলে মূল প্রশ্নপত্রের scan দরকার। নিচেরগুলো **high-priority question themes**—নির্দিষ্ট বছরে এসেছে এমন নিশ্চয়তা নয়।
 
@@ -255,6 +344,8 @@ UNESCO ২০১৭ সালে ভাষণটিকে Memory of the World In
 
 <a id="questions"></a>
 ## ১৩. Practice Questions — English question, বাংলা উত্তর-পরিকল্পনা
+
+নিচের ১০টি prompt দ্রুত self-test-এর জন্য। প্রতিটির পূর্ণাঙ্গ বাংলা model answer, Article/date/source ও পরীক্ষামুখী structure-এর জন্য [২৫টি Answered Model Question Bank](./BCS-WRITTEN-QUESTION-BANK.md) দেখুন।
 
 1. **What were the major causes of the Liberation War of Bangladesh?**  
    পরিকল্পনা: দীর্ঘমেয়াদি কারণ (ভাষা, রাজনৈতিক ও অর্থনৈতিক বৈষম্য) + স্বায়ত্তশাসনের আন্দোলন + তাৎক্ষণিক সংকট + উপসংহার।
@@ -319,4 +410,6 @@ UNESCO ২০১৭ সালে ভাষণটিকে Memory of the World In
 - **Quotations:** ইংরেজি quotation bank-এ ছোট, source-attributed excerpt ও exam-ready paraphrase আলাদা করা হয়েছে। কোনো paraphrase-কে হুবহু quote হিসেবে ব্যবহার করবেন না।
 - **Exam writing:** তারিখ, দলিল ও প্রতিষ্ঠান দিয়ে যুক্তি সমর্থন করুন; উৎসের নাম লিখুন; প্রশ্নের বাইরে অপ্রয়োজনীয় ঘটনা যোগ করবেন না।
 
-[⬆️ উপরে যান](#top) · [📚 PYQ-based Essays](./PYQ-BASED-ESSAYS.md) · [💬 English Quotations](./QUOTATIONS.md) · [সূচিতে ফিরে যান](../README.md)
+[⬆️ উপরে যান](#top) · [৩৫তম–৪৭তম PYQ audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি answered model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [📚 PYQ-based Essays](./PYQ-BASED-ESSAYS.md) · [২০টি English Quotations + Sources](./QUOTATIONS.md#verified-quotes) · [সূচিতে ফিরে যান](../README.md)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

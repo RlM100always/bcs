@@ -121,3 +121,98 @@ The 1970 election produced a clear democratic mandate, but the failure to transf
 - Using quotations as a substitute for analysis.
 - Quoting long passages from copyrighted modern works.
 - Writing “UNESCO said…” when the sentence is your own summary.
+
+
+## D. Additional authoritative quotations for flexible exam use
+
+> **Citation caution:** English translations of Bangla historical documents can vary between editions. Keep the source/document name beside the quotation and do not attribute the original English wording to a speaker unless the cited transcript supports it.
+
+### 4. Bangladesh Constitution — Preamble
+> “We, the people of Bangladesh, having proclaimed our Independence on the 26th day of March, 1971…”
+
+**Source:** *The Constitution of the People’s Republic of Bangladesh*, Preamble, official English text.  
+**Use:** state formation, popular sovereignty, constitutionalism and post-independence reconstruction.  
+**Official source:** https://bdlaws.minlaw.gov.bd/act-367.html
+
+### 5. Bangladesh Constitution — language and national identity
+> “The state language of the Republic is Bangla.”
+
+**Source:** *The Constitution of the People’s Republic of Bangladesh*, Article 3, official English text.  
+**Use:** Language Movement, linguistic identity and constitutional recognition.  
+**Official source:** https://bdlaws.minlaw.gov.bd/act-367.html
+
+### 6. UNESCO — cultural diversity
+> “Cultural diversity is as necessary for humankind as biodiversity is for nature.”
+
+**Source:** UNESCO, *Universal Declaration on Cultural Diversity* (2001), Article 1.  
+**Use:** language, folk culture, indigenous communities, plural identity and cultural heritage.  
+**Source:** https://www.unesco.org/en/legal-affairs/unesco-universal-declaration-cultural-diversity
+
+### 7. UNESCO — safeguarding heritage
+> “The deterioration or disappearance of any item of the cultural or natural heritage constitutes a harmful impoverishment of the heritage of all the nations of the world.”
+
+**Source:** UNESCO, *Convention Concerning the Protection of the World Cultural and Natural Heritage* (1972), Preamble.  
+**Use:** Paharpur, Bagerhat, archaeological conservation and heritage protection.  
+**Source:** https://whc.unesco.org/en/conventiontext/
+
+### 8. Universal Declaration of Human Rights — freedom of expression
+> “Everyone has the right to freedom of opinion and expression…”
+
+**Source:** United Nations, *Universal Declaration of Human Rights* (1948), Article 19.  
+**Use:** Language Movement, press freedom, cultural expression and democratic rights.  
+**Source:** https://www.un.org/en/about-us/universal-declaration-of-human-rights
+
+### 9. Universal Declaration of Human Rights — cultural participation
+> “Everyone has the right freely to participate in the cultural life of the community…”
+
+**Source:** United Nations, *Universal Declaration of Human Rights* (1948), Article 27(1).  
+**Use:** folk culture, cultural rights, public access to heritage and inclusive national identity.  
+**Source:** https://www.un.org/en/about-us/universal-declaration-of-human-rights
+
+### 10. UNESCO — safeguarding living heritage
+> “The ‘intangible cultural heritage’ means the practices, representations, expressions, knowledge, skills…”
+
+**Source:** UNESCO, *Convention for the Safeguarding of the Intangible Cultural Heritage* (2003), Article 2(1).  
+**Use:** Baul songs, Mangal Shobhajatra, oral traditions, crafts and community-based heritage.  
+**Source:** https://ich.unesco.org/en/convention
+
+### 11. United Nations Charter — peace and international cooperation
+> “to save succeeding generations from the scourge of war…”
+
+**Source:** *Charter of the United Nations* (1945), Preamble.  
+**Use:** international context of the Liberation War, refugees, diplomacy and the role of international institutions.  
+**Source:** https://www.un.org/en/about-us/un-charter/full-text
+
+### 12. The Historic 7 March Speech — concise anchor
+> “The struggle this time is the struggle for our emancipation; the struggle this time is the struggle for independence.”
+
+**Source:** Sheikh Mujibur Rahman, 7 March 1971 speech; UNESCO Memory of the World and preserved speech records.  
+**Use:** mass mobilisation, non-cooperation, political leadership and the path to independence.  
+**Source:** https://www.unesco.org/en/memory-world
+
+### 13. Proclamation of Independence — popular mandate
+> “We, the elected representatives of the people of Bangladesh…”
+
+**Source:** *Proclamation of Independence*, 10 April 1971. Use the complete text when discussing the legal and political foundation of the Mujibnagar Government.  
+**Use:** election mandate, state formation and constitutional legitimacy.  
+**Reference:** Banglapedia, “Constitutional Development.” https://en.banglapedia.org/index.php?title=Constitutional_Development
+
+### 14. UNESCO — culture as a shared responsibility
+> “The cultural heritage of each is the cultural heritage of all.”
+
+**Source note:** This wording is a concise **exam-ready paraphrase**, not a verified verbatim UNESCO quotation. Do not put it in quotation marks in an exam; write it as your own summary and cite the 1972 World Heritage Convention instead.  
+**Use:** shared responsibility for preservation and international heritage cooperation.
+
+## E. Best quotation choices by question
+
+| Question theme | Best quotation / source | How to connect it |
+|---|---|---|
+| Language Movement and national identity | Constitution, Article 3; UDHR Article 19 | Explain language as identity and a question of expression and recognition |
+| 7 March Speech and Liberation War | 7 March Speech; Proclamation of Independence | Connect mass mobilisation to political mandate and state formation |
+| Mujibnagar Government | Proclamation of Independence, 10 April 1971 | Explain the legal-political framework of the war |
+| Paharpur, Bagerhat and archaeology | UNESCO World Heritage Convention (1972) | Argue that conservation protects shared human heritage |
+| Baul, Mangal Shobhajatra and folk culture | UNESCO Universal Declaration on Cultural Diversity (2001); ICH Convention (2003) | Connect living traditions with diversity and community participation |
+| Post-independence state-building | Bangladesh Constitution, Preamble | Link independence, popular sovereignty and constitutional order |
+| International dimension of 1971 | UN Charter, Preamble | Discuss peace, international cooperation and humanitarian concerns |
+
+**Exam rule:** One well-connected quotation is usually enough for a 10- or 20-mark answer. The next sentence must explain its relevance to the question; do not use a quote as a substitute for historical evidence.

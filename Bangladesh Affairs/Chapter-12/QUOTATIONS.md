@@ -128,20 +128,50 @@ https://www.un.org/en/about-us/universal-declaration-of-human-rights
 
 **Use for:** digital platforms, contemporary communication, cross-border information flows.
 
-## ১৬. Quote-to-question map
+## ১৬. “Sunlight is said to be the best of disinfectants; electric light the most efficient policeman.”
+
+**বাংলা ভাবার্থ:** জনসমক্ষে তথ্য প্রকাশ অনিয়ম উন্মোচনে শক্তিশালী ভূমিকা রাখতে পারে।
+
+**Source:** Louis D. Brandeis, *Other People's Money and How the Bankers Use It* (1914), Chapter V, “What Publicity Can Do”.  
+[Louis D. Brandeis School of Law Library — primary text](https://law.louisville.edu/lawlibrary/special-collections/louis-d-brandeis-collection/writings-louis-d-brandeis/other-peoples-money-3) · [Project Gutenberg edition](https://www.gutenberg.org/files/57819/57819-h/57819-h.htm)
+
+**Use for:** RTI, proactive disclosure, investigative journalism, transparency and anti-corruption.  
+**Exam link:** Publicity and access to records can expose irregularities, but disclosure must be paired with verification, privacy safeguards and consequences for proven misconduct.
+
+## ১৭. “A popular Government, without popular information, or the means of acquiring it, is but a Prologue to a Farce or a Tragedy; or, perhaps both.”
+
+**বাংলা ভাবার্থ:** জনগণের তথ্যপ্রাপ্তি ও তথ্য অর্জনের উপায় ছাড়া জনপ্রতিনিধিত্বমূলক সরকার কার্যকরভাবে জবাবদিহি করতে পারে না।
+
+**Source:** James Madison, letter to W. T. Barry, 4 August 1822; manuscript held by the Library of Congress.  
+[Library of Congress — James Madison to W. T. Barry](https://www.loc.gov/resource/mjm.20_0155_0159/?sp=1&st=text)
+
+**Use for:** RTI, public information, civic education, accountability and democratic participation.  
+**Exam link:** Citizens need timely, reliable information to scrutinise public decisions and participate meaningfully.
+
+## ১৮. “The medium is the message.”
+
+**বাংলা ভাবার্থ:** যোগাযোগের মাধ্যম নিজেই মানুষের অভিজ্ঞতা, আচরণ ও সামাজিক সম্পর্ককে প্রভাবিত করে।
+
+**Source:** Marshall McLuhan, *Understanding Media: The Extensions of Man* (1964), Chapter 1.  
+[The Estate of Marshall McLuhan — explanation and book context](https://marshallmcluhan.org/common-questions/) · [McLuhan's New Sciences — text references](https://mcluhansnewsciences.com/mcluhan/2019/03/media-definition/)
+
+**Use for:** communication theory, social media, digital platforms, ICT and changing public debate.  
+**Exam link:** A platform's speed, reach and design can shape what people see and share, so technology policy should examine both content and the effects of the medium.
+
+## ১৯. Quote-to-question map
 
 | প্রশ্নের থিম | উদ্ধৃতি |
 |---|---|
-| গণমাধ্যমের স্বাধীনতা ও watchdog role | ১, ২, ৩, ৪, ১৪ |
-| ICT ও contemporary communication | ২, ১৫ |
-| RTI ও transparency | ৫, ৬, ৭, ১৩ |
-| E-governance ও good governance | ৭, ৯, ১০ |
+| গণমাধ্যমের স্বাধীনতা ও watchdog role | ১, ২, ৩, ৪, ১৪, ১৮ |
+| ICT ও contemporary communication | ২, ১৫, ১৮ |
+| RTI ও transparency | ৫, ৬, ৭, ১৩, ১৬, ১৭ |
+| E-governance ও good governance | ৭, ৯, ১০, ১৬, ১৭ |
 | Digital divide ও inclusion | ১০, ১১, ১২ |
 | Social media ও মতপ্রকাশ | ১, ২, ১৪, ১৫ |
 | Records management | ৬, ৭, ১৩ |
 | Citizen participation | ১, ৪, १० |
 
-## ১৭. Exam-ready analytical lines — এগুলো quotation নয়
+## ২০. Exam-ready analytical lines — এগুলো quotation নয়
 নিচের বাক্যগুলো মূল উৎস থেকে উদ্ধৃতি নয়; নিজের বিশ্লেষণ গুছিয়ে লেখার জন্য তৈরি lines। quotation marks দিয়ে কোনো ব্যক্তি/প্রতিষ্ঠানের নামে লিখবেন না।
 
 - **ICT:** Technology creates public value only when access, capability and trust grow together.
@@ -152,7 +182,7 @@ https://www.un.org/en/about-us/universal-declaration-of-human-rights
 - **Cybersecurity:** Security and privacy must be built into public digital services from the beginning.
 - **Good governance:** Digital transformation should be measured by improved citizen outcomes, not by the number of portals launched.
 
-## ১৮. Quote-use checklist
+## ২১. Quote-use checklist
 - [ ] Original source wording is retained.
 - [ ] বাংলা অংশকে ভাবার্থ হিসেবে রেখেছি।
 - [ ] প্রশ্নের সঙ্গে quote-এর সরাসরি সম্পর্ক আছে।
@@ -166,5 +196,8 @@ https://www.un.org/en/about-us/universal-declaration-of-human-rights
 3. *Right to Information Act, 2009*, sections 4–5. https://bdlaws.minlaw.gov.bd/act-1011/act-chapter-print-2220.html
 4. UN SDG 16. https://sdgs.un.org/goals/goal16
 5. UN, *2030 Agenda for Sustainable Development*. https://sdgs.un.org/2030agenda
+6. Louis D. Brandeis, *Other People's Money* (1914), Chapter V. https://law.louisville.edu/lawlibrary/special-collections/louis-d-brandeis-collection/writings-louis-d-brandeis/other-peoples-money-3
+7. James Madison, letter to W. T. Barry, 4 August 1822, Library of Congress. https://www.loc.gov/resource/mjm.20_0155_0159/?sp=1&st=text
+8. Marshall McLuhan, *Understanding Media* (1964), Chapter 1; Estate of Marshall McLuhan. https://marshallmcluhan.org/common-questions/
 
 [⬆️ মূল Chapter 12-এ ফিরে যান](./README.md)

@@ -5,7 +5,7 @@
 > **ভাষা:** প্রমিত বাংলা; প্রয়োজনীয় English terminology প্রথমবার বাংলা অর্থসহ।  
 > **Source review:** ২১ অক্টোবর ২০২৬ · **বিন্যাস:** সিলেবাস → ধারণা → সরকারি তথ্য → বিশ্লেষণ → নীতি → Visual Revision → archive-reported PYQ → ৩টি worked answer → ৩৩টি অনুশীলনী → Fact-check।
 
-[← মূল সূচি](../README.md) · [Chapter 01](../Chapter-01/README.md) · [35th–47th PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) · [২৫টি Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [১৮টি English Quotations + Sources](./QUOTATIONS.md) · [সরকারি Map/Infographics](#official-maps)
+[← মূল সূচি](../README.md) · [Chapter 01](../Chapter-01/README.md) · [35th–47th PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) · [২৫টি Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [১৮টি English Quotations + Sources](./QUOTATIONS.md) · [🗺️ Visual Atlas (8 SVG + official maps)](./VISUAL-ATLAS.md) · [সরকারি Map/Infographics](#official-maps)
 
 > 📱 **Mobile-friendly visuals:** সব ৮টি revision diagram responsive SVG image হিসেবে পুরো content width-এ দেখানো হয়। কোনো diagram না খুললে ছবিতে ক্লিক করে full-size version খুলুন। চওড়া সারণি ফোনে আড়াআড়ি scroll করা যাবে.
 
@@ -146,6 +146,13 @@ Census 2022-এর গণনাকৃত মোট <mark>১৬৫,১৫৮,৬
 <a id="trend"></a>
 ## ৩. বাংলাদেশের জনসংখ্যার প্রবণতা
 
+**দৃশ্যমান ব্যাখ্যা — জনসংখ্যার পরিবর্তন**
+
+<p><a href="./assets/visual-revision/02-population-trend.svg"><img src="./assets/visual-revision/02-population-trend.svg" width="100%" alt="বাংলাদেশের জনসংখ্যার দীর্ঘমেয়াদি প্রবণতা, ১৯৭৪–২০২২"></a></p>
+
+[পূর্ণ আকারে খুলুন](./assets/visual-revision/02-population-trend.svg) · গণনাকৃত ও সমন্বিত জনসংখ্যার series গুলিয়ে ফেলবেন না।
+
+
 ### ৩.১ দীর্ঘমেয়াদি পরিবর্তন
 
 BBS National Report-এ ১৯৭৪ থেকে ২০২২ পর্যন্ত জনশুমারিতে গণনাকৃত জনসংখ্যার দীর্ঘমেয়াদি বৃদ্ধি দেখা যায়। নিচের সংখ্যা গণনাকৃত মোটের আনুমানিক উপস্থাপন; PEC-adjusted ২০২২ মোটের সঙ্গে এই সিরিজ মেশানো যাবে না। [S2](#s2)
@@ -206,6 +213,13 @@ E --> D
 
 ### ৪.১ বয়স কাঠামো
 
+**দৃশ্যমান ব্যাখ্যা — বয়স কাঠামো**
+
+<p><a href="./assets/visual-revision/03-age-structure.svg"><img src="./assets/visual-revision/03-age-structure.svg" width="100%" alt="শিশু, কর্মক্ষম বয়স ও প্রবীণ জনগোষ্ঠীর বয়স কাঠামো"></a></p>
+
+[পূর্ণ আকারে খুলুন](./assets/visual-revision/03-age-structure.svg) · বয়সভিত্তিক গঠন শিক্ষা, কর্মসংস্থান, স্বাস্থ্য ও প্রবীণ-সেবার পরিকল্পনায় সহায়তা করে।
+
+
 Census 2022-এর প্রাথমিক গণনাকৃত বয়সভিত্তিক সারণিতে ০–১৪ বছর বয়সী জনগোষ্ঠী প্রায় ২৮.৬১%; ১৫–২৪ বছর বয়সী প্রায় ১৯.১১%। ৬০ বছর ও তদূর্ধ্ব জনগোষ্ঠীর অংশ প্রায় ৯% এর কিছু বেশি; বয়সগোষ্ঠীর rounding-এর কারণে যোগফলে সামান্য পার্থক্য হতে পারে। [S2](#s2) [S3](#s3)
 
 | বয়স-গোষ্ঠী | প্রধান চাহিদা |
@@ -236,6 +250,13 @@ BBS SVRS 2023 অনুযায়ী জন্মকালীন প্রত্�
 Dependency ratio সাধারণত শিশু ও প্রবীণ জনগোষ্ঠীর সঙ্গে কর্মক্ষম বয়সের জনসংখ্যার অনুপাত। কোন বয়সসীমা ব্যবহার করা হয়েছে তা না জেনে ভিন্ন উৎসের ratio তুলনা করবেন না। কর্মক্ষম বয়সে থাকা সবাই চাকরিতে আছেন—এমন নয়; শিক্ষা, বেকারত্ব, unpaid care work ও শ্রমশক্তির বাইরে থাকা মানুষ বিবেচনা করতে হবে।
 
 ### ৪.৫ Demographic dividend
+
+**দৃশ্যমান ব্যাখ্যা — জনমিতিক লভ্যাংশ**
+
+<p><a href="./assets/visual-revision/05-demographic-dividend.svg"><img src="./assets/visual-revision/05-demographic-dividend.svg" width="100%" alt="জনমিতিক লভ্যাংশের জন্য দক্ষতা, স্বাস্থ্য, কর্মসংস্থান ও অংশগ্রহণের শর্ত"></a></p>
+
+[পূর্ণ আকারে খুলুন](./assets/visual-revision/05-demographic-dividend.svg) · কর্মক্ষম বয়সের অংশ বেশি হলেই dividend নিশ্চিত হয় না।
+
 
 UNFPA Bangladesh-এর বিশ্লেষণ অনুযায়ী, প্রথম demographic dividend-এর শীর্ষ পর্যায় ২০২০-এর দশকের শুরুতে পৌঁছেছে; ভবিষ্যৎ সুফল নির্ভর করবে দক্ষতা, উৎপাদনশীল কাজ, নারী-অংশগ্রহণ ও মানবসম্পদে বিনিয়োগের ওপর। এটি বিশ্লেষণাত্মক মূল্যায়ন, নিশ্চিত অর্থনৈতিক ফল নয়। [S6](#s6)
 
@@ -274,6 +295,13 @@ Census 2022-এর প্রাথমিক প্রতিবেদনে ৭ �
 
 ### ৫.১ Demographic Transition Theory
 
+**দৃশ্যমান ব্যাখ্যা — জনমিতিক রূপান্তর মডেল**
+
+<p><a href="./assets/visual-revision/04-demographic-transition.svg"><img src="./assets/visual-revision/04-demographic-transition.svg" width="100%" alt="জন্মহার ও মৃত্যুহারের পরিবর্তনের ধারণামূলক জনমিতিক রূপান্তর মডেল"></a></p>
+
+[পূর্ণ আকারে খুলুন](./assets/visual-revision/04-demographic-transition.svg) · এটি conceptual model, বাংলাদেশের পর্যবেক্ষিত বার্ষিক data series নয়।
+
+
 জনমিতিক রূপান্তর তত্ত্ব সামাজিক-অর্থনৈতিক পরিবর্তনের সঙ্গে জন্মহার ও মৃত্যুহারের দীর্ঘমেয়াদি পরিবর্তন ব্যাখ্যা করে। সাধারণ মডেলে প্রথমে জন্ম ও মৃত্যু দুটোই বেশি; পরে মৃত্যুহার আগে কমে এবং জনসংখ্যা দ্রুত বাড়ে; পরবর্তী পর্যায়ে জন্মহারও কমে বৃদ্ধির গতি ধীর হয়।
 
 বাংলাদেশে প্রজনন হার কমা, প্রত্যাশিত আয়ু বৃদ্ধি ও বৃদ্ধির গতি ধীর হওয়ার প্রবণতা এই রূপান্তরের সঙ্গে সামঞ্জস্যপূর্ণ। তবে অঞ্চল, আয় ও শিক্ষাগত স্তরে পরিবর্তনের গতি ভিন্ন। এটি ব্যাখ্যামূলক মডেল; একক পর্যায় দিয়ে সব বাস্তবতা বোঝা যায় না। [S4](#s4)
@@ -307,6 +335,13 @@ Optimum population হলো এমন জনসংখ্যার ধারণ�
 জাতীয় জনসংখ্যার গড় ঘনত্ব সব অঞ্চলের বাস্তবতা দেখায় না। ঢাকা, চট্টগ্রাম, নদীতীর, উপকূল, চর, পাহাড়, হাওর ও সীমান্তাঞ্চলে বসতি, জীবিকা ও সেবার ধরন ভিন্ন। Census 2022 National Report অনুযায়ী সমন্বিত মোটের ২৬.৮৮% ঢাকা বিভাগে এবং ৫.৪৯% বরিশাল বিভাগে ছিল। এটি বিভাগভিত্তিক বণ্টন; সেবার মান বা আঞ্চলিক সমতার সরাসরি সূচক নয়। [S2](#s2)
 
 ### ৬.২ নগরায়ণ
+
+**দৃশ্যমান মানচিত্র ও স্থানিক তথ্য**
+
+- [বাংলাদেশ ডেল্টা প্ল্যান ২১০০ — Interactive Atlas](https://www.bdp2100kp.gov.bd/atlas/) — নদী, বন্যা, ভূমি ব্যবহার, জনসংখ্যা ও ঝুঁকির layer।
+- [BBS Census 2022 infographic gallery](https://bbs.portal.gov.bd/site/page/d551779e-1bee-42b2-9c31-08dc8db4c301) — city corporation, slum statistics, floating population এবং migration-এর official visual sheets।
+- [Survey of Bangladesh — official map services](https://sob.gov.bd/pages/static-pages/6922dc29933eb65569e0eb5a) — প্রশাসনিক ও topographic map।
+
 
 Census 2022-এর PEC-সমন্বিত হিসাবে <mark>৩১.৬৬%</mark> জনসংখ্যা শহুরে ও <mark>৬৮.৩৪%</mark> গ্রামীণ এলাকায় ছিল। “Urban” সংজ্ঞা দেশভেদে ভিন্ন হতে পারে—প্রশাসনিক সীমানা, built-up area ও metropolitan area এক নয়। তাই BBS census এবং World Bank/UN-এর urbanisation series সরাসরি একই মাপ ধরে তুলনা করবেন না। [S2](#s2) [S7](#s7)
 
@@ -368,6 +403,13 @@ Ethnicity বা জাতিগত পরিচয় ভাগ করা ইত�
 
 ### ৭.২ Census 2022-এর জাতিগত তথ্য
 
+**দৃশ্যমান ব্যাখ্যা — জাতিগত বৈচিত্র্য**
+
+<p><a href="./assets/visual-revision/06-ethnic-diversity.svg"><img src="./assets/visual-revision/06-ethnic-diversity.svg" width="100%" alt="জনশুমারির শ্রেণিবিন্যাস ও জীবন্ত জাতিগত আত্মপরিচয়ের পার্থক্য"></a></p>
+
+[পূর্ণ আকারে খুলুন](./assets/visual-revision/06-ethnic-diversity.svg) · এটি কোনো জনগোষ্ঠীর বসতি-মানচিত্র নয়।
+
+
 BBS National Report Volume I, Table 3.2.35 অনুযায়ী তালিকাভুক্ত জাতিগত জনগোষ্ঠীর গণনাকৃত মোট **<mark>১,৬৫০,৪৭৮</mark>**। এর <mark>৬০.০৪%</mark> চট্টগ্রাম বিভাগে এবং ১৪.৮২% রাজশাহী বিভাগে ছিল। [S2](#s2)
 
 | বিভাগ | গণনাকৃত জাতিগত জনগোষ্ঠীর মোটের অংশ |
@@ -425,6 +467,13 @@ BBS Census 2022-এ চাকমা, মারমা, ত্রিপুরা, 
 
 <a id="culture"></a>
 ## ৮. ভাষা, ধর্ম ও সাংস্কৃতিক বৈচিত্র্য
+
+**দৃশ্যমান ব্যাখ্যা — ভাষা ও সাংস্কৃতিক ঐতিহ্য**
+
+<p><a href="./assets/visual-revision/07-language-heritage.svg"><img src="./assets/visual-revision/07-language-heritage.svg" width="100%" alt="ভাষাগত বৈচিত্র্য, সাংস্কৃতিক ঐতিহ্য ও অন্তর্ভুক্তিমূলক শিক্ষা"></a></p>
+
+[পূর্ণ আকারে খুলুন](./assets/visual-revision/07-language-heritage.svg) · ভাষা, জাতিগত পরিচয়, ধর্ম ও সংস্কৃতি সম্পর্কিত হলেও একে অপরের বিকল্প নয়।
+
 
 ### ৮.১ ভাষাগত বৈচিত্র্য
 
@@ -485,6 +534,13 @@ UNESCO-র Bangladesh listing-এ ২০২৫ সাল পর্যন্ত �
 
 <a id="policy"></a>
 ## ৯. চ্যালেঞ্জ, আইন ও নীতিগত সুপারিশ
+
+**দৃশ্যমান ব্যাখ্যা — অন্তর্ভুক্তিমূলক জননীতি**
+
+<p><a href="./assets/visual-revision/08-inclusive-policy.svg"><img src="./assets/visual-revision/08-inclusive-policy.svg" width="100%" alt="তথ্য, বৈষম্য শনাক্তকরণ, অন্তর্ভুক্তিমূলক পরিকল্পনা ও ফলাফল মূল্যায়ন"></a></p>
+
+[পূর্ণ আকারে খুলুন](./assets/visual-revision/08-inclusive-policy.svg) · বয়স, লিঙ্গ, প্রতিবন্ধিতা, অঞ্চল ও আর্থসামাজিক অবস্থাভিত্তিক তথ্য নীতিনির্ধারণে কাজে লাগান।
+
 
 ### ৯.১ প্রধান চ্যালেঞ্জ ও প্রতিক্রিয়া
 
@@ -553,39 +609,28 @@ F --> A
 <a id="visuals"></a>
 ## ১০. চিত্রভিত্তিক পুনরালোচনা — ৮টি Visual Note
 
-প্রতিটি SVG আলাদা ফাইল; ছবিতে ক্লিক করলে পূর্ণ আকারে খুলবে। বিভিন্ন উৎসের সূচক একই চিত্রে থাকলে বছর আলাদা করে লেখা হয়েছে।
+চিত্রগুলো সংশ্লিষ্ট বিষয় পড়ার জায়গাতেই যুক্ত করা হয়েছে, যাতে পড়া → দেখা → বিশ্লেষণ একসঙ্গে করা যায়। একই ছবি এখানে দ্বিতীয়বার embed করা হয়নি; মোট unique chapter diagram **৮টি**, ২০টির সীমার মধ্যে।
 
-### Sheet 01 — জনমিতির মূল সূচক
-<p><a href="./assets/visual-revision/01-demographic-dashboard.svg"><img src="./assets/visual-revision/01-demographic-dashboard.svg" width="100%" alt="Bangladesh demographic dashboard"></a></p>
+| বিষয় | সরাসরি চিত্র |
+|---|---|
+| জনমিতির মূল সূচক | [Sheet 01](./assets/visual-revision/01-demographic-dashboard.svg) |
+| জনসংখ্যার প্রবণতা | [Sheet 02](./assets/visual-revision/02-population-trend.svg) |
+| বয়স কাঠামো | [Sheet 03](./assets/visual-revision/03-age-structure.svg) |
+| জনমিতিক রূপান্তর | [Sheet 04](./assets/visual-revision/04-demographic-transition.svg) |
+| জনমিতিক লভ্যাংশ | [Sheet 05](./assets/visual-revision/05-demographic-dividend.svg) |
+| জাতিগত বৈচিত্র্য | [Sheet 06](./assets/visual-revision/06-ethnic-diversity.svg) |
+| ভাষা ও ঐতিহ্য | [Sheet 07](./assets/visual-revision/07-language-heritage.svg) |
+| অন্তর্ভুক্তিমূলক নীতি | [Sheet 08](./assets/visual-revision/08-inclusive-policy.svg) |
 
-### Sheet 02 — জনসংখ্যার প্রবণতা
-<p><a href="./assets/visual-revision/02-population-trend.svg"><img src="./assets/visual-revision/02-population-trend.svg" width="100%" alt="Population trend from 1974 to 2022"></a></p>
-
-### Sheet 03 — বয়স কাঠামো
-<p><a href="./assets/visual-revision/03-age-structure.svg"><img src="./assets/visual-revision/03-age-structure.svg" width="100%" alt="Broad age structure in Bangladesh"></a></p>
-
-### Sheet 04 — জনমিতিক রূপান্তর
-<p><a href="./assets/visual-revision/04-demographic-transition.svg"><img src="./assets/visual-revision/04-demographic-transition.svg" width="100%" alt="Conceptual demographic transition chart"></a></p>
-
-### Sheet 05 — জনমিতিক লভ্যাংশ
-<p><a href="./assets/visual-revision/05-demographic-dividend.svg"><img src="./assets/visual-revision/05-demographic-dividend.svg" width="100%" alt="Conditions for demographic dividend"></a></p>
-
-### Sheet 06 — জাতিগত বৈচিত্র্য
-<p><a href="./assets/visual-revision/06-ethnic-diversity.svg"><img src="./assets/visual-revision/06-ethnic-diversity.svg" width="100%" alt="Ethnic diversity in Census 2022"></a></p>
-
-### Sheet 07 — ভাষা ও সাংস্কৃতিক ঐতিহ্য
-<p><a href="./assets/visual-revision/07-language-heritage.svg"><img src="./assets/visual-revision/07-language-heritage.svg" width="100%" alt="Language diversity and heritage"></a></p>
-
-### Sheet 08 — অন্তর্ভুক্তিমূলক নীতি
-<p><a href="./assets/visual-revision/08-inclusive-policy.svg"><img src="./assets/visual-revision/08-inclusive-policy.svg" width="100%" alt="Inclusive demographic policy"></a></p>
+**Official visual sources:** [BBS Census 2022 infographic gallery](https://bbs.portal.gov.bd/site/page/d551779e-1bee-42b2-9c31-08dc8db4c301) · [BBS Census reports](https://bbs.portal.gov.bd/pages/static-pages/6922e073933eb65569e27220) · [Survey of Bangladesh maps](https://sob.gov.bd/pages/static-pages/6922dc29933eb65569e0eb5a) · [Bangladesh Delta Plan interactive atlas](https://www.bdp2100kp.gov.bd/atlas/)
 
 ### Diagram-to-Answer Practice
 
-1. Sheet 02 দেখে ব্যাখ্যা করুন কেন মোট জনসংখ্যা ও বৃদ্ধির হার আলাদা সূচক।
-2. Sheet 03 থেকে শিক্ষা, কর্মসংস্থান ও প্রবীণ-সেবার চাহিদা ব্যাখ্যা করুন।
-3. Sheet 05 দেখে demographic dividend-এর তিনটি শর্ত লিখুন।
-4. Sheet 06 থেকে কেন জাতিগত জনগোষ্ঠীর বিভাগভিত্তিক অংশকে মোট জনসংখ্যার অংশ মনে করা ভুল তা ব্যাখ্যা করুন।
-5. Sheet 07 থেকে ভাষা ও ঐতিহ্য সংরক্ষণের দুটি সুপারিশ দিন।
+1. জনসংখ্যার প্রবণতা দেখে ব্যাখ্যা করুন কেন মোট জনসংখ্যা ও বৃদ্ধির হার আলাদা সূচক।
+2. বয়স কাঠামো থেকে শিক্ষা, কর্মসংস্থান ও প্রবীণ-সেবার চাহিদা ব্যাখ্যা করুন।
+3. জনমিতিক লভ্যাংশের অন্তত তিনটি শর্ত লিখুন।
+4. Census infographic কী দেখায় এবং জাতিগত আত্মপরিচয় সম্পর্কে কী নিশ্চিত করতে পারে না—ব্যাখ্যা করুন।
+5. ভাষা ও ঐতিহ্য সংরক্ষণে দুটি অন্তর্ভুক্তিমূলক সুপারিশ দিন।
 
 ---
 
@@ -1182,7 +1227,8 @@ URL: https://bcsexam.org/written-questions/47th-bcs-written
 
 - **[35th–47th BCS PYQ Theme Audit](./PYQ-ANALYSIS-35TH-47TH.md)** — archive-reported question vs model-theme আলাদা করা হয়েছে।
 - **[২৫টি High-priority BCS Written Question + Model Answer](./BCS-WRITTEN-QUESTION-BANK.md)** — ১০/২০ নম্বরের বিশ্লেষণধর্মী উত্তর, তথ্য ও উৎসসহ।
-- **[১৮টি English Quotations + Source-backed Exam Lines](./QUOTATIONS.md)** — সরাসরি উদ্ধৃতি ও নিজের ভাষার analytical line আলাদা করা হয়েছে।
+- **[১৮টি English Quotations + Source-backed Exam Lines](./QUOTATIONS.md)** — সরাসরি উদ্ধৃতি ও নিজের ভাষার analytical line আলাদা করা হয়েছে.
+- **[🗺️ Visual Atlas: 8 revision SVGs + official map/census infographic sources](./VISUAL-ATLAS.md)** — visual gallery, official map portals, chart-use guidance and diagram-based answer practice.
 - **[Chapter 01 — Geography](../Chapter-01/README.md)** — জনমিতি ও ভৌগোলিক বণ্টনের আন্তঃসম্পর্ক।
 - **[BCS Written Questions Archive, 35th–50th](https://bcsexam.org/written-questions)** — তৃতীয়-পক্ষের প্রশ্নব্যাংক; মূল BPSC scan-এর সঙ্গে wording যাচাই করুন।
 

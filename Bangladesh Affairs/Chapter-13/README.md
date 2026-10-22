@@ -3,9 +3,9 @@
 > **মূল ভাষা:** বাংলা; প্রশ্ন ও টেকনিক্যাল টার্ম: English  
 > **Source review:** ২১ অক্টোবর ২০২৬ · **পাঠের বিন্যাস:** ধারণা → বাংলাদেশের প্রেক্ষাপট → আইন ও প্রতিষ্ঠান → সমালোচনামূলক বিশ্লেষণ → বিগত প্রশ্নের থিম → ৩৩টি Model Q&A → ৫/১০/২০ নম্বরের উত্তর।
 
-[← মূল ১৬ অধ্যায়ের সূচি](../README.md) · [PYQ-based Essays](./PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](./QUOTATIONS.md)
+[← মূল ১৬ অধ্যায়ের সূচি](../README.md) · [PYQ-based Essays](./PYQ-BASED-ESSAYS.md) · [English Quotations + Sources](./QUOTATIONS.md) · [🖼️ Visual Atlas (10 diagrams + 10 topic-linked internet photos)](./VISUAL-ATLAS.md)
 
-> 📱 **Mobile-friendly visual notes:** diagram-গুলো আলাদা responsive SVG file হিসেবে রাখা হয়েছে। Mermaid render না হলেও ছবি দেখা যাবে। মোবাইলে ছবি content width অনুযায়ী সংকুচিত হবে; বড় সারণি প্রয়োজন হলে horizontal scroll করুন।
+> 📱 **Mobile-friendly visual notes:** ১০টি internet-sourced photograph সংশ্লিষ্ট পাঠের পাশে যুক্ত হয়েছে; প্রতিটি ছবির সঙ্গে caption, source ও licence দেওয়া আছে। ১০টি responsive SVG diagram Visual Atlas-এ রয়েছে। মূল অধ্যায় ও Atlas মিলিয়ে মোট embedded visual ২৯টি—৩০টির সীমার মধ্যে।
 
 <a id="top"></a>
 
@@ -13,6 +13,8 @@
 > 🟢 **পড়ার পদ্ধতি:** প্রথমে সংজ্ঞা, তারপর বাংলাদেশভিত্তিক উদাহরণ, সাংবিধানিক ভিত্তি, ভূমিকা ও সীমাবদ্ধতা পড়ুন। প্রতিটি উত্তরে **ধারণা → প্রমাণ/উদাহরণ → বিশ্লেষণ → মূল্যায়ন → উপসংহার** রাখুন।
 
 ## 🧭 বিষয়সূচি — সরাসরি অংশে যান
+
+**দ্রুত নেভিগেশন:** [মূল ধারণা](#২-অধ্যায়ের-মূল-ধারণা--৮-মিনিটে) · [অনানুষ্ঠানিক প্রতিষ্ঠান](#৫-informal-institutions--অনানুষ্ঠানিক-প্রতিষ্ঠান-কী-ও-কেন-গুরুত্বপূর্ণ) · [Civil Society](#৬-civil-society--সুশীল-সমাজের-ধারণা-ভূমিকা) · [NGO in Bangladesh](#৭-ngos-in-bangladesh--বিকাশ-ধরন-ও-অবদান) · [আইন ও নিয়ন্ত্রণ](#৮-constitutional-and-legal-framework--সংবিধান-ngoab-ও-mra) · [৩৩টি Model Q&A](#১৪-important-english-questions--৩৩টি-বাংলা-model-answer) · [Visual Atlas](./VISUAL-ATLAS.md) · [Model Essays](./PYQ-BASED-ESSAYS.md) · [Quotations](./QUOTATIONS.md)
 
 | শেখার ধাপ | মূল অধ্যায় | প্রশ্ন ও পুনরালোচনা |
 |---|---|---|
@@ -132,6 +134,12 @@
 
 **পৃষ্ঠপোষকতা ও clientelism:** কোনো ক্ষমতাবান ব্যক্তি বা গোষ্ঠীর সঙ্গে আনুগত্যের বিনিময়ে সুযোগ, সুবিধা বা সুরক্ষা পাওয়ার সম্পর্ক। এতে কিছু মানুষের দ্রুত সহায়তা মিললেও সেবা ও সম্পদে সমান অধিকার ক্ষতিগ্রস্ত হতে পারে।
 
+#### বাস্তব উদাহরণ: গ্রামীণ নারীদের সম্মিলিত উদ্যোগ
+
+![Women graduates of BRAC's Special Targeting Ultra Poor programme meeting in Rodrodha village, Bangladesh](../assets/photos/commons-942d9a02ed6d6876.jpg)
+
+*চিত্র-পাঠ:* দলীয় আলোচনা ও পারস্পরিক সহায়তা অনানুষ্ঠানিক প্রতিষ্ঠান ও সামাজিক পুঁজির ইতিবাচক দিক বোঝায়। **Credit:** Department of Foreign Affairs and Trade (DFAT), Australia; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:A_women%27s_group_from_Rodrodha_village_gather_for_a_meeting._They_all_graduated_through_BRACs_Special_Targeting_Ultra_Poor_program_they_are_now_known_as_graduates_and_are_taking_part_in_a_project_called_group_home_visits._(10664330215).jpg).
+
 ### ৫.৪ মূল্যায়নের সূত্র
 
 অনানুষ্ঠানিক প্রতিষ্ঠান মূল্যায়নে পাঁচটি প্রশ্ন করুন:
@@ -154,6 +162,12 @@
 এর মধ্যে উন্নয়ন NGO ছাড়াও পেশাজীবী সমিতি, শ্রমিক সংগঠন, অধিকারভিত্তিক সংগঠন, ফাউন্ডেশন, কমিউনিটি সংগঠন, স্বেচ্ছাসেবী দল, গবেষণা প্রতিষ্ঠান এবং কিছু অলাভজনক নাগরিক নেটওয়ার্ক থাকতে পারে। সব নাগরিক সংগঠন NGO নয়, এবং সব NGO একই ধরনের কাজ করে না।
 
 <p><img src="./assets/visual-02-civil-society-ecosystem.svg" alt="Civil society ecosystem connecting citizens, government, media, academia and communities" width="100%" /></p>
+
+#### বাস্তব উদাহরণ: নাগরিকদের স্বেচ্ছামূলক সংগঠন
+
+![Creative Commons Bangladesh first chapter meeting group photo, 2018](../assets/photos/commons-3d58dd8ad4cf80dc.jpg)
+
+*চিত্র-পাঠ:* স্বেচ্ছামূলক সংগঠন ও জ্ঞান ভাগাভাগির নেটওয়ার্ক civil society-র একটি উদাহরণ; এটি সব CSO-র প্রতিনিধিত্ব করে না। **Credit:** Nasir Khan Saikat; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:CC_Bangladesh_First_Chapter_Meeting_Group_Photo.jpg).
 
 ### ৬.২ সুশীল সমাজের প্রধান কাজ
 
@@ -192,6 +206,12 @@ NGO বা Non-Governmental Organization হলো সরকার থেকে 
 
 বাংলাদেশে ১৯৭১ সালের মুক্তিযুদ্ধ ও যুদ্ধ-পরবর্তী পুনর্বাসনের প্রেক্ষাপটে ত্রাণ, পুনর্বাসন ও কমিউনিটি সহায়তার প্রয়োজন থেকে অনেক উন্নয়ন উদ্যোগ গড়ে ওঠে। BRAC-এর নিজস্ব ইতিহাস অনুযায়ী, সংস্থাটি ১৯৭২ সালে সুল্লায় ত্রাণ ও পুনর্বাসন কার্যক্রম দিয়ে শুরু করে; পরে শিক্ষা, স্বাস্থ্য, জীবিকা ও দারিদ্র্য হ্রাসের মতো দীর্ঘমেয়াদি কর্মসূচিতে বিস্তৃত হয় [S7]।
 
+#### বাস্তব উদাহরণ: বাংলাদেশের একটি উন্নয়ন NGO-র সদরদপ্তর
+
+![BRAC Centre headquarters in Mohakhali, Dhaka](../assets/photos/commons-06d40dfc47f54d0a.jpg)
+
+*চিত্র-পাঠ:* BRAC Centre একটি পরিচিত উন্নয়ন সংস্থার সদরদপ্তরের বাস্তব উদাহরণ। ভবনের ছবি দিয়ে সংস্থার কার্যকারিতা প্রমাণ হয় না। **Credit:** ANKAN; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:Brac_Centre,_Dhaka.jpg).
+
 পরবর্তী সময়ে NGO-র কাজ স্বাস্থ্য ও পরিবারকল্যাণ, অনানুষ্ঠানিক শিক্ষা, ক্ষুদ্রঋণ ও আর্থিক অন্তর্ভুক্তি, নারীর ক্ষমতায়ন, কৃষি ও জীবিকা, দুর্যোগ ব্যবস্থাপনা, মানবাধিকার, পরিবেশ এবং শরণার্থী-সহায়তা পর্যন্ত বিস্তৃত হয়েছে। এই বিবর্তনকে একরৈখিক সাফল্যের গল্প হিসেবে নয়, বরং রাষ্ট্র, বাজার, দাতা, স্থানীয় সংগঠন ও জনগোষ্ঠীর পারস্পরিক সম্পর্কের পরিবর্তন হিসেবে বিশ্লেষণ করা উচিত।
 
 ### ৭.৩ NGO-র ধরন
@@ -208,13 +228,49 @@ NGO বা Non-Governmental Organization হলো সরকার থেকে 
 
 **দারিদ্র্য হ্রাস ও জীবিকা:** দক্ষতা, সঞ্চয়, আর্থিক সেবা, কৃষি-সহায়তা, বাজার-সংযোগ ও জীবিকা বৈচিত্র্যে সহায়তা করতে পারে। তবে ঋণপ্রাপ্তি নিজে দারিদ্র্য দূর করে না; ঋণের খরচ, আয় অনিশ্চয়তা, বাজার, স্বাস্থ্যঝুঁকি এবং পরিবারের সিদ্ধান্তক্ষমতা বিবেচনা করতে হবে।
 
+#### বাস্তব উদাহরণ: ক্ষুদ্রঋণ ও জীবিকার উদ্যোগ
+
+![A Bangladeshi woman using a BRAC microfinance loan for her livelihood](../assets/photos/commons-58937a2130e3bcce.jpg)
+
+*চিত্র-পাঠ:* এটি BRAC microfinance loan-এর সহায়তায় জীবিকা গড়ার একটি উদাহরণ। ঋণ নিজে দারিদ্র্য দূর করে না; আয়, বাজার, ঋণের শর্ত ও সিদ্ধান্তক্ষমতাও মূল্যায়ন করতে হয়। **Credit:** Department of Foreign Affairs and Trade (DFAT), Australia; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:Bangladesh_microfinance_%2810676772556%29.jpg).
+
 **শিক্ষা:** ঝরে পড়া কমানো, বিকল্প শিক্ষাপদ্ধতি, প্রাথমিক দক্ষতা, প্রাপ্তবয়স্ক শিক্ষা ও বিদ্যালয়ের বাইরে থাকা শিশুদের কাছে পৌঁছাতে পারে। স্থায়িত্বের জন্য সরকারি শিক্ষাব্যবস্থার সঙ্গে মান, স্বীকৃতি, শিক্ষক-সহায়তা ও তথ্যের সমন্বয় প্রয়োজন।
+
+#### বাস্তব উদাহরণ: BRAC-এর প্রাথমিক বিদ্যালয়ে দলীয় শেখা
+
+![Children participating in a group exercise at a BRAC primary school in Manikganj](../assets/photos/commons-63910b9ac627e99d.jpg)
+
+*চিত্র-পাঠ:* দলীয় অনুশীলন ও শিক্ষার্থীকেন্দ্রিক পদ্ধতি NGO-র শিক্ষা-সহায়তার উদাহরণ। ছবিটি ২০১২ সালের; বর্তমান ফলাফল বা জাতীয় পরিসংখ্যান নয়। **Credit:** Department of Foreign Affairs and Trade (DFAT), Australia; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:Children_take_part_in_an_exercise_in_groups_inside_a_BRAC_primary_school_in_Manikganj._DFAT_funds_a_range_of_core_programs_including_its_education_work_primarily_in_formal_education._(10684966815).jpg).
+
+#### বাস্তব উদাহরণ: শিক্ষা উপকরণ বিতরণ
+
+![Education materials distributed to students under Needy Foundation's education project in Chattogram](../assets/photos/commons-cae645372a3641bb.jpg)
+
+*চিত্র-পাঠ:* শিক্ষা উপকরণ বিতরণ NGO-র সরাসরি service-delivery output-এর উদাহরণ। প্রকৃত outcome বুঝতে উপস্থিতি, শেখার অগ্রগতি ও দীর্ঘমেয়াদি ফলও মাপতে হবে। **Credit:** Needy Foundation (NF); [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:Education_materials_distribution_among_needy_students_under_Education_Project_of_Needy_Foundation_01.jpg).
 
 **স্বাস্থ্য:** কমিউনিটি স্বাস্থ্যকর্মী, মাতৃ ও শিশুস্বাস্থ্য, পুষ্টি, সচেতনতা, স্বাস্থ্যতথ্য এবং সেবার সঙ্গে সংযোগ তৈরি করতে পারে। NGO সেবা সরকারি স্বাস্থ্যব্যবস্থার বিকল্প নয়; referral, quality standards, data privacy ও জবাবদিহি জরুরি।
 
+#### বাস্তব উদাহরণ: কমিউনিটি স্বাস্থ্যকর্মীর কাজ
+
+![BRAC community health worker conducting a household survey in Korail, Dhaka](../assets/photos/commons-ce0c616be3dbf6d1.jpg)
+
+*চিত্র-পাঠ:* কমিউনিটি স্বাস্থ্যকর্মী স্থানীয় মানুষের কাছে স্বাস্থ্যতথ্য, মাতৃস্বাস্থ্য-সহায়তা ও সেবার রেফারেল পৌঁছাতে পারেন। এটি ২০১১ সালের ঐতিহাসিক ছবি, বর্তমান কর্মীসংখ্যার পরিসংখ্যান নয়। **Credit:** Lucy Milmo/DFID; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:A_community_health_worker_conducting_a_survey_in_the_Korail_slum,_Bangladesh_(8630810827).jpg).
+
 **নারীর ক্ষমতায়ন:** শিক্ষা, দক্ষতা, আয়, সম্পদে প্রবেশ, নেতৃত্ব, স্বাস্থ্য ও অধিকার সম্পর্কে সচেতনতা বাড়াতে পারে। প্রকৃত ক্ষমতায়ন যাচাই করতে শুধু প্রশিক্ষণপ্রাপ্ত নারীর সংখ্যা নয়; সিদ্ধান্তক্ষমতা, নিরাপত্তা, আয় নিয়ন্ত্রণ, সময়ের ব্যবহার ও সহিংসতার ঝুঁকিও দেখতে হবে।
 
+#### বাস্তব উদাহরণ: বাল্যবিবাহ প্রতিরোধে সামাজিক সচেতনতা
+
+![Girls taking a no-child-marriage pledge at Hajiganj Girls High School, Bangladesh](../assets/photos/commons-0c19a71b0c559019.jpg)
+
+*চিত্র-পাঠ:* বাল্যবিবাহ প্রতিরোধে সচেতনতা, শিক্ষা ও স্থানীয় অংশগ্রহণের উদাহরণ। সচেতনতার পাশাপাশি আইন প্রয়োগ, নিরাপদ অভিযোগ-ব্যবস্থা ও মেয়েদের শিক্ষায় ধারাবাহিক সহায়তা প্রয়োজন। **Credit:** DelwarHossain; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:No_child_marrige_oath_in_Hajiganj_girls_high_school,_Bangladesh.jpg).
+
 **দুর্যোগ ও জলবায়ু অভিযোজন:** ঝুঁকিপূর্ণ জনগোষ্ঠী চিহ্নিত করা, আগাম সতর্কতা পৌঁছানো, আশ্রয়, ত্রাণ, পুনর্বাসন ও স্থানীয় প্রস্তুতিতে সহায়তা করতে পারে। স্থানীয় জ্ঞান, প্রতিবন্ধীবান্ধব পরিকল্পনা এবং নিরপেক্ষ সহায়তা বণ্টন গুরুত্বপূর্ণ।
+
+#### বাস্তব উদাহরণ: বাস্তুচ্যুত রোহিঙ্গা শিশুদের শিক্ষা ও সামাজিক সহায়তা
+
+![Displaced Rohingya children in Bangladesh accessing education and social activities through Child Learning Centres](../assets/photos/commons-fb2fee9cc32156ce.jpg)
+
+*চিত্র-পাঠ:* Cox's Bazar-এ বাস্তুচ্যুত শিশুদের শিক্ষা ও সামাজিক কার্যক্রমে প্রবেশাধিকার দিতে humanitarian partners কাজ করে। এটি Australian Humanitarian Partnership-এর ২০২৫ সালের ছবি; কোনো একক NGO-র একক কার্যক্রমের প্রমাণ নয়। **Credit:** Australian Humanitarian Partnership (AHP) Bangladesh; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:Displaced_Rohingya_children_in_Bangladesh_-_000189753.jpg).
 
 **অধিকার ও সুশাসন:** আইনি সচেতনতা, জনপরামর্শ, তথ্য-উন্মুক্ততা, গবেষণা, অভিযোগ সহায়তা ও সামাজিক জবাবদিহিতে অবদান রাখতে পারে। advocacy-কে প্রমাণ, আইনসম্মত পদ্ধতি ও শান্তিপূর্ণ অংশগ্রহণের সঙ্গে যুক্ত করা দরকার।
 
@@ -300,6 +356,12 @@ NGO-র সাফল্য শুধু কতজনকে প্রশিক্
 <p><img src="./assets/visual-03-ngo-project-cycle.svg" alt="NGO project cycle from listening to evaluation and learning" width="100%" /></p>
 
 রাষ্ট্র ও NGO-র অংশীদারত্ব সবচেয়ে কার্যকর হয় যখন দায়িত্ব, অর্থ, তথ্য, মানদণ্ড ও জবাবদিহি স্পষ্ট থাকে। NGO স্থানীয় উদ্ভাবন ও কমিউনিটি সংযোগ দিতে পারে; সরকার সার্বজনীনতা, মান, নীতি, বৃহৎ পরিসরের অর্থায়ন ও স্থায়িত্ব নিশ্চিত করতে পারে; নাগরিকেরা অগ্রাধিকার নির্ধারণ ও ফল যাচাইয়ে অংশ নিতে পারেন।
+
+#### বাস্তব উদাহরণ: ঘূর্ণিঝড় সিডরের পর মানবিক সহায়তা
+
+![Humanitarian assistance and disaster-relief water distribution after Cyclone Sidr in Bangladesh, 2007](../assets/photos/commons-9d55fff6be55c43c.jpg)
+
+*চিত্র-পাঠ:* ২০০৭ সালে ঘূর্ণিঝড় সিডরের পর মানবিক সহায়তার ঐতিহাসিক দৃশ্য। ছবিটি US Navy relief mission-এর—এটিকে NGO-র নিজস্ব কার্যক্রম বলা যাবে না; দুর্যোগে সরকার, আন্তর্জাতিক অংশীদার ও স্থানীয় সংস্থার সমন্বয়ের প্রসঙ্গে ব্যবহার করুন। **Credit:** U.S. Navy; [Public Domain (US federal work)](https://commons.wikimedia.org/wiki/File:Bangladesh_Humanitarian_Assistance-Disaster_Relief_mission_DVIDS66788.jpg).
 
 ### কার্যকর অংশীদারত্বের ৭টি শর্ত
 
@@ -616,3 +678,5 @@ Source: [BCS EXAM — 41st BCS Written Questions](https://bcsexam.org/written-qu
 6. উদ্ধৃতির নির্ভুল ইংরেজি wording ও ব্যবহার-পরামর্শ আলাদা [QUOTATIONS.md]-এ দেওয়া হয়েছে।
 
 [⬆️ Go to Contents](#top) · [PYQ-based Essays](./PYQ-BASED-ESSAYS.md) · [English Quotations](./QUOTATIONS.md) · [মূল সূচি](../README.md)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

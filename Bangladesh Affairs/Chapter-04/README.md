@@ -11,26 +11,22 @@
 > [!NOTE]
 > **এই অধ্যায় কীভাবে পড়বেন:** প্রতিটি বিষয়কে চার ধাপে বুঝুন—(১) কী পরিবর্তন ঘটেছে, (২) কেন ঘটেছে, (৩) কারা লাভবান বা ক্ষতিগ্রস্ত হয়েছে, (৪) কোন নীতি উন্নত ফল দিতে পারে। পরীক্ষায় শুধু অর্জনের তালিকা নয়, সীমাবদ্ধতা ও প্রমাণভিত্তিক সুপারিশও লিখবেন।
 
-## Visual study gallery — বাস্তব ছবি ও বিষয়ভিত্তিক চিত্র
+## Visual study guide — বিষয়ভিত্তিক ছবি ও চিত্র
 
-> ছবিগুলো বিষয় বোঝানোর জন্য। প্রতিটি ছবির মূল Wikimedia Commons পাতা থেকে লাইসেন্স ও attribution যাচাই করুন; এগুলো পরিসংখ্যানগত প্রমাণ নয়।
+প্রতিটি বাস্তব ছবি সংশ্লিষ্ট অধ্যায়-অংশে রাখা হয়েছে, যাতে পড়ার সময় বিষয় থেকে দূরে যেতে না হয়। ছবিগুলো ব্যাখ্যামূলক উদাহরণ; পরিসংখ্যানের প্রমাণ নয়। ছবির লাইসেন্স ও attribution মূল উৎসে দেওয়া আছে।
 
-### বাংলাদেশের তৈরি পোশাকশিল্প ও শ্রম
-![Working conditions of garment workers in Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/Working_conditions_of_Garment_workers_in_Bangladesh.jpg)
+- [কৃষি ও খাদ্যনিরাপত্তা](#agriculture) · [RMG ও শিল্পায়ন](#industry) · [ICT ও ডিজিটাল অর্থনীতি](#services)
+- [প্রবাসী আয় ও অভিবাসন](#external) · [শিক্ষা ও মানব উন্নয়ন](#human-development) · [নারীর কর্মসংস্থান](#women)
+- [সাহিত্য ও সংস্কৃতি](#culture) · [জাতীয় পরিচয় ও জামদানি](#identity) · [৬টি topic diagram + ৩টি data chart + মানচিত্র](#visuals)
 
-**Source / licence:** [Wikimedia Commons — Working conditions of Garment workers in Bangladesh.jpg](https://commons.wikimedia.org/wiki/File:Working_conditions_of_Garment_workers_in_Bangladesh.jpg) · Fahad Faisal · CC BY-SA 4.0. ছবিটি শ্রমপরিবেশের একটি উদাহরণ; পুরো খাতের প্রতিনিধিত্বকারী নমুনা নয়।
-
-### বাংলা নববর্ষ ও সাংস্কৃতিক পরিচয়
-![Pohela Boishakh rally in Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/Pohela_boishakh_rally.jpg)
-
-**Source / licence:** [Wikimedia Commons — Pohela boishakh rally.jpg](https://commons.wikimedia.org/wiki/File:Pohela_boishakh_rally.jpg). ছবির পাতা থেকে বর্তমান লাইসেন্স/attribution দেখে ব্যবহার করুন।
+**Image-count rule:** এই অধ্যায়ে মোট ২০টি embedded visual রাখা হয়েছে—১৪টি আগের ছবি/diagram এবং ৬টি নতুন data/map/culture visual। একই visual দুবার embed করা হয়নি।
 
 ### আরও দ্রুত শেখার জন্য
-- [📊 09 — BCS Answer Framework](./assets/visual-revision/09-answer-framework.svg)
-- [📈 08 — Growth vs Inclusive Development](./assets/visual-revision/08-growth-vs-inclusion.svg)
-- [🧭 07 — Development Model](./assets/visual-revision/07-development-model.svg)
+- [📊 BCS Answer Framework](./assets/visual-revision/09-answer-framework.svg)
+- [📈 Growth vs Inclusive Development](./assets/visual-revision/08-growth-vs-inclusion.svg)
+- [🧭 Development Model](./assets/visual-revision/07-development-model.svg)
 - [📚 25 Model Questions + Answers](./QUESTIONS-ANSWERS.md)
-- [💬 16 English Quotations + Sources](./QUOTATIONS.md)
+- [💬 English Quotations + Sources](./QUOTATIONS.md)
 - [🧾 35th–47th BCS Question Map](./PYQ-35-47-MAP.md)
 
 ## বিষয়সূচি — সরাসরি অংশে যান
@@ -112,6 +108,9 @@ Structural transformation হলো উৎপাদন ও কর্মসংস
 
 বিশ্বব্যাংকের বাংলাদেশবিষয়ক country overview-তে স্বাধীনতার পর দীর্ঘমেয়াদি অগ্রগতির পাশাপাশি সাম্প্রতিক প্রবৃদ্ধি, মূল্যস্ফীতি, দারিদ্র্য, বিনিয়োগ ও রাজস্বসংক্রান্ত সীমাবদ্ধতা আলোচিত হয়েছে [S1](https://www.worldbank.org/ext/en/country/bangladesh)। World Bank-এর *Bangladesh: A Fifty-year Partnership in Development Achievements* দীর্ঘমেয়াদি সামাজিক ও অবকাঠামোগত অগ্রগতির সারাংশ দেয় [S2](https://www.worldbank.org/en/results/2023/11/20/bangladesh-a-fifty-year-partnership-in-development-achievements)।
 
+**Visual — অর্থনৈতিক রূপান্তর:** কৃষি, শিল্প, সেবা ও মানবসম্পদের পরিবর্তনকে একই প্রক্রিয়ার অংশ হিসেবে দেখুন।
+<img src="./assets/visual-revision/01-economic-transformation.svg" width="700" alt="বাংলাদেশের স্বাধীনতা-পরবর্তী অর্থনৈতিক রূপান্তরের ধারণাগত চিত্র">
+
 ### ৪.২ প্রবৃদ্ধি ও উন্নয়ন এক নয়
 
 | ধারণা | অর্থ | কী দিয়ে বোঝা যায় | সীমাবদ্ধতা |
@@ -126,6 +125,12 @@ Structural transformation হলো উৎপাদন ও কর্মসংস
 
 **পরীক্ষার বিশ্লেষণ:** GDP বাড়লেও খাদ্য, বাসস্থান, পরিবহন ও স্বাস্থ্য ব্যয় দ্রুত বাড়লে দরিদ্র পরিবারের বাস্তব জীবনমান উন্নত নাও হতে পারে। তাই প্রবৃদ্ধির সঙ্গে বাস্তব মজুরি, কর্মসংস্থানের মান, সেবা-প্রাপ্তি, বৈষম্য ও পরিবেশের সূচক যুক্ত করে বিচার করা উচিত।
 
+**Visual — GDP growth বনাম inclusive development:** প্রবৃদ্ধি গুরুত্বপূর্ণ, কিন্তু আয়-বণ্টন, কর্মসংস্থানের মান ও সেবা-প্রবেশাধিকারও আলাদা করে দেখতে হবে।
+<img src="./assets/visual-revision/03-growth-vs-inclusion.svg" width="700" alt="GDP growth এবং অন্তর্ভুক্তিমূলক উন্নয়নের পার্থক্য">
+
+**ডেটা চার্ট — GDP-র খাতভিত্তিক অংশ, FY2023–24:** কৃষি ১১.১৫%, শিল্প ৩৭.৩৭% এবং সেবা ৫১.৪৪%। এগুলো BBS-এর পরিসংখ্যান থেকে Bangladesh State of the Economy 2025-এ উদ্ধৃত; গোলকরণ ও হিসাব-পদ্ধতির কারণে যোগফল ঠিক ১০০% নাও হতে পারে। [সরকারি প্রতিবেদন](https://gedkp.gov.bd/wp-content/uploads/2025/12/Bangladesh-State-of-the-Economy-2025-Final.pdf?post_id=4300) · [BBS GDP portal](https://bbs.gov.bd/site/page/dc2bc6ce-7080-48b3-9a04-73cec782d0df/Gross-Domestic-Product-%28GDP%29)
+<img src="./assets/visual-revision/10-gdp-sector-shares-fy24.svg" width="700" alt="FY2023–24 সালে বাংলাদেশের GDP-তে কৃষি, শিল্প ও সেবা খাতের অংশ">
+
 ### ৪.৩ বাংলাদেশের উন্নয়নের চালিকা শক্তি
 
 1. **কৃষি ও গ্রামীণ অর্থনীতি:** খাদ্য উৎপাদন, গ্রামীণ আয়, কাঁচামাল এবং অভ্যন্তরীণ বাজারের ভিত্তি।
@@ -137,10 +142,20 @@ Structural transformation হলো উৎপাদন ও কর্মসংস
 7. **সামাজিক উদ্ভাবন ও উন্নয়ন সংস্থা:** ক্ষুদ্রঋণ, কমিউনিটি স্বাস্থ্য, শিক্ষা, দুর্যোগ প্রস্তুতি ও সামাজিক সচেতনতা—যদিও ফলাফল প্রেক্ষাপট ও বাস্তবায়নভেদে ভিন্ন।
 8. **জনমিতিক পরিবর্তন:** বড় কর্মক্ষম জনগোষ্ঠী সম্ভাবনা তৈরি করে, তবে দক্ষতা ও মানসম্মত চাকরি ছাড়া demographic dividend নিশ্চিত হয় না।
 
+**Visual — উন্নয়নের চালিকা শক্তি:** কৃষি, তৈরি পোশাক, প্রবাসী আয়, সেবা ও মানব উন্নয়ন পরস্পর সংযুক্ত।
+<img src="./assets/visual-revision/02-growth-drivers.svg" width="700" alt="কৃষি, তৈরি পোশাক, প্রবাসী আয়, সেবা ও মানব উন্নয়নের সংযোগ">
+
 ---
 
 <a id="agriculture"></a>
 ## ৫. কৃষি, খাদ্যনিরাপত্তা ও গ্রামীণ রূপান্তর
+
+#### Visual: ধান চাষ ও বাংলাদেশের কৃষি
+
+![ধানক্ষেতে বাংলাদেশের কৃষক](../assets/photos/commons-e8dd9aed25da9411.jpg)
+
+*কী লক্ষ্য করবেন:* কৃষি শুধু ফসল উৎপাদন নয়—কৃষিশ্রম, সেচ, মৌসুমি ঝুঁকি, গ্রামীণ আয় ও খাদ্য সরবরাহের সঙ্গে যুক্ত। [ছবির উৎস ও লাইসেন্স যাচাই](https://commons.wikimedia.org/wiki/File:Bangladeshi_Fully_Green_Rice_cultivation.jpg) · [কৃষি তথ্য: BBS](https://bbs.gov.bd/)
+
 
 ### ৫.১ কৃষির ভূমিকা
 
@@ -176,9 +191,19 @@ Structural transformation হলো উৎপাদন ও কর্মসংস
 <a id="industry"></a>
 ## ৬. শিল্পায়ন, তৈরি পোশাক (RMG) ও রপ্তানি বৈচিত্র্য
 
+#### Visual: তৈরি পোশাকশিল্প ও শ্রম
+
+![বাংলাদেশের পোশাকশিল্পে কর্মপরিবেশ](../assets/photos/commons-9bf368ba8fe46628.jpg)
+
+*কী লক্ষ্য করবেন:* উৎপাদন, শ্রমিকের নিরাপত্তা, দক্ষতা ও আন্তর্জাতিক সরবরাহশৃঙ্খলকে একসঙ্গে বিশ্লেষণ করুন। এই ছবি একটি উদাহরণ, পুরো শিল্পের প্রতিনিধিত্বকারী নমুনা নয়। [মূল ছবি ও CC BY-SA 4.0 attribution](https://commons.wikimedia.org/wiki/File:Working_conditions_of_Garment_workers_in_Bangladesh.jpg) · [Export Promotion Bureau](https://epb.gov.bd/)
+
+
 ### ৬.১ তৈরি পোশাক শিল্পের গুরুত্ব
 
 Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-নির্ভর শিল্পায়নের প্রধান উদাহরণ। এই শিল্প বৈদেশিক মুদ্রা অর্জন, বৃহৎ শ্রমশক্তির কর্মসংস্থান, নারী শ্রমিকের আয় এবং পরিবহন, প্যাকেজিং, ব্যাংকিং, বন্দর, ডিজাইন ও বাণিজ্যসেবার মতো সংযুক্ত কর্মকাণ্ডে ভূমিকা রেখেছে। বিশ্বব্যাংকের বিশ্লেষণে RMG-কে বাংলাদেশের অর্থনৈতিক কাঠামো পরিবর্তনের অন্যতম চালিকা শক্তি হিসেবে চিহ্নিত করা হয়েছে [S3](https://ieg.worldbankgroup.org/evaluations/world-bank-group-bangladesh/chapter-1-introduction-and-country-context)।
+
+**ডেটা চার্ট — RMG রপ্তানি আয়:** BGMEA-র comparative table অনুযায়ী FY2024–25-এ পোশাক রপ্তানি প্রায় US$39.35 billion; মোট রপ্তানিতে অংশ প্রায় 81.49%। 2022–23 ও 2023–24-এর মান revised হিসেবে চিহ্নিত। [BGMEA export performance table](https://www.bgmea.com.bd/page/Export_Performance)
+<img src="./assets/visual-revision/11-rmg-export-trend.svg" width="700" alt="FY2019–20 থেকে FY2024–25 বাংলাদেশের তৈরি পোশাক রপ্তানি আয় ও মোট রপ্তানিতে অংশ">
 
 ### ৬.২ শিল্পের কাঠামোগত সীমাবদ্ধতা
 
@@ -201,6 +226,13 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 
 <a id="services"></a>
 ## ৭. সেবা, ICT, উদ্যোক্তা ও ডিজিটাল অর্থনীতি
+
+#### Visual: বাংলাদেশে তথ্যপ্রযুক্তি ও ডিজিটাল কাজ
+
+![বাংলাদেশের তথ্যপ্রযুক্তি খাত](../assets/photos/commons-9a0ad4399fb3bcad.jpg)
+
+*কী লক্ষ্য করবেন:* ডিজিটাল অর্থনীতির সুযোগ ব্যাখ্যায় connectivity, skills, cybersecurity, data protection ও সবার প্রবেশাধিকার—এই পাঁচটি দিক যুক্ত করুন। [Wikimedia Commons-এ ছবির উৎস অনুসন্ধান ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:IT_Park_in_Jashore,_Bangladesh_2024_%E2%80%93_Multi_Tenant_Building_01.jpg) · [ICT Division](https://ictd.gov.bd/)
+
 
 সেবা খাতে পাইকারি-খুচরা বাণিজ্য, পরিবহন, শিক্ষা, স্বাস্থ্য, আবাসন, আর্থিক সেবা, সরকারি প্রশাসন, পর্যটন, টেলিযোগাযোগ এবং ডিজিটাল সেবা অন্তর্ভুক্ত। সেবা খাতের বিস্তার অর্থনীতিকে বহুমুখী করে, কিন্তু সব সেবা একই উৎপাদনশীলতা বা চাকরির মান দেয় না।
 
@@ -229,9 +261,19 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 <a id="external"></a>
 ## ৮. বাণিজ্য, প্রবাসী আয়, বৈদেশিক মুদ্রা ও আর্থিক খাত
 
+#### Visual: আন্তর্জাতিক শ্রম অভিবাসন
+
+![বাংলাদেশি শ্রম অভিবাসন ও বিদেশগামী কর্মী](../assets/photos/commons-a43c20b1aa831805.jpg)
+
+*কী লক্ষ্য করবেন:* অভিবাসনকে শুধু রেমিট্যান্স হিসেবে নয়—নিয়োগব্যয়, দক্ষতা, নিরাপদ কর্মপরিবেশ, পরিবারের কল্যাণ ও বৈদেশিক মুদ্রার প্রবাহ হিসেবে বিশ্লেষণ করুন। [Wikimedia Commons-এ ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Secretary_of_State_for_International_Development_Andrew_Mitchell_speaking_to_Bangladeshi_migrant_workers._(5499005775).jpg) · [Bangladesh Bank](https://www.bb.org.bd/)
+
+
 ### ৮.১ প্রবাসী শ্রম ও রেমিট্যান্স
 
 বিদেশে কর্মরত বাংলাদেশিদের পাঠানো অর্থ (remittances) বহু পরিবারের ভোগ, বাড়ি নির্মাণ, শিক্ষা, চিকিৎসা, ঋণ পরিশোধ ও সঞ্চয়ে সহায়তা করে। এটি বৈদেশিক মুদ্রা সরবরাহ ও বহিঃখাতের স্থিতিশীলতাতেও ভূমিকা রাখে। তবে প্রবাসী আয়ের সুফল সর্বত্র সমান নয়; বিদেশগমনের খরচ, মধ্যস্বত্বভোগী, দক্ষতার স্বীকৃতি, শ্রম অধিকার, নিরাপত্তা এবং প্রত্যাবর্তনের পর পুনর্বাসন গুরুত্বপূর্ণ।
+
+**ডেটা চার্ট — প্রবাসী আয়:** Bangladesh Bank-এর Statistics Department-এর প্রকাশিত সিরিজে FY2024–25-এর workers’ remittance inflow প্রায় US$30.33 billion। [Bangladesh Bank remittance statistics](https://www.bb.org.bd/econdata/provisionalwrem/premittances.pdf)
+<img src="./assets/visual-revision/12-remittance-trend.svg" width="700" alt="FY2019–20 থেকে FY2024–25 বাংলাদেশের প্রবাসী আয়">
 
 **নীতিগত দিক:** নিরাপদ ও কম-খরচে অভিবাসন, দক্ষতা-সনদ, দ্বিপাক্ষিক শ্রম চুক্তি, কনস্যুলার সুরক্ষা, বৈধ চ্যানেলে রেমিট্যান্স, সঞ্চয় ও উৎপাদনশীল বিনিয়োগের বিকল্প বাড়াতে হবে। পরিবারের স্বাভাবিক ভোগে ব্যবহৃত রেমিট্যান্সকে “অউৎপাদনশীল” বলে অবজ্ঞা করা উচিত নয়—পুষ্টি, শিক্ষা ও স্বাস্থ্যেও এর দীর্ঘমেয়াদি সামাজিক ফল আছে।
 
@@ -274,6 +316,13 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 <a id="human-development"></a>
 ## ১০. শিক্ষা, স্বাস্থ্য, দারিদ্র্য ও মানব উন্নয়ন
 
+#### Visual: শিক্ষা ও মানব পুঁজি
+
+![বাংলাদেশের শ্রেণিকক্ষে শিক্ষার্থীরা](../assets/photos/commons-defb2c463971948d.jpg)
+
+*কী লক্ষ্য করবেন:* মানব উন্নয়নে ভর্তি-হার ছাড়াও শেখার মান, সমতা, স্বাস্থ্য, পুষ্টি ও শ্রমবাজারে দক্ষতার ব্যবহার গুরুত্বপূর্ণ। [Wikimedia Commons-এ ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Bangladesh_school_children_(8472754825).jpg) · [Bangladesh Bureau of Statistics](https://bbs.gov.bd/)
+
+
 ### ১০.১ শিক্ষা
 
 স্বাধীনতার পর শিক্ষার সুযোগ ও প্রতিষ্ঠান বিস্তৃত হয়েছে; প্রাথমিক শিক্ষায় প্রবেশ, মেয়েদের অংশগ্রহণ এবং উচ্চশিক্ষার বিস্তার গুরুত্বপূর্ণ পরিবর্তন। তবু ভর্তি বা উপস্থিতি একাই শিক্ষার মান বোঝায় না। শেখার ফল, শিক্ষক প্রস্তুতি, শ্রেণিকক্ষের পরিবেশ, পুষ্টি, ডিজিটাল প্রবেশাধিকার, কারিগরি শিক্ষা, ভাষাগত অন্তর্ভুক্তি ও শ্রমবাজারের সঙ্গে দক্ষতার সামঞ্জস্য জরুরি।
@@ -292,14 +341,30 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 
 সামাজিক সুরক্ষার লক্ষ্য হওয়া উচিত—ঝুঁকিপূর্ণ পরিবারকে সময়মতো সহায়তা, ভাতা ও সুবিধার সঠিক লক্ষ্য নির্ধারণ, সুবিধাভোগী তালিকার স্বচ্ছতা, অভিযোগ নিষ্পত্তি, দুর্যোগের সময় দ্রুত সম্প্রসারণ এবং সহায়তা থেকে কর্মসংস্থান/সেবার সঙ্গে সংযোগ।
 
+**মানচিত্র — দারিদ্র্যের ভৌগোলিক বৈচিত্র্য:** নিচের FAO Hand-in-Hand profile map-টি অঞ্চলভিত্তিক poverty pattern বোঝানোর illustrative map; এটিকে BBS-এর সর্বশেষ district/upazila estimate হিসেবে উদ্ধৃত করবেন না। নির্ভুল 2022 district/upazila ফলাফলের জন্য [BBS–World Bank–WFP, *Poverty Map of Bangladesh 2022*](https://socialprotection.gov.bd/2025/08/poverty-map-of-bangladesh-2022/) দেখুন।
+
+![বাংলাদেশে অঞ্চলভিত্তিক দারিদ্র্যের spatial pattern — FAO Hand-in-Hand profile map](https://www.fao.org/images/handinhandlibraries/country-details-and-images/bangladesh/typologies/poverty.jpg?sfvrsn=a763c0d7_1)
+
+**Map source:** [FAO Hand-in-Hand — Bangladesh country profile](https://www.fao.org/hand-in-hand/previous-editions/hih-IF-2023/bangladesh/en). The exact reference period and methodology may differ from the BBS–World Bank–WFP 2022 poverty map.
+
 ### ১০.৪ মানব উন্নয়নের মূল্যায়ন
 
 মানব উন্নয়ন হলো মানুষের সক্ষমতা ও পছন্দের বিস্তার। আয়, শিক্ষা ও আয়ু গুরুত্বপূর্ণ, কিন্তু নিরাপত্তা, মর্যাদা, পরিবেশ, সমান সুযোগ এবং সাংস্কৃতিক অংশগ্রহণও গুরুত্বপূর্ণ। তাই উন্নয়নের মূল্যায়নে একাধিক সূচক ব্যবহার করা উচিত; গড় জাতীয় সাফল্যের আড়ালে অঞ্চল, লিঙ্গ, প্রতিবন্ধিতা ও আয়গোষ্ঠীভিত্তিক বৈষম্য পরীক্ষা করতে হবে।
+
+**Visual — সামাজিক উন্নয়নের পারস্পরিক সম্পর্ক:** শিক্ষা, স্বাস্থ্য, নারী, কাজ ও সামাজিক সুরক্ষাকে একসঙ্গে মূল্যায়ন করুন।
+<img src="./assets/visual-revision/04-social-development.svg" width="700" alt="শিক্ষা, স্বাস্থ্য, নারী, কাজ ও সামাজিক সুরক্ষার সম্পর্ক">
 
 ---
 
 <a id="women"></a>
 ## ১১. নারী, কর্মসংস্থান ও সামাজিক পরিবর্তন
+
+#### Visual: নারীর অর্থনৈতিক অংশগ্রহণ
+
+![বাংলাদেশের নারীরা উৎপাদনমূলক কাজে](../assets/photos/commons-ab904c6747e540c7.jpg)
+
+*কী লক্ষ্য করবেন:* নারীর কর্মসংস্থান বিশ্লেষণে মজুরি, নিরাপত্তা, unpaid care work, নেতৃত্বে অংশগ্রহণ ও দক্ষতা উন্নয়ন বিবেচনা করুন। [Wikimedia Commons-এ ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/Category:Women_garment_workers_in_Bangladesh) · [BBS](https://bbs.gov.bd/)
+
 
 নারীর শিক্ষা, স্বাস্থ্য, রাজনৈতিক অংশগ্রহণ ও শ্রমবাজারে প্রবেশ বাংলাদেশের সামাজিক ও অর্থনৈতিক পরিবর্তনের গুরুত্বপূর্ণ অংশ। তৈরি পোশাক শিল্প বহু নারীর মজুরিভিত্তিক কাজে প্রবেশের পথ তৈরি করেছে; শিক্ষা, ক্ষুদ্র উদ্যোগ, কৃষি, সেবা ও প্রবাসী শ্রমেও নারীর অবদান রয়েছে। বিশ্বব্যাংকের দীর্ঘমেয়াদি উন্নয়ন পর্যালোচনায় নারীর শ্রমবাজারে অংশগ্রহণ এবং শিক্ষা-স্বাস্থ্য খাতে অগ্রগতির কথা উল্লেখ করা হয়েছে [S2](https://www.worldbank.org/en/results/2023/11/20/bangladesh-a-fifty-year-partnership-in-development-achievements)।
 
@@ -346,6 +411,13 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 <a id="culture"></a>
 ## ১৩. সংস্কৃতি, সংগীত, চলচ্চিত্র, নাটক, চারুকলা ও গণমাধ্যম
 
+#### Visual: বাংলা নববর্ষ ও জনসংস্কৃতি
+
+![বাংলা নববর্ষের শোভাযাত্রা](../assets/photos/commons-45883d8f2e8ab60d.jpg)
+
+*কী লক্ষ্য করবেন:* সাংস্কৃতিক পরিচয় কেবল ঐতিহ্যের সংরক্ষণ নয়; জনসমাগম, শিল্প, প্রতীক, ভাষা ও প্রজন্মান্তরের চর্চার মাধ্যমেও তা গড়ে ওঠে। [মূল ছবি ও attribution](https://commons.wikimedia.org/wiki/File:Pohela_boishakh_rally.jpg) · [UNESCO Intangible Cultural Heritage](https://ich.unesco.org/)
+
+
 ### ১৩.১ সংস্কৃতি: স্থির ঐতিহ্য নয়, চলমান প্রক্রিয়া
 
 সংস্কৃতি হলো ভাষা, সাহিত্য, সংগীত, শিল্প, খাদ্যাভ্যাস, পোশাক, উৎসব, স্মৃতি, বিশ্বাস, দৈনন্দিন চর্চা ও সামাজিক অর্থ তৈরির চলমান প্রক্রিয়া। বাংলাদেশি সংস্কৃতি বাংলা ভাষাভিত্তিক ঐতিহ্যের পাশাপাশি ক্ষুদ্র নৃগোষ্ঠীর ভাষা ও সংস্কৃতি, আঞ্চলিক বৈচিত্র্য, ধর্মীয় উৎসব, লোকজ ঐতিহ্য এবং বৈশ্বিক প্রভাবের সমন্বয়ে গঠিত। জাতীয় পরিচয়কে একরৈখিক বা একমাত্রিক করে দেখলে দেশের বৈচিত্র্য আড়াল হয়।
@@ -354,6 +426,10 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 
 দেশাত্মবোধক গান, মুক্তিযুদ্ধের গান, রবীন্দ্রসংগীত, নজরুলসংগীত, আধুনিক গান, লোকসংগীত, ভাটিয়ালি, ভাওয়াইয়া, বাউল, জারি-সারি এবং সমকালীন জনপ্রিয় সংগীত ভিন্ন ভিন্ন শ্রোতা ও সামাজিক প্রেক্ষাপটে বিকশিত হয়েছে। সংগীত স্মৃতি, প্রতিবাদ, ধর্মীয় অনুভূতি, প্রেম, শ্রম, অঞ্চল ও প্রজন্মের অভিজ্ঞতা বহন করতে পারে। বাণিজ্যিক মাধ্যম ও ডিজিটাল প্ল্যাটফর্ম বিতরণ বাড়ালেও শিল্পীর ন্যায্য পারিশ্রমিক, কপিরাইট ও ঐতিহ্য সংরক্ষণ জরুরি।
 
+![বাংলাদেশের গ্রামীণ লোকসংস্কৃতির বাউল শিল্পী](../assets/photos/commons-08103d1dfd6a9f74.jpg)
+
+**ছবির উৎস ও লাইসেন্স:** [Wikimedia Commons — Baul of Bengal.jpg](https://commons.wikimedia.org/wiki/File:Baul_of_Bengal.jpg), Bijoykrishnaa, 2025; CC BY-SA 4.0. বাউল গান ২০০৮ সালে UNESCO-র Intangible Cultural Heritage তালিকায় অন্তর্ভুক্ত হয়। [UNESCO source](https://ich.unesco.org/en/RL/baul-songs-00107)
+
 ### ১৩.৩ চলচ্চিত্র ও টেলিভিশন
 
 বাংলাদেশি চলচ্চিত্র মুক্তিযুদ্ধ, সামাজিক বাস্তবতা, পারিবারিক সম্পর্ক, গ্রামীণ-নগর জীবন, শ্রেণি, নারী, রাজনৈতিক ইতিহাস ও বিনোদনের নানা ধারা ধারণ করে। টেলিভিশন নাটক ও ধারাবাহিক জনপ্রিয় সংস্কৃতির গুরুত্বপূর্ণ অংশ; ডিজিটাল স্ট্রিমিং নতুন নির্মাতা ও দর্শক তৈরি করেছে। শিল্পের মানোন্নয়নে চিত্রনাট্য, প্রশিক্ষণ, অর্থায়ন, প্রেক্ষাগৃহ/বিতরণ, আর্কাইভ, চলচ্চিত্র সংরক্ষণ এবং সৃজনশীল স্বাধীনতার পরিবেশ গুরুত্বপূর্ণ।
@@ -361,6 +437,10 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 ### ১৩.৪ চারুকলা ও স্থাপত্য
 
 চিত্রকলা, ভাস্কর্য, গ্রাফিক আর্ট, আলোকচিত্র, স্থাপত্য ও জনশিল্পে ভাষা আন্দোলন, মুক্তিযুদ্ধ, কৃষক-শ্রমিক, প্রকৃতি, শহুরে জীবন ও সমকালীন পরিচয়ের প্রতিফলন দেখা যায়। শিল্পকর্মের ব্যাখ্যায় শিল্পী, সময়, মাধ্যম, বিষয় এবং দর্শক-প্রতিক্রিয়া উল্লেখ করা যায়। ঐতিহাসিক স্থাপনা, জাদুঘর, গ্রন্থাগার, আর্কাইভ ও শিল্পসংগ্রহের সংরক্ষণ সাংস্কৃতিক নীতির অংশ।
+
+![ঢাকায় রিকশাচিত্র আঁকার প্রক্রিয়া](../assets/photos/commons-4c7a9ef48ca212f2.jpg)
+
+**ছবির উৎস ও লাইসেন্স:** [Wikimedia Commons — Rickshaw Art.jpg](https://commons.wikimedia.org/wiki/File:Rickshaw_Art.jpg), Joysaha.bd, 2024; CC BY-SA 4.0. UNESCO 2023 সালে “Rickshaws and rickshaw painting in Dhaka” তালিকাভুক্ত করে। [UNESCO source](https://ich.unesco.org/en/state/bangladesh-BD)
 
 ### ১৩.৫ গণমাধ্যম ও ডিজিটাল সংস্কৃতি
 
@@ -375,10 +455,20 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 - সংখ্যালঘু ও ক্ষুদ্র নৃগোষ্ঠীর সংস্কৃতি তাদের নিজস্ব অংশগ্রহণ ও সম্মতির ভিত্তিতে সংরক্ষণ।
 - ডিজিটাল কনটেন্টে কপিরাইট, উৎস উল্লেখ ও আর্কাইভের দীর্ঘমেয়াদি প্রবেশাধিকার।
 
+**Visual — সাহিত্য ও সংস্কৃতি:** সাহিত্য, সংগীত, চলচ্চিত্র, নাটক, চারুকলা ও ঐতিহ্যকে পরস্পর-সংযুক্ত সাংস্কৃতিক প্রকাশ হিসেবে দেখুন।
+<img src="./assets/visual-revision/05-literature-culture.svg" width="700" alt="বাংলাদেশের সাহিত্য, সংগীত, চলচ্চিত্র, নাটক ও ঐতিহ্য">
+
 ---
 
 <a id="identity"></a>
 ## ১৪. জাতীয় পরিচয়, ভাষা ও সাংস্কৃতিক বৈচিত্র্য
+
+#### Visual: বাংলাদেশের ঐতিহ্যবাহী জামদানি বয়ন
+
+![ঐতিহ্যবাহী জামদানি বয়নশিল্প](../assets/photos/commons-234f7acb30998544.jpg)
+
+*কী লক্ষ্য করবেন:* জামদানি দক্ষতা, নকশা, জীবন্ত ঐতিহ্য, কারুশিল্পভিত্তিক জীবিকা এবং সাংস্কৃতিক জ্ঞান প্রজন্মান্তরে হস্তান্তরের উদাহরণ। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Traditional_Jamdani_Weaving.jpg) · [UNESCO: Jamdani weaving](https://ich.unesco.org/en/RL/traditional-art-of-jamdani-weaving-00879)
+
 
 বাংলাদেশের জাতীয় পরিচয় গঠনে বাংলা ভাষা, ভাষা আন্দোলন, মুক্তিযুদ্ধ, ভূখণ্ড, রাজনৈতিক অধিকার ও সাংস্কৃতিক স্মৃতি গভীর ভূমিকা রেখেছে। তবে জাতীয় পরিচয় মানে সবার ভাষা, ধর্ম, অঞ্চল, জাতিগত পরিচয় বা জীবনধারা এক হওয়া নয়। রাষ্ট্রীয় অন্তর্ভুক্তির লক্ষ্য হলো নাগরিকের সমান মর্যাদা ও অধিকার নিশ্চিত করা, একই সঙ্গে বৈচিত্র্যকে স্বীকৃতি দেওয়া।
 
@@ -427,30 +517,29 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 - সাংস্কৃতিক প্রতিষ্ঠান, ভাষা ও ঐতিহ্য সংরক্ষণে দীর্ঘমেয়াদি অর্থায়ন।
 - তথ্যপ্রাপ্তি, স্বাধীন গবেষণা, জবাবদিহি এবং নীতির ধারাবাহিকতা।
 
+**Visual — টেকসই ও অন্তর্ভুক্তিমূলক উন্নয়ন:** উৎপাদনশীলতা, সমান সুযোগ, মানসম্মত সেবা, সামাজিক সুরক্ষা ও জবাবদিহিকে একসঙ্গে এগোতে হয়।
+<img src="./assets/visual-revision/06-policy-roadmap.svg" width="700" alt="বাংলাদেশের অন্তর্ভুক্তিমূলক উন্নয়নের নীতিগত রোডম্যাপ">
+
 ---
 
 <a id="visuals"></a>
 ## ১৬. Quick Revision Visual Notes
 
-নিচের চিত্রগুলো অধ্যায়ের মূল ধারণা দ্রুত মনে রাখার জন্য। পরিসংখ্যানের চার্টকে সরকারি ডেটাসেটের বিকল্প মনে করবেন না; এগুলো ধারণাগত পুনরালোচনা। চিত্রে নির্দিষ্ট সংখ্যার প্রয়োজন হলে উৎস, বছর ও সংজ্ঞা আলাদাভাবে যাচাই করুন।
+চিত্রগুলো এখন সংশ্লিষ্ট পাঠ্যবিষয়ের পাশে embed করা হয়েছে, তাই এখানে একই ছবি আবার দেখানো হয়নি। নিচের লিংকগুলো এক ক্লিকে revision-এর জন্য আলাদা করে খুলতে পারবেন।
 
-### Visual 1 — স্বাধীনতার পর অর্থনৈতিক রূপান্তর
-<img src="./assets/visual-revision/01-economic-transformation.svg" width="700" alt="বাংলাদেশের স্বাধীনতা-পরবর্তী অর্থনৈতিক রূপান্তরের ধারণাগত চিত্র">
+| Visual | কী বুঝতে সাহায্য করে | লিংক |
+|---|---|---|
+| 01 | স্বাধীনতার পর অর্থনৈতিক রূপান্তর | [Economic transformation](./assets/visual-revision/01-economic-transformation.svg) |
+| 02 | কৃষি, RMG, রেমিট্যান্স ও মানব উন্নয়নের সংযোগ | [Growth drivers](./assets/visual-revision/02-growth-drivers.svg) |
+| 03 | GDP growth বনাম inclusive development | [Growth vs inclusion](./assets/visual-revision/03-growth-vs-inclusion.svg) |
+| 04 | শিক্ষা, স্বাস্থ্য, নারী, কাজ ও সামাজিক সুরক্ষা | [Social development](./assets/visual-revision/04-social-development.svg) |
+| 05 | সাহিত্য ও সাংস্কৃতিক প্রকাশ | [Literature & culture](./assets/visual-revision/05-literature-culture.svg) |
+| 06 | অন্তর্ভুক্তিমূলক উন্নয়নের নীতি | [Policy roadmap](./assets/visual-revision/06-policy-roadmap.svg) |
+| 10 | FY2023–24 GDP sector composition | [GDP sector chart](./assets/visual-revision/10-gdp-sector-shares-fy24.svg) |
+| 11 | FY2019–20–FY2024–25 RMG export earnings | [RMG export chart](./assets/visual-revision/11-rmg-export-trend.svg) |
+| 12 | FY2019–20–FY2024–25 remittance inflows | [Remittance chart](./assets/visual-revision/12-remittance-trend.svg) |
 
-### Visual 2 — উন্নয়নের চালিকা শক্তি ও ফল
-<img src="./assets/visual-revision/02-growth-drivers.svg" width="700" alt="কৃষি, তৈরি পোশাক, প্রবাসী আয়, সেবা ও মানব উন্নয়নের সংযোগ">
-
-### Visual 3 — প্রবৃদ্ধি বনাম অন্তর্ভুক্তিমূলক উন্নয়ন
-<img src="./assets/visual-revision/03-growth-vs-inclusion.svg" width="700" alt="GDP growth এবং অন্তর্ভুক্তিমূলক উন্নয়নের পার্থক্য">
-
-### Visual 4 — সামাজিক উন্নয়নের পরস্পরনির্ভরতা
-<img src="./assets/visual-revision/04-social-development.svg" width="700" alt="শিক্ষা, স্বাস্থ্য, নারী, কাজ ও সামাজিক সুরক্ষার সম্পর্ক">
-
-### Visual 5 — স্বাধীনতা-পরবর্তী সাহিত্য ও সংস্কৃতির বিষয়
-<img src="./assets/visual-revision/05-literature-culture.svg" width="700" alt="বাংলাদেশের সাহিত্য, সংগীত, চলচ্চিত্র, নাটক ও ঐতিহ্য">
-
-### Visual 6 — টেকসই উন্নয়নের নীতি-মানচিত্র
-<img src="./assets/visual-revision/06-policy-roadmap.svg" width="700" alt="বাংলাদেশের অন্তর্ভুক্তিমূলক উন্নয়নের নীতিগত রোডম্যাপ">
+**পরীক্ষার নিয়ম:** chart থেকে trend বুঝুন; উত্তরে সংখ্যার পাশে reference year, source এবং revised/provisional status উল্লেখ করুন।
 
 ---
 
@@ -668,6 +757,29 @@ https://ich.unesco.org/
 **[S14] Bangladesh Public Service Commission (BPSC).** BCS Written syllabus ও পরীক্ষাসংক্রান্ত সরকারি নির্দেশনা।  
 https://bpsc.gov.bd/
 
+**[S15] Bangladesh Bureau of Statistics (BBS), GDP data portal.** GDP 2023–24 final and other national-accounts publications.  
+https://bbs.gov.bd/site/page/dc2bc6ce-7080-48b3-9a04-73cec782d0df/Gross-Domestic-Product-%28GDP%29
+
+**[S16] General Economics Division, Bangladesh Planning Commission — *Bangladesh State of the Economy 2025*.** FY2023–24 sector shares reproduced from BBS data.  
+https://gedkp.gov.bd/wp-content/uploads/2025/12/Bangladesh-State-of-the-Economy-2025-Final.pdf?post_id=4300
+
+**[S17] Bangladesh Garment Manufacturers and Exporters Association (BGMEA), Export Performance.** Comparative fiscal-year RMG exports, total exports and RMG share; selected years are marked revised.  
+https://www.bgmea.com.bd/page/Export_Performance
+
+**[S18] Bangladesh Bank, Statistics Department, Workers’ Remittance.** Official monthly and fiscal-year remittance inflow series; chart uses FY2019–20 to FY2024–25.  
+https://www.bb.org.bd/econdata/provisionalwrem/premittances.pdf
+
+**[S19] BBS, World Bank and World Food Programme — *Poverty Map of Bangladesh 2022*.** Official district/upazila poverty estimates based on HIES 2022 and Population and Housing Census 2022 using small-area estimation.  
+https://socialprotection.gov.bd/2025/08/poverty-map-of-bangladesh-2022/
+
+**[S20] FAO Hand-in-Hand — Bangladesh country profile.** Spatial poverty visual used for general context only; not a substitute for the BBS–World Bank–WFP Poverty Map of Bangladesh 2022.  
+https://www.fao.org/hand-in-hand/previous-editions/hih-IF-2023/bangladesh/en
+
+**[S21] UNESCO Intangible Cultural Heritage — Bangladesh.** Official entries for Baul songs, Jamdani weaving, Mangal Shobhajatra and rickshaws/rickshaw painting.  
+https://ich.unesco.org/en/state/bangladesh-BD
+
+**[S22] Wikimedia Commons image licences.** Image-specific attribution pages are linked below each embedded photograph; author and licence are stated on each source page.
+
 ### তথ্য ব্যবহারের সতর্কতা
 
 - GDP, দারিদ্র্য, মূল্যস্ফীতি, রপ্তানি, রেমিট্যান্স ও কর্মসংস্থানের সংখ্যার পাশে **উৎস + reference period + সংজ্ঞা** লিখুন।
@@ -692,3 +804,5 @@ https://bpsc.gov.bd/
 **উত্তরের সূত্র:** Claim → Evidence → Explanation → Limitation → Recommendation → Conclusion.
 
 **শেষ কথা:** স্বাধীনতা-পরবর্তী বাংলাদেশের অর্জন গুরুত্বপূর্ণ, কিন্তু উন্নয়নের পরবর্তী ধাপ নির্ভর করবে প্রবৃদ্ধিকে উৎপাদনশীল কাজ, সমান সুযোগ, কার্যকর প্রতিষ্ঠান, সামাজিক মর্যাদা ও সাংস্কৃতিক বহুত্বের সঙ্গে কতটা যুক্ত করা যায় তার ওপর।
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

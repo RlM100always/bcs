@@ -1,12 +1,37 @@
 # Chapter 10 — রাজনৈতিক দল ও রাজনৈতিক প্রক্রিয়া | Political Parties & Political Process
 
 > **BCS Written · Bangladesh Affairs · Subject Code 005**  
-> বাংলা ব্যাখ্যা + English terminology + source-backed analysis + archive-reported PYQ + ৮টি প্রবন্ধ + ৩৩টি Model Q&A + responsive revision diagrams + English quotation bank.  
+> বাংলা ব্যাখ্যা + English terminology + source-backed analysis + archive-reported PYQ + ৮টি প্রবন্ধ + ৩৩টি Model Q&A + ৬টি responsive revision diagrams + real-institution image atlas + 25-question standalone bank + year-by-year PYQ evidence map + English quotation bank.  
 > **সর্বশেষ উৎস পর্যালোচনা:** ২১ অক্টোবর ২০২৬।
 
-[← Bangladesh Affairs সূচি](../README.md) · [💬 English Quotations + Sources](./QUOTATIONS.md) · [Chapter 1-এর format reference](../Chapter-01/README.md)
+[← Bangladesh Affairs সূচি](../README.md) · [🧭 35th–47th BCS PYQ Map](./PYQ-35-47-MAP.md) · [📘 25 Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [💬 English Quotations + Sources](./QUOTATIONS.md) · [Chapter 1-এর format reference](../Chapter-01/README.md)
 
 <a id="top"></a>
+
+## Visual Atlas — real institutions, location map and legal process
+
+### Bangladesh Election Commission — the institution that registers political parties
+![Bangladesh Election Commission building at Agargaon, Dhaka](../assets/photos/commons-52fcce8ca87f7f7e.jpg)
+
+**Image source/licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Bangladesh_Election_Commission.jpg), author ইব্রাহিম হাসান, own work, **CC BY-SA 4.0**. Attribute the creator and link the licence if reusing the image.
+
+**Location:** [OpenStreetMap — Bangladesh Election Commission, Agargaon](https://www.openstreetmap.org/?mlat=23.777147&mlon=90.374392#map=17/23.777147/90.374392). This is a location reference, not an electoral constituency map.
+
+### National Parliament Building — the institutional setting of party competition
+![Bangladesh National Parliament Building, Dhaka](../assets/photos/commons-fbdfd48884b64920.jpg)
+
+**Image source/licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:National_Parliament_Building.jpg), author Helal321, own work, **CC BY-SA 4.0**.
+
+### Additional responsive study diagrams
+- [Political Process Cycle](./assets/political-process-cycle.svg)
+- [Functions of Political Parties](./assets/party-functions.svg)
+- [Bangladesh Political Development Timeline](./assets/political-timeline.svg)
+- [Democratic Political Culture Framework](./assets/democratic-political-culture.svg)
+- [Internal Party Democracy](./assets/internal-party-democracy.svg)
+- [Political Party Registration Flow](./assets/party-registration-flow.svg)
+
+**Why no unrelated geographical map?** This chapter concerns political institutions and political behaviour, not physical geography. The map link locates the Election Commission; diagrams explain the political process and legal workflow. Current party-registration status should be checked against the [official Election Commission list](https://ecs.gov.bd/political-parties), which is dynamic.
+
 
 > [!IMPORTANT]
 > **এই অধ্যায়ের কেন্দ্রীয় ধারণা:** রাজনৈতিক দল শুধু নির্বাচনে অংশ নেওয়ার সংগঠন নয়; নাগরিকের দাবি সংগঠিত করা, নেতৃত্ব তৈরি, নীতি প্রস্তাব, সরকার গঠন, বিরোধী দলের মাধ্যমে জবাবদিহি এবং রাষ্ট্র ও সমাজের মধ্যে যোগাযোগ তৈরিও তার কাজ। গণতান্ত্রিক রাজনৈতিক প্রক্রিয়া তখনই কার্যকর হয়, যখন দলগুলো আইন মানে, অভ্যন্তরীণভাবে গণতান্ত্রিক থাকে, শান্তিপূর্ণ প্রতিযোগিতা করে এবং নাগরিকের অধিকারকে সম্মান করে।
@@ -43,6 +68,7 @@
 | [সংবিধান ও আইন](#law) | [চ্যালেঞ্জ ও সংস্কার](#reform) | [Answer-writing strategy](#strategy) |
 | [Revision diagrams](#visuals) | [নারী, তরুণ ও নাগরিক অংশগ্রহণ](#inclusion) | [Full source register](#sources) |
 | [English Quotations](./QUOTATIONS.md) | [One-page revision](#revision) | [Quote source register](./QUOTATIONS.md#quote-sources) |
+| [35th–47th BCS PYQ audit](./PYQ-35-47-MAP.md) | [২৫টি Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) | [Political Party Registration Flow](./assets/party-registration-flow.svg) |
 
 ---
 
@@ -112,6 +138,13 @@
 
 <a id="meaning"></a>
 
+#### বাস্তব উদাহরণ: রাজনৈতিক দলের পতাকা ও প্রতীক
+
+![বাংলাদেশের রাজনৈতিক দলের পতাকা ও প্রতীকের উদাহরণ](../assets/photos/commons-dfae69ecf7075075.png)
+
+*চিত্র-পাঠ:* রাজনৈতিক দল সংগঠিত আদর্শ, নেতৃত্ব, সদস্যপদ ও কর্মসূচির ভিত্তিতে কাজ করে। পতাকা বা প্রতীক পরিচয়ের একটি উপাদান মাত্র—দলের আদর্শ বা জনপ্রিয়তার পূর্ণ প্রমাণ নয়। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:AB_Party_flag.png) · [নিবন্ধিত দলের হালনাগাদ তালিকা: নির্বাচন কমিশন](https://ecs.gov.bd/political-parties)
+
+
 ## ৩. রাজনৈতিক দল: ধারণা, বৈশিষ্ট্য ও গণতন্ত্রে ভূমিকা
 
 ### ৩.১ Political party কী?
@@ -151,6 +184,13 @@
 
 <a id="process"></a>
 
+#### বাস্তব ছবি: ভোটদান ও নির্বাচনী অংশগ্রহণ
+
+![বাংলাদেশে ভোটদান ও নির্বাচনী অংশগ্রহণের দৃশ্য](../assets/photos/commons-bf7c31c75c9ae474.jpg)
+
+*চিত্র-পাঠ:* নাগরিকের দাবি → রাজনৈতিক সংগঠন → নির্বাচনী প্রতিযোগিতা → প্রতিনিধিত্ব → নীতি ও জবাবদিহি—এই চক্রের সঙ্গে ছবিটি মিলিয়ে পড়ুন। [ছবির উৎস ও বিবরণ](https://commons.wikimedia.org/wiki/File:2026-02-12_13th_National_Parliament_Election_and_2026_Referendum,_voters_in_long_lines_at_capital_polling_stations.jpg) · [বাংলাদেশ নির্বাচন কমিশন](https://ecs.gov.bd/)
+
+
 ## ৪. Political Process — রাজনৈতিক প্রক্রিয়া কীভাবে কাজ করে?
 
 রাজনৈতিক প্রক্রিয়া হলো সমাজের সমস্যা ও দাবি কীভাবে রাজনৈতিক আলোচনায় আসে, সংগঠিত হয়, প্রতিদ্বন্দ্বী প্রস্তাবে রূপ নেয়, আইন বা সরকারি নীতিতে পরিণত হয় এবং পরে কীভাবে মূল্যায়ন ও সংশোধনের মুখোমুখি হয়—তার ধারাবাহিকতা।
@@ -189,6 +229,13 @@
 না। নির্বাচন নাগরিকের প্রতিনিধিত্ব বাছাইয়ের একটি গুরুত্বপূর্ণ মাধ্যম। কিন্তু নির্বাচনের আগে মত প্রকাশ ও সংগঠনের স্বাধীনতা, প্রার্থী মনোনয়নের স্বচ্ছতা, অর্থায়নের নিয়ম, সমান রাজনৈতিক সুযোগ, নির্বাচনের পরে সংসদীয় নজরদারি এবং পরবর্তী নীতির জবাবদিহিও প্রয়োজন। তাই রাজনৈতিক প্রক্রিয়া মূল্যায়নে **before, during and after the election**—তিনটি সময়পর্ব বিবেচনা করুন।
 
 <a id="history"></a>
+
+#### ঐতিহাসিক ছবি: ১৯৭১ সালের ৭ মার্চের ভাষণ
+
+![বঙ্গবন্ধুর ৭ মার্চের ভাষণ, ১৯৭১](../assets/photos/commons-c9e963dfefb4f7bd.jpg)
+
+*চিত্র-পাঠ:* ভাষা আন্দোলন, ছয় দফা, গণ-অভ্যুত্থান, ১৯৭০ সালের নির্বাচন ও মুক্তিযুদ্ধকে বাংলাদেশের রাজনৈতিক সংগঠন ও গণ-অংশগ্রহণের ধারাবাহিকতায় বিশ্লেষণ করুন। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Mujibur_Rahman_7th_March_Speech_Race_Course_Maidan_1971-03-07_(PID-h003).jpg)
+
 
 ## ৫. বাংলাদেশের রাজনৈতিক দল ও রাজনৈতিক প্রক্রিয়ার ঐতিহাসিক বিকাশ
 
@@ -236,6 +283,13 @@
 
 <a id="party-system"></a>
 
+#### বাস্তব ছবি: জাতীয় সংসদ ও প্রতিনিধিত্ব
+
+![বাংলাদেশের জাতীয় সংসদ ভবন](../assets/photos/commons-fbdfd48884b64920.jpg)
+
+*চিত্র-পাঠ:* দলীয় ব্যবস্থা বিশ্লেষণে সংসদে প্রতিনিধিত্ব, সরকার গঠন, বিরোধী দলের ভূমিকা, জোট এবং নির্বাচনী প্রতিযোগিতাকে আলাদা মাত্রায় দেখুন। [ছবির উৎস, আলোকচিত্রী ও CC BY-SA 4.0 লাইসেন্স](https://commons.wikimedia.org/wiki/File:National_Parliament_Building.jpg)
+
+
 ## ৬. বাংলাদেশের Party System — দলীয় ব্যবস্থা ও প্রতিযোগিতা
 
 ### ৬.১ দলীয় ব্যবস্থার ধরন
@@ -272,6 +326,13 @@
 
 <a id="culture"></a>
 
+#### বাস্তব ছবি: নাগরিক সমাবেশ ও জন-অংশগ্রহণ
+
+![বাংলাদেশে নাগরিক সমাবেশ ও জনঅংশগ্রহণ](../assets/photos/commons-c2890e439c48d2a4.jpg)
+
+*চিত্র-পাঠ:* রাজনৈতিক সংস্কৃতিতে অংশগ্রহণ, সহনশীলতা, বিরোধী মতের প্রতি শ্রদ্ধা, শান্তিপূর্ণ প্রতিযোগিতা এবং আইন মেনে চলার ভূমিকা আলোচনা করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:1954_public_rally_Shaheed_Suhrawardy_and_Bangabandhu,_Rajshahi_(PID-h008).jpg)
+
+
 ## ৭. Political Culture — বাংলাদেশের রাজনৈতিক সংস্কৃতি
 
 রাজনৈতিক সংস্কৃতি হলো নাগরিক, রাজনৈতিক দল ও রাষ্ট্রীয় প্রতিষ্ঠানের মধ্যে রাজনীতি সম্পর্কে প্রচলিত মূল্যবোধ, প্রত্যাশা, মনোভাব ও আচরণের সমষ্টি। এটি শুধু নেতাদের আচরণ নয়; ভোটারের মনোভাব, বিরোধী মতের প্রতি সহনশীলতা, আইন মানার প্রবণতা, আলোচনার সংস্কৃতি ও প্রতিষ্ঠান সম্পর্কে জনআস্থাও এর অংশ।
@@ -306,6 +367,13 @@
 গণতান্ত্রিক সংস্কৃতিতে রাজনৈতিক বিরোধ থাকা স্বাভাবিক। লক্ষ্য হলো বিরোধ দূর করা নয়, বরং আইন ও আলোচনার মাধ্যমে বিরোধ সামলানো। নির্বাচনে হার মানা, সংসদে বিরোধী মত শোনা, শান্তিপূর্ণ সমাবেশের অধিকার, স্বাধীন গণমাধ্যম এবং আদালতে প্রতিকার পাওয়ার সুযোগ রাজনৈতিক প্রতিযোগিতাকে সহিংসতার বদলে নিয়মভিত্তিক করে।
 
 <a id="law"></a>
+
+#### আইনগত উৎস: রাজনৈতিক দল নিবন্ধনের বিধান
+
+![বাংলাদেশ নির্বাচন কমিশনের প্রতীক](../assets/photos/commons-fbbacc792371fbd6.png)
+
+*চিত্র-পাঠ:* রাজনৈতিক দল নিবন্ধন, নির্বাচনী প্রতীক ও আইনগত শর্তের জন্য বর্তমান নির্বাচন কমিশনের তালিকা এবং Representation of the People Order, 1972-এর 90A–90I ধারা পড়ুন। [সরকারি রাজনৈতিক দল নিবন্ধন আইন, ২০২০](https://ecs.gov.bd/page/political-parties-registration-law-2020) · [আইনের পূর্ণ পাঠ](https://bdlaws.minlaw.gov.bd/act-print-424.html)
+
 
 ## ৮. সাংবিধানিক ও আইনগত কাঠামো — যে অনুচ্ছেদগুলো লিখতে হবে
 
@@ -363,6 +431,13 @@ RPO-এর Chapter VIA-তে রাজনৈতিক দলের নিবন
 
 <a id="inclusion"></a>
 
+#### বাস্তব ছবি: নির্বাচনে নারীর অংশগ্রহণ
+
+![বাংলাদেশে নারী ভোটারদের নির্বাচনী অংশগ্রহণ](../assets/photos/commons-513113e106a44615.jpg)
+
+*চিত্র-পাঠ:* ভোটার হিসেবে অংশগ্রহণ, প্রার্থী হওয়া, দলীয় নেতৃত্বে প্রতিনিধিত্ব, নিরাপত্তা এবং সিদ্ধান্ত গ্রহণে কার্যকর ভূমিকা—এই দিকগুলো আলাদা করে মূল্যায়ন করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:Women_Voting_in_Dhaka_Banani_Model_School_2018-12-30_(PID-0040849).jpg) · [বাংলাদেশ নির্বাচন কমিশন](https://ecs.gov.bd/)
+
+
 ## ৯. নারী, তরুণ, সংখ্যালঘু ও প্রান্তিক গোষ্ঠীর রাজনৈতিক অংশগ্রহণ
 
 গণতান্ত্রিক প্রতিনিধিত্ব শুধু ভোটারসংখ্যা দিয়ে মাপা যায় না। কে দলীয় পদ পায়, কে প্রার্থী হতে পারে, কার কথা নীতিনির্ধারণে শোনা হয় এবং কে রাজনৈতিক কর্মকাণ্ডে নিরাপদে অংশ নিতে পারে—এসবও গুরুত্বপূর্ণ।
@@ -388,6 +463,13 @@ RPO-এর Chapter VIA-তে রাজনৈতিক দলের নিবন
 সামাজিক মাধ্যম দ্রুত মতপ্রকাশ, প্রচার ও সংগঠনের সুযোগ তৈরি করে। তবে গুজব, deepfake, ব্যক্তিগত তথ্যের অপব্যবহার, সংগঠিত হয়রানি, অ্যালগরিদমিক বিভাজন ও অনলাইন সহিংসতার ঝুঁকিও আছে। দল ও প্রার্থীর উচিত উৎস যাচাই, সংশোধনী প্রকাশ, নাগরিকদের গোপনীয়তা রক্ষা এবং আইনসম্মত রাজনৈতিক বক্তব্যের স্বাধীনতা সম্মান করা।
 
 <a id="challenges"></a>
+
+#### বাস্তব ছবি: নির্বাচনী পর্যবেক্ষণ ও ভোটকেন্দ্র
+
+![বাংলাদেশের একটি ভোটকেন্দ্র](../assets/photos/commons-132db86569fb1930.jpg)
+
+*চিত্র-পাঠ:* নির্বাচনের বিশ্বাসযোগ্যতা মূল্যায়নে ভোটার তালিকা, ভোটকেন্দ্রের ব্যবস্থাপনা, সমান প্রতিযোগিতা, নিরাপত্তা, পর্যবেক্ষণ ও অভিযোগ নিষ্পত্তির বিষয়গুলো একসঙ্গে বিশ্লেষণ করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:2026-02-12_Chief_Election_Commissioner_A._M._M._Nasir_Uddin_visits_polling_stations_in_capital.jpg) · [নির্বাচন কমিশন](https://ecs.gov.bd/)
+
 
 ## ১০. বাংলাদেশের রাজনৈতিক প্রক্রিয়ার প্রধান চ্যালেঞ্জ
 
@@ -420,6 +502,13 @@ RPO-এর Chapter VIA-তে রাজনৈতিক দলের নিবন
 নারী, তরুণ, সংখ্যালঘু, প্রতিবন্ধী এবং প্রান্তিক অঞ্চলের নাগরিকদের রাজনৈতিক পদে প্রবেশে বাধা থাকতে পারে। সমাধান শুধু কোটা বা প্রতীকী প্রতিনিধিত্ব নয়; নিরাপদ অংশগ্রহণ, প্রশিক্ষণ, অর্থায়নে প্রবেশাধিকার, স্থানীয় সংগঠন এবং সিদ্ধান্ত গ্রহণে বাস্তব ভূমিকা নিশ্চিত করতে হবে।
 
 <a id="reform"></a>
+
+#### সংস্কারের প্রাতিষ্ঠানিক প্রেক্ষাপট: নির্বাচন কমিশন
+
+![বাংলাদেশ নির্বাচন কমিশন ভবন](../assets/photos/commons-52fcce8ca87f7f7e.jpg)
+
+*চিত্র-পাঠ:* স্বচ্ছ দলীয় অর্থায়ন, অভ্যন্তরীণ গণতন্ত্র, প্রার্থী মনোনয়নে স্বচ্ছতা, নারী ও তরুণদের সুযোগ এবং নিরপেক্ষ আইন প্রয়োগ—এসব সংস্কার প্রস্তাবকে নির্বাচন কমিশনের আইনগত দায়িত্বের সঙ্গে মিলিয়ে লিখুন। [নির্বাচন কমিশনের নিবন্ধিত দলের তালিকা](https://ecs.gov.bd/political-parties)
+
 
 ## ১১. রাজনৈতিক সংস্কার: বাস্তবসম্মত সুপারিশ
 
@@ -486,9 +575,18 @@ RPO-এর Chapter VIA-তে রাজনৈতিক দলের নিবন
 
 **মনে রাখুন:** Membership → Internal election → Policy debate → Candidate selection → Finance disclosure → Review.
 
+### ১২.৬ Party Registration: legal workflow
+
+![Political party registration flow under current amended RPO framework](./assets/party-registration-flow.svg)
+
+**Source:** Representation of the People Order, 1972, Chapter VIA, Articles 90A–90H; see [current legal text](https://bdlaws.minlaw.gov.bd/act-print-424.html). This diagram is a study summary, not legal advice.
+
 <a id="pyq"></a>
 
 ## ১৩. Previous BCS Written Question Analysis — বিগত প্রশ্নের উৎসভিত্তিক বিশ্লেষণ
+
+**পূর্ণ বছরভিত্তিক cross-check:** [Chapter 10 — 35th–47th BCS PYQ Map](./PYQ-35-47-MAP.md). এতে direct, related, special-exam ও item-level verification pending—এই চার ধরনের প্রমাণ আলাদা করা হয়েছে।
+
 
 ### ১৩.১ প্রমাণের অবস্থা
 
@@ -649,6 +747,9 @@ RPO 1972-এর Article 90B-তে দলের বিভিন্ন স্ত�
 <a id="questions"></a>
 
 ## ১৫. Important English Questions — ৩৩টি বাংলা Model Answer
+
+> **আলাদা study file:** [২৫টি নির্বাচিত উত্তরসহ Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [35th–47th PYQ evidence map](./PYQ-35-47-MAP.md) · [English Quotations](./QUOTATIONS.md)
+
 
 > প্রশ্নগুলো BCS Written-এর syllabus-oriented practice questions। যেগুলোর পাশে PYQ evidence দেওয়া আছে, সেগুলো archive-reported প্রশ্নের থিম; অন্যগুলো প্রস্তুতির জন্য তৈরি model questions—মূল BPSC প্রশ্ন হিসেবে দাবি করা হচ্ছে না।
 
@@ -1004,3 +1105,5 @@ RPO 1972-এর Article 90B-তে দলের বিভিন্ন স্ত�
 রাজনৈতিক দল ও রাজনৈতিক প্রক্রিয়া বুঝতে হলে তিনটি বিষয় একসঙ্গে পড়তে হবে: **নাগরিকের অংশগ্রহণ, রাজনৈতিক প্রতিষ্ঠানের নিয়ম এবং ক্ষমতার জবাবদিহি**। দল গণতন্ত্রকে শক্তিশালী করতে পারে, যদি তা সদস্যদের প্রতিনিধিত্ব করে, স্বচ্ছভাবে কাজ করে, শান্তিপূর্ণ প্রতিযোগিতা মেনে চলে এবং বিরোধী মতের অধিকারকে সম্মান করে। রাজনৈতিক সংস্কারের লক্ষ্য মতভিন্নতা মুছে ফেলা নয়; বরং মতভিন্নতাকে আইনসম্মত, অন্তর্ভুক্তিমূলক ও জবাবদিহিমূলক প্রক্রিয়ায় পরিচালনা করা।
 
 [⬆️ Go to Contents](#top) · [💬 English Quotations + Sources](./QUOTATIONS.md) · [← Bangladesh Affairs সূচি](../README.md)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

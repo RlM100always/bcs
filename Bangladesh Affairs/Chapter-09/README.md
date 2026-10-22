@@ -11,7 +11,7 @@
 
 ## বিষয়সূচি
 1. [Syllabus ও learning outcomes](#syllabus)
-2. [35th–47th BCS Written PYQ audit](./PYQ-35TH-47TH-AUDIT.md)
+2. [Previous BCS Written question analysis](#pyq) · [35th–47th full audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি answered model Q&A](./BCS-WRITTEN-QUESTION-BANK.md)
 3. [পররাষ্ট্রনীতি: ধারণা, লক্ষ্য ও নির্ধারক](#concept)
 4. [সাংবিধানিক ভিত্তি](#constitution)
 5. [Policy formulation ও national power](#formulation)
@@ -26,6 +26,7 @@
 14. [৩৩টি practice questions](#questions)
 15. [উত্তর লেখার কৌশল](#answer)
 16. [Source register](#sources)
+17. [Fact-Checking Report](#accuracy)
 [২৫টি answered model questions](./BCS-WRITTEN-QUESTION-BANK.md) · [১৮টি English quotations with sources](./QUOTATIONS.md#verified-quotes)
 
 <a id="syllabus"></a>
@@ -92,6 +93,13 @@ Foreign policy হলো অন্য রাষ্ট্র, আন্তর্�
 <a id="constitution"></a>
 ## ৪. সাংবিধানিক ভিত্তি: Article 25
 
+#### সংবিধান ও পররাষ্ট্রনীতির ভিত্তি
+
+![বাংলাদেশের সংবিধানের প্রচ্ছদ](../assets/photos/commons-e8085239c10fb870.jpg)
+
+*চিত্র-পাঠ:* সংবিধানের ২৫ অনুচ্ছেদের মূলনীতি—জাতীয় সার্বভৌমত্ব, সমতা, অন্য রাষ্ট্রের অভ্যন্তরীণ বিষয়ে হস্তক্ষেপ না করা, আন্তর্জাতিক বিরোধের শান্তিপূর্ণ নিষ্পত্তি ও আন্তর্জাতিক আইনকে সম্মান—উত্তরে যুক্ত করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:The_original_front_page_of_constitution_of_BD.jpg) · [সরকারি Bangladesh Laws](http://bdlaws.minlaw.gov.bd/)
+
+
 সংবিধানের ২৫ অনুচ্ছেদ আন্তর্জাতিক সম্পর্কের ভিত্তি হিসেবে জাতীয় সার্বভৌমত্ব ও সমতার প্রতি শ্রদ্ধা, অন্য রাষ্ট্রের অভ্যন্তরীণ বিষয়ে হস্তক্ষেপ না করা, আন্তর্জাতিক বিরোধের শান্তিপূর্ণ সমাধান এবং আন্তর্জাতিক আইন ও UN Charter-এর নীতির প্রতি শ্রদ্ধা নির্ধারণ করে। এতে বলপ্রয়োগ পরিহার, সাধারণ ও সম্পূর্ণ নিরস্ত্রীকরণের চেষ্টা এবং জনগণের নিজস্ব রাজনৈতিক-অর্থনৈতিক ব্যবস্থা নির্ধারণের অধিকারের কথাও রয়েছে। [S2]
 
 **পরীক্ষায় তিনটি স্তর লিখুন:**  
@@ -103,6 +111,13 @@ Article 25 নীতিগত মানদণ্ড। বাস্তবে ব
 
 <a id="formulation"></a>
 ## ৫. Policy formulation ও National Power
+
+#### কূটনৈতিক সিদ্ধান্ত গ্রহণ: পররাষ্ট্র মন্ত্রণালয়ে দ্বিপাক্ষিক বৈঠক
+
+![ঢাকার পররাষ্ট্র মন্ত্রণালয়ে বাংলাদেশ–ইতালি দ্বিপাক্ষিক বৈঠক, ২০১৫](../assets/photos/commons-50bea3f17e36020b.jpg)
+
+*চিত্র-পাঠ:* পররাষ্ট্রনীতি নির্ধারণে সংবিধান, প্রধানমন্ত্রীর কার্যালয়, পররাষ্ট্র মন্ত্রণালয়, অন্যান্য মন্ত্রণালয়, সংসদীয় তদারকি ও জাতীয় স্বার্থের ভূমিকা মিলিয়ে পড়ুন। [ছবির উৎস ও বর্ণনা](https://commons.wikimedia.org/wiki/File:Bangladesh_Italy_Bilateral_Meeting_Ministry_of_Foreign_Affairs_Dhaka_2015-02-19_(PID-0060574).jpg) · [পররাষ্ট্র মন্ত্রণালয়](https://mofa.gov.bd/)
+
 
 ### ৫.১ নীতি প্রণয়নের ধাপ
 1. সমস্যা ও জাতীয় স্বার্থ শনাক্ত করা।
@@ -126,6 +141,13 @@ Article 25 নীতিগত মানদণ্ড। বাস্তবে ব
 <a id="geopolitics"></a>
 ## ৬. বাংলাদেশের ভূরাজনীতি: সুযোগ ও ঝুঁকি
 
+#### মানচিত্র: বঙ্গোপসাগর ও বাংলাদেশের কৌশলগত অবস্থান
+
+![বঙ্গোপসাগর ও আশপাশের দেশসমূহের মানচিত্র](../assets/photos/commons-bfba090f231b801c.png)
+
+*চিত্র-পাঠ:* বঙ্গোপসাগর, ভারত ও মিয়ানমারের সঙ্গে স্থলসীমান্ত, সমুদ্রপথ, বন্দর এবং Indo-Pacific যোগাযোগ—এই উপাদানগুলো বাংলাদেশের ভূরাজনৈতিক গুরুত্ব নির্ধারণ করে। [মানচিত্রের উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Bay_of_Bengal_map-br.png)
+
+
 বাংলাদেশ দক্ষিণ এশিয়া ও বঙ্গোপসাগরীয় অঞ্চলে অবস্থিত। ভারতের সঙ্গে দীর্ঘ স্থলসীমান্ত ও অর্থনৈতিক সম্পর্ক, মিয়ানমারের সঙ্গে সীমান্ত ও বাস্তুচ্যুতি সংকট, এবং বঙ্গোপসাগরের বাণিজ্যপথ বাংলাদেশের কৌশলগত গুরুত্ব বাড়ায়।
 
 **সুযোগ:** বন্দর ও logistics, regional supply chain, জ্বালানি ও বিদ্যুৎ সংযোগ, Blue Economy, BIMSTEC-ভিত্তিক সহযোগিতা, সামুদ্রিক গবেষণা ও জলবায়ু কূটনীতি।
@@ -136,6 +158,13 @@ Article 25 নীতিগত মানদণ্ড। বাস্তবে ব
 
 <a id="bilateral"></a>
 ## ৭. দ্বিপাক্ষিক সম্পর্ক: পরীক্ষায় কীভাবে বিশ্লেষণ করবেন
+
+#### বাস্তব ছবি: বাংলাদেশ–ভারত স্থলবন্দর ও সীমান্ত বাণিজ্য
+
+![বেনাপোলে সীমান্ত বাণিজ্যের পণ্যবাহী ট্রাক](../assets/photos/commons-2a16f59a39939847.jpg)
+
+*চিত্র-পাঠ:* দ্বিপাক্ষিক সম্পর্ক ব্যাখ্যায় সীমান্ত ব্যবস্থাপনা, বাণিজ্য, যোগাযোগ, পানি বণ্টন, জ্বালানি ও মানুষে-মানুষে যোগাযোগকে পৃথক ক্ষেত্র হিসেবে বিশ্লেষণ করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:BD_Benapole_0906_(17)_(17023318140).jpg) · [Bangladesh Land Port Authority](https://blpa.gov.bd/)
+
 
 ### ৭.১ ভারত
 প্রধান ক্ষেত্র: সীমান্ত ব্যবস্থাপনা, নদীর পানি, বাণিজ্য, বিদ্যুৎ ও জ্বালানি, যোগাযোগ, নিরাপত্তা এবং মানুষে-মানুষে সম্পর্ক। উত্তর সাজান—**অভিন্ন স্বার্থ → সংবেদনশীল/অমীমাংসিত ইস্যু → বিদ্যমান আলোচনার পথ → সুপারিশ**। যৌথ নদী কমিশন, নিয়মিত সীমান্ত সংলাপ, বাণিজ্য বাধা হ্রাস ও যোগাযোগের সুফল ভাগাভাগি প্রাসঙ্গিক।
@@ -154,6 +183,13 @@ Article 25 নীতিগত মানদণ্ড। বাস্তবে ব
 
 <a id="multilateral"></a>
 ## ৮. বহুপাক্ষিক কূটনীতি ও আন্তর্জাতিক সংস্থা
+
+#### বাস্তব ছবি: জাতিসংঘ সদর দপ্তর
+
+![নিউইয়র্কে জাতিসংঘ সদর দপ্তর](../assets/photos/commons-7410a4059cafb98f.jpg)
+
+*চিত্র-পাঠ:* UN, NAM, SAARC, BIMSTEC, OIC ও D-8-এর ভূমিকা তুলনা করুন—সদস্যপদ, উদ্দেশ্য, সিদ্ধান্ত গ্রহণ ও বাংলাদেশের স্বার্থের ভিত্তিতে। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Headquarters_of_the_United_Nations,_New_York_City,_20231001_1103_1006.jpg) · [United Nations](https://www.un.org/)
+
 
 | সংস্থা | মূল ক্ষেত্র | বাংলাদেশের জন্য ব্যবহার |
 |---|---|---|
@@ -176,6 +212,13 @@ Multilateral diplomacy ছোট/মাঝারি রাষ্ট্রকে 
 <a id="un"></a>
 ## ৯. জাতিসংঘ ও শান্তিরক্ষা
 
+#### শান্তিরক্ষা মিশনে বাংলাদেশি সদস্য
+
+![জাতিসংঘ শান্তিরক্ষা কার্যক্রমে বাংলাদেশি শান্তিরক্ষী](https://ecdn.dhakatribune.net/contents/cache/images/1200x630x1xxxxx1/uploads/dten/2023/05/28/un-peacekeepers-2.jpeg)
+
+*চিত্র-পাঠ:* শান্তিরক্ষা, বেসামরিক নাগরিক সুরক্ষা, সংঘাত-পরবর্তী স্থিতিশীলতা এবং বাংলাদেশের আন্তর্জাতিক অবদান একসঙ্গে পড়ুন। [ছবির প্রকাশনা-উৎস](https://www.dhakatribune.com/) · [UN Peacekeeping—Bangladesh](https://peacekeeping.un.org/en/bangladesh)
+
+
 বাংলাদেশ ১৭ সেপ্টেম্বর ১৯৭৪-এ জাতিসংঘের সদস্য হয়। [S4] UN বাংলাদেশের জন্য শান্তি ও নিরাপত্তা, উন্নয়ন, জলবায়ু, মানবিক সংকট এবং আন্তর্জাতিক আইন বিষয়ে গুরুত্বপূর্ণ কূটনৈতিক মঞ্চ।
 
 UN peacekeeping-এ বাংলাদেশি সামরিক, পুলিশ ও অন্যান্য uniformed personnel অংশ নেন। বাংলাদেশ Armed Forces Division-এর প্রকাশিত ranking-এ বাংলাদেশ ২০২৩ সালে প্রথম, ২০২৪ ও ২০২৫ সালে তৃতীয় এবং ২০২৬ সালে চতুর্থ অবস্থানে রয়েছে। এটি troop-contribution ranking-এর dated snapshot—personnel count বা সব ধরনের অবদানের একমাত্র মাপকাঠি নয়। [S8] শান্তিরক্ষা পেশাগত অভিজ্ঞতা, আন্তর্জাতিক সহযোগিতা ও দেশের পরিচিতি বাড়াতে পারে; একই সঙ্গে প্রশিক্ষণ, equipment, mandate clarity, civilian protection, safety ও misconduct prevention জরুরি।
@@ -184,6 +227,19 @@ Peacekeeping যুদ্ধজয় বা জোর করে রাজনৈত
 
 <a id="economic"></a>
 ## ১০. Economic diplomacy, trade ও manpower
+
+#### বাস্তব ছবি: চট্টগ্রাম বন্দরের কনটেইনার টার্মিনাল
+
+![চট্টগ্রাম বন্দরে কনটেইনার পরিচালনা](../assets/photos/commons-f58184f6823b27b7.jpg)
+
+*চিত্র-পাঠ:* রপ্তানি-আমদানি, সরবরাহ-শৃঙ্খল, বন্দর দক্ষতা, বৈদেশিক বিনিয়োগ এবং অর্থনৈতিক কূটনীতির সম্পর্ক বুঝুন। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Stacking_Intermodal_container_in_Port_of_Chittagong_(14).jpg) · [চট্টগ্রাম বন্দর কর্তৃপক্ষ](https://cpa.gov.bd/)
+
+#### বাস্তব ছবি: বাংলাদেশি অভিবাসী শ্রমিকদের সঙ্গে আলোচনা
+
+![বাংলাদেশি অভিবাসী শ্রমিকদের সঙ্গে অ্যান্ড্রু মিচেলের আলোচনা](../assets/photos/commons-a43c20b1aa831805.jpg)
+
+*চিত্র-পাঠ:* নিরাপদ অভিবাসন, দক্ষতা উন্নয়ন, শ্রমিকের অধিকার, কনস্যুলার সহায়তা ও রেমিট্যান্স—এই পাঁচটি দিক লিখুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:Secretary_of_State_for_International_Development_Andrew_Mitchell_speaking_to_Bangladeshi_migrant_workers._(5499005775).jpg) · [প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়](https://probashi.gov.bd/)
+
 
 Economic diplomacy হলো কূটনৈতিক সম্পর্ক ব্যবহার করে বাজার প্রবেশ, বিনিয়োগ, প্রযুক্তি, উন্নয়ন অর্থায়ন, রপ্তানি ও কর্মসংস্থানের সুযোগ বাড়ানো।
 
@@ -207,6 +263,19 @@ Transit সাধারণত অন্য দেশের ভূখণ্ড �
 
 <a id="security"></a>
 ## ১১. জলবায়ু, সমুদ্র ও মানবিক নিরাপত্তা
+
+#### জলবায়ু কূটনীতি: বাংলাদেশের উপকূলীয় ঝুঁকি
+
+![নিঝুম দ্বীপে ঘূর্ণিঝড় আইলার পর ক্ষতিগ্রস্ত বসতবাড়ি](../assets/photos/commons-0fa42cbce76f76b6.jpg)
+
+*চিত্র-পাঠ:* জলবায়ু অভিযোজন, ক্ষয়ক্ষতি ও ক্ষতি-লোকসান (Loss and Damage), জলবায়ু অর্থায়ন এবং উপকূলীয় স্থিতিস্থাপকতার সঙ্গে ছবিটি মিলিয়ে পড়ুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:Cyclone_Aila_Climate_Change_Nijhum_Dwip_2009_Dec_Bangladesh.jpg) · [UNFCCC](https://unfccc.int/)
+
+#### মানবিক কূটনীতি: রোহিঙ্গা শরণার্থী সংকট
+
+![কক্সবাজারের রোহিঙ্গা শরণার্থী শিবির](../assets/photos/commons-e103d92d6659343f.jpg)
+
+*চিত্র-পাঠ:* প্রত্যাবাসনের নিরাপত্তা ও মর্যাদা, আন্তর্জাতিক burden-sharing, মানবিক সহায়তা এবং মিয়ানমারের সঙ্গে কূটনৈতিক যোগাযোগ আলাদা করে বিশ্লেষণ করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:Rohingya_Camps_in_Cox%27s_Bazar,_Bangladesh.jpg) · [UNHCR Bangladesh](https://www.unhcr.org/bangladesh.html)
+
 
 ### Climate diplomacy
 বাংলাদেশের বদ্বীপীয় ভৌগোলিক বাস্তবতায় adaptation, disaster preparedness, loss and damage, technology ও climate finance গুরুত্বপূর্ণ। আন্তর্জাতিক আলোচনায় নির্ভরযোগ্য ঝুঁকি-তথ্য, বাস্তবায়নযোগ্য project pipeline, স্বচ্ছ অর্থব্যবস্থা ও নিজস্ব অভিযোজন পরিকল্পনা দরকার।
@@ -246,7 +315,7 @@ Human security মানুষের জীবন, জীবিকা, খাদ
 
 ### ১৩.১ বাংলাদেশের ভূরাজনৈতিক অবস্থান: বঙ্গোপসাগর ও পার্শ্ববর্তী অঞ্চল
 
-![Bay of Bengal regional location map](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bay_of_Bengal_in_its_region.svg/1280px-Bay_of_Bengal_in_its_region.svg.png)
+![Bay of Bengal regional location map](../assets/photos/commons-db11281627c416aa.png)
 
 <sub>**Map credit:** Aplaice, “Bay of Bengal in its region.svg,” Wikimedia Commons, 1 August 2021, CC BY-SA 4.0. Map data derived from Natural Earth; sea boundaries are approximate and based on IHO *Limits of Oceans and Seas* (Draft 3rd Edition, 1953). [Original map, source details and licence](https://commons.wikimedia.org/wiki/File:Bay_of_Bengal_in_its_region.svg). This is a regional locator map, not a legal delimitation map; use official treaty/judgment documents for maritime boundaries.</sub>
 
@@ -279,7 +348,23 @@ Human security মানুষের জীবন, জীবিকা, খাদ
 
 <sub>Source: Dhaka Tribune, [Bangladesh’s robust role and commitment towards international peace and security](https://www.dhakatribune.com/opinion/longform/314708/bangladesh%E2%80%99s-robust-role-and-commitment-towards). This publisher image is retained as an external reference; check reuse rights before republication.</sub>
 
-### ১৩.১০ Historical source — Bangladesh and the UN
+### ১৩.১০ Bilateral relations: issue matrix
+
+<img src="./assets/bilateral-diplomacy-matrix.svg" width="100%" alt="Bangladesh bilateral diplomacy matrix: neighbourhood, major markets, development partners and national-interest test"/>
+
+### ১৩.১১ Economic diplomacy: outcome pipeline
+
+<img src="./assets/economic-diplomacy-pipeline.svg" width="100%" alt="Economic diplomacy pipeline from market research to measured outcomes"/>
+
+### ১৩.১২ Rohingya response: parallel diplomatic tracks
+
+<img src="./assets/rohingya-diplomacy-framework.svg" width="100%" alt="Rohingya response framework covering diplomacy, protection and host communities"/>
+
+### ১৩.১৩ Official geopolitical reference map
+
+Bangladesh shares land borders with India and Myanmar and has a southern coastline on the Bay of Bengal. For exact borders and geographic context, use a dated cartographic source rather than treating a schematic as a map: [CIA World Factbook — Bangladesh map and geography](https://www.cia.gov/the-world-factbook/countries/bangladesh/map/). Check the map's date and reuse terms before embedding it in a distributable notebook.
+
+### ১৩.১৪ Historical image and background — Bangladesh and UN
 [United Nations in Bangladesh — Bangladesh and the United Nations: 50 Years of Partnership](https://bangladesh.un.org/en/282417-bangladesh-and-united-nations-50-years-partnership)
 
 <a id="questions"></a>
@@ -405,4 +490,15 @@ https://bcsexam.org/written-questions
 ### অধ্যায়ের শেষ কথা
 বাংলাদেশের পররাষ্ট্রনীতির সাফল্য শুধু কত দেশের সঙ্গে সম্পর্ক আছে তা দিয়ে মাপা যায় না। প্রকৃত মানদণ্ড হলো সার্বভৌমত্ব ও জাতীয় স্বার্থ রক্ষা, অর্থনৈতিক সুযোগ সৃষ্টি, নাগরিক ও প্রবাসীদের সুরক্ষা, আন্তর্জাতিক আইন মেনে বিরোধ সামলানো এবং বহুপাক্ষিক ব্যবস্থায় কার্যকর অবদান। Article 25, তথ্যনির্ভর কূটনীতি, সম্পর্কের বৈচিত্র্য ও বাস্তবায়নযোগ্য সুপারিশ—এই চার স্তর একসঙ্গে লিখলে উত্তর হবে বিশ্লেষণধর্মী ও BCS Written-উপযোগী।
 
+<a id="accuracy"></a>
+## ১৭. Fact-Checking Report
+
+**VERIFIED:** আঞ্চলিক মানচিত্রের ফাইল, প্রণেতা ও লাইসেন্স Wikimedia Commons metadata-তে পাওয়া গেছে; স্থানীয় ছবিটি খুলে পরীক্ষা করা হয়েছে।
+
+**PARTIALLY VERIFIED:** প্রশ্নের বছরভিত্তিক তালিকা secondary archive-ভিত্তিক; মূল BPSC প্রশ্নপত্রের স্বাধীন যাচাই বাকি।
+
+**UNVERIFIED — স্বতন্ত্র পুনঃযাচাই (২২ অক্টোবর ২০২৬):** AFD-এর শান্তিরক্ষা ranking এবং UN Bangladesh-এর ২০২৫–২৬ JRP পাতা এই পরিবেশের network restriction-এর কারণে খোলা যায়নি; **মূল উৎসে যাচাই করা সম্ভব হয়নি**। সংশ্লিষ্ট বছরভিত্তিক ranking ও response-plan পরিসংখ্যানকে পুনরায় যাচাই করা প্রয়োজন। এগুলো বর্তমান personnel count, প্রাপ্ত অর্থ বা শরণার্থীর হালনাগাদ সংখ্যা হিসেবে ব্যবহার করবেন না।
+
 [⬆️ সূচিতে ফিরে যান](#top) · [35th–47th PYQ Audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [PYQ-ভিত্তিক প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [১৮টি English Quotations](./QUOTATIONS.md#verified-quotes)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

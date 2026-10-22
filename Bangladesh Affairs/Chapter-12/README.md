@@ -1,8 +1,8 @@
 # Chapter 12 — যোগাযোগ, ICT, গণমাধ্যম, তথ্য অধিকার (RTI) ও ই-গভর্ন্যান্স
 > **BCS Written · Bangladesh Affairs · Subject Code 005 · Unit 12**  
-> বাংলা ব্যাখ্যা + English terminology + PYQ theme analysis + ৮টি model essay + ৩৩টি practice question + responsive SVG visual + English quotations with sources.
+> বাংলা ব্যাখ্যা + English terminology + 35th–47th BCS question audit + ২৫টি detailed model answer + ৮টি source-backed essay + ১৪টি SVG visual + ১০টি topic-aligned internet image + English quotations.
 
-[← ১৬ অধ্যায়ের সূচি](../README.md) · [📚 PYQ-ভিত্তিক প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [💬 English Quotations + Sources](./QUOTATIONS.md)
+[← ১৬ অধ্যায়ের সূচি](../README.md) · [🔎 35th–47th PYQ audit](./PYQ-ANALYSIS-35TH-47TH.md) · [✍️ ২৫টি answered question](./BCS-WRITTEN-QUESTION-BANK.md) · [🗺️ Visual Atlas + images/maps](./VISUAL-ATLAS.md) · [📚 ৮টি Model Essay](./PYQ-BASED-ESSAYS.md) · [💬 English Quotations + Sources](./QUOTATIONS.md)
 
 <a id="top"></a>
 
@@ -11,7 +11,7 @@
 
 ## বিষয়সূচি
 - [১. Syllabus ও learning outcomes](#syllabus)
-- [২. Previous BCS Written question analysis](#pyq)
+- [২. Previous BCS Written question analysis](#pyq) · [35th–47th detailed audit](./PYQ-ANALYSIS-35TH-47TH.md)
 - [৩. যোগাযোগ: ধারণা ও উন্নয়নে ভূমিকা](#communication)
 - [৪. ICT ও বাংলাদেশের ডিজিটাল রূপান্তর](#ict)
 - [৫. গণমাধ্যম: ভূমিকা, স্বাধীনতা ও দায়িত্ব](#media)
@@ -19,8 +19,8 @@
 - [৭. E-governance ও নাগরিককেন্দ্রিক সেবা](#egov)
 - [৮. Digital divide, misinformation, privacy ও cybersecurity](#risks)
 - [৯. নীতিগত চ্যালেঞ্জ ও সুপারিশ](#recommendations)
-- [১০. Quick revision visuals](#visuals)
-- [১১. ৩৩টি Written practice question](#questions)
+- [১০. Quick revision visuals](#visuals) · [14-visual Atlas + real images/map](./VISUAL-ATLAS.md)
+- [১১. ৩৩টি Written practice question](#questions) · [২৫টি full model answer](./BCS-WRITTEN-QUESTION-BANK.md)
 - [১২. Answer-writing framework](#answer)
 - [১৩. Source register](#sources)
 
@@ -34,7 +34,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subjec
 
 ## ২. Previous BCS Written question analysis <a id="pyq"></a>
 ### ২.১ প্রমাণ ও সীমাবদ্ধতা
-সরকারি BPSC syllabus-এ Unit 12-এর চারটি বিষয় স্পষ্টভাবে অন্তর্ভুক্ত। [S1] প্রকাশ্য অনুসন্ধানে এই নির্দিষ্ট উপবিষয়ের সব বছরের মূল BPSC প্রশ্নপত্রের scan একত্রে যাচাই করা যায়নি। তাই কোনো প্রশ্নকে যাচাই ছাড়া “অমুক সালে হুবহু এসেছে” বলা হচ্ছে না।
+সরকারি BPSC syllabus-এ Unit 12-এর চারটি বিষয় স্পষ্টভাবে অন্তর্ভুক্ত। [S1] ৩৫তম–৪৭তম বিসিএসের প্রকাশ্য প্রশ্ন-আর্কাইভে e-governance, press freedom, e-tendering, digitalisation, ICT, Digital Bangladesh ও technology-in-education সম্পর্কিত কয়েকটি প্রশ্ন পাওয়া যায়। এগুলো archive-reported; মূল BPSC scan দিয়ে সব wording স্বাধীনভাবে authenticated নয়। বছরভিত্তিক matrix ও source link-এর জন্য [35th–47th PYQ Theme Audit](./PYQ-ANALYSIS-35TH-47TH.md) দেখুন।
 
 ### ২.২ High-priority theme map
 
@@ -67,10 +67,44 @@ Information and Communication Technology (ICT) হলো তথ্য সংগ�
 
 **সীমাবদ্ধতা:** দুর্বল internet/বিদ্যুৎ, device cost, digital literacy gap, বাংলা ও স্থানীয় ভাষার ঘাটতি, disability accessibility, privacy risk, cyber fraud এবং service downtime. শুধু online channel চালু করে offline/assisted option বন্ধ করলে vulnerable users বাদ পড়তে পারেন।
 
+
+
+#### বাস্তব ছবি: বাংলাদেশের আন্তর্জাতিক internet connectivity
+
+![Cox's Bazar submarine cable landing station during an official inspection, 29 December 2025](../assets/photos/commons-b95f31964bd90e40.jpg)
+
+*চিত্র-পাঠ:* সাবমেরিন কেবল আন্তর্জাতিক data traffic-এর একটি গুরুত্বপূর্ণ পথ। এই ছবিটি ২৯ ডিসেম্বর ২০২৫-এ Cox's Bazar landing station-এ সরকারি পরিদর্শনের সময় তোলা। এটি infrastructure-এর উদাহরণ—capacity বা uptime-এর পরিসংখ্যান নয়। [মূল ছবি ও public-domain তথ্য](https://commons.wikimedia.org/wiki/File:Foyez_Ahmad_Tayyeb,_Special_Assistant_to_Chief_Adviser,_Ministry_of_Post,_Telecommunication,_and_Information_Technology,_inspects_Bangladesh_Submarine_Cable_PLC_landing_station,_Cox%27s_Bazar,_2025-12-29.jpg).
+
+#### মানচিত্র: SEA-ME-WE 5 submarine cable route
+
+![SEA-ME-WE 5 submarine cable route map, 2016](../assets/photos/commons-15c93fa74f385b9e.jpg)
+
+*চিত্র-পাঠ:* এই route map-এ Kuakata-সহ SEA-ME-WE 5-এর আন্তর্জাতিক সংযোগ ও landing points বোঝা যায়। এটি ২০১৬ সালের map—বর্তমান সব cable system বা exact cable path-এর পূর্ণাঙ্গ মানচিত্র নয়। **Attribution:** Xcoughing, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল map ও licence](https://commons.wikimedia.org/wiki/File:SEA-ME-WE_5_Route_Map.jpg).
+
+#### বাস্তব ছবি: Cloud ও data-centre infrastructure
+
+![Meghna Cloud data-centre building](https://www.thedailystar.net/sites/default/files/images/2023/01/07/bangladesh_data_centre.jpg)
+
+*চিত্র-পাঠ:* cloud services-এর পেছনে physical servers, power, cooling, connectivity ও resilience-এর প্রয়োজন বোঝায়। এটি Meghna Cloud-এর উদাহরণ; সরকারি National Data Centre বলে ধরে নেবেন না। [মূল প্রতিবেদন](https://www.thedailystar.net/tech-startup/news/meghna-cloud-bangladeshs-first-cloud-data-centre-starts-operation-3544496).
+
 ### Digital divide
 Digital divide হলো প্রযুক্তি, internet, device, skills ও meaningful use-এর সুযোগে ব্যক্তি বা গোষ্ঠীর ব্যবধান। এটি শুধু internet connection নয়; আয়, বয়স, লিঙ্গ, প্রতিবন্ধিতা, ভাষা, শিক্ষা ও নিরাপদ ব্যবহারের ক্ষমতাও এতে ভূমিকা রাখে।
 
 **সমাধান:** affordable connectivity, community access points, digital skills training, বাংলা content, accessible interface, screen-reader support, assisted service desk এবং জরুরি সেবার offline বিকল্প।
+
+
+
+#### বাস্তব ছবি: Rural Digital Centre ও last-mile access
+
+![Rural Digital Service Centre in Bangladesh](https://gov-web.s3.ap-northeast-1.amazonaws.com/uploads/2018/09/a2i.jpg)
+
+*চিত্র-পাঠ:* assisted digital service এমন নাগরিকদের সাহায্য করতে পারে যাদের নিজস্ব device, internet, দক্ষতা বা অনলাইন পেমেন্টের সুবিধা সীমিত। ছবিটি ঐতিহাসিক উদাহরণ; বর্তমান কেন্দ্রের সংখ্যা বা অবস্থা বোঝায় না। [ছবির উৎস ও প্রতিবেদন](https://govinsider.asia/intl-en/article/inside-the-digital-bangladesh-2021-vision).
+
+#### বাস্তব ছবি: কয়রার ইউনিয়ন ডিজিটাল সেন্টার পরিদর্শন, ২০২৪
+
+![Visit to a Union Digital Centre in Koyra, Khulna, 2024](../assets/photos/commons-f28676e624ede634.jpg)
+
+*চিত্র-পাঠ:* digital inclusion শুধু internet coverage নয়—সহজ ভাষা, সহায়তা, accessibility ও সেবা শেষ করার সক্ষমতাও জরুরি। [ছবির উৎস: Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crown_Princess_Victoria_and_UN_Ambassador_Visit_Union_Digital_Center_Koyra_Khulna_2024-03-19_(PID-0009739).jpg).
 
 ## ৫. গণমাধ্যম: ভূমিকা, স্বাধীনতা ও দায়িত্ব <a id="media"></a>
 গণমাধ্যমের প্রধান ভূমিকা: **তথ্য প্রদান**, **watchdog/investigative scrutiny**, **জনমত ও বিতর্কের ক্ষেত্র তৈরি**, **প্রান্তিক গোষ্ঠীর কণ্ঠ তুলে ধরা**, **দুর্যোগে যাচাইকৃত বার্তা ছড়ানো**, এবং **আইন ও নাগরিক দায়িত্ব সম্পর্কে সচেতনতা**।
@@ -83,8 +117,22 @@ Digital divide হলো প্রযুক্তি, internet, device, skills �
 
 সমাধানে independent fact-checking, দ্রুত correction, transparent sourcing, media literacy, editorial standards এবং সময়মতো সরকারি তথ্যপ্রকাশ একসঙ্গে প্রয়োজন। শুধু content removal দীর্ঘমেয়াদি সমাধান নয়।
 
+
+
+#### বাস্তব ছবি: বাংলাদেশের নারী সাংবাদিকদের একটি সমাবেশ
+
+![A group of Bangladeshi women journalists at a programme](../assets/photos/commons-2387c25f9b50f199.jpg)
+
+*চিত্র-পাঠ:* গণমাধ্যমে প্রতিনিধিত্ব, newsroom diversity এবং নারীর পেশাগত অংশগ্রহণ নিয়ে আলোচনায় ছবিটি ব্যবহার করুন। এটি ৮ মার্চ ২০১৮-এর একটি অনুষ্ঠানের ছবি; সামগ্রিক কর্মসংস্থান বা প্রতিনিধিত্বের পরিসংখ্যান নয়। **Attribution:** Nurunnaby Chowdhury (Hasive), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ফাইল ও licence](https://commons.wikimedia.org/wiki/File:A_group_of_Bangladeshi_women_journalist_in_a_program_(1).jpg).
+
 ## ৬. Right to Information (RTI) Act, 2009 <a id="rti"></a>
 RTI হলো আইন ও প্রযোজ্য নিয়মের অধীনে কর্তৃপক্ষের কাছে থাকা তথ্য জানার নাগরিক অধিকার। বাংলাদেশের *তথ্য অধিকার আইন, ২০০৯*-এর ধারা ৪-এ আইনের বিধান সাপেক্ষে নাগরিকের তথ্য পাওয়ার অধিকার এবং ধারা ৫-এ তথ্যের catalogue/index প্রস্তুত ও যথাযথভাবে সংরক্ষণের কথা বলা হয়েছে। [S2]
+
+#### বাস্তব ছবি: BTRC ও Information Commission-এর প্রাতিষ্ঠানিক অবকাঠামো
+
+![Bangladesh Telecommunication Regulatory Commission and Information Commission buildings, Dhaka, 20 August 2023](../assets/photos/commons-ad567ea49082ac2d.jpg)
+
+*চিত্র-পাঠ:* তথ্য অধিকার বাস্তবায়নে তথ্য কমিশনের প্রাতিষ্ঠানিক ভূমিকা, অভিযোগ/আপিল প্রক্রিয়া ও তথ্যপ্রাপ্তির সচেতনতা আলোচনা করুন। ছবিটি ২০২৩ সালের ভবন উদ্বোধন-সংক্রান্ত; RTI-র কার্যকারিতা বা সেবার মানের প্রমাণ নয়। [মূল ছবি ও public-domain তথ্য](https://commons.wikimedia.org/wiki/File:Bangladesh_Telecommunication_Regulatory_Commission_and_Information_Commission_buildings_inauguration,_Dhaka,_2023-08-20_(PID-0014121).jpg) · [তথ্য কমিশন](https://infocom.gov.bd/) · [তথ্য অধিকার আইন, ২০০৯](https://bdlaws.minlaw.gov.bd/act-print-1011.html).
 
 ### সাধারণ প্রক্রিয়া
 1. প্রয়োজনীয় তথ্য নির্দিষ্ট করুন।
@@ -114,6 +162,20 @@ RTI স্বচ্ছতা, accountability, citizen empowerment ও service mo
 
 কেন শুধু website যথেষ্ট নয়? যদি একই তথ্য বারবার দিতে হয়, status দেখা না যায়, ভুল সংশোধনের পথ না থাকে, বা online form-এর পরও কাগজ নিয়ে বারবার অফিসে যেতে হয়, তবে শুধু front-end digitisation হয়েছে—process transformation নয়। আইন, records, staff training, data quality ও accountability না বদলালে প্রত্যাশিত ফল আসে না।
 
+
+
+#### বাস্তব ছবি: নাগরিক সেবা-কেন্দ্রে passport service
+
+![Passport service kiosk at a citizen service centre](https://www.migrationconcern.com/uploads/news_photos/2025/09/04/Web_Passport-service-launched-in-Gulshan_MC_05-68b9e57fc1f3e.png)
+
+*চিত্র-পাঠ:* e-governance-এর মান যাচাই করতে শুধু online form নয়—সহায়তা, সময়, accessibility, status tracking ও অভিযোগ নিষ্পত্তিও দেখুন। [মূল প্রতিবেদন ও ছবির উৎস](https://www.migrationconcern.com/bangladesh/2622). নীতিগত/আইনি বিবরণের জন্য সংশ্লিষ্ট সরকারি কর্তৃপক্ষের তথ্য ব্যবহার করুন।
+
+#### বাস্তব ছবি: Union Digital Centre-এ সেবা প্রদান
+
+![Union Digital Centre service session in Bangladesh](https://www.observerbd.com/2021/05/28/observerbd.com_1622219234.jpg)
+
+*চিত্র-পাঠ:* G2C service delivery-তে স্থানীয় সহায়তা কেন্দ্র কীভাবে নাগরিকের অনলাইন সেবা ব্যবহারে সহায়তা করতে পারে, তা বোঝায়। ছবিটি ২০২১ সালের; বর্তমান কেন্দ্রসংখ্যা বা service quality-এর পরিমাপ নয়। [মূল সংবাদ ও ছবির উৎস](https://www.observerbd.com/news.php?id=314592).
+
 ## ৮. Privacy, cybersecurity ও AI risks <a id="risks"></a>
 ডিজিটাল সেবা পরিচয়, ঠিকানা, আর্থিক তথ্য ও নথি প্রক্রিয়া করতে পারে। তাই security ও privacy শুরু থেকেই design-এর অংশ হওয়া উচিত।
 
@@ -122,6 +184,14 @@ RTI স্বচ্ছতা, accountability, citizen empowerment ও service mo
 **ঝুঁকি:** phishing, password reuse, ransomware, insider misuse, database leak, fake portal, identity fraud ও service outage. কর্মীদের cyber hygiene training এবং tested backup জরুরি।
 
 AI বা automated decision-এ bias, ভুল data ও explainability-র ঝুঁকি আছে। গুরুত্বপূর্ণ সিদ্ধান্তে human review, কারণ ব্যাখ্যা, correction/appeal এবং regular audit থাকা উচিত।
+
+
+
+#### বাস্তব ছবি: Disaster Recovery Data Centre
+
+![Disaster Recovery Data Center in Bangladesh](https://www.rupalibangladesh.com/media/imgAll/2025July/tecnoloty-20250820195810.jpg)
+
+*চিত্র-পাঠ:* backup, disaster recovery, redundancy ও service continuity কেন গুরুত্বপূর্ণ—তা বোঝাতে ছবিটি ব্যবহার করুন। নির্দিষ্ট প্রতিষ্ঠানের বর্তমান operational capacity সম্পর্কে সিদ্ধান্ত নেওয়ার আগে সরকারি technical source যাচাই করুন। [মূল প্রতিবেদন ও ছবির উৎস](https://www.rupalibangladesh.com/economy-business-news/68300).
 
 ## ৯. চ্যালেঞ্জ ও নীতিগত সুপারিশ <a id="recommendations"></a>
 
@@ -142,22 +212,27 @@ AI বা automated decision-এ bias, ভুল data ও explainability-র ঝ
 
 ## ১০. Quick Revision Visuals <a id="visuals"></a>
 
-### Communication process
-<img src="./assets/communication-process.svg" width="100%" alt="Communication process with feedback and noise"/>
+> **সম্পূর্ণ গ্যালারি:** [🗺️ Visual Atlas — ১৪টি SVG diagram, source notes এবং map/data portals](./VISUAL-ATLAS.md)। এই মূল অধ্যায়ে ১০টি internet-sourced image সংশ্লিষ্ট topic-এর পাশে বসানো হয়েছে। Geographic map-এর ক্ষেত্রে তারিখ ও source দেখুন; schematic diagram-কে মানচিত্র হিসেবে ব্যবহার করবেন না।
 
-### RTI to accountability
-<img src="./assets/rti-accountability.svg" width="100%" alt="RTI process leading to accountability"/>
-
-### Citizen-centred e-governance cycle
-<img src="./assets/egovernance-cycle.svg" width="100%" alt="Citizen-centred e-governance cycle"/>
+### Diagrams — open separately
+- [Communication process](./assets/communication-process.svg)
+- [RTI to accountability](./assets/rti-accountability.svg)
+- [Citizen-centred e-governance cycle](./assets/egovernance-cycle.svg)
+- [Digital connectivity architecture — schematic, not a map](./assets/digital-infrastructure.svg)
+- [Digital divide](./assets/digital-divide.svg)
+- [Media verification workflow](./assets/media-verification.svg)
+- [RTI request workflow](./assets/rti-workflow.svg)
+- [E-governance interaction models: G2C, G2B, G2G and G2E](./assets/egovernance-models.svg)
 
 ### Official resources
 - [BPSC Written Syllabus — Unit 12](https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf)
-- [তথ্য অধিকার আইন, ২০০৯](https://bdlaws.minlaw.gov.bd/act-1011/act-chapter-print-2220.html)
-- [তথ্য কমিশন — RTI আইন ও নির্দেশনা](https://infocom.gov.bd/pages/laws/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%87%E0%A6%A8-%E0%A7%A2%E0%A0%A6%E0%A0%A6%E0%A৯-3b9884-6922da02933eb65569e01cea)
-- [National Portal — Bangladesh](https://bangladesh.gov.bd/)
-- [D-Nothi Product Portal](https://portal.nothi.gov.bd/)
-- [a2i Service Portal](https://a2i.gov.bd/pages/static-pages/6922de87933eb65569e1b522)
+- [তথ্য অধিকার আইন, ২০০৯](https://bdlaws.minlaw.gov.bd/act-print-1011.html)
+- [তথ্য কমিশন — RTI আইন ও নির্দেশনা](https://infocom.gov.bd/)
+- [ICT Division — National ICT Policy 2018](https://ictd.gov.bd/pages/policies)
+- [BTRC — Internet subscribers](https://btrc.gov.bd/pages/static-pages/6922e0a3933eb65569e27f59)
+- [BSCPLC — official submarine-cable information](https://bscplc.portal.gov.bd/pages/static-pages/6922de55933eb65569e19f01)
+- [Bangladesh National Portal — Digital Centre](https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e65)
+- [Digital Centre portal](https://digitalcentre.gov.bd/)
 
 ## ১১. ৩৩টি BCS Written practice questions <a id="questions"></a>
 > এগুলো syllabus-based practice questions; BPSC-এর মূল প্রশ্নপত্র থেকে হুবহু নেওয়া বলে দাবি করা হচ্ছে না।
@@ -235,6 +310,24 @@ https://infocom.gov.bd/pages/laws/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%85
 **[S7] United Nations.** *Universal Declaration of Human Rights*, Article 19. https://www.un.org/en/about-us/universal-declaration-of-human-rights  
 **[S8] United Nations Sustainable Development Goals.** Goal 16, target 16.10. https://sdgs.un.org/goals/goal16
 
+**[S9] Bangladesh Telecommunication Regulatory Commission (BTRC).** Internet subscriptions and penetration tables; always note the month and distinguish subscriptions from unique users.  
+https://btrc.gov.bd/pages/static-pages/6922e0a3933eb65569e27f59
+
+**[S10] Bangladesh Submarine Cables PLC (BSCPLC).** Official service and landing-station information.  
+https://bscplc.portal.gov.bd/pages/static-pages/6922de55933eb65569e19f01
+
+**[S11] Government of Bangladesh, National Portal.** Digital Centre service-delivery model.  
+https://bangladesh.gov.bd/pages/static-pages/69a55ba386514399668e4e65
+
+**[S12] Digital Centre portal.** Current centre dashboard and service information; figures change over time, so record the consultation date.  
+https://digitalcentre.gov.bd/
+
+**[S13] ICT Division, Bangladesh.** National ICT Policy 2018 and related policy documents.  
+https://ictd.gov.bd/pages/policies
+
+**[S14] BCS EXAM (third-party archive).** Written-question pages for 35th–47th BCS; archive-reported prompts must be checked against original BPSC scans where available.  
+https://bcsexam.org/written-questions
+
 ### উৎস ব্যবহারের নীতি
 1. RTI-এর আইনি বক্তব্যে আইন ও সরকারি নির্দেশনা অগ্রাধিকার দিন।
 2. কোনো নির্দিষ্ট BCS question-এর সাল/নম্বর বলার আগে মূল প্রশ্নপত্র যাচাই করুন।
@@ -244,4 +337,6 @@ https://infocom.gov.bd/pages/laws/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%85
 ## অধ্যায়ের সারকথা
 ICT তথ্য ও সেবায় প্রবেশাধিকার বাড়াতে পারে; গণমাধ্যম তথ্য যাচাই ও ক্ষমতার জবাবদিহি করতে পারে; RTI তথ্যপ্রাপ্তির আইনগত পথ দেয়; e-governance সেবাকে নাগরিককেন্দ্রিক করে। কিন্তু অন্তর্ভুক্তি, privacy, cybersecurity, ভালো records, কার্যকর অভিযোগব্যবস্থা ও প্রতিষ্ঠানগত জবাবদিহি ছাড়া প্রযুক্তিগত আধুনিকায়ন টেকসই হবে না।
 
-[⬆️ সূচিতে ফিরে যান](#top) · [PYQ-ভিত্তিক প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [English Quotations](./QUOTATIONS.md)
+[⬆️ সূচিতে ফিরে যান](#top) · [35th–47th PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) · [২৫টি Answered Questions](./BCS-WRITTEN-QUESTION-BANK.md) · [Visual Atlas](./VISUAL-ATLAS.md) · [PYQ-ভিত্তিক প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [English Quotations](./QUOTATIONS.md)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

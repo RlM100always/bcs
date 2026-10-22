@@ -326,3 +326,5 @@ National power-এর উপাদান শুধু সামরিক শক�
 11. Public archive, BCS Written 35th–47th: see [full audit](./PYQ-35TH-47TH-AUDIT.md).
 
 [⬆️ Back to Chapter 09](./README.md#top) · [PYQ audit](./PYQ-35TH-47TH-AUDIT.md) · [Quotations](./QUOTATIONS.md#verified-quotes)
+
+**উৎস যাচাইয়ের সীমা:** [মূল অধ্যায়ের যাচাই প্রতিবেদন](./README.md#accuracy)।

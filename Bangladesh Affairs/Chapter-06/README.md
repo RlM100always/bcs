@@ -153,6 +153,19 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 <a id="land"></a>
 ## ৫. ভূমি ও মৃত্তিকা সম্পদ: খাদ্যনিরাপত্তা, নগরায়ণ ও পরিকল্পিত ব্যবহার
 
+#### বাস্তব ছবি: বাংলাদেশের উর্বর কৃষিজমি
+
+![বাংলাদেশের সবুজ ধানক্ষেত ও কৃষিজমি](../assets/photos/commons-004a0d3296cc3ca5.jpg)
+
+*চিত্র-পাঠ:* পলিমাটি, ধান উৎপাদন, খাদ্যনিরাপত্তা এবং কৃষিজমি রক্ষার প্রয়োজনীয়তা মিলিয়ে পড়ুন। ছবিটি একটি উদাহরণ; কৃষিজমির পরিমাণের পরিসংখ্যান নয়। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Panorama_of_Scenery_with_Rice_Paddy_-_Rangamati_-_Chittagong_Hill_Tracts_-_Bangladesh_(13240683085).jpg) · [BBS-এর কৃষি ও ভূমি পরিসংখ্যান](https://bbs.gov.bd/)
+
+#### মানচিত্র/গবেষণা: যমুনা অববাহিকায় মাটিক্ষয়
+
+![যমুনা অববাহিকার মাটিক্ষয় গবেষণার চিত্র](https://ars.els-cdn.com/content/image/1-s2.0-S266701002200083X-gr1.jpg)
+
+*চিত্র-পাঠ:* নদীভাঙন, পৃষ্ঠপ্রবাহ, বন্যা ও মাটিক্ষয়ের সংযোগ বোঝার জন্য গবেষণার figure দেখুন। [মূল open-access গবেষণা ও পদ্ধতি](https://www.sciencedirect.com/science/article/pii/S266701002200083X)
+
+
 ভূমি বাংলাদেশের সবচেয়ে চাপগ্রস্ত প্রাকৃতিক সম্পদগুলোর একটি। কৃষি, বসতি, শিল্প, সড়ক, বন্দর, বিদ্যুৎকেন্দ্র, জলাভূমি এবং বন—সবকিছুর জন্য ভূমি প্রয়োজন। কিন্তু ভূমি সীমিত হওয়ায় এক কাজে জমি ব্যবহার করলে অন্য কাজে তার সুযোগ কমে যেতে পারে। এই প্রতিযোগিতামূলক ব্যবহারকে **land-use trade-off** বলা যায়।
 
 ### ভূমি ও মাটির গুরুত্ব
@@ -184,6 +197,13 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 
 <a id="water"></a>
 ## ৬. পানি ও নদীসম্পদ: প্রাচুর্য, মৌসুমি বৈষম্য ও সমন্বিত ব্যবস্থাপনা
+
+#### বাস্তব ছবি: যমুনা নদী ও নদীতীরের পরিবর্তন
+
+![যমুনা নদীর প্রবাহ ও নদীতীর](../assets/photos/commons-6645a6a38ca8d15b.jpg)
+
+*চিত্র-পাঠ:* নদীসম্পদ সেচ, মৎস্য, নৌপরিবহন ও পলি সরবরাহ করে; একই সঙ্গে ভাঙন, বন্যা ও উজান-ভাটির পানি ব্যবস্থাপনার চ্যালেঞ্জ তৈরি করে। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Jamuna_River_Bangladesh,_25_June_2022.jpg) · [FAO: Bangladesh at a glance](https://www.fao.org/bangladesh/our-office/bangladesh-at-a-glance/en)
+
 
 বাংলাদেশকে নদীমাতৃক দেশ বলা হলেও সারা বছর, সব অঞ্চল ও সব কাজে সমানভাবে নিরাপদ পানি পাওয়া যায় না। বর্ষায় অতিরিক্ত পানি বন্যা ও জলাবদ্ধতা তৈরি করতে পারে; শুষ্ক মৌসুমে নদীর প্রবাহ কমে, সেচ ও পানীয় পানির চাপ বাড়ে। তাই পানি-সম্পদ নীতি কেবল পানি ধরে রাখা নয়—পরিমাণ, গুণমান, সময়, প্রবেশাধিকার এবং নদীর পরিবেশগত কাজকে একসঙ্গে বিবেচনা করবে।
 
@@ -231,6 +251,13 @@ Integrated Water Resources Management বা IWRM হলো নদী অবব�
 <a id="forest"></a>
 ## ৭. বন, সুন্দরবন ও জীববৈচিত্র্য
 
+#### বাস্তব ছবি: চট্টগ্রাম পার্বত্য অঞ্চলের বন
+
+![কাপ্তাই জাতীয় উদ্যানের পাহাড়ি বনাঞ্চল](../assets/photos/commons-ba9b64c228556db3.jpg)
+
+*চিত্র-পাঠ:* পাহাড়ি বন মাটিক্ষয় নিয়ন্ত্রণ, পানি ধারণ, জীববৈচিত্র্য ও স্থানীয় জীবিকার সঙ্গে যুক্ত। সংরক্ষণে স্থানীয় জনগোষ্ঠীর অধিকার ও অংশগ্রহণও গুরুত্বপূর্ণ। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Kaptai_national_Park_(cropped).jpg) · [Forest Department](https://bforest.portal.gov.bd/)
+
+
 বন কেবল কাঠের উৎস নয়। বন কার্বন ধারণ, মাটি ও পানি সংরক্ষণ, বন্যপ্রাণীর আবাসস্থল, জীবিকার উপকরণ, পর্যটন, গবেষণা এবং উপকূলীয় ঝুঁকি প্রশমনে অবদান রাখে। বন ধ্বংস হলে কাঠের সরবরাহের বাইরে জলচক্র, মাটি, স্থানীয় জীবিকা এবং জীববৈচিত্র্যের ক্ষতি হয়।
 
 ### বাংলাদেশের প্রধান বনপ্রকার
@@ -273,6 +300,19 @@ Integrated Water Resources Management বা IWRM হলো নদী অবব�
 <a id="fisheries"></a>
 ## ৮. মৎস্য ও জলজ সম্পদ: খাদ্য, পুষ্টি, জীবিকা ও বাস্তুতন্ত্র
 
+#### বাস্তব ছবি: নদী ও অবতরণকেন্দ্রে মাছ ধরা
+
+![বাংলাদেশে নদীর মাছ ধরা ও মৎস্য আহরণ](../assets/photos/commons-a3fb065bffe8e15f.jpg)
+
+*চিত্র-পাঠ:* মৎস্যসম্পদ পুষ্টি, কর্মসংস্থান ও গ্রামীণ আয়ের উৎস; অতিরিক্ত আহরণ, প্রজনন মৌসুমে মাছ ধরা এবং জলদূষণ এর স্থায়িত্বকে ক্ষতিগ্রস্ত করে। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Fishing_in_jamuna_river_07.jpg) · [Department of Fisheries](https://fisheries.gov.bd/)
+
+#### বাস্তব ছবি: সামুদ্রিক মৎস্য ও উপকূলীয় জীবিকা
+
+![বাংলাদেশের উপকূলে মাছ ধরার নৌকা](../assets/photos/commons-3661e1f7507229b3.jpg)
+
+*চিত্র-পাঠ:* সামুদ্রিক সম্পদ ব্যবস্থাপনায় নিরাপদ নৌযাত্রা, মাছের মজুদ, নিষিদ্ধ মৌসুম, উপকূলীয় জীবিকা ও blue economy-র ভারসাম্য আলোচনা করুন। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Cox_Bazar_(_Sea_fishing_boat).JPG) · [Department of Fisheries](https://fisheries.gov.bd/)
+
+
 মৎস্যসম্পদ বাংলাদেশের খাদ্য ও জীবিকার গুরুত্বপূর্ণ অংশ। নদী, হাওর, বিল, প্লাবনভূমি, পুকুর, ঘের ও সামুদ্রিক অঞ্চলের মাছ ও অন্যান্য জলজ প্রাণী খাদ্য, কর্মসংস্থান, ক্ষুদ্র উদ্যোগ এবং রপ্তানিতে অবদান রাখতে পারে। তবে সম্পদের স্থায়িত্ব নির্ভর করে প্রজননক্ষেত্র, পানির গুণমান, প্রজাতির বৈচিত্র্য, আহরণের মাত্রা ও জলবায়ুর ওপর।
 
 ### মৎস্য সম্পদের প্রধান ক্ষেত্র
@@ -307,6 +347,19 @@ Integrated Water Resources Management বা IWRM হলো নদী অবব�
 <a id="energy"></a>
 ## ৯. খনিজ ও জ্বালানি সম্পদ: নিরাপত্তা, রূপান্তর ও দায়িত্বশীল ব্যবহার
 
+#### বাস্তব ছবি: তিতাস গ্যাসক্ষেত্রে উৎপাদন কার্যক্রম
+
+![তিতাস-২৮ কূপে গ্যাস উৎপাদন উদ্বোধন, ব্রাহ্মণবাড়িয়া, ২০২৬](../assets/photos/commons-01315777746bcf57.jpg)
+
+*চিত্র-পাঠ:* গ্যাস অনুসন্ধান, উৎপাদন, কম্প্রেশন, সঞ্চালন ও বিতরণ হলো জ্বালানি value chain-এর ধাপ। [ছবির পৃষ্ঠা](https://commons.wikimedia.org/wiki/File:State_Minister_for_Power,_Energy_and_Mineral_Resources_Anindya_Islam_Amit_inaugurating_gas_production_at_Titas-28_well,_Brahmanbaria,_2026-09-19.jpg) · [Energy and Mineral Resources Division](https://emrd.gov.bd/)
+
+#### বাস্তব ছবি: বড়পুকুরিয়া কয়লাখনি
+
+![বড়পুকুরিয়া কয়লাখনি, দিনাজপুর](../assets/photos/commons-e75362aa44c2f143.jpg)
+
+*চিত্র-পাঠ:* কয়লা স্থানীয় জ্বালানি সরবরাহে ভূমিকা রাখতে পারে, তবে খনির নিরাপত্তা, ভূগর্ভস্থ পানি, ভূমি-ব্যবহার, পুনর্বাসন ও নির্গমনের ব্যয়ও মূল্যায়ন করতে হয়। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Barapukuria_Coal_Mine_Dinajpur_Bangladesh.JPG) · [EMRD](https://emrd.gov.bd/)
+
+
 বাংলাদেশের প্রাকৃতিক গ্যাস, কয়লা ও অন্যান্য খনিজ বিদ্যুৎ, শিল্প, সার, নির্মাণ ও অর্থনৈতিক কর্মকাণ্ডে ভূমিকা রাখে। কিন্তু জীবাশ্ম জ্বালানি অনবায়নযোগ্য এবং এর উত্তোলন ও ব্যবহার পরিবেশ, ভূমি, পানি, জনস্বাস্থ্য ও জলবায়ুর ওপর প্রভাব ফেলতে পারে। তাই জ্বালানি নীতিতে সরবরাহের নির্ভরযোগ্যতা, সাশ্রয়, পরিবেশগত নিরাপত্তা, অর্থনৈতিক ব্যয় এবং দীর্ঘমেয়াদি রূপান্তর একসঙ্গে বিবেচনা করা দরকার।
 
 ### প্রাকৃতিক গ্যাস
@@ -338,6 +391,19 @@ Energy transition মানে একদিনে সব জীবাশ্ম �
 
 <a id="renewables"></a>
 ## ১০. নবায়নযোগ্য শক্তি, সম্পদ দক্ষতা ও Circular Economy
+
+#### বাস্তব ছবি: ছাদে সৌরবিদ্যুৎ ব্যবস্থা
+
+![ঢাকায় ছাদে স্থাপিত সৌর প্যানেল](https://assets.publishing.service.gov.uk/media/6379b2f8e90e07284ff0ff11/s960_IMG-20221120-WA0001__960_x_640_.jpg)
+
+*চিত্র-পাঠ:* সৌরশক্তি আমদানি করা জ্বালানির ওপর নির্ভরতা কমাতে সহায়তা করতে পারে; তবে জমি/ছাদের প্রাপ্যতা, grid integration, storage ও অর্থায়ন বিবেচ্য। [ছবির সরকারি পৃষ্ঠা](https://www.gov.uk/government/news/uk-supports-bangladeshs-green-energy-transition) · [Sustainable and Renewable Energy Development Authority](https://sreda.gov.bd/)
+
+#### মানচিত্র: বাংলাদেশের খনিজ সম্পদের অবস্থান ও তথ্য
+
+![বাংলাদেশের প্রাকৃতিক সম্পদ ও খনিজ সম্পদের শিক্ষামূলক চিত্র](https://teachers.gov.bd/shared/contents/2020/July/30/photo/image_140346_1596122934.jpg)
+
+*তথ্যসূত্র:* খনিজের অবস্থান, মজুদ বা উৎপাদনের সংখ্যা লেখার আগে EMRD/Hydrocarbon Unit-এর প্রকাশিত মানচিত্র ও সর্বশেষ energy scenario প্রতিবেদন যাচাই করুন। [ছবির উৎস: Teachers Portal](https://teachers.gov.bd/content/details/647379) · [সরকারি Mineral Resource Map](https://www.emrddashboard.gov.bd/mineral-resource/list/Mineral%20Resources%20Map) · [Energy Scenario of Bangladesh 2024–25](https://hcu.gov.bd/pages/publications)
+
 
 সৌর, বায়ু, বায়োগ্যাস এবং অন্যান্য নবায়নযোগ্য শক্তি আমদানিকৃত জ্বালানির ওপর নির্ভরতা ও নির্গমন কমাতে সাহায্য করতে পারে। বাংলাদেশের ক্ষেত্রে সৌরশক্তি—বিশেষত rooftop solar, কৃষি/সেচের সঙ্গে সমন্বিত সমাধান এবং grid-connected projects—প্রাসঙ্গিক সম্ভাবনা। তবে বাস্তবায়নে জমি, grid capacity, অর্থায়ন, ব্যাটারি ও যন্ত্রের end-of-life management, রক্ষণাবেক্ষণ এবং বিদ্যুৎ সরবরাহের স্থিতিশীলতা বিবেচনা করতে হবে।
 
@@ -472,7 +538,7 @@ EIA হলো কোনো প্রস্তাবিত প্রকল্প�
 ## ১২A. Exact maps and real-world visual references
 
 ### Official map — Protected areas of Bangladesh (Forest Department, 2023)
-![Bangladesh protected areas map, Forest Department 2023](https://bforest.portal.gov.bd/sites/default/files/files/bforest.portal.gov.bd/page/054e001b_8ba9_45d0_9f52_8fbec891361d/2023-06-12-06-34-f74e1be7bbfa81a7e2bad1f6229fe0e4.jpg)
+![Bangladesh protected areas map, Forest Department 2023](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bforest/2024/12/867737834ba44849b1ec2e3df7c56889.jpg)
 
 **How to use it:** identify protected-area clusters across the Sundarbans, northeast, southeast and coastal islands; connect each cluster with its ecosystem type and conservation purpose. This map is dated 2023. Do not treat it as a live boundary layer or as a current count of protected areas. For the later official list, consult the [Forest Department’s protected-area page](https://bforest.gov.bd/pages/static-pages/6922e13b933eb65569e2b006), updated in 2026.
 
@@ -487,7 +553,7 @@ EIA হলো কোনো প্রস্তাবিত প্রকল্প�
 **How to use it:** compare the Sundarbans mangrove block, hill forests in the southeast and northeast, and sal forest landscapes. **Forest cover, tree cover and legally designated forest land are different measures.** Check the map legend and reference year before using it in an answer. [Forest Department forest-cover resources](https://bforest.gov.bd/pages/static-pages/6922de5a933eb65569e1a138)
 
 ### Photo — Sundarbans mangrove river channel
-![Sundarbans river channel and mangrove forest](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/The_Sundarban_forest_river_channel%2CBangladesh.jpg/1280px-The_Sundarban_forest_river_channel%2CBangladesh.jpg)
+![Sundarbans river channel and mangrove forest](../assets/photos/commons-1480f3d0e0b93a36.jpg)
 
 **Credit:** Syed Sajidul Islam, “The Sundarban forest river channel, Bangladesh” (2016), [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:The_Sundarban_forest_river_channel,Bangladesh.jpg), licensed **CC BY-SA 4.0**. Reuse requires attribution, a link to the licence and an indication if changes were made.
 
@@ -955,3 +1021,5 @@ https://www.bdp2100kp.gov.bd/atlas/ · https://bdp2100kp.gov.bd/BDPAtlas/DataLay
 ---
 
 [⬆️ উপরে ফিরুন](#top) · [Bangladesh Affairs সূচি](../README.md)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।
