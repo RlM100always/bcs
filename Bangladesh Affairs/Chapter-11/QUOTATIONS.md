@@ -1,6 +1,12 @@
 <a id="top"></a>
 
-# 💬 Chapter 11 — English Quotations & Source Bank
+
+<a id="-chapter-11--english-quotations--source-bank"></a>
+# অধ্যায় ১১ — ইংরেজি উদ্ধৃতি, ভাবার্থ ও উৎস
+
+[বইয়ের সূচি](../README.md) · [মূল অধ্যায়](./README.md#references-audit) · [উৎস-নিরীক্ষা](../SOURCE-AUDIT.md#quotations)
+
+**ব্যবহারের নিয়ম:** উৎসনির্দেশ থাকা মানেই প্রতিটি উদ্ধৃতির হুবহু পাঠ এই সংস্করণে যাচাই হয়েছে—এমন নয়। মূল নথিতে শব্দ ও প্রসঙ্গ মিলিয়ে নিন। ভাবার্থ বা সম্পাদকীয় সংশ্লেষ উদ্ধৃতিচিহ্নে লিখবেন না।
 ## নির্বাচন ও নির্বাচনী ব্যবস্থাপনা | BCS Written Revision
 
 [← Back to Chapter 11](./README.md#top) · [35th–47th BCS PYQ Map](./PYQ-35-47-MAP.md) · [25 Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [Visual Atlas](./README.md#visual-atlas) · [Model Essays](./README.md#essays) · [Bangladesh Affairs Index](../README.md)
@@ -48,7 +54,7 @@
 
 **কীভাবে বিশ্লেষণ করবেন:** সাংবিধানিক স্বাধীনতা হলো ভিত্তি; বাস্তব কার্যকারিতার জন্য দক্ষ জনবল, পর্যাপ্ত লজিস্টিক, নিরপেক্ষ আইন প্রয়োগ, স্বচ্ছ সিদ্ধান্ত ও জবাবদিহি প্রয়োজন।
 
-**Source:** Constitution of the People’s Republic of Bangladesh, Article 118(4).  
+**Source:** Constitution of the People’s Republic of Bangladesh, Article 118(4).\
 **Source link:** [Laws of Bangladesh — Constitution](https://bdlaws.minlaw.gov.bd/act-print-367.html)
 
 > **Note:** এটি সংবিধানের সংক্ষিপ্ত হুবহু উদ্ধৃতি। ব্যাখ্যার বাক্যগুলো উৎসভিত্তিক বিশ্লেষণ, সরাসরি উদ্ধৃতি নয়।
@@ -69,7 +75,7 @@ The constitutional mandate of an election commission should be translated into i
 
 **পরীক্ষায় ব্যবহার:** কমিশনের দায়িত্ব, প্রাতিষ্ঠানিক সক্ষমতা, নির্বাচন-পূর্ব প্রস্তুতি, ভোটগ্রহণ ও ফল প্রকাশের প্রশ্নে।
 
-**Source-backed basis:** Constitution of Bangladesh, Article 119; Bangladesh Election Commission’s official explanation of its functions.  
+**Source-backed basis:** Constitution of Bangladesh, Article 119; Bangladesh Election Commission’s official explanation of its functions.\
 **Source link:** [Constitution — Article 119](https://bdlaws.minlaw.gov.bd/act-367/section-24678.html) · [Bangladesh Election Commission](https://ecs.gov.bd/en/page/about-bangladesh-election-commission)
 
 [⬆ Quick Navigation](#top)
@@ -88,7 +94,7 @@ An electoral roll should provide a common, legally regulated basis for voter reg
 
 **পরীক্ষায় ব্যবহার:** ভোটার তালিকার নির্ভুলতা, ভোটাধিকার, সমতা, বৈষম্যহীনতা ও অন্তর্ভুক্তিমূলক নির্বাচন।
 
-**Source-backed basis:** Constitution of Bangladesh, Article 121, which provides for one electoral roll for each constituency and prohibits separate special rolls based on religion, race, caste or sex.  
+**Source-backed basis:** Constitution of Bangladesh, Article 121, which provides for one electoral roll for each constituency and prohibits separate special rolls based on religion, race, caste or sex.\
 **Source link:** [Laws of Bangladesh — Constitution](https://bdlaws.minlaw.gov.bd/act-print-367.html)
 
 [⬆ Quick Navigation](#top)
@@ -107,7 +113,7 @@ Election administration requires lawful cooperation from executive authorities w
 
 **পরীক্ষায় ব্যবহার:** Article 126, প্রশাসন ও কমিশনের সম্পর্ক, মাঠপর্যায়ের সমন্বয়, নিরাপত্তা ও লজিস্টিক।
 
-**Source-backed basis:** Constitution of Bangladesh, Article 126.  
+**Source-backed basis:** Constitution of Bangladesh, Article 126.\
 **Source link:** [Article 126 — Executive authorities to assist the Election Commission](https://bdlaws.minlaw.gov.bd/act-367/section-24685.html)
 
 [⬆ Quick Navigation](#top)
@@ -128,7 +134,7 @@ Election administration requires lawful cooperation from executive authorities w
 
 **Exam-ready explanation:** একটি বিশ্বাসযোগ্য নির্বাচন নাগরিকদের স্বাধীন রাজনৈতিক পছন্দ প্রকাশের সুযোগ দেয়। তবে নির্বাচন-ভিত্তিক বৈধতা রক্ষার জন্য মৌলিক অধিকার, রাজনৈতিক প্রতিযোগিতা ও আইনের শাসনও প্রয়োজন।
 
-**Source:** United Nations, Universal Declaration of Human Rights, Article 21.  
+**Source:** United Nations, Universal Declaration of Human Rights, Article 21.\
 **Source link:** [UN — Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
 [⬆ Quick Navigation](#top)
@@ -149,7 +155,7 @@ Election administration requires lawful cooperation from executive authorities w
 
 **Exam-ready explanation:** ভোটারকে ভয়, জবরদস্তি বা অনুচিত প্রভাব ছাড়া পছন্দ নির্ধারণের সুযোগ দিতে হয়। ভোটের গোপনীয়তা এবং যাচাইযোগ্য গণনা পরস্পরের পরিপূরক।
 
-**Source:** UN Human Rights Committee, General Comment No. 25 on Article 25 of the International Covenant on Civil and Political Rights.  
+**Source:** UN Human Rights Committee, General Comment No. 25 on Article 25 of the International Covenant on Civil and Political Rights.\
 **Source link:** [OHCHR — International Covenant on Civil and Political Rights](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights)
 
 [⬆ Quick Navigation](#top)
@@ -170,7 +176,7 @@ Election administration requires lawful cooperation from executive authorities w
 
 **Exam-ready explanation:** নির্বাচনী ব্যবস্থার নকশা ভোটকে আসনে রূপান্তর করার পদ্ধতি নির্ধারণ করে এবং দলীয় প্রতিযোগিতা ও প্রতিনিধিত্বের ধরনকে প্রভাবিত করতে পারে। তাই কোনো ব্যবস্থার সুবিধা–সীমাবদ্ধতা মূল্যায়নে দেশের সাংবিধানিক ও সামাজিক প্রেক্ষাপট বিবেচনা করা জরুরি।
 
-**Source:** International IDEA, *Electoral System Design: The New International IDEA Handbook*.  
+**Source:** International IDEA, *Electoral System Design: The New International IDEA Handbook*.\
 **Source link:** [International IDEA publication](https://www.idea.int/publications/catalogue/electoral-system-design-new-international-idea-handbook)
 
 [⬆ Quick Navigation](#top)
@@ -189,7 +195,7 @@ Professional election management depends on clear legal responsibilities, compet
 
 **পরীক্ষায় ব্যবহার:** নির্বাচন পরিচালনার ধাপ, কমিশনের সক্ষমতা, প্রশিক্ষণ, লজিস্টিক, প্রযুক্তি ও নির্বাচন-পরবর্তী মূল্যায়ন।
 
-**Source:** International IDEA, *Electoral Management Design: Revised Edition*.  
+**Source:** International IDEA, *Electoral Management Design: Revised Edition*.\
 **Source link:** [International IDEA publication](https://www.idea.int/publications/catalogue/electoral-management-design-revised-edition?lang=en)
 
 [⬆ Quick Navigation](#top)
@@ -208,7 +214,7 @@ Electoral standards should cover the whole process—from voter registration and
 
 **পরীক্ষায় ব্যবহার:** “Discuss the conditions for a credible election” / “বিশ্বাসযোগ্য নির্বাচনের পূর্বশর্ত আলোচনা করুন।”
 
-**Source:** International IDEA, *International Electoral Standards: Guidelines for Reviewing the Legal Framework of Elections*.  
+**Source:** International IDEA, *International Electoral Standards: Guidelines for Reviewing the Legal Framework of Elections*.\
 **Source link:** [International IDEA publication](https://www.idea.int/publications/catalogue/international-electoral-standards-guidelines-reviewing-legal-framework)
 
 [⬆ Quick Navigation](#top)
@@ -229,7 +235,7 @@ Electoral standards should cover the whole process—from voter registration and
 
 **Exam-ready explanation:** নির্বাচন নাগরিকের অংশগ্রহণের একটি গুরুত্বপূর্ণ মাধ্যম; কিন্তু গণতন্ত্রকে শক্তিশালী করতে তথ্যপ্রাপ্তি, মতপ্রকাশ, সংগঠন, শান্তিপূর্ণ অংশগ্রহণ এবং নীতিনির্ধারণে নাগরিক সম্পৃক্ততাও প্রয়োজন।
 
-**Source:** United Nations, *Guidance Note of the UN Secretary-General on Democracy*.  
+**Source:** United Nations, *Guidance Note of the UN Secretary-General on Democracy*.\
 **Source link:** [UN Democracy Fund](https://www.un.org/democracyfund/en/content/guidance-note-un-secretary-general-democracy)
 
 [⬆ Quick Navigation](#top)
@@ -250,7 +256,7 @@ Electoral standards should cover the whole process—from voter registration and
 
 **ব্যবহারের সতর্কতা:** এটি নির্বাচন কমিশনের ২০২৬ সালের National Voters Day theme হিসেবে প্রকাশিত; সংবিধানের অনুচ্ছেদ বা আইনের ধারা নয়।
 
-**Source:** Bangladesh Election Commission, official website.  
+**Source:** Bangladesh Election Commission, official website.\
 **Source link:** [Election Commission of Bangladesh](https://ecs.gov.bd/en/page/about-bangladesh-election-commission)
 
 [⬆ Quick Navigation](#top)
@@ -271,7 +277,7 @@ Electoral standards should cover the whole process—from voter registration and
 
 **গুরুত্বপূর্ণ ব্যাখ্যা:** সংশোধিত বিধানটি নির্দিষ্ট পরিস্থিতিতে প্রযোজ্য। “No Vote” সব নির্বাচনে সাধারণ ব্যালটের একটি সর্বজনীন বিকল্প—এমন দাবি করবেন না। একক প্রার্থী, ভোটের তুলনা এবং পরবর্তী নির্বাচনের পরিণতি বর্তমান আইনের ভাষা অনুযায়ী ব্যাখ্যা করুন।
 
-**Source:** Representation of the People (Amendment) Act, 2026, amending the Representation of the People Order, 1972.  
+**Source:** Representation of the People (Amendment) Act, 2026, amending the Representation of the People Order, 1972.\
 **Source link:** [Official 2026 Amendment Act](https://bdlaws.minlaw.gov.bd/act-print-1632.html)
 
 [⬆ Quick Navigation](#top)
@@ -290,7 +296,7 @@ A reliable electoral roll should be accurate, complete, regularly updated and ac
 
 **পরীক্ষায় ব্যবহার:** ভোটার তালিকা, ভোটাধিকার, নির্বাচন-পূর্ব প্রস্তুতি ও অন্তর্ভুক্তিমূলক নির্বাচন।
 
-**Source-backed basis:** Constitution of Bangladesh, Articles 121–122; Electoral Rolls Act, 2009; Bangladesh Election Commission.  
+**Source-backed basis:** Constitution of Bangladesh, Articles 121–122; Electoral Rolls Act, 2009; Bangladesh Election Commission.\
 **Source link:** [Constitution](https://bdlaws.minlaw.gov.bd/act-print-367.html) · [Election Commission](https://ecs.gov.bd/)
 
 [⬆ Quick Navigation](#top)
@@ -309,7 +315,7 @@ Ballot secrecy protects individual choice, while transparent counting makes the 
 
 **পরীক্ষায় ব্যবহার:** free and fair election, ভোটারের স্বাধীনতা, গণনা ও ফলের বিশ্বাসযোগ্যতা।
 
-**Source-backed basis:** UDHR Article 21; ICCPR Article 25; International IDEA, *International Electoral Standards*.  
+**Source-backed basis:** UDHR Article 21; ICCPR Article 25; International IDEA, *International Electoral Standards*.\
 **Source link:** [UDHR](https://www.un.org/en/about-us/universal-declaration-of-human-rights) · [ICCPR](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights) · [International IDEA](https://www.idea.int/publications/catalogue/international-electoral-standards-guidelines-reviewing-legal-framework)
 
 [⬆ Quick Navigation](#top)
@@ -328,7 +334,7 @@ Transparent campaign finance rules can reduce hidden influence, improve accounta
 
 **পরীক্ষায় ব্যবহার:** নির্বাচনী ব্যয়সীমা, অনুদান, ভোট কেনাবেচা, রাজনৈতিক অর্থায়ন ও সংস্কার।
 
-**Source:** International IDEA, *Money in Politics*; Representation of the People Order, 1972, as amended.  
+**Source:** International IDEA, *Money in Politics*; Representation of the People Order, 1972, as amended.\
 **Source link:** [International IDEA — Money in Politics](https://www.idea.int/theme/money-politics) · [RPO 1972](https://bdlaws.minlaw.gov.bd/act-print-424.html)
 
 [⬆ Quick Navigation](#top)
@@ -347,7 +353,7 @@ Electoral credibility must be assessed across the entire cycle, not only on poll
 
 **পরীক্ষায় ব্যবহার:** নির্বাচন-পূর্ব প্রস্তুতি, ভোটগ্রহণ, গণনা, ফল প্রকাশ ও নির্বাচন-পরবর্তী পর্যালোচনা।
 
-**Source:** International IDEA, *Electoral Management Design*; RPO 1972, as amended.  
+**Source:** International IDEA, *Electoral Management Design*; RPO 1972, as amended.\
 **Source link:** [International IDEA](https://www.idea.int/publications/catalogue/electoral-management-design-revised-edition?lang=en) · [RPO](https://bdlaws.minlaw.gov.bd/act-print-424.html)
 
 [⬆ Quick Navigation](#top)
@@ -366,7 +372,7 @@ Electoral inclusion requires both equal legal rights and practical arrangements 
 
 **পরীক্ষায় ব্যবহার:** নারী, তরুণ, সংখ্যালঘু, প্রতিবন্ধী, দূরবর্তী এলাকার ভোটার ও প্রবাসী ভোটারের অংশগ্রহণ।
 
-**Source:** UN, *Guidance Note of the UN Secretary-General on Democracy*; International IDEA, *Electoral Management Design*.  
+**Source:** UN, *Guidance Note of the UN Secretary-General on Democracy*; International IDEA, *Electoral Management Design*.\
 **Source link:** [UN Democracy Fund](https://www.un.org/democracyfund/en/content/guidance-note-un-secretary-general-democracy) · [International IDEA](https://www.idea.int/publications/catalogue/electoral-management-design-revised-edition?lang=en)
 
 [⬆ Quick Navigation](#top)
@@ -385,7 +391,7 @@ Election-related information should be verified before publication, and legal re
 
 **পরীক্ষায় ব্যবহার:** deepfake, AI, গুজব, সামাজিক মাধ্যম, গণমাধ্যমের দায়িত্ব ও নির্বাচনী সততা।
 
-**Source:** Representation of the People (Amendment) Act, 2026; International IDEA, *Electoral Processes*.  
+**Source:** Representation of the People (Amendment) Act, 2026; International IDEA, *Electoral Processes*.\
 **Source link:** [Official 2026 Amendment Act](https://bdlaws.minlaw.gov.bd/act-print-1632.html) · [International IDEA — Electoral Processes](https://www.idea.int/theme/electoral-processes)
 
 [⬆ Quick Navigation](#top)
@@ -398,49 +404,49 @@ Election-related information should be verified before publication, and legal re
 
 নিচের বাক্যগুলো **source-backed paraphrases**, হুবহু উদ্ধৃতি নয়। প্রশ্নের সঙ্গে সম্পর্ক থাকলেই ব্যবহার করবেন; শুধু quotation দেখানোর জন্য অপ্রাসঙ্গিক বাক্য যোগ করবেন না।
 
-1. **“Electoral credibility depends on the law, the institution and the way rules are implemented.”**  
+1. **“Electoral credibility depends on the law, the institution and the way rules are implemented.”**\
    ব্যবহার: নির্বাচন কমিশন ও নির্বাচনী সততা।
 
-2. **“A credible election requires both an accurate voter register and a meaningful opportunity to compete.”**  
+2. **“A credible election requires both an accurate voter register and a meaningful opportunity to compete.”**\
    ব্যবহার: ভোটার তালিকা ও ন্যায্য প্রতিযোগিতা।
 
-3. **“Constitutional independence becomes effective only when supported by capacity, impartiality and accountability.”**  
+3. **“Constitutional independence becomes effective only when supported by capacity, impartiality and accountability.”**\
    ব্যবহার: কমিশনের স্বাধীনতা মূল্যায়ন।
 
-4. **“Secret voting protects individual choice; transparent counting protects confidence in the result.”**  
+4. **“Secret voting protects individual choice; transparent counting protects confidence in the result.”**\
    ব্যবহার: গোপন ব্যালট ও ফলের স্বচ্ছতা।
 
-5. **“Election management is a cycle that begins before polling and continues after results are announced.”**  
+5. **“Election management is a cycle that begins before polling and continues after results are announced.”**\
    ব্যবহার: নির্বাচনী ব্যবস্থাপনার ধাপ।
 
-6. **“Campaign-finance transparency helps prevent hidden influence and unequal political competition.”**  
+6. **“Campaign-finance transparency helps prevent hidden influence and unequal political competition.”**\
    ব্যবহার: নির্বাচনী ব্যয় ও অর্থায়ন।
 
-7. **“Technology can improve election services, but it cannot replace independent oversight or due process.”**  
+7. **“Technology can improve election services, but it cannot replace independent oversight or due process.”**\
    ব্যবহার: ডিজিটাল নির্বাচন ও প্রযুক্তির ঝুঁকি।
 
-8. **“Inclusive elections require the removal of practical barriers faced by eligible voters.”**  
+8. **“Inclusive elections require the removal of practical barriers faced by eligible voters.”**\
    ব্যবহার: নারী, প্রতিবন্ধী ও প্রান্তিক ভোটার।
 
-9. **“Electoral disputes should be resolved through evidence, law and timely procedures rather than intimidation.”**  
+9. **“Electoral disputes should be resolved through evidence, law and timely procedures rather than intimidation.”**\
    ব্যবহার: অভিযোগ, বিরোধ ও আইনগত প্রতিকার।
 
-10. **“Electoral reform should be evidence-based, transparent and designed for equal application of the law.”**  
+10. **“Electoral reform should be evidence-based, transparent and designed for equal application of the law.”**\
     ব্যবহার: নির্বাচনী সংস্কারের প্রস্তাব।
 
-11. **“The public should be able to verify official election information and distinguish preliminary updates from final results.”**  
+11. **“The public should be able to verify official election information and distinguish preliminary updates from final results.”**\
     ব্যবহার: ফল প্রকাশ ও গণমাধ্যম।
 
-12. **“Public trust grows when institutions explain decisions, apply rules consistently and provide effective remedies.”**  
+12. **“Public trust grows when institutions explain decisions, apply rules consistently and provide effective remedies.”**\
     ব্যবহার: নির্বাচন কমিশন, সুশাসন ও জবাবদিহি।
 
-13. **“Political participation does not end at the ballot box; it also includes informed debate and public accountability.”**  
+13. **“Political participation does not end at the ballot box; it also includes informed debate and public accountability.”**\
     ব্যবহার: গণতান্ত্রিক রাজনৈতিক সংস্কৃতি।
 
-14. **“Election security must protect voters and officials without unlawfully restricting peaceful participation.”**  
+14. **“Election security must protect voters and officials without unlawfully restricting peaceful participation.”**\
     ব্যবহার: নিরাপত্তা ও নাগরিক অধিকার।
 
-15. **“A reform is meaningful when its implementation can be monitored and its results assessed.”**  
+15. **“A reform is meaningful when its implementation can be monitored and its results assessed.”**\
     ব্যবহার: সংস্কারের বাস্তবায়ন ও মূল্যায়ন।
 
 ### Quotations কীভাবে ব্যবহার করবেন?
@@ -480,7 +486,8 @@ Election-related information should be verified before publication, and legal re
 
 <a id="authentic-quotations"></a>
 
-## ২১. 11 Authentic English Quotations + 2 Sourced Exam Lines
+<a id="২১-11-authentic-english-quotations--2-sourced-exam-lines"></a>
+## উৎসনির্দেশসহ নির্বাচিত উদ্ধৃতি
 
 **এই অংশে ১১টি হুবহু quotation এবং ২টি source-backed paraphrase আলাদা করে দেওয়া হয়েছে।** আইন ও আন্তর্জাতিক মানদণ্ডের ভাষা নির্বাচনী ব্যবস্থাপনায় নির্ভরযোগ্য primary-source lines; দুটি International IDEA exam line স্পষ্টভাবে paraphrase হিসেবে চিহ্নিত, হুবহু quotation নয়। প্রশ্নের সঙ্গে প্রাসঙ্গিক হলে উদ্ধৃতি ব্যবহার করে নিজের বিশ্লেষণ লিখুন।
 

@@ -1,4 +1,11 @@
-# Chapter 06 — 16 Source-Verified English Quotations
+<a id="chapter-06--16-source-verified-english-quotations"></a>
+# অধ্যায় ৬ — ইংরেজি উদ্ধৃতি, ভাবার্থ ও উৎস
+
+[বইয়ের সূচি](../README.md) · [মূল অধ্যায়](./README.md#references-audit) · [উৎস-নিরীক্ষা](../SOURCE-AUDIT.md#quotations)
+
+**ব্যবহারের নিয়ম:** উৎসনির্দেশ থাকা মানেই প্রতিটি উদ্ধৃতির হুবহু পাঠ এই সংস্করণে যাচাই হয়েছে—এমন নয়। মূল নথিতে শব্দ ও প্রসঙ্গ মিলিয়ে নিন। ভাবার্থ বা সম্পাদকীয় সংশ্লেষ উদ্ধৃতিচিহ্নে লিখবেন না।
+
+
 ## Natural Resources, Conservation, Sustainability, Water, Forests and Blue Economy
 
 [← Main Chapter](./README.md) · [25 worked BCS Written answers](./BCS-WRITTEN-QUESTION-BANK.md) · [35th–47th BCS question audit](./PYQ-35TH-47TH-ANALYSIS.md) · [Chapter index](../README.md)

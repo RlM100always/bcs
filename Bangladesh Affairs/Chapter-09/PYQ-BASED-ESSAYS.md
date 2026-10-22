@@ -117,7 +117,7 @@ Rohingya সংকট শরণার্থী সুরক্ষা, host commu
 **Introduction → Constitutional principle → National interest/determinants → Evidence/example → Benefits and limitations → 4–5 actionable recommendations → Balanced conclusion.**
 
 ## Source register
-- [S1] BPSC, *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005. https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf
+- [S1] BPSC, *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005. https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2024/12/df968f7fa918431dae3ed31b43206f6f.pdf
 - [S2] Constitution of Bangladesh, Article 25. https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 - [S3] Ministry of Foreign Affairs, Bangladesh, *Foreign Policy of Bangladesh*. https://sittwe.mofa.gov.bd/pages/static-pages/foreign-policy-of-bangladesh-edc320-695266ac35ce18e1c05aab1e
 - [S4] UN, *Member States — Bangladesh*. https://www.un.org/about-us/member-states

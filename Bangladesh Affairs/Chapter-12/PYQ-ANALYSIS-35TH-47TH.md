@@ -67,21 +67,21 @@ This does **not** mean that an item is statistically more likely to appear in th
 
 ## 5. Primary sources to cite in the exam
 
-- **BPSC:** *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005, Unit 12.  
-  https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf
-- **Government of Bangladesh:** *Right to Information Act, 2009*, especially sections 4–5.  
+- **BPSC:** *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005, Unit 12.\
+  https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2024/12/df968f7fa918431dae3ed31b43206f6f.pdf
+- **Government of Bangladesh:** *Right to Information Act, 2009*, especially sections 4–5.\
   https://bdlaws.minlaw.gov.bd/act-print-1011.html
-- **Constitution of Bangladesh:** Article 39 on freedom of thought, conscience, speech and expression, and freedom of the press.  
+- **Constitution of Bangladesh:** Article 39 on freedom of thought, conscience, speech and expression, and freedom of the press.\
   https://bdlaws.minlaw.gov.bd/act-367.html
-- **ICT Division:** National ICT Policy 2018 and related policies.  
+- **ICT Division:** National ICT Policy 2018 and related policies.\
   https://ictd.gov.bd/pages/policies
-- **BTRC:** Internet subscriptions and penetration statistics; always note month and unit.  
+- **BTRC:** Internet subscriptions and penetration statistics; always note month and unit.\
   https://btrc.gov.bd/pages/static-pages/6922e009933eb65569e2524c
-- **Bangladesh Submarine Cables PLC:** official service and landing-station information.  
+- **Bangladesh Submarine Cables PLC:** official service and landing-station information.\
   https://bscplc.portal.gov.bd/pages/static-pages/6922de55933eb65569e19f01
-- **Digital Centre portal:** service delivery model and live dashboard; cite the date consulted for changing figures.  
+- **Digital Centre portal:** service delivery model and live dashboard; cite the date consulted for changing figures.\
   https://digitalcentre.gov.bd/
-- **UN:** UDHR Article 19 and SDG 16.  
+- **UN:** UDHR Article 19 and SDG 16.\
   https://www.un.org/en/about-us/universal-declaration-of-human-rights · https://sdgs.un.org/goals/goal16
 
 ## 6. Research limitations

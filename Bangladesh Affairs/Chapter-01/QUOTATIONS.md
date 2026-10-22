@@ -1,6 +1,12 @@
 <a id="top"></a>
 
-# 💬 Chapter 01 — Quotations & Source Bank
+
+<a id="-chapter-01--quotations--source-bank"></a>
+# অধ্যায় ১ — ইংরেজি উদ্ধৃতি, ভাবার্থ ও উৎস
+
+[বইয়ের সূচি](../README.md) · [মূল অধ্যায়](./README.md#references-audit) · [উৎস-নিরীক্ষা](../SOURCE-AUDIT.md#quotations)
+
+**ব্যবহারের নিয়ম:** উৎসনির্দেশ থাকা মানেই প্রতিটি উদ্ধৃতির হুবহু পাঠ এই সংস্করণে যাচাই হয়েছে—এমন নয়। মূল নথিতে শব্দ ও প্রসঙ্গ মিলিয়ে নিন। ভাবার্থ বা সম্পাদকীয় সংশ্লেষ উদ্ধৃতিচিহ্নে লিখবেন না।
 ## বাংলাদেশের ভূগোল ও ভূপ্রকৃতি | BCS Exam Revision
 
 [← Back to Chapter 1](./README.md#top) · [Chapter 1 Quick Navigation](./README.md)
@@ -8,7 +14,12 @@
 > [!IMPORTANT]
 > এই পেজে English quotation/উৎসভিত্তিক বাক্য, বাংলা ভাবানুবাদ, BCS পরীক্ষায় ব্যবহারের উপায় এবং সরাসরি source link একসঙ্গে রাখা হয়েছে। **বাংলা অংশগুলো ভাবানুবাদ; মূল ইংরেজি উৎসের হুবহু বাংলা উদ্ধৃতি নয়।** কোনো বাক্যের হুবহু wording যাচাই করা না থাকলে সেটিকে quotation marks-এ না লিখে exam-ready paraphrase হিসেবে ব্যবহার করবে।
 
-# 💬 Chapter 01 — Quotations & Source Bank | গুরুত্বপূর্ণ উদ্ধৃতি
+<a id="-chapter-01--quotations--source-bank--গুরুত্বপূর্ণ-উদ্ধৃতি"></a>
+# অধ্যায় ১ — ইংরেজি উদ্ধৃতি, ভাবার্থ ও উৎস
+
+[বইয়ের সূচি](../README.md) · [মূল অধ্যায়](./README.md#references-audit) · [উৎস-নিরীক্ষা](../SOURCE-AUDIT.md#quotations)
+
+**ব্যবহারের নিয়ম:** উৎসনির্দেশ থাকা মানেই প্রতিটি উদ্ধৃতির হুবহু পাঠ এই সংস্করণে যাচাই হয়েছে—এমন নয়। মূল নথিতে শব্দ ও প্রসঙ্গ মিলিয়ে নিন। ভাবার্থ বা সম্পাদকীয় সংশ্লেষ উদ্ধৃতিচিহ্নে লিখবেন না।
 
 এই অংশে বাংলাদেশের ভৌগোলিক পরিচিতি, ভূপ্রকৃতি, বঙ্গোপসাগর, সুন্দরবন ও বদ্বীপ পরিকল্পনা বিষয়ে **সংক্ষিপ্ত, যাচাইযোগ্য English quotation** এবং পরীক্ষায় ব্যবহারযোগ্য বাংলা ভাবানুবাদ দেওয়া হলো। প্রতিটি উদ্ধৃতির পাশে **প্রতিষ্ঠানের নাম, মূল উৎসের শিরোনাম ও সরাসরি লিংক** রাখা হয়েছে।
 
@@ -44,7 +55,7 @@
 
 **পরীক্ষায় ব্যবহার:** বাংলাদেশের ভৌগোলিক অবস্থান, আয়তন, সীমান্ত ও ভৌগোলিক পরিচিতি নিয়ে উত্তরের Introduction-এ।
 
-**Source name:** **Banglapedia — “Bangladesh Geography”**  
+**Source name:** **Banglapedia — “Bangladesh Geography”**\
 **Source link:** [Banglapedia, Asiatic Society of Bangladesh](https://en.banglapedia.org/index.php?title=Bangladesh_Geography)
 
 > [!NOTE]
@@ -68,7 +79,7 @@
 
 **পরীক্ষায় ব্যবহার:** “Describe the physiographic features of Bangladesh” / “বাংলাদেশের ভূপ্রকৃতির প্রধান বৈশিষ্ট্য বর্ণনা করুন।”
 
-**Source name:** **Banglapedia — “Bangladesh Geography”**  
+**Source name:** **Banglapedia — “Bangladesh Geography”**\
 **Source link:** [Banglapedia, Asiatic Society of Bangladesh](https://en.banglapedia.org/index.php?title=Bangladesh_Geography)
 
 > [!TIP]
@@ -90,7 +101,7 @@
 
 **Exam-ready analysis:** বঙ্গোপসাগর বাংলাদেশের জন্য একদিকে বন্দর, সামুদ্রিক বাণিজ্য, মৎস্য ও Blue Economy-র সুযোগ তৈরি করে; অন্যদিকে ঘূর্ণিঝড়, জলোচ্ছ্বাস, উপকূলীয় প্লাবন ও লবণাক্ততার ঝুঁকিও তৈরি করে। তাই উত্তর লিখতে **Opportunity + Risk + Management**—এই তিনটি দিক একসঙ্গে ব্যাখ্যা করুন।
 
-**Source name:** **Banglapedia — “Bangladesh Geography”**  
+**Source name:** **Banglapedia — “Bangladesh Geography”**\
 **Source link:** [Banglapedia, Asiatic Society of Bangladesh](https://en.banglapedia.org/index.php?title=Bangladesh_Geography)
 
 [⬆ Quick Navigation](#top)
@@ -111,10 +122,10 @@
 
 **পরীক্ষায় ব্যবহার:** বঙ্গোপসাগরের গুরুত্ব, সামুদ্রিক সম্পদ, Blue Economy ও maritime boundary-সংক্রান্ত প্রশ্নে।
 
-**Source name:** **Banglapedia — “Bangladesh Geography”**  
+**Source name:** **Banglapedia — “Bangladesh Geography”**\
 **Source link:** [Banglapedia, Asiatic Society of Bangladesh](https://en.banglapedia.org/index.php?title=Bangladesh_Geography)
 
-**Primary legal source:** **Government of Bangladesh — Territorial Waters and Maritime Zones Act, 1974**  
+**Primary legal source:** **Government of Bangladesh — Territorial Waters and Maritime Zones Act, 1974**\
 **Source link:** [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-print-467.html)
 
 > [!WARNING]
@@ -138,7 +149,7 @@
 
 **পরীক্ষায় ব্যবহার:** বাংলাদেশের প্রাকৃতিক বৈশিষ্ট্য, বদ্বীপ, বনসম্পদ, জীববৈচিত্র্য ও পরিবেশ সংরক্ষণ।
 
-**Source name:** **UNESCO World Heritage Centre — “The Sundarbans”**  
+**Source name:** **UNESCO World Heritage Centre — “The Sundarbans”**\
 **Source link:** [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/798/)
 
 [⬆ Quick Navigation](#top)
@@ -159,7 +170,7 @@
 
 **পরীক্ষায় ব্যবহার:** সুন্দরবনের পরিবেশগত গুরুত্ব, জীববৈচিত্র্য, সংরক্ষণ ও টেকসই ব্যবস্থাপনা।
 
-**Source name:** **UNESCO World Heritage Centre — “The Sundarbans”**  
+**Source name:** **UNESCO World Heritage Centre — “The Sundarbans”**\
 **Source link:** [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/798/)
 
 [⬆ Quick Navigation](#top)
@@ -180,7 +191,7 @@
 
 **পরীক্ষায় ব্যবহার:** দুর্যোগ ব্যবস্থাপনা, জলবায়ু অভিযোজন, বাংলাদেশের অর্জন ও ভবিষ্যৎ করণীয়।
 
-**Source name:** **World Bank — “Bangladesh Overview”**  
+**Source name:** **World Bank — “Bangladesh Overview”**\
 **Source link:** [World Bank, Bangladesh](https://www.worldbank.org/en/country/bangladesh/overview)
 
 [⬆ Quick Navigation](#top)
@@ -201,7 +212,7 @@
 
 **পরীক্ষায় ব্যবহার:** বাংলাদেশের পরিবেশগত চ্যালেঞ্জ, জলবায়ু পরিবর্তন, দুর্যোগের প্রভাব ও অভিযোজন কৌশল।
 
-**Source name:** **World Bank — “Bangladesh Overview”**  
+**Source name:** **World Bank — “Bangladesh Overview”**\
 **Source link:** [World Bank, Bangladesh](https://www.worldbank.org/en/country/bangladesh/overview)
 
 [⬆ Quick Navigation](#top)
@@ -220,7 +231,7 @@
 
 **পরীক্ষায় ব্যবহার:** BDP 2100, বদ্বীপ ব্যবস্থাপনা, জলবায়ু-সহনশীল উন্নয়ন ও দীর্ঘমেয়াদি নীতি।
 
-**Source name:** **Government of Bangladesh — Bangladesh Delta Plan (BDP) 2100**  
+**Source name:** **Government of Bangladesh — Bangladesh Delta Plan (BDP) 2100**\
 **Source link:** [Bangladesh Delta Plan 2100 — Bangladesh Embassy, The Hague](https://hague.mofa.gov.bd/pages/static-pages/6952667b35ce18e1c05a9706)
 
 [⬆ Quick Navigation](#top)
@@ -239,7 +250,7 @@
 
 **পরীক্ষায় ব্যবহার:** BDP 2100, পানি ব্যবস্থাপনা, খাদ্যনিরাপত্তা, টেকসই উন্নয়ন ও সমন্বিত বদ্বীপ পরিকল্পনা।
 
-**Source name:** **Government of Bangladesh — Bangladesh Delta Plan (BDP) 2100**  
+**Source name:** **Government of Bangladesh — Bangladesh Delta Plan (BDP) 2100**\
 **Source link:** [Bangladesh Delta Plan 2100 — Bangladesh Embassy, The Hague](https://hague.mofa.gov.bd/pages/static-pages/6952667b35ce18e1c05a9706)
 
 [⬆ Quick Navigation](#top)

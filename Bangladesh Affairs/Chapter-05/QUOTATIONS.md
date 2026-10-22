@@ -1,6 +1,12 @@
 <a id="top"></a>
 
-# Chapter 05 — English Quotations and Source Bank
+
+<a id="chapter-05--english-quotations-and-source-bank"></a>
+# অধ্যায় ৫ — ইংরেজি উদ্ধৃতি, ভাবার্থ ও উৎস
+
+[বইয়ের সূচি](../README.md) · [মূল অধ্যায়](./README.md#references-audit) · [উৎস-নিরীক্ষা](../SOURCE-AUDIT.md#quotations)
+
+**ব্যবহারের নিয়ম:** উৎসনির্দেশ থাকা মানেই প্রতিটি উদ্ধৃতির হুবহু পাঠ এই সংস্করণে যাচাই হয়েছে—এমন নয়। মূল নথিতে শব্দ ও প্রসঙ্গ মিলিয়ে নিন। ভাবার্থ বা সম্পাদকীয় সংশ্লেষ উদ্ধৃতিচিহ্নে লিখবেন না।
 ## Environment, Nature, Challenges and Prospects of Bangladesh | BCS Written
 
 [← মূল অধ্যায়](./README.md#top) · [৩০টি Answered Questions](./BCS-WRITTEN-QUESTION-BANK.md) · [35th–47th BCS PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) · [Model Essays](./PYQ-BASED-ESSAYS.md)
@@ -41,7 +47,7 @@
 
 **BCS use:** Sustainable development, natural resources, green growth and intergenerational equity.
 
-**Primary source:** WCED, *Our Common Future* (1987), Chapter 2.  
+**Primary source:** WCED, *Our Common Future* (1987), Chapter 2.\
 [UN-hosted report PDF](https://sustainabledevelopment.un.org/content/documents/5987our-common-future.pdf)
 
 <a id="quote-02"></a>
@@ -53,7 +59,7 @@
 
 **BCS use:** Ecosystems, biodiversity, pollution, food chains and ecological balance.
 
-**Source:** Rachel Carson, *Silent Spring* (1962).  
+**Source:** Rachel Carson, *Silent Spring* (1962).\
 [Author and book information](https://www.rachelcarson.org/silent-spring)
 
 <a id="quote-03"></a>
@@ -65,7 +71,7 @@
 
 **BCS use:** Forests, rivers, biodiversity, wetland protection and environmental impact assessment.
 
-**Primary text:** John Muir, *My First Summer in the Sierra* (1911).  
+**Primary text:** John Muir, *My First Summer in the Sierra* (1911).\
 [Project Gutenberg full text](https://www.gutenberg.org/cache/epub/32540/pg32540-images.html)
 
 <a id="quote-04"></a>
@@ -77,7 +83,7 @@
 
 **BCS use:** Conservation ethics, biodiversity, forests, protected areas and sustainable resource use.
 
-**Source:** Aldo Leopold Foundation, *Understanding the Land Ethic*.  
+**Source:** Aldo Leopold Foundation, *Understanding the Land Ethic*.\
 [Source and context](https://www.aldoleopold.org/blogs/understanding-the-land-ethic)
 
 <a id="quote-05"></a>
@@ -89,7 +95,7 @@
 
 **BCS use:** Community participation, afforestation, waste reduction and local environmental governance.
 
-**Source:** Wangari Maathai, Nobel Peace Prize lecture (2004).  
+**Source:** Wangari Maathai, Nobel Peace Prize lecture (2004).\
 [Nobel Prize official lecture](https://www.nobelprize.org/prizes/peace/2004/maathai/lecture/)
 
 <a id="quote-06"></a>
@@ -101,7 +107,7 @@
 
 **BCS use:** Biodiversity conservation, environmental ethics, protected areas and sustainable development.
 
-**Source:** Earth Charter, Principle 1.  
+**Source:** Earth Charter, Principle 1.\
 [Official Earth Charter text](https://earthcharter.org/read-the-earth-charter/respect-and-care-for-the-community-of-life)
 
 <a id="quote-07"></a>
@@ -113,7 +119,7 @@
 
 **BCS use:** Environmental justice, EIA, local government, transparency and public hearings.
 
-**Source:** United Nations, *Rio Declaration on Environment and Development* (1992), Principle 10.  
+**Source:** United Nations, *Rio Declaration on Environment and Development* (1992), Principle 10.\
 [UNEP resource page](https://www.unep.org/resources/report/rio-declaration-environment-and-development)
 
 <a id="quote-08"></a>
@@ -125,7 +131,7 @@
 
 **BCS use:** Climate justice, mitigation, adaptation finance and international cooperation.
 
-**Primary source:** United Nations Framework Convention on Climate Change, Article 3.1.  
+**Primary source:** United Nations Framework Convention on Climate Change, Article 3.1.\
 [UNFCCC Convention text](https://unfccc.int/files/essential_background/background_publications_htmlpdf/application/pdf/conveng.pdf)
 
 <a id="quote-09"></a>
@@ -137,7 +143,7 @@
 
 **BCS use:** Bangladesh climate vulnerability, NAP, disaster risk reduction and climate finance.
 
-**Source:** United Nations, Sustainable Development Goal 13.  
+**Source:** United Nations, Sustainable Development Goal 13.\
 [Official SDG goals](https://sdgs.un.org/goals)
 
 <a id="quote-10"></a>
@@ -149,7 +155,7 @@
 
 **BCS use:** Plastic pollution, circular economy, industrial efficiency and waste management.
 
-**Source:** United Nations, Sustainable Development Goal 12.  
+**Source:** United Nations, Sustainable Development Goal 12.\
 [Official SDG goals](https://sdgs.un.org/goals)
 
 <a id="quote-11"></a>
@@ -161,7 +167,7 @@
 
 **BCS use:** Bay of Bengal, marine biodiversity, coastal livelihoods and the blue economy.
 
-**Source:** United Nations, Sustainable Development Goal 14.  
+**Source:** United Nations, Sustainable Development Goal 14.\
 [Official SDG goals](https://sdgs.un.org/goals)
 
 <a id="quote-12"></a>
@@ -173,7 +179,7 @@
 
 **BCS use:** Forest conservation, the Sundarbans, biodiversity, protected areas and land degradation.
 
-**Source:** United Nations, Sustainable Development Goal 15.  
+**Source:** United Nations, Sustainable Development Goal 15.\
 [Official SDG goals](https://sdgs.un.org/goals)
 
 <a id="quote-13"></a>
@@ -185,7 +191,7 @@
 
 **BCS use:** River pollution, arsenic, water security, public health and urban sanitation.
 
-**Source:** United Nations, Sustainable Development Goal 6.  
+**Source:** United Nations, Sustainable Development Goal 6.\
 [Official SDG goals](https://sdgs.un.org/goals)
 
 <a id="quote-14"></a>
@@ -197,7 +203,7 @@
 
 **BCS use:** Water security, agriculture, industry, sanitation and ecosystem health.
 
-**Source:** UN-Water, *World Water Development Report 2015: Water for a Sustainable World*.  
+**Source:** UN-Water, *World Water Development Report 2015: Water for a Sustainable World*.\
 [UN-Water publication page](https://www.unwater.org/publications/un-world-water-development-report-2015)
 
 <a id="quote-15"></a>
@@ -209,7 +215,7 @@
 
 **BCS use:** Climate change, public health, food security, displacement and adaptation.
 
-**Source:** Intergovernmental Panel on Climate Change, *AR6 Synthesis Report* (2023), Summary for Policymakers.  
+**Source:** Intergovernmental Panel on Climate Change, *AR6 Synthesis Report* (2023), Summary for Policymakers.\
 [IPCC report page](https://www.ipcc.ch/report/ar6/syr/)
 
 <a id="quote-16"></a>
@@ -221,7 +227,7 @@
 
 **BCS use:** Green growth, pollution control, clean technology and economic development.
 
-**Source:** World Bank, *Addressing Environmental Pollution is Critical for Bangladesh’s Growth and Development* (28 March 2024).  
+**Source:** World Bank, *Addressing Environmental Pollution is Critical for Bangladesh’s Growth and Development* (28 March 2024).\
 [World Bank official release](https://www.worldbank.org/en/news/press-release/2024/03/28/addressing-environmental-pollution-is-critical-for-bangladesh-s-growth-and-development)
 
 <a id="quote-17"></a>
@@ -233,7 +239,7 @@
 
 **BCS use:** Sustainable development, SDGs, intergenerational equity and environmental governance.
 
-**Source:** United Nations, *Transforming our world: the 2030 Agenda for Sustainable Development*.  
+**Source:** United Nations, *Transforming our world: the 2030 Agenda for Sustainable Development*.\
 [Official 2030 Agenda](https://sdgs.un.org/2030agenda)
 
 <a id="quote-18"></a>
@@ -245,7 +251,7 @@
 
 **BCS use:** Environmental rights, health, environmental justice and sustainable development.
 
-**Source:** United Nations Conference on the Human Environment, Stockholm Declaration (1972), Principle 1.  
+**Source:** United Nations Conference on the Human Environment, Stockholm Declaration (1972), Principle 1.\
 [UNEP resource page](https://www.unep.org/resources/report/stockholm-1972-declaration-human-environment)
 
 <a id="quote-19"></a>
@@ -257,7 +263,7 @@
 
 **BCS use:** Urbanisation, drainage, air quality, public transport, green spaces and climate-resilient cities.
 
-**Source:** United Nations, Sustainable Development Goal 11.  
+**Source:** United Nations, Sustainable Development Goal 11.\
 [Official SDG goals](https://sdgs.un.org/goals)
 
 ---
@@ -267,34 +273,34 @@
 
 নিচের বাক্যগুলো নিজের বিশ্লেষণ হিসেবে ব্যবহার করা যায়। এগুলো কোনো ব্যক্তির হুবহু উদ্ধৃতি নয়।
 
-1. **Environmental protection is a development priority because pollution damages health, productivity and natural assets.**  
+1. **Environmental protection is a development priority because pollution damages health, productivity and natural assets.**\
    Use: environmental degradation; source: World Bank, *Bangladesh Country Environmental Analysis 2023*.
 
-2. **Effective environmental governance requires measurable standards, reliable monitoring, transparent data and consistent enforcement.**  
+2. **Effective environmental governance requires measurable standards, reliable monitoring, transparent data and consistent enforcement.**\
    Use: law, institutions and implementation gap; source: Department of Environment and World Bank CEA 2023.
 
-3. **Climate risk depends on the hazard, the exposure of people and assets, and the capacity to prepare and recover.**  
+3. **Climate risk depends on the hazard, the exposure of people and assets, and the capacity to prepare and recover.**\
    Use: climate vulnerability and disaster management; source: IPCC AR6 WGII.
 
-4. **Adaptation reduces climate-related harm, while mitigation addresses the causes of climate change by reducing greenhouse-gas emissions or increasing removals.**  
+4. **Adaptation reduces climate-related harm, while mitigation addresses the causes of climate change by reducing greenhouse-gas emissions or increasing removals.**\
    Use: adaptation versus mitigation; source: IPCC AR6.
 
-5. **A circular economy prioritises prevention, reuse, repair and resource recovery before final disposal.**  
+5. **A circular economy prioritises prevention, reuse, repair and resource recovery before final disposal.**\
    Use: plastic and solid-waste management; source: UNEP resource-efficiency materials.
 
-6. **Environmental justice requires meaningful participation and fair access to environmental benefits, protection and remedies.**  
+6. **Environmental justice requires meaningful participation and fair access to environmental benefits, protection and remedies.**\
    Use: vulnerable communities, EIA and local governance; source: Rio Declaration, Principle 10.
 
-7. **Nature-based solutions can complement engineered infrastructure, but their effectiveness depends on local ecology and long-term management.**  
+7. **Nature-based solutions can complement engineered infrastructure, but their effectiveness depends on local ecology and long-term management.**\
    Use: wetlands, forests, mangroves and flood risk; source: IPCC AR6 WGII.
 
-8. **A policy succeeds only when its objectives are translated into funded action, transparent implementation and measurable outcomes.**  
+8. **A policy succeeds only when its objectives are translated into funded action, transparent implementation and measurable outcomes.**\
    Use: NAP 2023–2050, ECA management and environmental law enforcement; source: Government of Bangladesh NAP and relevant laws.
 
-9. **Environmental costs should be assessed alongside the economic benefits of infrastructure and industrial projects.**  
+9. **Environmental costs should be assessed alongside the economic benefits of infrastructure and industrial projects.**\
    Use: EIA, urbanisation and industrial development; source: Bangladesh Environment Conservation Act and World Bank CEA 2023.
 
-10. **Protecting forests and wetlands supports biodiversity, livelihoods and resilience, but requires community participation and enforceable rules.**  
+10. **Protecting forests and wetlands supports biodiversity, livelihoods and resilience, but requires community participation and enforceable rules.**\
     Use: Sundarbans, ECA and protected areas; source: Bangladesh Forest Department and Government of Bangladesh.
 
 <a id="how-to-use"></a>

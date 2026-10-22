@@ -1,86 +1,69 @@
-# Chapter 14 — বিশ্বায়ন ও বাংলাদেশ | Globalization and Bangladesh
+<a id="top"></a>
+<a id="chapter-14--বিশ্বায়ন-ও-বাংলাদেশ--globalization-and-bangladesh"></a>
+# অধ্যায় ১৪ — বিশ্বায়ন ও বাংলাদেশ | Globalization and Bangladesh
 
-> **BCS Written · Bangladesh Affairs · BPSC Subject Code 005 · Official syllabus topic 14**  
-> **পাঠের ধরন:** মূল ধারণা → প্রবন্ধভিত্তিক বিশ্লেষণ → বাংলাদেশের উদাহরণ → নীতি ও সমাধান → প্রশ্নোত্তর → উদ্ধৃতি ও উৎস।  
-> **পর্যালোচনা:** ২১ অক্টোবর ২০২৬
+**বিসিএস লিখিত · বাংলাদেশ বিষয়াবলি · বিষয় কোড ০০৫ · সিলেবাসের বিষয় ১৪**
 
-[← Bangladesh Affairs সূচি](../README.md) · [🧭 35th–47th BCS PYQ Map](./PYQ-35-47-MAP.md) · [📘 28 Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [💬 English Quotations + Sources](./QUOTATIONS.md) · [PYQ-based Model Essays](./PYQ-BASED-ESSAYS.md) · [Visual Atlas](#visual-atlas)
+[বইয়ের সূচি](../README.md) · [সরকারি সিলেবাস ও বিষয়ভিত্তিক মিল](../SYLLABUS-COVERAGE.md) · [উৎস ও যাচাইয়ের অবস্থা](../SOURCE-AUDIT.md) · [উত্তর লেখার নির্দেশিকা](../ANSWER-WRITING.md)
 
-> [!IMPORTANT]
-> **এই অধ্যায়ের কেন্দ্রীয় বক্তব্য:** বিশ্বায়ন বাংলাদেশের জন্য একই সঙ্গে বাজার, প্রযুক্তি, বিনিয়োগ, দক্ষতা ও জ্ঞান অর্জনের সুযোগ এবং বৈশ্বিক ধাক্কা, অসমতা, শ্রমঝুঁকি, পরিবেশগত চাপ ও নীতিগত নির্ভরতার চ্যালেঞ্জ। পরীক্ষার উত্তরে তাই “বিশ্বায়ন ভালো/খারাপ”—এমন একপেশে সিদ্ধান্ত নয়; **inclusive, resilient and sustainable globalization**-এর যুক্তি দেখাতে হবে।
+মূল ধারণা ও ব্যাখ্যা পড়ুন, বাংলাদেশের উদাহরণের সঙ্গে মিলিয়ে বিশ্লেষণ করুন, তারপর প্রশ্ন অনুযায়ী উত্তর লিখুন। সংখ্যার সঙ্গে তথ্যের সময়কাল এবং আইনি বক্তব্যের সঙ্গে প্রযোজ্য পাঠ দেখুন।
 
-## বিষয়সূচি
+| অংশ | কী পড়বেন |
+|---|---|
+| [অংশ ক — মূলপাঠ](#book-text) | ধারণা, পটভূমি, বিস্তারিত আলোচনা, কারণ–প্রভাব ও নীতিগত মূল্যায়ন |
+| [অংশ খ — লিখিত অনুশীলন](#written-practice) | প্রশ্নের উৎস, উত্তর-পরিকল্পনা, অনুশীলনী ও নমুনা উত্তর |
+| [অংশ গ — পুনরালোচনা ও চিত্র](#revision-atlas) | সারসংক্ষেপ, মানচিত্র, চিত্র ও স্মৃতি যাচাই |
+| [অংশ ঘ — উৎস ও যাচাই](#references-audit) | তথ্যসূত্র, উদ্ধৃতির সীমা ও যাচাইয়ের অবস্থা |
 
-- [১. বিশ্বায়ন: ধারণা, বৈশিষ্ট্য ও মাত্রা](#concept)
-- [২. বাংলাদেশের বিশ্বায়নের সঙ্গে সংযুক্ত হওয়ার পথ](#bangladesh)
-- [৩. অর্থনৈতিক মাত্রা: বাণিজ্য, RMG, প্রবাসী আয় ও FDI](#economic)
-- [৪. রাজনৈতিক ও প্রাতিষ্ঠানিক মাত্রা](#political)
-- [৫. WTO, World Bank, IMF, ADB, IsDB ও উন্নয়ন-অংশীদার](#institutions)
-- [৬. MNCs: সুযোগ, ঝুঁকি ও নিয়ন্ত্রণ](#mncs)
-- [৭. প্রধান চ্যালেঞ্জ ও কাঠামোগত দুর্বলতা](#challenges)
-- [৮. বাংলাদেশের করণীয়: নীতিপ্রস্তাব](#policy)
-- [৯. পরীক্ষার উত্তর লেখার কাঠামো](#answer)
-- [১০. Previous-question theme analysis ও সম্ভাব্য প্রশ্ন](#pyq)
-- [১১. ৫/১০/২০ নম্বরের মডেল উত্তর](#model)
-- [১২. ৩৩টি অনুশীলনী প্রশ্ন](#practice)
-- [১৩. এক পৃষ্ঠার পুনরালোচনা](#revision)
-- [১৪. উৎস ও তথ্য-সতর্কতা](#sources)
+<a id="বিষয়সূচি"></a>
+<details>
+<summary>বিস্তারিত বিষয়সূচি</summary>
 
+**অংশ ক — মূলপাঠ**
 
-<a id="visual-atlas"></a>
+- [বিশ্বায়ন: ধারণা, বৈশিষ্ট্য ও মাত্রা](#core-01)
+- [বাংলাদেশের বিশ্বায়নের সঙ্গে সংযুক্ত হওয়ার পথ](#core-02)
+- [অর্থনৈতিক মাত্রা: বাণিজ্য, RMG, প্রবাসী আয় ও FDI](#core-03)
+- [রাজনৈতিক ও প্রাতিষ্ঠানিক মাত্রা](#core-04)
+- [WTO, World Bank, IMF, ADB, IsDB ও উন্নয়ন-অংশীদার](#core-05)
+- [বহুজাতিক কোম্পানি (MNCs): সুযোগ, ঝুঁকি ও নিয়ন্ত্রণ](#core-06)
+- [বাংলাদেশের প্রধান চ্যালেঞ্জ](#core-07)
+- [বাংলাদেশের করণীয়: নীতিপ্রস্তাব](#core-08)
 
-## Visual Atlas — 7 topic-specific diagrams + 10 internet photos + official data maps
+- [বিশ্বায়নের প্রতিষ্ঠান ও নীতিগত পছন্দ আলাদা করে পড়ুন](#core-analysis)
 
-**How to use:** diagrams are conceptual study aids, not official statistical charts. For numbers in exam answers, cite the relevant fiscal/calendar year and use the official source listed below. The seven SVG diagrams directly match the chapter’s question bank. Ten real photographs are embedded alongside the relevant topic sections below; their original source and licence are listed in the visual-source register.
+**অংশ খ — লিখিত অনুশীলন**
 
-### 1. Globalization’s six dimensions
-![Globalization dimensions map](./assets/globalization-dimensions.svg)
-[Open SVG](./assets/globalization-dimensions.svg) · Use for definitions and short notes.
+- [BCS Written-এ উত্তর লেখার কৌশল](#practice-01)
+- [Previous-question theme analysis ও সম্ভাব্য প্রশ্ন](#practice-02)
+- [৫/১০/২০ নম্বরের মডেল উত্তর](#practice-03)
+- [৩৩টি অনুশীলনী প্রশ্ন](#practice-04)
 
-### 2. Bangladesh in the global economy
-![Bangladesh global links diagram](./assets/bangladesh-global-links.svg)
-[Open SVG](./assets/bangladesh-global-links.svg) · Connect RMG, remittances, FDI, institutions and climate diplomacy.
+**অংশ গ — পুনরালোচনা ও চিত্র**
 
-### 3. Inclusive globalization
-![Inclusive globalization pathway](./assets/inclusive-globalization.svg)
-[Open SVG](./assets/inclusive-globalization.svg) · Use for inequality, decent work and inclusive development.
+- [Visual Atlas — 7 topic-specific diagrams + 10 internet photos + official data maps](#revision-01)
+- [এক পৃষ্ঠার পুনরালোচনা](#revision-02)
 
-### 4. Global shock and policy response
-![Global shock response framework](./assets/global-shock-response.svg)
-[Open SVG](./assets/global-shock-response.svg) · Use for energy prices, inflation, export shocks and resilience.
+**অংশ ঘ — উৎস ও যাচাই**
 
-### 5. Export diversification strategy
-![Export diversification framework](./assets/trade-diversification.svg)
-[Open SVG](./assets/trade-diversification.svg) · Use for export concentration, value addition and LDC transition.
+- [এই অধ্যায়ের যাচাইয়ের অবস্থা](#chapter-fact-check)
+- [উৎস ও তথ্য-সতর্কতা](#sources-01)
 
-### 6. Global institutions and their mandates
-![Global institutions comparison](./assets/development-institutions.svg)
-[Open SVG](./assets/development-institutions.svg) · Distinguish WTO, IMF, World Bank, ADB and IsDB.
-
-### 7. LDC graduation readiness pathway
-![LDC graduation readiness](./assets/ldc-transition.svg)
-[Open SVG](./assets/ldc-transition.svg) · Verify all current transition dates and trade preferences from official sources.
-
-### Official maps, charts and current data portals
-
-- **Export composition, destination and trade statistics:** [Export Promotion Bureau](https://epb.gov.bd/) and [WTO Statistics](https://stats.wto.org/). Always specify the reporting period; do not treat an illustrative diagram above as a statistical graph.
-- **Remittances, balance of payments and external sector:** [Bangladesh Bank](https://www.bb.org.bd/).
-- **GDP, labour and social indicators:** [Bangladesh Bureau of Statistics](https://bbs.gov.bd/).
-- **Global development and Bangladesh country data:** [World Bank Bangladesh overview](https://www.worldbank.org/en/country/bangladesh/overview) and [World Bank Data](https://data.worldbank.org/country/bangladesh).
-- **Human development:** [UNDP Human Development Reports](https://hdr.undp.org/).
-- **Decent work and labour standards:** [ILO](https://www.ilo.org/).
-- **LDC graduation status and transition context:** [United Nations LDC portal](https://www.un.org/ldcportal/).
-
-**Map accuracy note:** This chapter is about economic and institutional globalization, not physical geography. Use the official statistical portals for country, trade and development charts; a generic map image should not be presented as evidence of trade values or current tariff treatment.
+</details>
 
 ---
 
+<a id="book-text"></a>
+## অংশ ক — মূলপাঠ
+
+<a id="core-01"></a>
 <a id="concept"></a>
-## ১. বিশ্বায়ন: ধারণা, বৈশিষ্ট্য ও মাত্রা
+<a id="১-বিশ্বায়ন-ধারণা-বৈশিষ্ট্য-ও-মাত্রা"></a>
+### বিশ্বায়ন: ধারণা, বৈশিষ্ট্য ও মাত্রা
 
 **বিশ্বায়ন (Globalization)** হলো পণ্য, সেবা, পুঁজি, প্রযুক্তি, তথ্য, ধারণা এবং মানুষের আন্তঃদেশীয় প্রবাহ ও পারস্পরিক নির্ভরতা বৃদ্ধির প্রক্রিয়া। এটি কেবল মুক্তবাণিজ্য নয়; অর্থনীতি, রাজনীতি, সংস্কৃতি, শ্রমবাজার, প্রযুক্তি, পরিবেশ ও আন্তর্জাতিক শাসন—সব ক্ষেত্রেই এর প্রভাব পড়ে।
 
-### বিশ্বায়নের প্রধান মাত্রা
+#### বিশ্বায়নের প্রধান মাত্রা
 
 | মাত্রা | অর্থ | বাংলাদেশের উদাহরণ |
 |---|---|---|
@@ -93,7 +76,7 @@
 
 **পরীক্ষায় সংজ্ঞা লেখার উপযোগী বাক্য:** “Globalization is the intensification of cross-border flows and interdependence in trade, finance, technology, information, labour and ideas; its development outcomes depend on domestic institutions, capabilities and public policy.”
 
-### বিশ্বায়ন, উদারীকরণ ও আন্তর্জাতিকীকরণ—এক নয়
+#### বিশ্বায়ন, উদারীকরণ ও আন্তর্জাতিকীকরণ—এক নয়
 
 - **Globalization:** বিশ্বব্যাপী সংযোগ ও পারস্পরিক নির্ভরতা বৃদ্ধির বিস্তৃত প্রক্রিয়া।
 - **Liberalization:** বাণিজ্য, বিনিয়োগ বা অর্থনীতির ওপর নির্দিষ্ট বাধা কমানোর নীতিগত পদক্ষেপ।
@@ -102,14 +85,18 @@
 
 বিশ্বায়ন স্বয়ংক্রিয়ভাবে সবার আয় বাড়ায় না। উৎপাদনশীলতা, শিক্ষা, অবকাঠামো, আর্থিক সক্ষমতা, শ্রম সুরক্ষা ও সুশাসন দুর্বল হলে সুবিধা কিছু খাত বা গোষ্ঠীতে কেন্দ্রীভূত হতে পারে।
 
+---
+
+<a id="core-02"></a>
 <a id="bangladesh"></a>
-## ২. বাংলাদেশের বিশ্বায়নের সঙ্গে সংযুক্ত হওয়ার পথ
+<a id="২-বাংলাদেশের-বিশ্বায়নের-সঙ্গে-সংযুক্ত-হওয়ার-পথ"></a>
+### বাংলাদেশের বিশ্বায়নের সঙ্গে সংযুক্ত হওয়ার পথ
 
 বাংলাদেশের বিশ্বায়ন-অভিজ্ঞতাকে কয়েকটি পর্যায়ে বোঝা যায়। স্বাধীনতার পর পুনর্গঠন ও বৈদেশিক সহায়তার প্রয়োজন ছিল বড়; পরবর্তী সময়ে রপ্তানিমুখী তৈরি পোশাকশিল্প, শ্রম অভিবাসন ও রেমিট্যান্স, আন্তর্জাতিক উন্নয়ন সহযোগিতা, টেলিযোগাযোগ এবং ডিজিটাল অর্থনীতি বৈশ্বিক সংযোগকে গভীর করেছে। তৈরি পোশাক খাত আন্তর্জাতিক ক্রেতা, সরবরাহকারী, মানদণ্ড ও ভোক্তা-চাহিদার সঙ্গে যুক্ত। প্রবাসী কর্মীরা বিদেশি শ্রমবাজারে কাজ করে পরিবার ও জাতীয় অর্থনীতিতে আয় পাঠান। একই সময়ে জ্বালানি, খাদ্য, সার, যন্ত্রপাতি ও শিল্পের কাঁচামালের আমদানিনির্ভরতা বৈশ্বিক মূল্য ও সরবরাহ-ধাক্কাকে দেশের ভেতরে পৌঁছে দেয়।
 
 বাংলাদেশের অভিজ্ঞতা দেখায়—বিশ্ববাজারে প্রবেশ গুরুত্বপূর্ণ, কিন্তু শুধু কম মজুরি ও একটি রপ্তানি খাতের ওপর নির্ভর করে দীর্ঘমেয়াদি উন্নয়ন নিশ্চিত হয় না। পণ্যের বৈচিত্র্য, স্থানীয় মূল্য সংযোজন, প্রযুক্তি, দক্ষতা, মান নিয়ন্ত্রণ, পরিবেশগত সম্মতি ও দেশীয় প্রতিষ্ঠানের সক্ষমতা বাড়ানো প্রয়োজন।
 
-#### বাস্তব ছবি ১ — Digital connectivity ও প্রযুক্তিগত বিশ্বায়ন
+##### বাস্তব ছবি ১ — Digital connectivity ও প্রযুক্তিগত বিশ্বায়ন
 
 ![Inauguration of 5G mobile internet service in Dhaka, Bangladesh, 12 December 2021](../assets/photos/commons-6250af8e931bfc3d.jpg)
 
@@ -117,14 +104,20 @@
 
 **মূল্যায়ন:** বিশ্বায়ন বাংলাদেশকে আন্তর্জাতিক বাজারে প্রবেশের সুযোগ দিয়েছে; সেই সুযোগকে টেকসই উন্নয়নে রূপান্তর করা নির্ভর করে দেশীয় উৎপাদনশীলতা, প্রতিষ্ঠান, মানবসম্পদ ও নীতির ওপর।
 
-<a id="economic"></a>
-## ৩. অর্থনৈতিক মাত্রা: বাণিজ্য, RMG, প্রবাসী আয় ও FDI
+---
 
-### ৩.১ বাণিজ্য ও রপ্তানি
+<a id="core-03"></a>
+<a id="economic"></a>
+<a id="৩-অর্থনৈতিক-মাত্রা-বাণিজ্য-rmg-প্রবাসী-আয়-ও-fdi"></a>
+### অর্থনৈতিক মাত্রা: বাণিজ্য, RMG, প্রবাসী আয় ও FDI
+
+<a id="৩১-বাণিজ্য-ও-রপ্তানি"></a>
+<a id="১-বাণিজ্য-ও-রপ্তানি"></a>
+#### বাণিজ্য ও রপ্তানি
 
 আন্তর্জাতিক বাণিজ্য বাজার সম্প্রসারণ, বৈদেশিক মুদ্রা অর্জন, প্রযুক্তি ও ব্যবস্থাপনার জ্ঞান স্থানান্তর এবং উৎপাদনের স্কেল বাড়াতে পারে। বাংলাদেশের তৈরি পোশাকশিল্প (Ready-Made Garments—RMG) বৈশ্বিক মূল্যশৃঙ্খলের সঙ্গে দেশের গুরুত্বপূর্ণ সংযোগ। তবে পণ্য ও বাজারের অতিরিক্ত কেন্দ্রীভবন বৈশ্বিক মন্দা, ক্রেতার অর্ডার পরিবর্তন, পরিবহন ব্যয়, শ্রমমান ও পরিবেশগত শর্তের পরিবর্তনে ঝুঁকি তৈরি করে।
 
-#### বাস্তব ছবি ২ — International trade ও supply chain
+##### বাস্তব ছবি ২ — International trade ও supply chain
 
 ![Intermodal shipping containers stacked at the Port of Chittagong, Bangladesh](../assets/photos/commons-f58184f6823b27b7.jpg)
 
@@ -132,17 +125,19 @@
 
 **করণীয়:** ওষুধ, চামড়া ও চামড়াজাত পণ্য, হালকা প্রকৌশল, কৃষি-প্রক্রিয়াজাত পণ্য, আইসিটি সেবা ও অন্যান্য সম্ভাবনাময় খাতে মান, উৎপাদনশীলতা ও বাজার-প্রবেশ সক্ষমতা বাড়ানো। কোনো খাতের সম্ভাবনা উল্লেখের সময় বর্তমান রপ্তানি-পরিসংখ্যান ব্যবহার করলে EPB/BBS-এর সর্বশেষ প্রকাশনা ও অর্থবছর উল্লেখ করতে হবে।
 
-#### বাস্তব ছবি ৩ — RMG ও বৈশ্বিক মূল্যশৃঙ্খল
+##### বাস্তব ছবি ৩ — RMG ও বৈশ্বিক মূল্যশৃঙ্খল
 
 ![Women working on a garment factory assembly line in Bangladesh](../assets/photos/commons-4a058b209c767203.jpg)
 
 *কীভাবে বুঝবে:* বাংলাদেশের তৈরি পোশাকশিল্প আন্তর্জাতিক ক্রেতা, কাঁচামাল, নকশা, মানদণ্ড, পরিবহন ও ভোক্তা-চাহিদার সঙ্গে যুক্ত। ছবিটি ২০১১ সালের কারখানার দৃশ্য; বর্তমান শ্রমপরিবেশ বা খাতের অবস্থা সম্পর্কে একে একক প্রমাণ হিসেবে ব্যবহার করা যাবে না। **ছবির কৃতিত্ব:** Tareq Salahuddin; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). [মূল ছবি](https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg).
 
-### ৩.২ প্রবাসী আয় ও শ্রম অভিবাসন
+<a id="৩২-প্রবাসী-আয়-ও-শ্রম-অভিবাসন"></a>
+<a id="২-প্রবাসী-আয়-ও-শ্রম-অভিবাসন"></a>
+#### প্রবাসী আয় ও শ্রম অভিবাসন
 
 রেমিট্যান্স পরিবারের ভোগ, শিক্ষা, স্বাস্থ্য, আবাসন, ক্ষুদ্র বিনিয়োগ ও বৈদেশিক মুদ্রার জোগানে সহায়তা করে। অভিবাসন শ্রমিকের আয় ও দক্ষতা অর্জনের সুযোগ সৃষ্টি করতে পারে। কিন্তু উচ্চ অভিবাসন ব্যয়, প্রতারণা, চুক্তি লঙ্ঘন, মজুরি আটকে রাখা, অনিরাপদ কর্মপরিবেশ এবং দক্ষতার স্বীকৃতির অভাব শ্রমিককে ঝুঁকিতে ফেলে।
 
-#### বাস্তব ছবি ৪ — Labour migration ও remittance
+##### বাস্তব ছবি ৪ — Labour migration ও remittance
 
 ![Bangladesh's expatriate workers' waiting room at Hazrat Shahjalal International Airport, Dhaka](../assets/photos/commons-c9f6afe9f3f6c9c2.jpg)
 
@@ -150,11 +145,13 @@
 
 **নীতি-অগ্রাধিকার:** নিয়োগ প্রক্রিয়ায় স্বচ্ছতা, দক্ষতা-সনদ, দ্বিপক্ষীয় শ্রমচুক্তি, দূতাবাসের সহায়তা, অভিযোগ নিষ্পত্তি, নিরাপদ অভিবাসন ও দেশে ফেরার পর পুনর্বাসন।
 
-### ৩.৩ বৈদেশিক প্রত্যক্ষ বিনিয়োগ (FDI)
+<a id="৩৩-বৈদেশিক-প্রত্যক্ষ-বিনিয়োগ-fdi"></a>
+<a id="৩-বৈদেশিক-প্রত্যক্ষ-বিনিয়োগ-fdi"></a>
+#### বৈদেশিক প্রত্যক্ষ বিনিয়োগ (FDI)
 
 FDI নতুন পুঁজি, প্রযুক্তি, ব্যবস্থাপনা, প্রশিক্ষণ, কর্মসংস্থান ও রপ্তানি-সংযোগ আনতে পারে। কিন্তু বিনিয়োগের পরিমাণই একমাত্র সাফল্যের মাপকাঠি নয়। বিনিয়োগ কতটা স্থানীয় সরবরাহকারীকে যুক্ত করে, দক্ষতা বাড়ায়, প্রযুক্তি ছড়ায়, ন্যায্য কর দেয় এবং পরিবেশ ও শ্রমমান মেনে চলে—এসবও গুরুত্বপূর্ণ।
 
-#### বাস্তব ছবি ৫ — Investment climate ও Economic Zones
+##### বাস্তব ছবি ৫ — Investment climate ও Economic Zones
 
 ![Bangladesh Economic Zones Authority governing board meeting in Dhaka, 3 August 2026](../assets/photos/commons-6dbc06ed2904f81c.jpg)
 
@@ -162,12 +159,18 @@ FDI নতুন পুঁজি, প্রযুক্তি, ব্যবস�
 
 **বাংলাদেশের করণীয়:** পূর্বানুমেয় নীতি, চুক্তি বাস্তবায়ন, দ্রুত ও স্বচ্ছ সেবা, নির্ভরযোগ্য বিদ্যুৎ-জ্বালানি, বন্দর ও লজিস্টিকস, দক্ষ কর্মী, বিরোধ নিষ্পত্তি এবং প্রতিযোগিতামূলক কিন্তু দায়িত্বশীল ব্যবসায়িক পরিবেশ।
 
-### ৩.৪ বৈশ্বিক ধাক্কা ও অর্থনৈতিক স্থিতিস্থাপকতা
+<a id="৩৪-বৈশ্বিক-ধাক্কা-ও-অর্থনৈতিক-স্থিতিস্থাপকতা"></a>
+<a id="৪-বৈশ্বিক-ধাক্কা-ও-অর্থনৈতিক-স্থিতিস্থাপকতা"></a>
+#### বৈশ্বিক ধাক্কা ও অর্থনৈতিক স্থিতিস্থাপকতা
 
 যুদ্ধ, মহামারি, আন্তর্জাতিক সুদের হার, জ্বালানি ও খাদ্যের দাম, সরবরাহ-শৃঙ্খলের ব্যাঘাত এবং বৈদেশিক মুদ্রার চাপ বাংলাদেশের আমদানি ব্যয়, মূল্যস্ফীতি, শিল্প উৎপাদন ও পরিবারের ক্রয়ক্ষমতায় প্রভাব ফেলতে পারে। তাই বৈশ্বিক সংযোগের পাশাপাশি **economic resilience** দরকার—রপ্তানি বৈচিত্র্য, বাজার বৈচিত্র্য, দক্ষ রিজার্ভ ব্যবস্থাপনা, উৎপাদনশীলতা, সামাজিক সুরক্ষা এবং জ্বালানি উৎসের বৈচিত্র্য।
 
+---
+
+<a id="core-04"></a>
 <a id="political"></a>
-## ৪. রাজনৈতিক ও প্রাতিষ্ঠানিক মাত্রা
+<a id="৪-রাজনৈতিক-ও-প্রাতিষ্ঠানিক-মাত্রা"></a>
+### রাজনৈতিক ও প্রাতিষ্ঠানিক মাত্রা
 
 বিশ্বায়ন রাষ্ট্রের নীতিনির্ধারণকে আন্তর্জাতিক চুক্তি, বৈশ্বিক বাজার, উন্নয়ন-অর্থায়ন, জলবায়ু আলোচনা, মানবাধিকার মানদণ্ড ও বহুপাক্ষিক প্রতিষ্ঠানের সঙ্গে যুক্ত করে। এতে সহযোগিতা ও সমন্বয়ের সুযোগ বাড়ে, আবার নীতির বিকল্প ও দর-কষাকষির পরিসরেও সীমাবদ্ধতা আসতে পারে। রাষ্ট্রের দায়িত্ব হলো আন্তর্জাতিক অঙ্গীকার ও জাতীয় স্বার্থের মধ্যে প্রমাণভিত্তিক ভারসাম্য তৈরি করা।
 
@@ -180,8 +183,12 @@ FDI নতুন পুঁজি, প্রযুক্তি, ব্যবস�
 
 বিশ্বায়নকে “রাষ্ট্রের অবসান” বলা যথাযথ নয়। কার্যকর রাষ্ট্রই শিক্ষা, শ্রম আইন, প্রতিযোগিতা, করনীতি, পরিবেশ সুরক্ষা ও সামাজিক সুরক্ষার মাধ্যমে বিশ্বায়নের সুফলকে বিস্তৃত করতে পারে।
 
+---
+
+<a id="core-05"></a>
 <a id="institutions"></a>
-## ৫. WTO, World Bank, IMF, ADB, IsDB ও উন্নয়ন-অংশীদার
+<a id="৫-wto-world-bank-imf-adb-isdb-ও-উন্নয়ন-অংশীদার"></a>
+### WTO, World Bank, IMF, ADB, IsDB ও উন্নয়ন-অংশীদার
 
 | প্রতিষ্ঠান | প্রধান ভূমিকা | বাংলাদেশের সঙ্গে প্রাসঙ্গিকতা | উত্তরে সতর্কতা |
 |---|---|---|---|
@@ -192,24 +199,28 @@ FDI নতুন পুঁজি, প্রযুক্তি, ব্যবস�
 | Islamic Development Bank (IsDB) | সদস্যদেশে উন্নয়ন সহযোগিতা ও অর্থায়ন | অবকাঠামো, সামাজিক উন্নয়ন ও সক্ষমতা | প্রকল্প ও অর্থায়ন-উপকরণের ধরন নির্দিষ্ট করে লিখুন |
 | UN agencies / bilateral partners | উন্নয়ন, মানবিক সহায়তা, প্রযুক্তি ও নীতি-সহযোগিতা | SDGs, স্বাস্থ্য, শিক্ষা, জলবায়ু, শাসন ও মানবিক সহায়তা | “উন্নয়ন-অংশীদার” একক বা অভিন্ন স্বার্থের গোষ্ঠী নয় |
 
-#### বাস্তব ছবি ৬ — WTO ও rules-based trade
+##### বাস্তব ছবি ৬ — WTO ও rules-based trade
 
 ![Centre William-Rappard, headquarters of the World Trade Organization in Geneva](../assets/photos/commons-1500281c8338ae65.jpg)
 
 *কীভাবে বুঝবে:* WTO সদস্যদের মধ্যে বাণিজ্য-নিয়ম, আলোচনা ও বিরোধ নিষ্পত্তির বহুপাক্ষিক কাঠামো দেয়। ভবনের ছবি প্রতিষ্ঠানের অবস্থান বোঝায়; এর কার্যক্রম বা বাংলাদেশের নির্দিষ্ট বাণিজ্য-সুবিধার প্রমাণ নয়। **ছবির কৃতিত্ব:** Jérémy Toma; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি](https://commons.wikimedia.org/wiki/File:Centre_William-Rappard_1.jpg).
 
-#### বাস্তব ছবি ৭ — World Bank ও development finance
+##### বাস্তব ছবি ৭ — World Bank ও development finance
 
 ![World Bank Headquarters in Washington, D.C.](../assets/photos/commons-8e2b48fbd33b1ad8.jpg)
 
 *কীভাবে বুঝবে:* World Bank Group উন্নয়ন অর্থায়ন, জ্ঞান ও নীতি-সহায়তা দেয়; এর ভূমিকা WTO-র বাণিজ্য-নিয়মের ভূমিকা থেকে আলাদা। ছবিটি সদরদপ্তরের, কোনো নির্দিষ্ট ঋণ বা প্রকল্পের ফলাফলের প্রমাণ নয়। **ছবির কৃতিত্ব:** Shanice Gounden; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি](https://commons.wikimedia.org/wiki/File:World_Bank_Headquarters.jpg).
 
-### কীভাবে ভারসাম্যপূর্ণ মূল্যায়ন লিখবেন
+#### কীভাবে ভারসাম্যপূর্ণ মূল্যায়ন লিখবেন
 
 আন্তর্জাতিক প্রতিষ্ঠান অর্থ, দক্ষতা, প্রযুক্তি ও সমন্বয় দিতে পারে; একই সঙ্গে ঋণ পরিশোধ, প্রকল্প নির্বাচন, শর্ত, নীতিগত স্বাধীনতা ও সামাজিক প্রভাবের প্রশ্নও থাকে। তাই কোনো প্রতিষ্ঠানের ভূমিকা মূল্যায়নে চারটি প্রশ্ন করুন: **(১) অর্থায়ন/সহায়তার উদ্দেশ্য কী? (২) শর্ত ও আর্থিক দায় কী? (৩) কারা সুবিধা পাচ্ছে এবং কারা ব্যয় বহন করছে? (৪) ফলাফল কীভাবে মাপা হচ্ছে?** প্রতিষ্ঠানের নামকে নিজে থেকেই ইতিবাচক বা নেতিবাচক ধরে নেওয়া উচিত নয়।
 
+---
+
+<a id="core-06"></a>
 <a id="mncs"></a>
-## ৬. বহুজাতিক কোম্পানি (MNCs): সুযোগ, ঝুঁকি ও নিয়ন্ত্রণ
+<a id="৬-বহুজাতিক-কোম্পানি-mncs-সুযোগ-ঝুঁকি-ও-নিয়ন্ত্রণ"></a>
+### বহুজাতিক কোম্পানি (MNCs): সুযোগ, ঝুঁকি ও নিয়ন্ত্রণ
 
 Multinational corporations (MNCs) একাধিক দেশে উৎপাদন, সেবা, বিনিয়োগ বা ব্যবসা পরিচালনা করে। তারা পুঁজি, প্রযুক্তি, বাজার, কর্মসংস্থান ও আন্তর্জাতিক সরবরাহ-শৃঙ্খলের সঙ্গে সংযোগ তৈরি করতে পারে। কিন্তু দুর্বল নিয়ন্ত্রণ থাকলে কর ফাঁকি বা মুনাফা স্থানান্তর, বাজারে আধিপত্য, স্থানীয় প্রতিষ্ঠানের ওপর চাপ, শ্রম অধিকার লঙ্ঘন, পরিবেশগত ক্ষতি এবং নীতিনির্ধারণে অসম প্রভাবের ঝুঁকি থাকে।
 
@@ -223,50 +234,72 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 
 মূল্যায়নের মানদণ্ড শুধু “কত বিনিয়োগ এসেছে” নয়; বরং **quality of investment**—উৎপাদনশীলতা, decent work, স্থানীয় সংযোগ, রাজস্ব, প্রযুক্তি ও পরিবেশগত ফল।
 
-<a id="challenges"></a>
-## ৭. বাংলাদেশের প্রধান চ্যালেঞ্জ
+---
 
-### ৭.১ রপ্তানি ও বাজারের কেন্দ্রীভবন
+<a id="core-07"></a>
+<a id="challenges"></a>
+<a id="৭-বাংলাদেশের-প্রধান-চ্যালেঞ্জ"></a>
+### বাংলাদেশের প্রধান চ্যালেঞ্জ
+
+<a id="৭১-রপ্তানি-ও-বাজারের-কেন্দ্রীভবন"></a>
+<a id="১-রপ্তানি-ও-বাজারের-কেন্দ্রীভবন"></a>
+#### রপ্তানি ও বাজারের কেন্দ্রীভবন
 একটি বড় রপ্তানি খাতের ওপর অতিনির্ভরতা বিশ্ববাজারের চাহিদা ও মানদণ্ডের পরিবর্তনে ঝুঁকি বাড়ায়। সমাধান হলো নতুন পণ্য, নতুন বাজার, উচ্চতর মূল্য সংযোজন ও দেশীয় শিল্পের সক্ষমতা বৃদ্ধি।
 
-### ৭.২ দক্ষতা ও প্রযুক্তির ব্যবধান
+<a id="৭২-দক্ষতা-ও-প্রযুক্তির-ব্যবধান"></a>
+<a id="২-দক্ষতা-ও-প্রযুক্তির-ব্যবধান"></a>
+#### দক্ষতা ও প্রযুক্তির ব্যবধান
 বিশ্ববাজারে প্রতিযোগিতার জন্য কারিগরি দক্ষতা, গবেষণা, ডিজিটাল দক্ষতা, ব্যবস্থাপনা ও উদ্ভাবন দরকার। শিক্ষা ও শিল্পের সংযোগ এবং কর্মরত মানুষের পুনঃদক্ষতা উন্নয়ন জরুরি।
 
-### ৭.৩ শ্রম অধিকার ও কর্মপরিবেশ
+<a id="৭৩-শ্রম-অধিকার-ও-কর্মপরিবেশ"></a>
+<a id="৩-শ্রম-অধিকার-ও-কর্মপরিবেশ"></a>
+#### শ্রম অধিকার ও কর্মপরিবেশ
 আন্তর্জাতিক সরবরাহ-শৃঙ্খলে সস্তা শ্রমের ওপর প্রতিযোগিতা দীর্ঘমেয়াদে টেকসই নয়। নিরাপদ কর্মক্ষেত্র, ন্যায্য মজুরি, শ্রমিকের কণ্ঠ, সামাজিক সংলাপ এবং আইনের বাস্তবায়ন উৎপাদনশীলতা ও সুনাম—দুইয়ের জন্য প্রয়োজন।
 
-#### বাস্তব ছবি ৮ — Global supply chain ও শ্রমিক
+##### বাস্তব ছবি ৮ — Global supply chain ও শ্রমিক
 
 ![Garment workers in Bangladesh leaving a factory during a break](../assets/photos/commons-d67a9ae3c4f544b5.jpg)
 
 *কীভাবে বুঝবে:* রপ্তানি-সাফল্যকে শুধু অর্ডার ও বৈদেশিক মুদ্রা দিয়ে নয়, শ্রমিকের নিরাপত্তা, ন্যায্য মজুরি, সংগঠিত হওয়ার অধিকার ও decent work দিয়েও মূল্যায়ন করতে হয়। ছবিটি কারখানা থেকে বিরতির সময়ে বের হওয়া শ্রমিকদের দেখায়; একা এটি কর্মপরিবেশের মান প্রমাণ করে না। **ছবির কৃতিত্ব:** Nahid Sultan; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি](https://commons.wikimedia.org/wiki/File:Garment_workers_in_Bangladesh_exiting_a_factory_during_break.jpg).
 
-### ৭.৪ অসমতা ও আঞ্চলিক বৈষম্য
+<a id="৭৪-অসমতা-ও-আঞ্চলিক-বৈষম্য"></a>
+<a id="৪-অসমতা-ও-আঞ্চলিক-বৈষম্য"></a>
+#### অসমতা ও আঞ্চলিক বৈষম্য
 বৈশ্বিক বাজারের সুবিধা দক্ষ শ্রমিক, নগরকেন্দ্রিক প্রতিষ্ঠান ও পুঁজি-সক্ষম গোষ্ঠীর কাছে বেশি যেতে পারে। শিক্ষা, ডিজিটাল অবকাঠামো, নারী ও প্রান্তিক জনগোষ্ঠীর অংশগ্রহণ এবং কার্যকর সামাজিক সুরক্ষা ছাড়া অন্তর্ভুক্তিমূলক সুফল নিশ্চিত হয় না।
 
-### ৭.৫ বৈশ্বিক অর্থনৈতিক ও আর্থিক অস্থিরতা
+<a id="৭৫-বৈশ্বিক-অর্থনৈতিক-ও-আর্থিক-অস্থিরতা"></a>
+<a id="৫-বৈশ্বিক-অর্থনৈতিক-ও-আর্থিক-অস্থিরতা"></a>
+#### বৈশ্বিক অর্থনৈতিক ও আর্থিক অস্থিরতা
 পণ্যদাম, বিনিময় হার, আন্তর্জাতিক সুদ, সংঘাত ও সরবরাহ-ব্যাঘাত আমদানি ব্যয় ও মূল্যস্ফীতি বাড়াতে পারে। ঝুঁকি মূল্যায়ন, বৈদেশিক খাতের ব্যবস্থাপনা এবং পণ্য-উৎস বৈচিত্র্য প্রয়োজন।
 
-### ৭.৬ পরিবেশ ও জলবায়ু
+<a id="৭৬-পরিবেশ-ও-জলবায়ু"></a>
+<a id="৬-পরিবেশ-ও-জলবায়ু"></a>
+#### পরিবেশ ও জলবায়ু
 রপ্তানি উৎপাদন ও বৈশ্বিক পরিবহন পরিবেশগত চাপ সৃষ্টি করতে পারে; অন্যদিকে জলবায়ু পরিবর্তন বাংলাদেশের শ্রম, কৃষি, অবকাঠামো ও অভিবাসনে প্রভাব ফেলে। পরিচ্ছন্ন উৎপাদন, শক্তি দক্ষতা, বর্জ্য ব্যবস্থাপনা, জলবায়ু-সহনশীল অবকাঠামো ও ন্যায্য রূপান্তর (just transition) গুরুত্বপূর্ণ।
 
-#### বাস্তব ছবি ৯ — Environmental vulnerability ও river erosion
+##### বাস্তব ছবি ৯ — Environmental vulnerability ও river erosion
 
 ![River erosion in Bangladesh](../assets/photos/commons-35120cd8e02bcec7.jpg)
 
 *কীভাবে বুঝবে:* নদীভাঙন ও পরিবেশগত ঝুঁকি মানুষের জীবিকা, সম্পদ, অবকাঠামো ও অভিবাসনের ওপর চাপ সৃষ্টি করতে পারে। নদীভাঙনকে শুধু জলবায়ু পরিবর্তনের ফল বলা ঠিক নয়—নদীর স্বাভাবিক গতিপ্রকৃতি, পলি ও মানবিক হস্তক্ষেপসহ একাধিক কারণ কাজ করে। **ছবির কৃতিত্ব:** Helena Wright; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). [মূল ছবি](https://commons.wikimedia.org/wiki/File:River_erosion_in_Bangladesh_(15255986711).jpg).
 
-### ৭.৭ LDC graduation ও বাণিজ্য-প্রস্তুতি
+<a id="৭৭-ldc-graduation-ও-বাণিজ্য-প্রস্তুতি"></a>
+<a id="৭-ldc-graduation-ও-বাণিজ্য-প্রস্তুতি"></a>
+#### LDC graduation ও বাণিজ্য-প্রস্তুতি
 স্বল্পোন্নত দেশ (LDC) থেকে উত্তরণের পর কিছু আন্তর্জাতিক বাণিজ্য সুবিধা সময়ের সঙ্গে পরিবর্তিত হতে পারে—কোন সুবিধা কখন বদলাবে তা সংশ্লিষ্ট চুক্তি, বাজার ও transition arrangement-এর ওপর নির্ভর করে। তাই উত্তরে নির্দিষ্ট সুবিধা বা মেয়াদ লেখার আগে WTO, UN DESA, UNCTAD এবং সংশ্লিষ্ট বাজারের সর্বশেষ সরকারি তথ্য যাচাই করতে হবে। **নীতিগত প্রস্তুতি:** উৎপাদনশীলতা, পণ্যের বৈচিত্র্য, মান-সম্মতি, বাণিজ্য কূটনীতি, মেধাস্বত্ব, শ্রম ও পরিবেশমান এবং বেসরকারি খাতের সক্ষমতা।
 
-#### বাস্তব ছবি ১০ — Export diversification ও value addition
+##### বাস্তব ছবি ১০ — Export diversification ও value addition
 
 ![Jute Fiber BD manufacturing plant in Savar, Bangladesh, 20 July 2026](../assets/photos/commons-69c8cff0d6800941.jpg)
 
 *কীভাবে বুঝবে:* পাট ও পাটজাত পণ্যের মতো খাতে value addition, quality, branding ও বাজার-প্রবেশ বাড়ানো রপ্তানি বৈচিত্র্যের একটি সম্ভাব্য পথ। ছবিটি ২০২৬ সালের একটি উৎপাদন-কারখানা পরিদর্শনের দৃশ্য; রপ্তানি-পরিমাণ বা বাজার-চাহিদার পরিসংখ্যান নয়। **ছবির উৎস:** Bangladesh Press Information Department (PID); বাংলাদেশে public domain. [মূল ছবি ও অধিকার](https://commons.wikimedia.org/wiki/File:State_Minister_for_Textiles_and_Jute_Md._Shariful_Alam_visiting_Jute_Fiber_BD_manufacturing_plant_in_Savar,_2026-07-20.jpg).
 
+---
+
+<a id="core-08"></a>
 <a id="policy"></a>
-## ৮. বাংলাদেশের করণীয়: নীতিপ্রস্তাব
+<a id="৮-বাংলাদেশের-করণীয়-নীতিপ্রস্তাব"></a>
+### বাংলাদেশের করণীয়: নীতিপ্রস্তাব
 
 বিশ্বায়নের সুফল বিস্তৃত করতে নীতিকে কয়েকটি পরস্পর-সম্পর্কিত স্তরে সাজানো যায়।
 
@@ -283,8 +316,46 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 
 **সারকথা:** দরজা বন্ধ করা নয়, আবার অন্ধভাবে উন্মুক্ত হওয়াও নয়—বাংলাদেশের প্রয়োজন সক্ষমতা-নির্ভর, ন্যায়সংগত, পরিবেশসম্মত ও ঝুঁকি-সচেতন বৈশ্বিক সংযোগ।
 
+[বিষয়সূচিতে ফিরুন](#top)
+
+<a id="core-analysis"></a>
+### বিশ্বায়নের প্রতিষ্ঠান ও নীতিগত পছন্দ আলাদা করে পড়ুন
+
+#### বাণিজ্য, অর্থায়ন ও উন্নয়ন সহযোগিতা এক নয়
+
+সরকারি সিলেবাসে WTO, World Bank, IMF, ADB, IDB এবং MNCs সরাসরি আছে। “সব প্রতিষ্ঠান ঋণ দেয়” ধরনের বাক্য দিয়ে তাদের ভূমিকা ব্যাখ্যা করা যায় না। সিলেবাসের IDB-কে ইসলামী উন্নয়ন ব্যাংকের প্রসঙ্গে পড়ুন; পরিচিতি স্পষ্ট করতে বর্তমান IsDB সংক্ষিপ্ত রূপও উল্লেখ করুন। [BPSC, বিষয় ১৪, পৃষ্ঠা ৬](../SYLLABUS-COVERAGE.md#official-scope)।
+
+| প্রতিষ্ঠান বা অংশীজন | পড়ার প্রধান বিষয় | বাংলাদেশের জন্য মূল্যায়নের প্রশ্ন |
+|---|---|---|
+| WTO | আন্তর্জাতিক বাণিজ্যের নিয়ম ও সদস্যদের অঙ্গীকার | বাজারপ্রবেশ, মান, নিয়ম প্রতিপালন ও বিরোধে সক্ষমতা |
+| IMF | আন্তর্জাতিক মুদ্রা ও সামষ্টিক অর্থনৈতিক স্থিতির সহযোগিতা | বহিঃখাত, সমন্বয়ের শর্ত ও সামাজিক ব্যয়ের প্রভাব |
+| World Bank | উন্নয়ন অর্থায়ন, প্রতিষ্ঠান ও জ্ঞানসহায়তা | প্রকল্পের ফল, অর্থায়নের শর্ত ও স্থায়িত্ব |
+| ADB | আঞ্চলিক উন্নয়ন সহযোগিতা ও অর্থায়ন | অবকাঠামো, সংযোগ, পরিবেশ ও বাস্তবায়ন সক্ষমতা |
+| IsDB | ইসলামী উন্নয়ন অর্থায়ন ও সহযোগিতা | অর্থায়ন-পদ্ধতি, প্রকল্প ও সদস্যদেশের সহযোগিতা |
+| MNCs | একাধিক দেশে কার্যক্রম পরিচালনাকারী বাণিজ্যিক প্রতিষ্ঠান | বিনিয়োগ, প্রযুক্তি, শ্রম, কর ও স্থানীয় সংযোগ |
+
+প্রতিষ্ঠানগুলোর ভূমিকার প্রাথমিক পাঠ: [WTO, Marrakesh Agreement, Article III](https://www.wto.org/english/docs_e/legal_e/04-wto_e.htm); [IMF, Articles of Agreement, Article I](https://www.imf.org/external/pubs/ft/aa/); [IBRD, Articles of Agreement](https://www.worldbank.org/en/about/articles-of-agreement/ibrd-articles-of-agreement)। **এই দফায় সংশ্লিষ্ট মূল নথিগুলো স্বাধীনভাবে পড়া যায়নি; উপরোক্ত ভূমিকা-সারাংশের নতুন মূল-উৎস যাচাই বাকি।** প্রকল্প, কর্মসূচি বা ঋণের বর্তমান শর্ত লিখতে নির্দিষ্ট চুক্তি ও নথি প্রয়োজন।
+
+#### সুযোগ ও ঝুঁকির সংযোগ
+
+**বিশ্লেষণী প্রয়োগ:** রপ্তানি বাড়লে আয় ও কাজের সুযোগ সৃষ্টি হতে পারে; তবে পণ্য বা বাজার অল্প কয়েকটির ওপর নির্ভর করলে বাইরের ধাক্কার ঝুঁকি বাড়তে পারে। বিদেশি বিনিয়োগের পরিমাণের সঙ্গে প্রযুক্তি হস্তান্তর, স্থানীয় সরবরাহকারী, শ্রমপরিবেশ ও পরিবেশগত ব্যয়ও মূল্যায়ন করুন। এগুলো শর্তযুক্ত বিশ্লেষণ, বাংলাদেশের জন্য পরিমাপকৃত প্রভাবের দাবি নয়।
+
+একটি নীতিগত উত্তরে **উন্মুক্ততা → সম্ভাব্য সুফল → বণ্টন ও ঝুঁকি → দেশীয় সক্ষমতা → শর্তযুক্ত সুপারিশ** ক্রম অনুসরণ করুন। মুনাফা, রপ্তানি, FDI প্রবাহ ও মজুতের সংখ্যা একসঙ্গে যোগ করবেন না; একই সময়কাল ও এককের তথ্য তুলনা করুন।
+
+
+[বিষয়সূচিতে ফিরুন](#top)
+
+---
+
+<a id="written-practice"></a>
+## অংশ খ — লিখিত অনুশীলন
+
+**অনুশীলনের নিয়ম:** প্রথমে প্রশ্নের নির্দেশক শব্দ ও চাওয়া বিষয় নির্ধারণ করুন। এখানে দেওয়া নমুনা, সময় বা শব্দসংখ্যার পরামর্শ সম্পাদকীয় অনুশীলন; প্রশ্নপত্রের নির্দিষ্ট নির্দেশই প্রাধান্য পাবে। মূল BPSC প্রশ্নপত্রের পাঠ যাচাই ছাড়া archive-reported প্রশ্নকে যাচাইকৃত বিগত প্রশ্ন বলবেন না।
+
+<a id="practice-01"></a>
 <a id="answer"></a>
-## ৯. BCS Written-এ উত্তর লেখার কৌশল
+<a id="৯-bcs-written-এ-উত্তর-লেখার-কৌশল"></a>
+### BCS Written-এ উত্তর লেখার কৌশল
 
 ২০ নম্বরের বিশ্লেষণধর্মী উত্তরে এই বিন্যাস ব্যবহার করুন:
 
@@ -295,18 +366,22 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 5. **নীতি-প্রস্তাব:** ৪–৬টি বাস্তবসম্মত পদক্ষেপ।
 6. **উপসংহার:** inclusive, resilient and sustainable globalization-এর দিকে এগোনোর যুক্তি।
 
-### উত্তরকে শক্তিশালী করার সূত্র: D–E–A–P
+#### উত্তরকে শক্তিশালী করার সূত্র: D–E–A–P
 - **D — Define:** ধারণাটি সংজ্ঞায়িত করুন।
 - **E — Explain:** কারণ ও প্রক্রিয়া ব্যাখ্যা করুন।
 - **A — Apply:** বাংলাদেশি উদাহরণ/প্রতিষ্ঠান যুক্ত করুন।
 - **P — Propose:** বাস্তবায়নযোগ্য নীতিপ্রস্তাব দিন।
 
+---
+
+<a id="practice-02"></a>
 <a id="pyq"></a>
-## ১০. Previous-question theme analysis ও সম্ভাব্য প্রশ্ন
+<a id="১০-previous-question-theme-analysis-ও-সম্ভাব্য-প্রশ্ন"></a>
+### Previous-question theme analysis ও সম্ভাব্য প্রশ্ন
 
 **প্রশ্নপত্র-সতর্কতা:** এই পৃষ্ঠায় BPSC-এর মূল প্রশ্নপত্রের স্ক্যান বা যাচাইযোগ্য প্রশ্ন-নম্বর সংযুক্ত না থাকায় নিচের বিষয়গুলোকে হুবহু বিগত প্রশ্ন হিসেবে দাবি করা হচ্ছে না। এগুলো সরকারি সিলেবাসের “Globalization and Bangladesh: Economic and Political Dimensions; WTO, World Bank, IMF, ADB, IDB, development partners and MNCs” অংশ থেকে তৈরি **high-priority syllabus-based question themes**। কোনো প্রশ্নকে verified PYQ হিসেবে চিহ্নিত করতে মূল প্রশ্নপত্রের বছর ও পৃষ্ঠা মিলিয়ে নিতে হবে।
 
-### উচ্চ অগ্রাধিকারের প্রশ্ন-থিম
+#### উচ্চ অগ্রাধিকারের প্রশ্ন-থিম
 
 | অগ্রাধিকার | থিম | কেন প্রস্তুত করবেন |
 |---|---|---|
@@ -320,7 +395,7 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 | Medium–High | FDI, প্রযুক্তি স্থানান্তর ও স্থানীয় শিল্প | সুযোগ ও ঝুঁকি উভয় বিশ্লেষণ |
 | Medium–High | বিশ্বায়ন ও সাংস্কৃতিক/ডিজিটাল পরিবর্তন | বিস্তৃত সংজ্ঞা ও আন্তঃবিষয়ক প্রশ্নের প্রস্তুতি |
 
-### সম্ভাব্য English questions
+#### সম্ভাব্য English questions
 
 1. **Discuss the economic and political dimensions of globalization with special reference to Bangladesh.**
 2. **Evaluate the opportunities and challenges of globalization for Bangladesh.**
@@ -331,15 +406,19 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 7. **“Globalization creates opportunities, but its gains are not automatic or equally distributed.” Analyse the statement in the context of Bangladesh.**
 8. **Suggest policy measures to make globalization inclusive, resilient and environmentally sustainable in Bangladesh.**
 
-<a id="model"></a>
-## ১১. ৫/১০/২০ নম্বরের মডেল উত্তর
+---
 
-### Model Answer 1 — ৫ নম্বর
+<a id="practice-03"></a>
+<a id="model"></a>
+<a id="১১-৫১০২০-নম্বরের-মডেল-উত্তর"></a>
+### ৫/১০/২০ নম্বরের মডেল উত্তর
+
+#### Model Answer 1 — ৫ নম্বর
 **Question: Define globalization and mention its major implications for Bangladesh.**
 
 বিশ্বায়ন হলো বাণিজ্য, পুঁজি, প্রযুক্তি, তথ্য, শ্রম ও ধারণার আন্তঃদেশীয় প্রবাহ বৃদ্ধির প্রক্রিয়া। বাংলাদেশের জন্য এর প্রধান সুযোগ হলো আন্তর্জাতিক বাজারে প্রবেশ, তৈরি পোশাক রপ্তানি, প্রবাসী আয়, বৈদেশিক বিনিয়োগ, প্রযুক্তি ও জ্ঞান অর্জন। একই সঙ্গে বৈশ্বিক মন্দা, পণ্যমূল্যের অস্থিরতা, রপ্তানির কেন্দ্রীভবন, শ্রম অধিকার ও পরিবেশগত মান রক্ষার চাপ তৈরি হয়। বিশ্বায়নের সুফল নিশ্চিত করতে রপ্তানি বৈচিত্র্য, দক্ষতা উন্নয়ন, দায়িত্বশীল বিনিয়োগ, শ্রম সুরক্ষা ও শক্তিশালী প্রতিষ্ঠান প্রয়োজন। তাই বাংলাদেশের লক্ষ্য হওয়া উচিত অন্তর্ভুক্তিমূলক ও টেকসই বৈশ্বিক সংযোগ।
 
-### Model Answer 2 — ১০ নম্বর
+#### Model Answer 2 — ১০ নম্বর
 **Question: Evaluate the opportunities and challenges of globalization for Bangladesh.**
 
 বিশ্বায়ন বাংলাদেশের অর্থনীতি ও সমাজকে আন্তর্জাতিক বাজার, শ্রম, প্রযুক্তি ও উন্নয়ন-প্রতিষ্ঠানের সঙ্গে যুক্ত করেছে। এর ইতিবাচক দিক হলো তৈরি পোশাকের রপ্তানি, প্রবাসী আয়, বিদেশি বিনিয়োগ, প্রযুক্তিগত জ্ঞান, দক্ষতা ও নতুন বাজারের সুযোগ। আন্তর্জাতিক সহযোগিতা অবকাঠামো, স্বাস্থ্য, শিক্ষা ও জলবায়ু-সহনশীল উন্নয়নেও সহায়তা করতে পারে।
@@ -350,7 +429,7 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 
 অতএব, বিশ্বায়নকে শুধু সুযোগ বা হুমকি হিসেবে না দেখে দেশীয় সক্ষমতা ও ন্যায়সংগত নীতির মাধ্যমে এর সুফল বিস্তৃত করতে হবে।
 
-### Model Answer 3 — ২০ নম্বর
+#### Model Answer 3 — ২০ নম্বর
 **Question: Discuss the economic and political dimensions of globalization with special reference to Bangladesh.**
 
 **ভূমিকা:** বিশ্বায়ন হলো অর্থনীতি, রাজনীতি, প্রযুক্তি, শ্রম ও ধারণার সীমান্ত-অতিক্রমী সংযোগের গভীরতর প্রক্রিয়া। বাংলাদেশের উন্নয়নযাত্রায় এটি রপ্তানি, অভিবাসন, বিনিয়োগ, উন্নয়ন সহযোগিতা ও আন্তর্জাতিক নীতিনির্ধারণকে একে অপরের সঙ্গে যুক্ত করেছে।
@@ -365,10 +444,14 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 
 **উপসংহার:** বিশ্বায়নের সুফল পেতে বাংলাদেশের বিচ্ছিন্নতা নয়, সক্ষমতাভিত্তিক সম্পৃক্ততা প্রয়োজন। দক্ষ মানবসম্পদ, জবাবদিহিমূলক প্রতিষ্ঠান, ন্যায়সংগত শ্রমনীতি ও টেকসই উৎপাদনের সমন্বয় ঘটাতে পারলে বিশ্বায়ন দীর্ঘমেয়াদি ও অন্তর্ভুক্তিমূলক উন্নয়নের চালিকাশক্তি হতে পারে।
 
-<a id="practice"></a>
-## ১২. ৩৩টি অনুশীলনী প্রশ্ন
+---
 
-### A. সংজ্ঞা ও সংক্ষিপ্ত উত্তর
+<a id="practice-04"></a>
+<a id="practice"></a>
+<a id="১২-৩৩টি-অনুশীলনী-প্রশ্ন"></a>
+### ৩৩টি অনুশীলনী প্রশ্ন
+
+#### A. সংজ্ঞা ও সংক্ষিপ্ত উত্তর
 1. Define globalization.
 2. Distinguish globalization from liberalization.
 3. What is a global value chain?
@@ -380,7 +463,7 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 9. What is a multinational corporation?
 10. Explain the meaning of export diversification.
 
-### B. বিশ্লেষণধর্মী প্রশ্ন
+#### B. বিশ্লেষণধর্মী প্রশ্ন
 11. Discuss the economic dimensions of globalization in Bangladesh.
 12. Explain the political and institutional dimensions of globalization.
 13. Evaluate the role of RMG in Bangladesh’s global integration.
@@ -394,7 +477,7 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 21. How should Bangladesh prepare for changing trade preferences after LDC graduation?
 22. Explain the importance of skills and innovation for global competitiveness.
 
-### C. ২০ নম্বরের প্রবন্ধ/মূল্যায়ন
+#### C. ২০ নম্বরের প্রবন্ধ/মূল্যায়ন
 23. “Globalization is an opportunity as well as a challenge for Bangladesh.” Discuss.
 24. Evaluate the contribution of international financial institutions to Bangladesh’s development.
 25. Suggest a comprehensive strategy for export diversification.
@@ -407,10 +490,77 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 32. Discuss the links between globalization, climate action and green industrialization.
 33. Design a policy framework for inclusive, resilient and sustainable globalization in Bangladesh.
 
-<a id="revision"></a>
-## ১৩. এক পৃষ্ঠার পুনরালোচনা
+**সহায়ক অনুশীলন:** [উত্তরসহ অনুশীলন](./BCS-WRITTEN-QUESTION-BANK.md) · [প্রশ্নের উৎস-নিরীক্ষা](./PYQ-35-47-MAP.md) · [মডেল প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [উদ্ধৃতি ও ভাবার্থ](./QUOTATIONS.md)
 
-### ৬টি মনে রাখার সূত্র
+[বিষয়সূচিতে ফিরুন](#top)
+
+---
+
+<a id="revision-atlas"></a>
+## অংশ গ — পুনরালোচনা ও চিত্র
+
+<a id="revision-01"></a>
+<a id="visual-atlas"></a>
+
+### Visual Atlas — 7 topic-specific diagrams + 10 internet photos + official data maps
+
+**How to use:** diagrams are conceptual study aids, not official statistical charts. For numbers in exam answers, cite the relevant fiscal/calendar year and use the official source listed below. The seven SVG diagrams directly match the chapter’s question bank. Ten real photographs are embedded alongside the relevant topic sections below; their original source and licence are listed in the visual-source register.
+
+<a id="1-globalizations-six-dimensions"></a>
+#### Globalization’s six dimensions
+![Globalization dimensions map](./assets/globalization-dimensions.svg)
+[Open SVG](./assets/globalization-dimensions.svg) · Use for definitions and short notes.
+
+<a id="2-bangladesh-in-the-global-economy"></a>
+#### Bangladesh in the global economy
+![Bangladesh global links diagram](./assets/bangladesh-global-links.svg)
+[Open SVG](./assets/bangladesh-global-links.svg) · Connect RMG, remittances, FDI, institutions and climate diplomacy.
+
+<a id="3-inclusive-globalization"></a>
+#### Inclusive globalization
+![Inclusive globalization pathway](./assets/inclusive-globalization.svg)
+[Open SVG](./assets/inclusive-globalization.svg) · Use for inequality, decent work and inclusive development.
+
+<a id="4-global-shock-and-policy-response"></a>
+#### Global shock and policy response
+![Global shock response framework](./assets/global-shock-response.svg)
+[Open SVG](./assets/global-shock-response.svg) · Use for energy prices, inflation, export shocks and resilience.
+
+<a id="5-export-diversification-strategy"></a>
+#### Export diversification strategy
+![Export diversification framework](./assets/trade-diversification.svg)
+[Open SVG](./assets/trade-diversification.svg) · Use for export concentration, value addition and LDC transition.
+
+<a id="6-global-institutions-and-their-mandates"></a>
+#### Global institutions and their mandates
+![Global institutions comparison](./assets/development-institutions.svg)
+[Open SVG](./assets/development-institutions.svg) · Distinguish WTO, IMF, World Bank, ADB and IsDB.
+
+<a id="7-ldc-graduation-readiness-pathway"></a>
+#### LDC graduation readiness pathway
+![LDC graduation readiness](./assets/ldc-transition.svg)
+[Open SVG](./assets/ldc-transition.svg) · Verify all current transition dates and trade preferences from official sources.
+
+#### Official maps, charts and current data portals
+
+- **Export composition, destination and trade statistics:** [Export Promotion Bureau](https://epb.gov.bd/) and [WTO Statistics](https://stats.wto.org/). Always specify the reporting period; do not treat an illustrative diagram above as a statistical graph.
+- **Remittances, balance of payments and external sector:** [Bangladesh Bank](https://www.bb.org.bd/).
+- **GDP, labour and social indicators:** [Bangladesh Bureau of Statistics](https://bbs.gov.bd/).
+- **Global development and Bangladesh country data:** [World Bank Bangladesh overview](https://www.worldbank.org/en/country/bangladesh/overview) and [World Bank Data](https://data.worldbank.org/country/bangladesh).
+- **Human development:** [UNDP Human Development Reports](https://hdr.undp.org/).
+- **Decent work and labour standards:** [ILO](https://www.ilo.org/).
+- **LDC graduation status and transition context:** [United Nations LDC portal](https://www.un.org/ldcportal/).
+
+**Map accuracy note:** This chapter is about economic and institutional globalization, not physical geography. Use the official statistical portals for country, trade and development charts; a generic map image should not be presented as evidence of trade values or current tariff treatment.
+
+---
+
+<a id="revision-02"></a>
+<a id="revision"></a>
+<a id="১৩-এক-পৃষ্ঠার-পুনরালোচনা"></a>
+### এক পৃষ্ঠার পুনরালোচনা
+
+#### ৬টি মনে রাখার সূত্র
 - **Definition:** cross-border flows + interdependence.
 - **Economic channels:** trade + FDI + remittances + technology.
 - **Political channels:** rules + institutions + diplomacy + development cooperation.
@@ -418,7 +568,7 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 - **Institutions:** WTO = trade rules; IMF = macroeconomic stability; World Bank/ADB/IsDB = development finance and support (mandates differ).
 - **Policy response:** diversify + skill + protect workers + regulate responsibly + go green + strengthen institutions.
 
-### পরীক্ষার শেষ মুহূর্তের চেকলিস্ট
+#### পরীক্ষার শেষ মুহূর্তের চেকলিস্ট
 - [ ] সংজ্ঞা দিয়েছি?
 - [ ] অর্থনৈতিক ও রাজনৈতিক মাত্রা আলাদা করেছি?
 - [ ] বাংলাদেশের অন্তত ৩টি উদাহরণ দিয়েছি?
@@ -428,10 +578,30 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 - [ ] নির্দিষ্ট পরিসংখ্যান লিখলে সাল ও উৎস দিয়েছি?
 - [ ] উপসংহারে অন্তর্ভুক্তিমূলক ও টেকসই দৃষ্টিভঙ্গি রেখেছি?
 
-<a id="sources"></a>
-## ১৪. উৎস ও তথ্য-সতর্কতা
+[বিষয়সূচিতে ফিরুন](#top)
 
-1. **Bangladesh Public Service Commission (BPSC).** *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005, topic 14 (“Globalization and Bangladesh: Economic and Political Dimensions; Roles of the WTO, World Bank, IMF, ADB, IDB and other development partners and Multinational Corporations”). [Official syllabus PDF](https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf).
+---
+
+<a id="references-audit"></a>
+## অংশ ঘ — উৎস ও যাচাই
+
+<a id="chapter-fact-check"></a>
+### এই অধ্যায়ের যাচাইয়ের অবস্থা
+
+| শ্রেণি | এই সম্পাদনায় নির্দিষ্ট অবস্থা |
+|---|---|
+| VERIFIED | সরকারি সিলেবাসে উল্লিখিত আন্তর্জাতিক প্রতিষ্ঠান ও অর্থনৈতিক–রাজনৈতিক মাত্রার পরিচয়। |
+| UNVERIFIED | প্রতিষ্ঠানগুলোর মূল চুক্তি, বর্তমান কর্মসূচি ও অর্থায়নের শর্তের নতুন পূর্ণ যাচাই বাকি। |
+
+যাচাই করা নির্দিষ্ট বক্তব্যের উৎস ও অবস্থান [উৎস-নিরীক্ষায়](../SOURCE-AUDIT.md) আছে। এই শ্রেণিবিন্যাস পুরো অধ্যায়ের সব দাবি যাচাই হওয়ার সনদ নয়।
+
+
+<a id="sources-01"></a>
+<a id="sources"></a>
+<a id="১৪-উৎস-ও-তথ্য-সতর্কতা"></a>
+### উৎস ও তথ্য-সতর্কতা
+
+1. **Bangladesh Public Service Commission (BPSC).** *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005, topic 14 (“Globalization and Bangladesh: Economic and Political Dimensions; Roles of the WTO, World Bank, IMF, ADB, IDB and other development partners and Multinational Corporations”). [Official syllabus PDF](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2024/12/df968f7fa918431dae3ed31b43206f6f.pdf).
 2. **World Trade Organization (WTO).** [What is the WTO?](https://www.wto.org/english/thewto_e/whatis_e/whatis_e.htm) — mandate and multilateral trade framework.
 3. **International Monetary Fund (IMF).** [About the IMF](https://www.imf.org/en/About) — macroeconomic stability, surveillance, lending and technical assistance.
 4. **World Bank.** [What We Do](https://www.worldbank.org/en/what-we-do) — development finance and knowledge.
@@ -444,7 +614,7 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 11. **UN Trade and Development (UNCTAD).** [World Investment Report](https://unctad.org/topic/investment/world-investment-report) — FDI and international investment analysis.
 12. **United Nations Department of Economic and Social Affairs (UN DESA).** [Least Developed Countries](https://www.un.org/development/desa/dpad/least-developed-country-category.html) — LDC category and graduation framework.
 
-### Visual sources, attribution and image licences
+#### Visual sources, attribution and image licences
 
 The following ten internet photographs are embedded beside the relevant discussion above. Captions explain how to use each image for study and warn where a photo should not be treated as statistical or causal evidence.
 
@@ -464,7 +634,7 @@ The following ten internet photographs are embedded beside the relevant discussi
 **Reuse note:** For Creative Commons photos, preserve the creator credit, licence link and any change notice if you reuse or edit the image. “Public domain in Bangladesh” is the status stated on the cited PID image pages; do not assume this automatically settles copyright status in every other jurisdiction.
 
 
-### Evidence and PYQ policy
+#### Evidence and PYQ policy
 - সরকারি সিলেবাসের সঙ্গে সরাসরি মিলে এমন থিমকে অগ্রাধিকার দেওয়া হয়েছে।
 - যাচাইযোগ্য মূল BPSC প্রশ্নপত্রের scan, বছর ও পৃষ্ঠা ছাড়া কোনো model prompt-কে “হুবহু বিগত প্রশ্ন” বলা হয়নি।
 - আন্তর্জাতিক প্রতিষ্ঠানের দায়িত্ব বোঝাতে তাদের নিজস্ব mandate pages অগ্রাধিকার পেয়েছে।
@@ -474,3 +644,9 @@ The following ten internet photographs are embedded beside the relevant discussi
 [⬆️ Back to Bangladesh Affairs index](../README.md)
 
 **ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।
+
+[বিষয়সূচিতে ফিরুন](#top)
+
+---
+
+[আগের অধ্যায়](../Chapter-13/README.md#book-text) · [বইয়ের সূচি](../README.md) · [পরের অধ্যায়](../Chapter-15/README.md#book-text)

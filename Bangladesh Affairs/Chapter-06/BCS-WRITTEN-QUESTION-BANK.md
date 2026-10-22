@@ -427,7 +427,7 @@ These priorities should be ranked through feasibility, employment potential, eco
 
 ## Source register
 
-- **[S1]** Bangladesh Public Service Commission, *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005, Unit 6: https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf
+- **[S1]** Bangladesh Public Service Commission, *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005, Unit 6: https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2024/12/df968f7fa918431dae3ed31b43206f6f.pdf
 - **[S2]** United Nations, *Transforming our world: the 2030 Agenda for Sustainable Development*: https://sdgs.un.org/2030agenda
 - **[S3]** World Commission on Environment and Development, *Our Common Future*: https://sdgs.un.org/sites/default/files/documents/5987our-common-future.pdf
 - **[S4]** General Economics Division, Bangladesh Planning Commission, *Bangladesh Delta Plan 2100* and Atlas: https://bdp2100kp.gov.bd/BDP2100/Overview · https://www.bdp2100kp.gov.bd/atlas/

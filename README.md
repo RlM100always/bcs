@@ -1,29 +1,35 @@
-# BCS Written Preparation — Source-Verified Notes
+# বিসিএস লিখিত — বাংলাদেশ বিষয়াবলি
 
-> **Bangladesh Affairs (Subject Code 005; 200 marks)** — বাংলায় গবেষণাভিত্তিক পাঠ্যবই।
+**বিষয় কোড ০০৫ · মোট নম্বর ২০০ · ১৬ অধ্যায়**
 
-**Official syllabus:** [Bangladesh Public Service Commission (BPSC), Written Syllabus — p.6–7](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2024/12/df968f7fa918431dae3ed31b43206f6f.pdf)
+বাংলাদেশের ইতিহাস, ভূগোল, সমাজ, অর্থনীতি ও রাষ্ট্রব্যবস্থা নিয়ে বাংলা পাঠ্যবই। ধারণার ব্যাখ্যা, কারণ–প্রভাব, বাংলাদেশের উদাহরণ এবং প্রশ্ন অনুযায়ী উত্তর লেখার অনুশীলন একসঙ্গে রাখা হয়েছে।
 
-## বই
+## বই পড়ুন
 
-📘 **[Bangladesh Affairs: ১৬ অধ্যায়ের পাঠ্যবই](Bangladesh%20Affairs/README.md)**
+**[অধ্যায়সূচি ও পাঠের নির্দেশনা](./Bangladesh%20Affairs/README.md)**
 
-### Editorial principles
-- Official syllabus and named primary sources take precedence; every numerical claim should be time-stamped and sourced.
-- **Previous-year questions:** original BPSC scans only when authenticated; third-party archives and user-supplied book photos are labeled as such.
-- **Predicted questions** are clearly marked as editorial practice, not past exam questions.
-- English questions, Bengali answers with English technical terms, visual aids and source links.
-- Content is staged chapter-by-chapter. An outline is *not* a completed chapter; see status table in the book index.
-- Source verification date: **21 October 2026**.
+- [সরকারি সিলেবাস ও বিষয়বিন্যাস](./Bangladesh%20Affairs/SYLLABUS-COVERAGE.md)
+- [লিখিত উত্তর লেখার নির্দেশিকা](./Bangladesh%20Affairs/ANSWER-WRITING.md)
+- [উৎস ও Fact-Checking-এর অবস্থা](./Bangladesh%20Affairs/SOURCE-AUDIT.md)
+- [সম্পাদনা, ভাষা ও তথ্যসূত্রের মানদণ্ড](./Bangladesh%20Affairs/EDITORIAL-STANDARD.md)
 
-This open educational project is independent and is **not affiliated with BPSC**. No particular examination score is guaranteed.
+প্রতিটি অধ্যায়ের প্রথম অংশে মূলপাঠ আছে। প্রশ্নোত্তর, পুনরালোচনা ও উৎস পৃথক অংশে। সরকারি সিলেবাসের পরিদর্শিত পাঠে বাংলাদেশ বিষয়াবলি **পৃষ্ঠা ৬**-এ; পৃষ্ঠা ৭ থেকে আন্তর্জাতিক বিষয়াবলি শুরু।
+
+## তথ্যের ব্যবহার
+
+উৎসের লিংক থাকা এবং নির্দিষ্ট দাবি মূল উৎসে যাচাই করা আলাদা কাজ। পরিবর্তনশীল পরিসংখ্যানের সময়কাল, আইনের প্রযোজ্য পাঠ এবং প্রশ্নের মূল উৎস মিলিয়ে ব্যবহার করুন। যাচাইয়ের প্রকৃত অবস্থা [উৎস-নিরীক্ষায়](./Bangladesh%20Affairs/SOURCE-AUDIT.md) আছে। বইটি BPSC-এর অনুমোদিত প্রকাশনা নয়।
 
 ## Repository checks
 
-With Node.js 24 and Python 3 installed, run `npm ci --ignore-scripts`, then `npm run check`. These checks validate Markdown file links, GitHub heading anchors, unresolved merge markers, local image paths, SVG syntax, cached-photo checksums and source records. They run on pushes and pull requests.
+With Node.js 24 and Python 3 installed:
 
-The image check also runs independently with `python3 tools/check_images.py`. External URLs are reported separately and require a network-enabled audit.
+```bash
+npm ci --ignore-scripts
+npm run check
+```
 
-In this cloud workspace, use `npm ci --ignore-scripts --cache /tmp/bcs-npm-cache` when the default npm cache directory is not writable.
+These checks validate Markdown file links and anchors, unresolved merge markers, local image paths, SVG syntax, cached-photo checksums and attribution records. They run on pushes and pull requests. They do not verify factual accuracy or remote URL availability.
 
-Image credits and licenses: [photo source register](Bangladesh%20Affairs/assets/photos/SOURCES.md).
+The image check also runs independently with `python3 tools/check_images.py`. In this cloud workspace, use `npm ci --ignore-scripts --cache /tmp/bcs-npm-cache` if the default npm cache is not writable.
+
+[Image credits and licences](./Bangladesh%20Affairs/assets/photos/SOURCES.md).

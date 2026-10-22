@@ -1,4 +1,11 @@
-# Chapter 07 — English Quotations with Real Sources + Source-backed Exam Lines
+<a id="chapter-07--english-quotations-with-real-sources--source-backed-exam-lines"></a>
+# অধ্যায় ৭ — ইংরেজি উদ্ধৃতি, ভাবার্থ ও উৎস
+
+[বইয়ের সূচি](../README.md) · [মূল অধ্যায়](./README.md#references-audit) · [উৎস-নিরীক্ষা](../SOURCE-AUDIT.md#quotations)
+
+**ব্যবহারের নিয়ম:** উৎসনির্দেশ থাকা মানেই প্রতিটি উদ্ধৃতির হুবহু পাঠ এই সংস্করণে যাচাই হয়েছে—এমন নয়। মূল নথিতে শব্দ ও প্রসঙ্গ মিলিয়ে নিন। ভাবার্থ বা সম্পাদকীয় সংশ্লেষ উদ্ধৃতিচিহ্নে লিখবেন না।
+
+
 [← মূল অধ্যায়: বাংলাদেশের সংবিধান](./README.md) · [35th–47th PYQ audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি answered model question](./BCS-WRITTEN-QUESTION-BANK.md) · [PYQ-ভিত্তিক পূর্ণ প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [Verified quotations](#verified-quotes)
 
 > **ব্যবহারের নিয়ম:** নিচের বাক্যগুলো পরীক্ষার উত্তরে ব্যবহারযোগ্য paraphrased evidence lines—কোনো বক্তা বা বিচারকের হুবহু উদ্ধৃতি নয়। তাই quotation marks দিয়ে কারও নামে চালাবেন না। আইনি অবস্থান সময়ের সঙ্গে বদলাতে পারে; সাংবিধানিক প্রশ্নে Article-এর পাশাপাশি সর্বশেষ binding judgment মিলিয়ে নিন।
@@ -7,71 +14,71 @@
 
 **প্রমাণভিত্তিক লাইন:** বাংলাদেশের সংবিধানের Article 7 রাষ্ট্রীয় ক্ষমতার উৎস হিসেবে জনগণকে স্বীকৃতি দেয় এবং সংবিধানকে প্রজাতন্ত্রের সর্বোচ্চ আইন হিসেবে প্রতিষ্ঠা করে; সংবিধানের সঙ্গে অসামঞ্জস্যপূর্ণ আইন অসামঞ্জস্যের পরিমাণে বাতিলযোগ্য।
 
-**উৎস:** The Constitution of the People’s Republic of Bangladesh, Article 7.  
+**উৎস:** The Constitution of the People’s Republic of Bangladesh, Article 7.\
 https://bdlaws.minlaw.gov.bd/act-print-367.html
 
 **প্রমাণভিত্তিক লাইন:** সংবিধানের সর্বোচ্চতা কেবল আইনগত ঘোষণায় সীমাবদ্ধ নয়; এটি রাষ্ট্রীয় ক্ষমতার সীমা, মৌলিক অধিকার এবং বিচারিক পর্যালোচনার সঙ্গে যুক্ত।
 
-**উৎস:** Constitution of Bangladesh, Articles 7, 26, 44 and 102.  
+**উৎস:** Constitution of Bangladesh, Articles 7, 26, 44 and 102.\
 https://bdlaws.minlaw.gov.bd/act-print-367.html
 
 ## ২. প্রস্তাবনা ও রাষ্ট্র পরিচালনার মূলনীতি
 
 **প্রমাণভিত্তিক লাইন:** বাংলাদেশের সংবিধানের প্রস্তাবনা স্বাধীনতার সংগ্রাম, জনগণের অভিপ্রায় এবং আইনের শাসন, মৌলিক অধিকার, সাম্য ও ন্যায়বিচারের রাষ্ট্রীয় অঙ্গীকারকে সাংবিধানিক দর্শনের সঙ্গে যুক্ত করে।
 
-**উৎস:** Constitution of Bangladesh, Preamble.  
+**উৎস:** Constitution of Bangladesh, Preamble.\
 https://bdlaws.minlaw.gov.bd/act-print-367.html
 
 **প্রমাণভিত্তিক লাইন:** Article 8-এ জাতীয়তাবাদ, সমাজতন্ত্র, গণতন্ত্র ও ধর্মনিরপেক্ষতাকে রাষ্ট্র পরিচালনার মূলনীতি হিসেবে স্বীকৃতি দেওয়া হয়েছে; Article 8(2) অনুযায়ী এই নীতিগুলো রাষ্ট্র পরিচালনা ও আইন ব্যাখ্যায় নির্দেশক হলেও সরাসরি আদালতে বলবৎযোগ্য নয়।
 
-**উৎস:** Constitution of Bangladesh, Articles 8–25.  
+**উৎস:** Constitution of Bangladesh, Articles 8–25.\
 https://bdlaws.minlaw.gov.bd/act-367/act-part-print-198.html
 
 ## ৩. মৌলিক অধিকার ও সাংবিধানিক প্রতিকার
 
 **প্রমাণভিত্তিক লাইন:** Part III-এর Articles 26–47A মৌলিক অধিকার ও সংশ্লিষ্ট সুরক্ষা নিয়ে আলোচনা করে; Article 44 প্রতিকার চাওয়ার অধিকার এবং Article 102 High Court Division-এর writ ক্ষমতার কাঠামো নির্ধারণ করে।
 
-**উৎস:** Constitution of Bangladesh, Part III; Article 102.  
+**উৎস:** Constitution of Bangladesh, Part III; Article 102.\
 https://bdlaws.minlaw.gov.bd/act-367/part-details-200.html?lang=en
 
 **প্রমাণভিত্তিক লাইন:** মৌলিক অধিকারকে নিরঙ্কুশ বলা ঠিক নয়; সংশ্লিষ্ট Article-এর ভাষা, অনুমোদিত সীমাবদ্ধতা এবং আদালতের ব্যাখ্যা একসঙ্গে পড়তে হয়।
 
-**উৎস:** Constitution of Bangladesh, Articles 36–43; official constitutional text.  
+**উৎস:** Constitution of Bangladesh, Articles 36–43; official constitutional text.\
 https://bdlaws.minlaw.gov.bd/act-print-367.html
 
 ## ৪. সংশোধনী ও Basic Structure Doctrine
 
 **প্রমাণভিত্তিক লাইন:** Article 142 সংবিধান সংশোধনের বিশেষ পদ্ধতি নির্ধারণ করে; সংশোধনের বৈধতা বিচার করার সময় প্রযোজ্য সাংবিধানিক পদ্ধতি এবং সংবিধানের মৌলিক কাঠামো-সংক্রান্ত বিচারিক নজিরও বিবেচ্য।
 
-**উৎস:** Constitution of Bangladesh, Article 142; *Anwar Hossain Chowdhury v. Bangladesh*, 41 DLR (AD) 165 (1989).  
+**উৎস:** Constitution of Bangladesh, Article 142; *Anwar Hossain Chowdhury v. Bangladesh*, 41 DLR (AD) 165 (1989).\
 https://bdlaws.minlaw.gov.bd/act-print-367.html
 
 **প্রমাণভিত্তিক লাইন:** ১৬তম সংশোধনী মামলায় আপিল বিভাগের সিদ্ধান্ত বিচার বিভাগের স্বাধীনতা, বিচারপতি অপসারণের প্রক্রিয়া এবং সাংবিধানিক ক্ষমতার সীমা নিয়ে গুরুত্বপূর্ণ নজির তৈরি করেছে।
 
-**উৎস:** Supreme Court of Bangladesh, Appellate Division, Civil Appeal No. 6 of 2017.  
+**উৎস:** Supreme Court of Bangladesh, Appellate Division, Civil Appeal No. 6 of 2017.\
 https://www.supremecourt.gov.bd/translation/process.php?file=1082040_C.A.6of2017_Final_3.8.2017_2.pdf
 
 ## ৫. তত্ত্বাবধায়ক সরকারব্যবস্থা: ১৩তম সংশোধনী
 
 **প্রমাণভিত্তিক লাইন:** ২০ নভেম্বর ২০২৫ তারিখে আপিল বিভাগের ১৩তম সংশোধনী-সংক্রান্ত রায় caretaker government provisions পুনর্বহালের সিদ্ধান্ত দেয়; পূর্ণাঙ্গ রায়ে ব্যবস্থাটি সক্রিয় হওয়ার জন্য সংবিধানে নির্ধারিত trigger, বিশেষত সংসদ ভেঙে যাওয়ার পরিস্থিতি, পূরণের শর্ত ব্যাখ্যা করা হয়েছে।
 
-**উৎস:** Supreme Court of Bangladesh, Appellate Division, Civil Appeal No. 112 of 2025 and connected matters, judgment dated 20 November 2025.  
+**উৎস:** Supreme Court of Bangladesh, Appellate Division, Civil Appeal No. 112 of 2025 and connected matters, judgment dated 20 November 2025.\
 https://supremecourt.gov.bd/translation/process.php?file=3360840_CA_112of2025_13_ammendment.pdf
 
-**পরীক্ষার সতর্কতা:** ২১ অক্টোবর ২০২৬ তারিখে ত্রয়োদশ জাতীয় সংসদ বহাল। তাই caretaker provisions পুনর্বহাল হয়েছে বলেই তা বর্তমান সংসদের মেয়াদকালে তাৎক্ষণিকভাবে সক্রিয়—এমন দাবি করবেন না; আদালতের নির্দিষ্ট operative conditions উল্লেখ করুন।  
-**উৎস:** Bangladesh Parliament, Tenure of All Parliaments.  
+**পরীক্ষার সতর্কতা:** ২১ অক্টোবর ২০২৬ তারিখে ত্রয়োদশ জাতীয় সংসদ বহাল। তাই caretaker provisions পুনর্বহাল হয়েছে বলেই তা বর্তমান সংসদের মেয়াদকালে তাৎক্ষণিকভাবে সক্রিয়—এমন দাবি করবেন না; আদালতের নির্দিষ্ট operative conditions উল্লেখ করুন।\
+**উৎস:** Bangladesh Parliament, Tenure of All Parliaments.\
 https://www.parliament.gov.bd/about/tenure-of-all-parliaments
 
 ## ৬. পঞ্চদশ সংশোধনী: ২০২৪–২০২৬ সালের বিচারিক অবস্থান
 
 **প্রমাণভিত্তিক লাইন:** পঞ্চদশ সংশোধনী মামলায় আদালত পুরো সংশোধনী বাতিল না করে নির্দিষ্ট অংশের সাংবিধানিকতা নিয়ে সিদ্ধান্ত দেয়; তাই পরীক্ষায় কোন ধারা/পরিবর্তন বাতিল হয়েছে এবং কোন অংশ অক্ষুণ্ণ রয়েছে—এই পার্থক্য স্পষ্ট করতে হবে।
 
-**উৎস:** Supreme Court Online Bulletin, *Dr. Badiul Alam Majumdar and others v. Government of Bangladesh and others*, 20 SCOB (2025) HCD.  
+**উৎস:** Supreme Court Online Bulletin, *Dr. Badiul Alam Majumdar and others v. Government of Bangladesh and others*, 20 SCOB (2025) HCD.\
 https://supremecourt.gov.bd/web/index.php/web/contents/resources/rules/web/indexnnnnnnnn.php?div_id=2&issue=20&menu=00&page=bulletin/bulletin_list_HD_20.php
 
 **প্রমাণভিত্তিক লাইন:** BSS-এর ৯ জুলাই ২০২৬-এর প্রতিবেদন অনুযায়ী, আপিল বিভাগ পঞ্চদশ সংশোধনীর নির্দিষ্ট অংশকে অসাংবিধানিক ঘোষণাকারী হাইকোর্টের রায় বহাল রাখে। এই সিদ্ধান্তের আলোকে সরকারি consolidated text-এর পাশাপাশি পরবর্তী binding judgment পড়া প্রয়োজন।
 
-**উৎস:** Bangladesh Sangbad Sangstha (BSS), “SC upholds HC verdict on 15th Amendment,” 9 July 2026.  
+**উৎস:** Bangladesh Sangbad Sangstha (BSS), “SC upholds HC verdict on 15th Amendment,” 9 July 2026.\
 https://b.bssnews.net/law-and-court/403889
 
 **পরীক্ষার সতর্কতা:** “পঞ্চদশ সংশোধনী পুরো বাতিল হয়েছে”—এ কথা লিখবেন না। রায়ের operative part-এ নির্দিষ্ট ধারা ও প্রভাব উল্লেখ করতে হবে।
@@ -80,19 +87,19 @@ https://b.bssnews.net/law-and-court/403889
 
 **প্রমাণভিত্তিক লাইন:** Article 65 জাতীয় সংসদের আইন প্রণয়নের ক্ষমতার ভিত্তি দেয়; সংসদের কার্যকর ভূমিকার জন্য আইন প্রণয়নের পাশাপাশি নির্বাহী বিভাগের ওপর প্রশ্ন, আলোচনা, কমিটি ও বাজেট-পর্যালোচনার মাধ্যমে নজরদারি গুরুত্বপূর্ণ।
 
-**উৎস:** Constitution of Bangladesh, Articles 65–93.  
+**উৎস:** Constitution of Bangladesh, Articles 65–93.\
 https://bdlaws.minlaw.gov.bd/act-367/act-chapter-print-685.html
 
 **প্রমাণভিত্তিক লাইন:** Article 118–126 নির্বাচন কমিশন ও নির্বাচন-সম্পর্কিত সাংবিধানিক কাঠামো নির্ধারণ করে; বিশ্বাসযোগ্য নির্বাচন কমিশনের জন্য সাংবিধানিক স্বাধীনতার পাশাপাশি প্রশাসনিক নিরপেক্ষতা, স্বচ্ছ প্রক্রিয়া ও কার্যকর অভিযোগ নিষ্পত্তি জরুরি।
 
-**উৎস:** Constitution of Bangladesh, Articles 118–126.  
+**উৎস:** Constitution of Bangladesh, Articles 118–126.\
 https://bdlaws.minlaw.gov.bd/act-print-367.html
 
 ## ৮. Previous Question Analysis — উৎস ব্যবহারের সতর্কতা
 
 **প্রমাণভিত্তিক লাইন:** প্রকাশ্য BCS Written question bank-এ ৩৬তম থেকে ৪৫তমসহ বিভিন্ন পরীক্ষায় মূলনীতি, মৌলিক অধিকার, সংবিধান সংশোধন, সংসদ ও বিচার বিভাগের প্রশ্ন পাওয়া যায়; তবে প্রশ্নব্যাংক নিজেই জানায় যে transcript-গুলো BPSC-এর মূল scan থেকে সরাসরি প্রকাশিত নয়।
 
-**উৎস:** BCS EXAM, “বিগত বিসিএস লিখিত প্রশ্ন — ৩৫তম থেকে ৫০তম।”  
+**উৎস:** BCS EXAM, “বিগত বিসিএস লিখিত প্রশ্ন — ৩৫তম থেকে ৫০তম।”\
 https://bcsexam.org/written-questions
 
 **ব্যবহারের নিয়ম:** প্রশ্নের বছর, নম্বর ও শব্দচয়ন উদ্ধৃত করার আগে মূল BPSC scan পাওয়া গেলে মিলিয়ে নিন। এই অধ্যায়ের PYQ বিশ্লেষণটি archive-reported transcript-ভিত্তিক theme analysis; certified original-paper audit নয়।
@@ -112,7 +119,8 @@ https://bcsexam.org/written-questions
 ---
 
 <a id="verified-quotes"></a>
-## ১০. ২০টি authentic English quotation — exact wording + source + exam use
+<a id="১০-২০টি-authentic-english-quotation--exact-wording--source--exam-use"></a>
+## উৎসনির্দেশসহ নির্বাচিত উদ্ধৃতি
 
 > **Citation rule:** এগুলো সংক্ষিপ্ত, যাচাইযোগ্য উদ্ধৃতি। উদ্ধৃতির পাশে মূল দলিল/বই/বক্তৃতা এবং অনলাইন উৎস দেওয়া হয়েছে। পরীক্ষার উত্তরে ১–২টি উদ্ধৃতি যথেষ্ট; quotation যেন যুক্তির বিকল্প না হয়। আইনগত বিধানের ক্ষেত্রে Article নম্বরকে অগ্রাধিকার দিন। কোনো বিচারিক রায়ের সারমর্মকে quotation marks-এর মধ্যে দেবেন না, যদি না মূল রায়ের exact wording যাচাই করা থাকে।
 
@@ -121,36 +129,36 @@ https://bcsexam.org/written-questions
 **1. Popular sovereignty**
 > “All powers in the Republic belong to the people.”
 
-**Source:** Constitution of Bangladesh, Article 7(1), official consolidated text.  
-**Use:** জনগণের সার্বভৌমত্ব, সংবিধানের সর্বোচ্চতা, গণতন্ত্র ও রাষ্ট্রীয় ক্ষমতার বৈধতা।  
+**Source:** Constitution of Bangladesh, Article 7(1), official consolidated text.\
+**Use:** জনগণের সার্বভৌমত্ব, সংবিধানের সর্বোচ্চতা, গণতন্ত্র ও রাষ্ট্রীয় ক্ষমতার বৈধতা।\
 **Link:** https://bdlaws.minlaw.gov.bd/act-print-367.html
 
 **2. Constitutional supremacy**
 > “This Constitution is, as the solemn expression of the will of the people, the supreme law of the Republic.”
 
-**Source:** Constitution of Bangladesh, Article 7(2), excerpt.  
-**Use:** Rule of law, unconstitutional laws, judicial review.  
+**Source:** Constitution of Bangladesh, Article 7(2), excerpt.\
+**Use:** Rule of law, unconstitutional laws, judicial review.\
 **Link:** https://bdlaws.minlaw.gov.bd/act-print-367.html
 
 **3. Equality before law**
 > “All citizens are equal before law and are entitled to equal protection of law.”
 
-**Source:** Constitution of Bangladesh, Article 27.  
-**Use:** Equality, non-discrimination, justice and access to remedies.  
+**Source:** Constitution of Bangladesh, Article 27.\
+**Use:** Equality, non-discrimination, justice and access to remedies.\
 **Link:** https://bdlaws.minlaw.gov.bd/act-print-367.html
 
 **4. Freedom of thought and conscience**
 > “Freedom of thought and conscience is guaranteed.”
 
-**Source:** Constitution of Bangladesh, Article 39(1).  
-**Use:** Freedom of conscience, democracy, civic autonomy.  
+**Source:** Constitution of Bangladesh, Article 39(1).\
+**Use:** Freedom of conscience, democracy, civic autonomy.\
 **Link:** https://bdlaws.minlaw.gov.bd/act-367/section-24587.html
 
 **5. Freedom of speech and the press**
 > “the right of every citizen to freedom of speech and expression; and freedom of the press, are guaranteed.”
 
-**Source:** Constitution of Bangladesh, Article 39(2)(a), excerpt.  
-**Use:** Freedom of expression, press freedom, accountability and the 47th BCS Written question theme.  
+**Source:** Constitution of Bangladesh, Article 39(2)(a), excerpt.\
+**Use:** Freedom of expression, press freedom, accountability and the 47th BCS Written question theme.\
 **Link:** https://bdlaws.minlaw.gov.bd/act-367/section-24587.html
 
 ### B. Universal Declaration of Human Rights (UDHR)
@@ -158,36 +166,36 @@ https://bcsexam.org/written-questions
 **6. Equal dignity**
 > “All human beings are born free and equal in dignity and rights.”
 
-**Source:** Universal Declaration of Human Rights, Article 1, United Nations.  
-**Use:** Fundamental rights, equality, human dignity.  
+**Source:** Universal Declaration of Human Rights, Article 1, United Nations.\
+**Use:** Fundamental rights, equality, human dignity.\
 **Link:** https://www.un.org/en/about-us/universal-declaration-of-human-rights
 
 **7. Equal protection**
 > “All are equal before the law and are entitled without any discrimination to equal protection of the law.”
 
-**Source:** UDHR, Article 7.  
-**Use:** Equality before law and non-discrimination.  
+**Source:** UDHR, Article 7.\
+**Use:** Equality before law and non-discrimination.\
 **Link:** https://www.un.org/en/about-us/universal-declaration-of-human-rights
 
 **8. Effective remedy**
 > “Everyone has the right to an effective remedy by the competent national tribunals”
 
-**Source:** UDHR, Article 8, excerpt.  
-**Use:** Article 44/102, judicial remedies and human-rights protection.  
+**Source:** UDHR, Article 8, excerpt.\
+**Use:** Article 44/102, judicial remedies and human-rights protection.\
 **Link:** https://www.un.org/en/about-us/universal-declaration-of-human-rights
 
 **9. Freedom of opinion and expression**
 > “Everyone has the right to freedom of opinion and expression.”
 
-**Source:** UDHR, Article 19.  
-**Use:** Article 39, press freedom and democratic debate.  
+**Source:** UDHR, Article 19.\
+**Use:** Article 39, press freedom and democratic debate.\
 **Link:** https://www.un.org/en/about-us/universal-declaration-of-human-rights
 
 **10. The will of the people**
 > “The will of the people shall be the basis of the authority of government.”
 
-**Source:** UDHR, Article 21(3).  
-**Use:** Popular sovereignty, credible elections and representative government.  
+**Source:** UDHR, Article 21(3).\
+**Use:** Popular sovereignty, credible elections and representative government.\
 **Link:** https://www.un.org/en/about-us/universal-declaration-of-human-rights
 
 ### C. Constitutional design, limits on power and rule of law
@@ -195,50 +203,50 @@ https://bcsexam.org/written-questions
 **11. Human nature and government**
 > “If men were angels, no government would be necessary.”
 
-**Source:** *The Federalist No. 51*, Alexander Hamilton or James Madison attribution in the Library of Congress guide; 8 February 1788.  
-**Use:** Checks and balances, constitutional restraints, institutional accountability.  
+**Source:** *The Federalist No. 51*, Alexander Hamilton or James Madison attribution in the Library of Congress guide; 8 February 1788.\
+**Use:** Checks and balances, constitutional restraints, institutional accountability.\
 **Link:** https://guides.loc.gov/federalist-papers/text-51-60
 
 **12. Public control of government**
 > “A dependence on the people is, no doubt, the primary control on the government”
 
-**Source:** *The Federalist No. 51*, excerpt.  
-**Use:** Elections, popular sovereignty, accountability and democratic control.  
+**Source:** *The Federalist No. 51*, excerpt.\
+**Use:** Elections, popular sovereignty, accountability and democratic control.\
 **Link:** https://guides.loc.gov/federalist-papers/text-51-60
 
 **13. Separation of powers**
 > “there is no liberty, if the power of judging be not separated from the legislative and executive powers.”
 
-**Source:** Montesquieu, *The Spirit of the Laws*, Book XI, Chapter 6; English translation.  
-**Use:** Judicial independence and separation of powers.  
+**Source:** Montesquieu, *The Spirit of the Laws*, Book XI, Chapter 6; English translation.\
+**Use:** Judicial independence and separation of powers.\
 **Link:** https://sourcebooks.web.fordham.edu/mod/montesquieu-spirit.asp
 
 **14. Rule of law**
 > “no man is above the law”
 
-**Source:** A. V. Dicey, *Introduction to the Study of the Law of the Constitution* (1885), Chapter IV, short excerpt.  
-**Use:** Constitutional supremacy, equality and accountability of public officials.  
+**Source:** A. V. Dicey, *Introduction to the Study of the Law of the Constitution* (1885), Chapter IV, short excerpt.\
+**Use:** Constitutional supremacy, equality and accountability of public officials.\
 **Link:** https://constitution.org/1-Constitution/cmt/avd/law_con.htm
 
 **15. Law as a limit on authority**
 > “Where-ever law ends, tyranny begins”
 
-**Source:** John Locke, *Second Treatise of Government*, §202; historical spelling retained.  
-**Use:** Arbitrary power, constitutional limits and protection of liberty.  
+**Source:** John Locke, *Second Treatise of Government*, §202; historical spelling retained.\
+**Use:** Arbitrary power, constitutional limits and protection of liberty.\
 **Link:** https://www.gutenberg.org/files/7370/7370-h/7370-h.htm
 
 **16. Concentrated power**
 > “Power tends to corrupt, and absolute power corrupts absolutely.”
 
-**Source:** John Emerich Edward Dalberg-Acton (Lord Acton), letter to Bishop Mandell Creighton, 5 April 1887.  
-**Use:** Checks and balances, anti-corruption, institutional safeguards.  
+**Source:** John Emerich Edward Dalberg-Acton (Lord Acton), letter to Bishop Mandell Creighton, 5 April 1887.\
+**Use:** Checks and balances, anti-corruption, institutional safeguards.\
 **Link:** https://www.acton.org/publications/transatlantic/2017/09/29/lord-acton-liberty-power-and-light-conscience
 
 **17. Law and lived experience**
 > “The life of the law has not been logic; it has been experience.”
 
-**Source:** Oliver Wendell Holmes Jr., *The Common Law* (1881), opening chapter; quotation reproduced with scholarly attribution.  
-**Use:** Constitutional interpretation, judicial reasoning and social context.  
+**Source:** Oliver Wendell Holmes Jr., *The Common Law* (1881), opening chapter; quotation reproduced with scholarly attribution.\
+**Use:** Constitutional interpretation, judicial reasoning and social context.\
 **Link:** https://link.springer.com/chapter/10.1007/978-3-030-43582-0_3
 
 ### D. Justice, civil liberty and democratic government
@@ -246,22 +254,22 @@ https://bcsexam.org/written-questions
 **18. Justice is interconnected**
 > “Injustice anywhere is a threat to justice everywhere.”
 
-**Source:** Martin Luther King Jr., *Letter from Birmingham Jail*, 16 April 1963.  
-**Use:** Equal protection, human rights, justice and constitutional remedies.  
+**Source:** Martin Luther King Jr., *Letter from Birmingham Jail*, 16 April 1963.\
+**Use:** Equal protection, human rights, justice and constitutional remedies.\
 **Link:** https://crmvet.lib.duke.edu/info/bhamjail.html
 
 **19. Representative government**
 > “government of the people, by the people, for the people”
 
-**Source:** Abraham Lincoln, *Gettysburg Address*, 19 November 1863; standard Bliss text.  
-**Use:** Democracy, popular sovereignty and representative government.  
+**Source:** Abraham Lincoln, *Gettysburg Address*, 19 November 1863; standard Bliss text.\
+**Use:** Democracy, popular sovereignty and representative government.\
 **Link:** https://www.nps.gov/linc/learn/historyculture/gettysburgaddress.htm
 
 **20. Justice must not be denied**
 > “To no one will we sell, to no one will we deny or delay right or justice.”
 
-**Source:** Magna Carta (1215), Clause 40, English translation; UK Parliament historical resource.  
-**Use:** Rule of law, access to justice and fair process.  
+**Source:** Magna Carta (1215), Clause 40, English translation; UK Parliament historical resource.\
+**Use:** Rule of law, access to justice and fair process.\
 **Link:** https://www.parliament.uk/about/living-heritage/evolutionofparliament/originsofparliament/birthofparliament/overview/magnacarta/magnacartaclauses/
 
 ## কোন প্রশ্নে কোন quotation ব্যবহার করবেন?

@@ -128,7 +128,7 @@ ICT তথ্য দ্রুত ও কম খরচে পৌঁছে দে�
 **Introduction → Bangladesh context → legal/policy basis → benefits → limitations → 4–6 actionable recommendations → balanced conclusion.**
 
 ## Source Register
-- [S1] BPSC, *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005, Unit 12. https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf
+- [S1] BPSC, *Syllabus for BCS (Written) Examination*, Bangladesh Affairs, Subject Code 005, Unit 12. https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2024/12/df968f7fa918431dae3ed31b43206f6f.pdf
 - [S2] Government of Bangladesh, *Right to Information Act, 2009*, sections 4–5. https://bdlaws.minlaw.gov.bd/act-1011/act-chapter-print-2220.html
 - [S3] Information Commission Bangladesh. https://infocom.gov.bd/pages/laws/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%87%E0%A6%A8-%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%AF-3b9884-6922da02933eb65569e01cea
 - [S4] a2i, National Portal. https://marketplace.a2i.gov.bd/productShow/7

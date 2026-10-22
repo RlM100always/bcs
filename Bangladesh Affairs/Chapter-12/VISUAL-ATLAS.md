@@ -134,7 +134,7 @@
 9. **Bangladesh Computer Council:** [official website and e-services](https://bcc.gov.bd/).
 10. **UN Sustainable Development Goal 16:** [official targets on effective institutions, participation and public access to information](https://sdgs.un.org/goals/goal16).
 11. **Right to Information Act, 2009:** [official law text](https://bdlaws.minlaw.gov.bd/act-print-1011.html).
-12. **BPSC written syllabus:** [official Bangladesh Affairs syllabus PDF](https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf).
+12. **BPSC written syllabus:** [official Bangladesh Affairs syllabus PDF](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2024/12/df968f7fa918431dae3ed31b43206f6f.pdf).
 
 ## D. Diagram-based written practice
 

@@ -62,6 +62,6 @@
 2. **Bangladesh Election Commission, Political Parties.** Current official list; status and party registration are dynamic. [Official register](https://ecs.gov.bd/political-parties).
 3. **Laws of Bangladesh, Representation of the People Order, 1972.** [Full legal text](https://bdlaws.minlaw.gov.bd/act-print-424.html).
 4. **Constitution of Bangladesh, official legal text.** [BDLaws](https://bdlaws.minlaw.gov.bd/act-print-367.html).
-5. **BPSC, Syllabus for BCS (Written) Examination, Bangladesh Affairs (Subject Code 005).** [Official syllabus PDF](https://bpsc.portal.gov.bd/sites/default/files/files/bpsc.portal.gov.bd/page/732e9da5_9514_4252_9a33_119f8c000cc5/SYLLABUS%20FOR%20BCS%20%28WRITTEN%29%20EXAMINATION.pdf).
+5. **BPSC, Syllabus for BCS (Written) Examination, Bangladesh Affairs (Subject Code 005).** [Official syllabus PDF](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2024/12/df968f7fa918431dae3ed31b43206f6f.pdf).
 
 **Verification status:** 35th and 47th direct themes, plus 36th/40th/46th related themes, are supported by the cited public archive snippets. The remaining year rows are deliberately marked pending rather than guessed. Original BPSC scan verification is not claimed.
