@@ -71,13 +71,13 @@ Information and Communication Technology (ICT) হলো তথ্য সংগ�
 
 #### বাস্তব ছবি: বাংলাদেশের আন্তর্জাতিক internet connectivity
 
-![Cox's Bazar submarine cable landing station during an official inspection, 29 December 2025](https://commons.wikimedia.org/wiki/Special:FilePath/Foyez%20Ahmad%20Tayyeb%2C%20Special%20Assistant%20to%20Chief%20Adviser%2C%20Ministry%20of%20Post%2C%20Telecommunication%2C%20and%20Information%20Technology%2C%20inspects%20Bangladesh%20Submarine%20Cable%20PLC%20landing%20station%2C%20Cox%27s%20Bazar%2C%202025-12-29.jpg)
+![Cox's Bazar submarine cable landing station during an official inspection, 29 December 2025](../assets/photos/commons-b95f31964bd90e40.jpg)
 
 *চিত্র-পাঠ:* সাবমেরিন কেবল আন্তর্জাতিক data traffic-এর একটি গুরুত্বপূর্ণ পথ। এই ছবিটি ২৯ ডিসেম্বর ২০২৫-এ Cox's Bazar landing station-এ সরকারি পরিদর্শনের সময় তোলা। এটি infrastructure-এর উদাহরণ—capacity বা uptime-এর পরিসংখ্যান নয়। [মূল ছবি ও public-domain তথ্য](https://commons.wikimedia.org/wiki/File:Foyez_Ahmad_Tayyeb,_Special_Assistant_to_Chief_Adviser,_Ministry_of_Post,_Telecommunication,_and_Information_Technology,_inspects_Bangladesh_Submarine_Cable_PLC_landing_station,_Cox%27s_Bazar,_2025-12-29.jpg).
 
 #### মানচিত্র: SEA-ME-WE 5 submarine cable route
 
-![SEA-ME-WE 5 submarine cable route map, 2016](https://commons.wikimedia.org/wiki/Special:FilePath/SEA-ME-WE%205%20Route%20Map.jpg)
+![SEA-ME-WE 5 submarine cable route map, 2016](../assets/photos/commons-15c93fa74f385b9e.jpg)
 
 *চিত্র-পাঠ:* এই route map-এ Kuakata-সহ SEA-ME-WE 5-এর আন্তর্জাতিক সংযোগ ও landing points বোঝা যায়। এটি ২০১৬ সালের map—বর্তমান সব cable system বা exact cable path-এর পূর্ণাঙ্গ মানচিত্র নয়। **Attribution:** Xcoughing, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল map ও licence](https://commons.wikimedia.org/wiki/File:SEA-ME-WE_5_Route_Map.jpg).
 
@@ -100,11 +100,11 @@ Digital divide হলো প্রযুক্তি, internet, device, skills �
 
 *চিত্র-পাঠ:* assisted digital service এমন নাগরিকদের সাহায্য করতে পারে যাদের নিজস্ব device, internet, দক্ষতা বা অনলাইন পেমেন্টের সুবিধা সীমিত। ছবিটি ঐতিহাসিক উদাহরণ; বর্তমান কেন্দ্রের সংখ্যা বা অবস্থা বোঝায় না। [ছবির উৎস ও প্রতিবেদন](https://govinsider.asia/intl-en/article/inside-the-digital-bangladesh-2021-vision).
 
-#### বাস্তব ছবি: সেবা গ্রহণে নাগরিক ও সহায়তাপ্রাপ্ত ডিজিটাল প্রবেশাধিকার
+#### বাস্তব ছবি: কয়রার ইউনিয়ন ডিজিটাল সেন্টার পরিদর্শন, ২০২৪
 
-![Rural Digital Centre service user in Bangladesh](https://www.undp.org/sites/g/files/zskgke326/files/migration/bd/b44a9e2fa301742cacce3fa18dc2f8ed196dd80acaf301c86840869d7f1b41e0.jpg)
+![Visit to a Union Digital Centre in Koyra, Khulna, 2024](../assets/photos/commons-f28676e624ede634.jpg)
 
-*চিত্র-পাঠ:* digital inclusion শুধু internet coverage নয়—সহজ ভাষা, সহায়তা, accessibility ও সেবা শেষ করার সক্ষমতাও জরুরি। [UNDP Bangladesh-এর ছবির উৎস](https://www.undp.org/bangladesh/stories/a2is-public-service-innovation-network-made-partner-month-south-south-galaxy).
+*চিত্র-পাঠ:* digital inclusion শুধু internet coverage নয়—সহজ ভাষা, সহায়তা, accessibility ও সেবা শেষ করার সক্ষমতাও জরুরি। [ছবির উৎস: Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crown_Princess_Victoria_and_UN_Ambassador_Visit_Union_Digital_Center_Koyra_Khulna_2024-03-19_(PID-0009739).jpg).
 
 ## ৫. গণমাধ্যম: ভূমিকা, স্বাধীনতা ও দায়িত্ব <a id="media"></a>
 গণমাধ্যমের প্রধান ভূমিকা: **তথ্য প্রদান**, **watchdog/investigative scrutiny**, **জনমত ও বিতর্কের ক্ষেত্র তৈরি**, **প্রান্তিক গোষ্ঠীর কণ্ঠ তুলে ধরা**, **দুর্যোগে যাচাইকৃত বার্তা ছড়ানো**, এবং **আইন ও নাগরিক দায়িত্ব সম্পর্কে সচেতনতা**।
@@ -121,7 +121,7 @@ Digital divide হলো প্রযুক্তি, internet, device, skills �
 
 #### বাস্তব ছবি: বাংলাদেশের নারী সাংবাদিকদের একটি সমাবেশ
 
-![A group of Bangladeshi women journalists at a programme](https://commons.wikimedia.org/wiki/Special:FilePath/A%20group%20of%20Bangladeshi%20women%20journalist%20in%20a%20program%20%281%29.jpg)
+![A group of Bangladeshi women journalists at a programme](../assets/photos/commons-2387c25f9b50f199.jpg)
 
 *চিত্র-পাঠ:* গণমাধ্যমে প্রতিনিধিত্ব, newsroom diversity এবং নারীর পেশাগত অংশগ্রহণ নিয়ে আলোচনায় ছবিটি ব্যবহার করুন। এটি ৮ মার্চ ২০১৮-এর একটি অনুষ্ঠানের ছবি; সামগ্রিক কর্মসংস্থান বা প্রতিনিধিত্বের পরিসংখ্যান নয়। **Attribution:** Nurunnaby Chowdhury (Hasive), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ফাইল ও licence](https://commons.wikimedia.org/wiki/File:A_group_of_Bangladeshi_women_journalist_in_a_program_(1).jpg).
 
@@ -130,7 +130,7 @@ RTI হলো আইন ও প্রযোজ্য নিয়মের অধ�
 
 #### বাস্তব ছবি: BTRC ও Information Commission-এর প্রাতিষ্ঠানিক অবকাঠামো
 
-![Bangladesh Telecommunication Regulatory Commission and Information Commission buildings, Dhaka, 20 August 2023](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh%20Telecommunication%20Regulatory%20Commission%20and%20Information%20Commission%20buildings%20inauguration%2C%20Dhaka%2C%202023-08-20%20%28PID-0014121%29.jpg)
+![Bangladesh Telecommunication Regulatory Commission and Information Commission buildings, Dhaka, 20 August 2023](../assets/photos/commons-ad567ea49082ac2d.jpg)
 
 *চিত্র-পাঠ:* তথ্য অধিকার বাস্তবায়নে তথ্য কমিশনের প্রাতিষ্ঠানিক ভূমিকা, অভিযোগ/আপিল প্রক্রিয়া ও তথ্যপ্রাপ্তির সচেতনতা আলোচনা করুন। ছবিটি ২০২৩ সালের ভবন উদ্বোধন-সংক্রান্ত; RTI-র কার্যকারিতা বা সেবার মানের প্রমাণ নয়। [মূল ছবি ও public-domain তথ্য](https://commons.wikimedia.org/wiki/File:Bangladesh_Telecommunication_Regulatory_Commission_and_Information_Commission_buildings_inauguration,_Dhaka,_2023-08-20_(PID-0014121).jpg) · [তথ্য কমিশন](https://infocom.gov.bd/) · [তথ্য অধিকার আইন, ২০০৯](https://bdlaws.minlaw.gov.bd/act-print-1011.html).
 
@@ -338,3 +338,5 @@ https://bcsexam.org/written-questions
 ICT তথ্য ও সেবায় প্রবেশাধিকার বাড়াতে পারে; গণমাধ্যম তথ্য যাচাই ও ক্ষমতার জবাবদিহি করতে পারে; RTI তথ্যপ্রাপ্তির আইনগত পথ দেয়; e-governance সেবাকে নাগরিককেন্দ্রিক করে। কিন্তু অন্তর্ভুক্তি, privacy, cybersecurity, ভালো records, কার্যকর অভিযোগব্যবস্থা ও প্রতিষ্ঠানগত জবাবদিহি ছাড়া প্রযুক্তিগত আধুনিকায়ন টেকসই হবে না।
 
 [⬆️ সূচিতে ফিরে যান](#top) · [35th–47th PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) · [২৫টি Answered Questions](./BCS-WRITTEN-QUESTION-BANK.md) · [Visual Atlas](./VISUAL-ATLAS.md) · [PYQ-ভিত্তিক প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [English Quotations](./QUOTATIONS.md)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

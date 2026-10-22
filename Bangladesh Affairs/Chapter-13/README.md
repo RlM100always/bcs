@@ -136,7 +136,7 @@
 
 #### বাস্তব উদাহরণ: গ্রামীণ নারীদের সম্মিলিত উদ্যোগ
 
-![Women graduates of BRAC's Special Targeting Ultra Poor programme meeting in Rodrodha village, Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/A_women%27s_group_from_Rodrodha_village_gather_for_a_meeting._They_all_graduated_through_BRACs_Special_Targeting_Ultra_Poor_program_they_are_now_known_as_graduates_and_are_taking_part_in_a_project_called_group_home_visits._%2810664330215%29.jpg)
+![Women graduates of BRAC's Special Targeting Ultra Poor programme meeting in Rodrodha village, Bangladesh](../assets/photos/commons-942d9a02ed6d6876.jpg)
 
 *চিত্র-পাঠ:* দলীয় আলোচনা ও পারস্পরিক সহায়তা অনানুষ্ঠানিক প্রতিষ্ঠান ও সামাজিক পুঁজির ইতিবাচক দিক বোঝায়। **Credit:** Department of Foreign Affairs and Trade (DFAT), Australia; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:A_women%27s_group_from_Rodrodha_village_gather_for_a_meeting._They_all_graduated_through_BRACs_Special_Targeting_Ultra_Poor_program_they_are_now_known_as_graduates_and_are_taking_part_in_a_project_called_group_home_visits._(10664330215).jpg).
 
@@ -165,7 +165,7 @@
 
 #### বাস্তব উদাহরণ: নাগরিকদের স্বেচ্ছামূলক সংগঠন
 
-![Creative Commons Bangladesh first chapter meeting group photo, 2018](https://commons.wikimedia.org/wiki/Special:FilePath/CC_Bangladesh_First_Chapter_Meeting_Group_Photo.jpg)
+![Creative Commons Bangladesh first chapter meeting group photo, 2018](../assets/photos/commons-3d58dd8ad4cf80dc.jpg)
 
 *চিত্র-পাঠ:* স্বেচ্ছামূলক সংগঠন ও জ্ঞান ভাগাভাগির নেটওয়ার্ক civil society-র একটি উদাহরণ; এটি সব CSO-র প্রতিনিধিত্ব করে না। **Credit:** Nasir Khan Saikat; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:CC_Bangladesh_First_Chapter_Meeting_Group_Photo.jpg).
 
@@ -208,7 +208,7 @@ NGO বা Non-Governmental Organization হলো সরকার থেকে 
 
 #### বাস্তব উদাহরণ: বাংলাদেশের একটি উন্নয়ন NGO-র সদরদপ্তর
 
-![BRAC Centre headquarters in Mohakhali, Dhaka](https://commons.wikimedia.org/wiki/Special:FilePath/Brac_Centre%2C_Dhaka.jpg)
+![BRAC Centre headquarters in Mohakhali, Dhaka](../assets/photos/commons-06d40dfc47f54d0a.jpg)
 
 *চিত্র-পাঠ:* BRAC Centre একটি পরিচিত উন্নয়ন সংস্থার সদরদপ্তরের বাস্তব উদাহরণ। ভবনের ছবি দিয়ে সংস্থার কার্যকারিতা প্রমাণ হয় না। **Credit:** ANKAN; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:Brac_Centre,_Dhaka.jpg).
 
@@ -230,7 +230,7 @@ NGO বা Non-Governmental Organization হলো সরকার থেকে 
 
 #### বাস্তব উদাহরণ: ক্ষুদ্রঋণ ও জীবিকার উদ্যোগ
 
-![A Bangladeshi woman using a BRAC microfinance loan for her livelihood](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_microfinance_%2810676772556%29.jpg)
+![A Bangladeshi woman using a BRAC microfinance loan for her livelihood](../assets/photos/commons-58937a2130e3bcce.jpg)
 
 *চিত্র-পাঠ:* এটি BRAC microfinance loan-এর সহায়তায় জীবিকা গড়ার একটি উদাহরণ। ঋণ নিজে দারিদ্র্য দূর করে না; আয়, বাজার, ঋণের শর্ত ও সিদ্ধান্তক্ষমতাও মূল্যায়ন করতে হয়। **Credit:** Department of Foreign Affairs and Trade (DFAT), Australia; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:Bangladesh_microfinance_%2810676772556%29.jpg).
 
@@ -238,13 +238,13 @@ NGO বা Non-Governmental Organization হলো সরকার থেকে 
 
 #### বাস্তব উদাহরণ: BRAC-এর প্রাথমিক বিদ্যালয়ে দলীয় শেখা
 
-![Children participating in a group exercise at a BRAC primary school in Manikganj](https://commons.wikimedia.org/wiki/Special:FilePath/Children_take_part_in_an_exercise_in_groups_inside_a_BRAC_primary_school_in_Manikganj._DFAT_funds_a_range_of_core_programs_including_its_education_work_primarily_in_formal_education._%2810684966815%29.jpg)
+![Children participating in a group exercise at a BRAC primary school in Manikganj](../assets/photos/commons-63910b9ac627e99d.jpg)
 
 *চিত্র-পাঠ:* দলীয় অনুশীলন ও শিক্ষার্থীকেন্দ্রিক পদ্ধতি NGO-র শিক্ষা-সহায়তার উদাহরণ। ছবিটি ২০১২ সালের; বর্তমান ফলাফল বা জাতীয় পরিসংখ্যান নয়। **Credit:** Department of Foreign Affairs and Trade (DFAT), Australia; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:Children_take_part_in_an_exercise_in_groups_inside_a_BRAC_primary_school_in_Manikganj._DFAT_funds_a_range_of_core_programs_including_its_education_work_primarily_in_formal_education._(10684966815).jpg).
 
 #### বাস্তব উদাহরণ: শিক্ষা উপকরণ বিতরণ
 
-![Education materials distributed to students under Needy Foundation's education project in Chattogram](https://commons.wikimedia.org/wiki/Special:FilePath/Education_materials_distribution_among_needy_students_under_Education_Project_of_Needy_Foundation_01.jpg)
+![Education materials distributed to students under Needy Foundation's education project in Chattogram](../assets/photos/commons-cae645372a3641bb.jpg)
 
 *চিত্র-পাঠ:* শিক্ষা উপকরণ বিতরণ NGO-র সরাসরি service-delivery output-এর উদাহরণ। প্রকৃত outcome বুঝতে উপস্থিতি, শেখার অগ্রগতি ও দীর্ঘমেয়াদি ফলও মাপতে হবে। **Credit:** Needy Foundation (NF); [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:Education_materials_distribution_among_needy_students_under_Education_Project_of_Needy_Foundation_01.jpg).
 
@@ -252,7 +252,7 @@ NGO বা Non-Governmental Organization হলো সরকার থেকে 
 
 #### বাস্তব উদাহরণ: কমিউনিটি স্বাস্থ্যকর্মীর কাজ
 
-![BRAC community health worker conducting a household survey in Korail, Dhaka](https://commons.wikimedia.org/wiki/Special:FilePath/A_community_health_worker_conducting_a_survey_in_the_Korail_slum%2C_Bangladesh_%288630810827%29.jpg)
+![BRAC community health worker conducting a household survey in Korail, Dhaka](../assets/photos/commons-ce0c616be3dbf6d1.jpg)
 
 *চিত্র-পাঠ:* কমিউনিটি স্বাস্থ্যকর্মী স্থানীয় মানুষের কাছে স্বাস্থ্যতথ্য, মাতৃস্বাস্থ্য-সহায়তা ও সেবার রেফারেল পৌঁছাতে পারেন। এটি ২০১১ সালের ঐতিহাসিক ছবি, বর্তমান কর্মীসংখ্যার পরিসংখ্যান নয়। **Credit:** Lucy Milmo/DFID; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:A_community_health_worker_conducting_a_survey_in_the_Korail_slum,_Bangladesh_(8630810827).jpg).
 
@@ -260,7 +260,7 @@ NGO বা Non-Governmental Organization হলো সরকার থেকে 
 
 #### বাস্তব উদাহরণ: বাল্যবিবাহ প্রতিরোধে সামাজিক সচেতনতা
 
-![Girls taking a no-child-marriage pledge at Hajiganj Girls High School, Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/No_child_marrige_oath_in_Hajiganj_girls_high_school%2C_Bangladesh.jpg)
+![Girls taking a no-child-marriage pledge at Hajiganj Girls High School, Bangladesh](../assets/photos/commons-0c19a71b0c559019.jpg)
 
 *চিত্র-পাঠ:* বাল্যবিবাহ প্রতিরোধে সচেতনতা, শিক্ষা ও স্থানীয় অংশগ্রহণের উদাহরণ। সচেতনতার পাশাপাশি আইন প্রয়োগ, নিরাপদ অভিযোগ-ব্যবস্থা ও মেয়েদের শিক্ষায় ধারাবাহিক সহায়তা প্রয়োজন। **Credit:** DelwarHossain; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:No_child_marrige_oath_in_Hajiganj_girls_high_school,_Bangladesh.jpg).
 
@@ -268,7 +268,7 @@ NGO বা Non-Governmental Organization হলো সরকার থেকে 
 
 #### বাস্তব উদাহরণ: বাস্তুচ্যুত রোহিঙ্গা শিশুদের শিক্ষা ও সামাজিক সহায়তা
 
-![Displaced Rohingya children in Bangladesh accessing education and social activities through Child Learning Centres](https://commons.wikimedia.org/wiki/Special:FilePath/Displaced_Rohingya_children_in_Bangladesh_-_000189753.jpg)
+![Displaced Rohingya children in Bangladesh accessing education and social activities through Child Learning Centres](../assets/photos/commons-fb2fee9cc32156ce.jpg)
 
 *চিত্র-পাঠ:* Cox's Bazar-এ বাস্তুচ্যুত শিশুদের শিক্ষা ও সামাজিক কার্যক্রমে প্রবেশাধিকার দিতে humanitarian partners কাজ করে। এটি Australian Humanitarian Partnership-এর ২০২৫ সালের ছবি; কোনো একক NGO-র একক কার্যক্রমের প্রমাণ নয়। **Credit:** Australian Humanitarian Partnership (AHP) Bangladesh; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি ও licence](https://commons.wikimedia.org/wiki/File:Displaced_Rohingya_children_in_Bangladesh_-_000189753.jpg).
 
@@ -359,7 +359,7 @@ NGO-র সাফল্য শুধু কতজনকে প্রশিক্
 
 #### বাস্তব উদাহরণ: ঘূর্ণিঝড় সিডরের পর মানবিক সহায়তা
 
-![Humanitarian assistance and disaster-relief water distribution after Cyclone Sidr in Bangladesh, 2007](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_Humanitarian_Assistance-Disaster_Relief_mission_DVIDS66788.jpg)
+![Humanitarian assistance and disaster-relief water distribution after Cyclone Sidr in Bangladesh, 2007](../assets/photos/commons-9d55fff6be55c43c.jpg)
 
 *চিত্র-পাঠ:* ২০০৭ সালে ঘূর্ণিঝড় সিডরের পর মানবিক সহায়তার ঐতিহাসিক দৃশ্য। ছবিটি US Navy relief mission-এর—এটিকে NGO-র নিজস্ব কার্যক্রম বলা যাবে না; দুর্যোগে সরকার, আন্তর্জাতিক অংশীদার ও স্থানীয় সংস্থার সমন্বয়ের প্রসঙ্গে ব্যবহার করুন। **Credit:** U.S. Navy; [Public Domain (US federal work)](https://commons.wikimedia.org/wiki/File:Bangladesh_Humanitarian_Assistance-Disaster_Relief_mission_DVIDS66788.jpg).
 
@@ -678,3 +678,5 @@ Source: [BCS EXAM — 41st BCS Written Questions](https://bcsexam.org/written-qu
 6. উদ্ধৃতির নির্ভুল ইংরেজি wording ও ব্যবহার-পরামর্শ আলাদা [QUOTATIONS.md]-এ দেওয়া হয়েছে।
 
 [⬆️ Go to Contents](#top) · [PYQ-based Essays](./PYQ-BASED-ESSAYS.md) · [English Quotations](./QUOTATIONS.md) · [মূল সূচি](../README.md)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

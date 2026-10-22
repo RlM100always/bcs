@@ -152,7 +152,7 @@ Structural transformation হলো উৎপাদন ও কর্মসংস
 
 #### Visual: ধান চাষ ও বাংলাদেশের কৃষি
 
-![ধানক্ষেতে বাংলাদেশের কৃষক](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladeshi%20Fully%20Green%20Rice%20cultivation.jpg)
+![ধানক্ষেতে বাংলাদেশের কৃষক](../assets/photos/commons-e8dd9aed25da9411.jpg)
 
 *কী লক্ষ্য করবেন:* কৃষি শুধু ফসল উৎপাদন নয়—কৃষিশ্রম, সেচ, মৌসুমি ঝুঁকি, গ্রামীণ আয় ও খাদ্য সরবরাহের সঙ্গে যুক্ত। [ছবির উৎস ও লাইসেন্স যাচাই](https://commons.wikimedia.org/wiki/File:Bangladeshi_Fully_Green_Rice_cultivation.jpg) · [কৃষি তথ্য: BBS](https://bbs.gov.bd/)
 
@@ -193,7 +193,7 @@ Structural transformation হলো উৎপাদন ও কর্মসংস
 
 #### Visual: তৈরি পোশাকশিল্প ও শ্রম
 
-![বাংলাদেশের পোশাকশিল্পে কর্মপরিবেশ](https://commons.wikimedia.org/wiki/Special:FilePath/Working_conditions_of_Garment_workers_in_Bangladesh.jpg)
+![বাংলাদেশের পোশাকশিল্পে কর্মপরিবেশ](../assets/photos/commons-9bf368ba8fe46628.jpg)
 
 *কী লক্ষ্য করবেন:* উৎপাদন, শ্রমিকের নিরাপত্তা, দক্ষতা ও আন্তর্জাতিক সরবরাহশৃঙ্খলকে একসঙ্গে বিশ্লেষণ করুন। এই ছবি একটি উদাহরণ, পুরো শিল্পের প্রতিনিধিত্বকারী নমুনা নয়। [মূল ছবি ও CC BY-SA 4.0 attribution](https://commons.wikimedia.org/wiki/File:Working_conditions_of_Garment_workers_in_Bangladesh.jpg) · [Export Promotion Bureau](https://epb.gov.bd/)
 
@@ -229,7 +229,7 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 
 #### Visual: বাংলাদেশে তথ্যপ্রযুক্তি ও ডিজিটাল কাজ
 
-![বাংলাদেশের তথ্যপ্রযুক্তি খাত](https://commons.wikimedia.org/wiki/Special:FilePath/IT%20Park%20in%20Jashore%2C%20Bangladesh%202024%20%E2%80%93%20Multi%20Tenant%20Building%2001.jpg)
+![বাংলাদেশের তথ্যপ্রযুক্তি খাত](../assets/photos/commons-9a0ad4399fb3bcad.jpg)
 
 *কী লক্ষ্য করবেন:* ডিজিটাল অর্থনীতির সুযোগ ব্যাখ্যায় connectivity, skills, cybersecurity, data protection ও সবার প্রবেশাধিকার—এই পাঁচটি দিক যুক্ত করুন। [Wikimedia Commons-এ ছবির উৎস অনুসন্ধান ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:IT_Park_in_Jashore,_Bangladesh_2024_%E2%80%93_Multi_Tenant_Building_01.jpg) · [ICT Division](https://ictd.gov.bd/)
 
@@ -263,7 +263,7 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 
 #### Visual: আন্তর্জাতিক শ্রম অভিবাসন
 
-![বাংলাদেশি শ্রম অভিবাসন ও বিদেশগামী কর্মী](https://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20of%20State%20for%20International%20Development%20Andrew%20Mitchell%20speaking%20to%20Bangladeshi%20migrant%20workers.%20%285499005775%29.jpg)
+![বাংলাদেশি শ্রম অভিবাসন ও বিদেশগামী কর্মী](../assets/photos/commons-a43c20b1aa831805.jpg)
 
 *কী লক্ষ্য করবেন:* অভিবাসনকে শুধু রেমিট্যান্স হিসেবে নয়—নিয়োগব্যয়, দক্ষতা, নিরাপদ কর্মপরিবেশ, পরিবারের কল্যাণ ও বৈদেশিক মুদ্রার প্রবাহ হিসেবে বিশ্লেষণ করুন। [Wikimedia Commons-এ ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Secretary_of_State_for_International_Development_Andrew_Mitchell_speaking_to_Bangladeshi_migrant_workers._(5499005775).jpg) · [Bangladesh Bank](https://www.bb.org.bd/)
 
@@ -318,7 +318,7 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 
 #### Visual: শিক্ষা ও মানব পুঁজি
 
-![বাংলাদেশের শ্রেণিকক্ষে শিক্ষার্থীরা](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh%20school%20children%20%288472754825%29.jpg)
+![বাংলাদেশের শ্রেণিকক্ষে শিক্ষার্থীরা](../assets/photos/commons-defb2c463971948d.jpg)
 
 *কী লক্ষ্য করবেন:* মানব উন্নয়নে ভর্তি-হার ছাড়াও শেখার মান, সমতা, স্বাস্থ্য, পুষ্টি ও শ্রমবাজারে দক্ষতার ব্যবহার গুরুত্বপূর্ণ। [Wikimedia Commons-এ ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Bangladesh_school_children_(8472754825).jpg) · [Bangladesh Bureau of Statistics](https://bbs.gov.bd/)
 
@@ -361,7 +361,7 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 
 #### Visual: নারীর অর্থনৈতিক অংশগ্রহণ
 
-![বাংলাদেশের নারীরা উৎপাদনমূলক কাজে](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladeshi%20women%20sewing%20clothes.jpg)
+![বাংলাদেশের নারীরা উৎপাদনমূলক কাজে](../assets/photos/commons-ab904c6747e540c7.jpg)
 
 *কী লক্ষ্য করবেন:* নারীর কর্মসংস্থান বিশ্লেষণে মজুরি, নিরাপত্তা, unpaid care work, নেতৃত্বে অংশগ্রহণ ও দক্ষতা উন্নয়ন বিবেচনা করুন। [Wikimedia Commons-এ ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/Category:Women_garment_workers_in_Bangladesh) · [BBS](https://bbs.gov.bd/)
 
@@ -413,7 +413,7 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 
 #### Visual: বাংলা নববর্ষ ও জনসংস্কৃতি
 
-![বাংলা নববর্ষের শোভাযাত্রা](https://commons.wikimedia.org/wiki/Special:FilePath/Pohela_boishakh_rally.jpg)
+![বাংলা নববর্ষের শোভাযাত্রা](../assets/photos/commons-45883d8f2e8ab60d.jpg)
 
 *কী লক্ষ্য করবেন:* সাংস্কৃতিক পরিচয় কেবল ঐতিহ্যের সংরক্ষণ নয়; জনসমাগম, শিল্প, প্রতীক, ভাষা ও প্রজন্মান্তরের চর্চার মাধ্যমেও তা গড়ে ওঠে। [মূল ছবি ও attribution](https://commons.wikimedia.org/wiki/File:Pohela_boishakh_rally.jpg) · [UNESCO Intangible Cultural Heritage](https://ich.unesco.org/)
 
@@ -426,7 +426,7 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 
 দেশাত্মবোধক গান, মুক্তিযুদ্ধের গান, রবীন্দ্রসংগীত, নজরুলসংগীত, আধুনিক গান, লোকসংগীত, ভাটিয়ালি, ভাওয়াইয়া, বাউল, জারি-সারি এবং সমকালীন জনপ্রিয় সংগীত ভিন্ন ভিন্ন শ্রোতা ও সামাজিক প্রেক্ষাপটে বিকশিত হয়েছে। সংগীত স্মৃতি, প্রতিবাদ, ধর্মীয় অনুভূতি, প্রেম, শ্রম, অঞ্চল ও প্রজন্মের অভিজ্ঞতা বহন করতে পারে। বাণিজ্যিক মাধ্যম ও ডিজিটাল প্ল্যাটফর্ম বিতরণ বাড়ালেও শিল্পীর ন্যায্য পারিশ্রমিক, কপিরাইট ও ঐতিহ্য সংরক্ষণ জরুরি।
 
-![বাংলাদেশের গ্রামীণ লোকসংস্কৃতির বাউল শিল্পী](https://commons.wikimedia.org/wiki/Special:FilePath/Baul_of_Bengal.jpg)
+![বাংলাদেশের গ্রামীণ লোকসংস্কৃতির বাউল শিল্পী](../assets/photos/commons-08103d1dfd6a9f74.jpg)
 
 **ছবির উৎস ও লাইসেন্স:** [Wikimedia Commons — Baul of Bengal.jpg](https://commons.wikimedia.org/wiki/File:Baul_of_Bengal.jpg), Bijoykrishnaa, 2025; CC BY-SA 4.0. বাউল গান ২০০৮ সালে UNESCO-র Intangible Cultural Heritage তালিকায় অন্তর্ভুক্ত হয়। [UNESCO source](https://ich.unesco.org/en/RL/baul-songs-00107)
 
@@ -438,7 +438,7 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 
 চিত্রকলা, ভাস্কর্য, গ্রাফিক আর্ট, আলোকচিত্র, স্থাপত্য ও জনশিল্পে ভাষা আন্দোলন, মুক্তিযুদ্ধ, কৃষক-শ্রমিক, প্রকৃতি, শহুরে জীবন ও সমকালীন পরিচয়ের প্রতিফলন দেখা যায়। শিল্পকর্মের ব্যাখ্যায় শিল্পী, সময়, মাধ্যম, বিষয় এবং দর্শক-প্রতিক্রিয়া উল্লেখ করা যায়। ঐতিহাসিক স্থাপনা, জাদুঘর, গ্রন্থাগার, আর্কাইভ ও শিল্পসংগ্রহের সংরক্ষণ সাংস্কৃতিক নীতির অংশ।
 
-![ঢাকায় রিকশাচিত্র আঁকার প্রক্রিয়া](https://commons.wikimedia.org/wiki/Special:FilePath/Rickshaw_Art.jpg)
+![ঢাকায় রিকশাচিত্র আঁকার প্রক্রিয়া](../assets/photos/commons-4c7a9ef48ca212f2.jpg)
 
 **ছবির উৎস ও লাইসেন্স:** [Wikimedia Commons — Rickshaw Art.jpg](https://commons.wikimedia.org/wiki/File:Rickshaw_Art.jpg), Joysaha.bd, 2024; CC BY-SA 4.0. UNESCO 2023 সালে “Rickshaws and rickshaw painting in Dhaka” তালিকাভুক্ত করে। [UNESCO source](https://ich.unesco.org/en/state/bangladesh-BD)
 
@@ -465,7 +465,7 @@ Ready-Made Garments (RMG) বাংলাদেশের রপ্তানি-�
 
 #### Visual: বাংলাদেশের ঐতিহ্যবাহী জামদানি বয়ন
 
-![ঐতিহ্যবাহী জামদানি বয়নশিল্প](https://commons.wikimedia.org/wiki/Special:FilePath/Traditional%20Jamdani%20Weaving.jpg)
+![ঐতিহ্যবাহী জামদানি বয়নশিল্প](../assets/photos/commons-234f7acb30998544.jpg)
 
 *কী লক্ষ্য করবেন:* জামদানি দক্ষতা, নকশা, জীবন্ত ঐতিহ্য, কারুশিল্পভিত্তিক জীবিকা এবং সাংস্কৃতিক জ্ঞান প্রজন্মান্তরে হস্তান্তরের উদাহরণ। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Traditional_Jamdani_Weaving.jpg) · [UNESCO: Jamdani weaving](https://ich.unesco.org/en/RL/traditional-art-of-jamdani-weaving-00879)
 
@@ -804,3 +804,5 @@ https://ich.unesco.org/en/state/bangladesh-BD
 **উত্তরের সূত্র:** Claim → Evidence → Explanation → Limitation → Recommendation → Conclusion.
 
 **শেষ কথা:** স্বাধীনতা-পরবর্তী বাংলাদেশের অর্জন গুরুত্বপূর্ণ, কিন্তু উন্নয়নের পরবর্তী ধাপ নির্ভর করবে প্রবৃদ্ধিকে উৎপাদনশীল কাজ, সমান সুযোগ, কার্যকর প্রতিষ্ঠান, সামাজিক মর্যাদা ও সাংস্কৃতিক বহুত্বের সঙ্গে কতটা যুক্ত করা যায় তার ওপর।
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

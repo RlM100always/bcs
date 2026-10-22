@@ -155,7 +155,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 
 #### বাস্তব ছবি: বাংলাদেশের উর্বর কৃষিজমি
 
-![বাংলাদেশের সবুজ ধানক্ষেত ও কৃষিজমি](https://commons.wikimedia.org/wiki/Special:FilePath/Panorama%20of%20Scenery%20with%20Rice%20Paddy%20-%20Rangamati%20-%20Chittagong%20Hill%20Tracts%20-%20Bangladesh%20%2813240683085%29.jpg)
+![বাংলাদেশের সবুজ ধানক্ষেত ও কৃষিজমি](../assets/photos/commons-004a0d3296cc3ca5.jpg)
 
 *চিত্র-পাঠ:* পলিমাটি, ধান উৎপাদন, খাদ্যনিরাপত্তা এবং কৃষিজমি রক্ষার প্রয়োজনীয়তা মিলিয়ে পড়ুন। ছবিটি একটি উদাহরণ; কৃষিজমির পরিমাণের পরিসংখ্যান নয়। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Panorama_of_Scenery_with_Rice_Paddy_-_Rangamati_-_Chittagong_Hill_Tracts_-_Bangladesh_(13240683085).jpg) · [BBS-এর কৃষি ও ভূমি পরিসংখ্যান](https://bbs.gov.bd/)
 
@@ -200,7 +200,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 
 #### বাস্তব ছবি: যমুনা নদী ও নদীতীরের পরিবর্তন
 
-![যমুনা নদীর প্রবাহ ও নদীতীর](https://commons.wikimedia.org/wiki/Special:FilePath/Jamuna%20River%20Bangladesh%2C%2025%20June%202022.jpg)
+![যমুনা নদীর প্রবাহ ও নদীতীর](../assets/photos/commons-6645a6a38ca8d15b.jpg)
 
 *চিত্র-পাঠ:* নদীসম্পদ সেচ, মৎস্য, নৌপরিবহন ও পলি সরবরাহ করে; একই সঙ্গে ভাঙন, বন্যা ও উজান-ভাটির পানি ব্যবস্থাপনার চ্যালেঞ্জ তৈরি করে। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Jamuna_River_Bangladesh,_25_June_2022.jpg) · [FAO: Bangladesh at a glance](https://www.fao.org/bangladesh/our-office/bangladesh-at-a-glance/en)
 
@@ -253,9 +253,9 @@ Integrated Water Resources Management বা IWRM হলো নদী অবব�
 
 #### বাস্তব ছবি: চট্টগ্রাম পার্বত্য অঞ্চলের বন
 
-![বাংলাদেশের পাহাড়ি বনাঞ্চল](https://commons.wikimedia.org/wiki/Special:FilePath/Forest%20in%20Chittagong%20Hill%20Tracts.jpg)
+![কাপ্তাই জাতীয় উদ্যানের পাহাড়ি বনাঞ্চল](../assets/photos/commons-ba9b64c228556db3.jpg)
 
-*চিত্র-পাঠ:* পাহাড়ি বন মাটিক্ষয় নিয়ন্ত্রণ, পানি ধারণ, জীববৈচিত্র্য ও স্থানীয় জীবিকার সঙ্গে যুক্ত। সংরক্ষণে স্থানীয় জনগোষ্ঠীর অধিকার ও অংশগ্রহণও গুরুত্বপূর্ণ। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/Category:Forests_in_Chittagong_Hill_Tracts) · [Forest Department](https://bforest.portal.gov.bd/)
+*চিত্র-পাঠ:* পাহাড়ি বন মাটিক্ষয় নিয়ন্ত্রণ, পানি ধারণ, জীববৈচিত্র্য ও স্থানীয় জীবিকার সঙ্গে যুক্ত। সংরক্ষণে স্থানীয় জনগোষ্ঠীর অধিকার ও অংশগ্রহণও গুরুত্বপূর্ণ। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Kaptai_national_Park_(cropped).jpg) · [Forest Department](https://bforest.portal.gov.bd/)
 
 
 বন কেবল কাঠের উৎস নয়। বন কার্বন ধারণ, মাটি ও পানি সংরক্ষণ, বন্যপ্রাণীর আবাসস্থল, জীবিকার উপকরণ, পর্যটন, গবেষণা এবং উপকূলীয় ঝুঁকি প্রশমনে অবদান রাখে। বন ধ্বংস হলে কাঠের সরবরাহের বাইরে জলচক্র, মাটি, স্থানীয় জীবিকা এবং জীববৈচিত্র্যের ক্ষতি হয়।
@@ -302,15 +302,15 @@ Integrated Water Resources Management বা IWRM হলো নদী অবব�
 
 #### বাস্তব ছবি: নদী ও অবতরণকেন্দ্রে মাছ ধরা
 
-![বাংলাদেশে নদীর মাছ ধরা ও মৎস্য আহরণ](https://commons.wikimedia.org/wiki/Special:FilePath/Fishing%20in%20jamuna%20river%2007.jpg)
+![বাংলাদেশে নদীর মাছ ধরা ও মৎস্য আহরণ](../assets/photos/commons-a3fb065bffe8e15f.jpg)
 
 *চিত্র-পাঠ:* মৎস্যসম্পদ পুষ্টি, কর্মসংস্থান ও গ্রামীণ আয়ের উৎস; অতিরিক্ত আহরণ, প্রজনন মৌসুমে মাছ ধরা এবং জলদূষণ এর স্থায়িত্বকে ক্ষতিগ্রস্ত করে। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Fishing_in_jamuna_river_07.jpg) · [Department of Fisheries](https://fisheries.gov.bd/)
 
 #### বাস্তব ছবি: সামুদ্রিক মৎস্য ও উপকূলীয় জীবিকা
 
-![বাংলাদেশের উপকূলে মাছ ধরার নৌকা](https://commons.wikimedia.org/wiki/Special:FilePath/Fishing%20boats%20in%20Cox%27s%20Bazar%2C%20Bangladesh.jpg)
+![বাংলাদেশের উপকূলে মাছ ধরার নৌকা](../assets/photos/commons-3661e1f7507229b3.jpg)
 
-*চিত্র-পাঠ:* সামুদ্রিক সম্পদ ব্যবস্থাপনায় নিরাপদ নৌযাত্রা, মাছের মজুদ, নিষিদ্ধ মৌসুম, উপকূলীয় জীবিকা ও blue economy-র ভারসাম্য আলোচনা করুন। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/Category:Fishing_boats_in_Bangladesh) · [Department of Fisheries](https://fisheries.gov.bd/)
+*চিত্র-পাঠ:* সামুদ্রিক সম্পদ ব্যবস্থাপনায় নিরাপদ নৌযাত্রা, মাছের মজুদ, নিষিদ্ধ মৌসুম, উপকূলীয় জীবিকা ও blue economy-র ভারসাম্য আলোচনা করুন। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Cox_Bazar_(_Sea_fishing_boat).JPG) · [Department of Fisheries](https://fisheries.gov.bd/)
 
 
 মৎস্যসম্পদ বাংলাদেশের খাদ্য ও জীবিকার গুরুত্বপূর্ণ অংশ। নদী, হাওর, বিল, প্লাবনভূমি, পুকুর, ঘের ও সামুদ্রিক অঞ্চলের মাছ ও অন্যান্য জলজ প্রাণী খাদ্য, কর্মসংস্থান, ক্ষুদ্র উদ্যোগ এবং রপ্তানিতে অবদান রাখতে পারে। তবে সম্পদের স্থায়িত্ব নির্ভর করে প্রজননক্ষেত্র, পানির গুণমান, প্রজাতির বৈচিত্র্য, আহরণের মাত্রা ও জলবায়ুর ওপর।
@@ -347,15 +347,15 @@ Integrated Water Resources Management বা IWRM হলো নদী অবব�
 <a id="energy"></a>
 ## ৯. খনিজ ও জ্বালানি সম্পদ: নিরাপত্তা, রূপান্তর ও দায়িত্বশীল ব্যবহার
 
-#### বাস্তব ছবি: গ্যাস অবকাঠামো
+#### বাস্তব ছবি: তিতাস গ্যাসক্ষেত্রে উৎপাদন কার্যক্রম
 
-![বাংলাদেশের গ্যাস কম্প্রেসর অবকাঠামো](https://www.virtualbangladesh.com/images/ashuganj-gas-compressor.jpg)
+![তিতাস-২৮ কূপে গ্যাস উৎপাদন উদ্বোধন, ব্রাহ্মণবাড়িয়া, ২০২৬](../assets/photos/commons-01315777746bcf57.jpg)
 
-*চিত্র-পাঠ:* গ্যাস অনুসন্ধান, উৎপাদন, কম্প্রেশন, সঞ্চালন ও বিতরণ হলো জ্বালানি value chain-এর ধাপ। [ছবির পৃষ্ঠা](https://www.virtualbangladesh.com/the-basics/geography/natural-resources/) · [Energy and Mineral Resources Division](https://emrd.gov.bd/)
+*চিত্র-পাঠ:* গ্যাস অনুসন্ধান, উৎপাদন, কম্প্রেশন, সঞ্চালন ও বিতরণ হলো জ্বালানি value chain-এর ধাপ। [ছবির পৃষ্ঠা](https://commons.wikimedia.org/wiki/File:State_Minister_for_Power,_Energy_and_Mineral_Resources_Anindya_Islam_Amit_inaugurating_gas_production_at_Titas-28_well,_Brahmanbaria,_2026-09-19.jpg) · [Energy and Mineral Resources Division](https://emrd.gov.bd/)
 
 #### বাস্তব ছবি: বড়পুকুরিয়া কয়লাখনি
 
-![বড়পুকুরিয়া কয়লাখনি, দিনাজপুর](https://commons.wikimedia.org/wiki/Special:FilePath/Barapukuria%20Coal%20Mine%20Dinajpur%20Bangladesh.JPG)
+![বড়পুকুরিয়া কয়লাখনি, দিনাজপুর](../assets/photos/commons-e75362aa44c2f143.jpg)
 
 *চিত্র-পাঠ:* কয়লা স্থানীয় জ্বালানি সরবরাহে ভূমিকা রাখতে পারে, তবে খনির নিরাপত্তা, ভূগর্ভস্থ পানি, ভূমি-ব্যবহার, পুনর্বাসন ও নির্গমনের ব্যয়ও মূল্যায়ন করতে হয়। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Barapukuria_Coal_Mine_Dinajpur_Bangladesh.JPG) · [EMRD](https://emrd.gov.bd/)
 
@@ -538,7 +538,7 @@ EIA হলো কোনো প্রস্তাবিত প্রকল্প�
 ## ১২A. Exact maps and real-world visual references
 
 ### Official map — Protected areas of Bangladesh (Forest Department, 2023)
-![Bangladesh protected areas map, Forest Department 2023](https://bforest.portal.gov.bd/sites/default/files/files/bforest.portal.gov.bd/page/054e001b_8ba9_45d0_9f52_8fbec891361d/2023-06-12-06-34-f74e1be7bbfa81a7e2bad1f6229fe0e4.jpg)
+![Bangladesh protected areas map, Forest Department 2023](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bforest/2024/12/867737834ba44849b1ec2e3df7c56889.jpg)
 
 **How to use it:** identify protected-area clusters across the Sundarbans, northeast, southeast and coastal islands; connect each cluster with its ecosystem type and conservation purpose. This map is dated 2023. Do not treat it as a live boundary layer or as a current count of protected areas. For the later official list, consult the [Forest Department’s protected-area page](https://bforest.gov.bd/pages/static-pages/6922e13b933eb65569e2b006), updated in 2026.
 
@@ -553,7 +553,7 @@ EIA হলো কোনো প্রস্তাবিত প্রকল্প�
 **How to use it:** compare the Sundarbans mangrove block, hill forests in the southeast and northeast, and sal forest landscapes. **Forest cover, tree cover and legally designated forest land are different measures.** Check the map legend and reference year before using it in an answer. [Forest Department forest-cover resources](https://bforest.gov.bd/pages/static-pages/6922de5a933eb65569e1a138)
 
 ### Photo — Sundarbans mangrove river channel
-![Sundarbans river channel and mangrove forest](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/The_Sundarban_forest_river_channel%2CBangladesh.jpg/1280px-The_Sundarban_forest_river_channel%2CBangladesh.jpg)
+![Sundarbans river channel and mangrove forest](../assets/photos/commons-1480f3d0e0b93a36.jpg)
 
 **Credit:** Syed Sajidul Islam, “The Sundarban forest river channel, Bangladesh” (2016), [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:The_Sundarban_forest_river_channel,Bangladesh.jpg), licensed **CC BY-SA 4.0**. Reuse requires attribution, a link to the licence and an indication if changes were made.
 
@@ -1021,3 +1021,5 @@ https://www.bdp2100kp.gov.bd/atlas/ · https://bdp2100kp.gov.bd/BDPAtlas/DataLay
 ---
 
 [⬆️ উপরে ফিরুন](#top) · [Bangladesh Affairs সূচি](../README.md)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

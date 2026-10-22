@@ -110,12 +110,12 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Subjec
 ৪. ২১ ফেব্রুয়ারি পরবর্তীকালে UNESCO-র International Mother Language Day হিসেবে আন্তর্জাতিক স্বীকৃতি পায়। [S4]
 
 #### ১. ১৯৫২ সালের ভাষা আন্দোলন
-![1952 Bengali Language Movement procession in Dhaka](https://commons.wikimedia.org/wiki/Special:FilePath/1952_Bengali_Language_movement.jpg)
+![1952 Bengali Language Movement procession in Dhaka](../assets/photos/commons-94772d3b8eb9b2b4.jpg)
 
 **পরীক্ষায় প্রয়োগ:** ভাষা আন্দোলনের গণভিত্তি ও বাঙালি জাতীয়তাবাদের সাংস্কৃতিক শিকড়। Source/file page: [Wikimedia Commons — 1952 Bengali Language movement.jpg](https://commons.wikimedia.org/wiki/File:1952_Bengali_Language_movement.jpg) (file page lists public-domain status).
 
 #### ২. শহিদ মিনার
-![Shaheed Minar of the Bengali language movement](https://upload.wikimedia.org/wikipedia/commons/e/e4/Shaheed_Minar_of_the_Bengali_language_movement.jpg)
+![Shaheed Minar of the Bengali language movement](../assets/photos/commons-07362ffe0dc9f0f8.jpg)
 
 **পরীক্ষায় প্রয়োগ:** ভাষা-শহিদদের স্মৃতি, সাংস্কৃতিক পরিচয় ও স্মৃতির রাজনীতি। Source/licence: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Shaheed_Minar_of_the_Bengali_language_movement.jpg), CC BY-SA 4.0; attribution required.
 
@@ -178,7 +178,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Subjec
 ১ মার্চ জাতীয় পরিষদের অধিবেশন স্থগিতের ঘোষণার পর পূর্ব বাংলায় ব্যাপক প্রতিবাদ শুরু হয়। প্রশাসন, শিক্ষা প্রতিষ্ঠান, ব্যবসা ও দৈনন্দিন কার্যক্রমে অসহযোগ আন্দোলন ছড়িয়ে পড়ে। আওয়ামী লীগের নেতৃত্বে কেন্দ্রীয় সরকারের কর্তৃত্ব কার্যত চ্যালেঞ্জের মুখে পড়ে। এ আন্দোলন শুধু রাজনৈতিক সভা-সমাবেশে সীমিত ছিল না; প্রশাসনিক নির্দেশ পালন, রাজস্ব ও যোগাযোগ ব্যবস্থার ওপরও এর প্রভাব পড়ে।
 
 #### ৩. ৭ মার্চের ভাষণ
-![Sheikh Mujibur Rahman delivering the 7 March 1971 speech](https://upload.wikimedia.org/wikipedia/commons/e/e3/Sheikh_Mujibur_Rahman_Delivering_7_March_Speech_of_Sheikh_Mujibur_Rahman_at_Ramna_Race_Course_Dhaka_1971-03-07_%28PID-0033891%29.jpg)
+![Sheikh Mujibur Rahman delivering the 7 March 1971 speech](../assets/photos/commons-ca8ae83e5e644293.jpg)
 
 **পরীক্ষায় প্রয়োগ:** অসহযোগ আন্দোলন, গণসংগঠন ও স্বাধীনতার রাজনৈতিক প্রস্তুতি। Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Sheikh_Mujibur_Rahman_Delivering_7_March_Speech_of_Sheikh_Mujibur_Rahman_at_Ramna_Race_Course_Dhaka_1971-03-07_%28PID-0033891%29.jpg); verify the file page for attribution and reuse terms. Related authoritative record: [UNESCO Memory of the World](https://www.unesco.org/en/memory-world/historic-7th-march-speech-bangabandhu-sheikh-mujibur-rahman).
 
@@ -226,12 +226,12 @@ UNESCO ২০১৭ সালে ভাষণটিকে Memory of the World In
 **সংখ্যা ব্যবহারের নিয়ম:** মৃত্যুর সংখ্যা, ধর্ষণের শিকার, শরণার্থী এবং বাস্তুচ্যুত মানুষের সংখ্যা বিভিন্ন সরকারি, গবেষণামূলক ও আন্তর্জাতিক উৎসে ভিন্নভাবে পাওয়া যায়। পরীক্ষায় নির্দিষ্ট সংখ্যা লিখলে উৎস, সংজ্ঞা ও অনুমানের সীমা উল্লেখ করুন। কোনো সংখ্যা যাচাই করতে না পারলে “millions of refugees” বা “widespread atrocities” ধরনের সংযত বর্ণনা ব্যবহার করুন এবং প্রতিষ্ঠিত উৎস উল্লেখ করুন। [S6, S7]
 
 #### ৮. জাতীয় স্মৃতিসৌধ, সাভার
-![National Martyrs Memorial in Savar](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_National_Martyrs%E2%80%99_Memorial.jpg/960px-The_National_Martyrs%E2%80%99_Memorial.jpg)
+![National Martyrs Memorial in Savar](../assets/photos/commons-bbfbf559f1a136c7.jpg)
 
 **পরীক্ষায় প্রয়োগ:** জাতীয় স্মৃতি, আত্মত্যাগ ও স্বাধীনতার প্রতীক। Source/licence: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:The_National_Martyrs%E2%80%99_Memorial.jpg); file page credits Shafiul Islam Shaikot.
 
 #### ৯. মুক্তিযুদ্ধ জাদুঘর
-![Bangladesh Liberation War Museum](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_Liberation_War_Museum.jpg?width=1000)
+![Bangladesh Liberation War Museum](../assets/photos/commons-5fce4598f3b669d6.jpg)
 
 **পরীক্ষায় প্রয়োগ:** দলিল সংরক্ষণ, মৌখিক ইতিহাস, প্রমাণ ও জাতীয় স্মৃতি। Source/licence: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Bangladesh_Liberation_War_Museum.jpg), CC BY 2.0.
 
@@ -249,12 +249,12 @@ UNESCO ২০১৭ সালে ভাষণটিকে Memory of the World In
 স্বাধীনতার ঘোষণাপত্র ১০ এপ্রিল ১৯৭১-এ গৃহীত হয়; ১৭ এপ্রিল মেহেরপুরের বৈদ্যনাথতলায় অস্থায়ী সরকারের শপথ অনুষ্ঠিত হয়। স্থানটি পরে মুজিবনগর নামে পরিচিত হয়। বঙ্গবন্ধু শেখ মুজিবুর রহমান রাষ্ট্রপতি, সৈয়দ নজরুল ইসলাম অস্থায়ী রাষ্ট্রপতি, তাজউদ্দীন আহমদ প্রধানমন্ত্রী এবং অন্যান্য নেতারা সরকার পরিচালনায় দায়িত্ব পালন করেন। বঙ্গবন্ধু পাকিস্তানে বন্দি থাকায় অস্থায়ী রাষ্ট্রপতি কার্যনির্বাহী নেতৃত্ব দেন। নাম ও পদবির বিস্তারিত প্রাথমিক ঘোষণাপত্র ও সরকারি নথি অনুযায়ী লিখুন। [S8]
 
 #### ৪. মুজিবনগর সরকার: ১৭ এপ্রিল ১৯৭১
-![Provisional Government of Bangladesh on 17 April 1971](https://commons.wikimedia.org/wiki/Special:FilePath/Provisional_Government_of_BD.jpg?width=1000)
+![Provisional Government of Bangladesh on 17 April 1971](../assets/photos/commons-7496b88200dbef8d.jpg)
 
 **পরীক্ষায় প্রয়োগ:** অস্থায়ী সরকারের শপথ, বৈধতা ও মুক্তিযুদ্ধের প্রশাসনিক কাঠামো। Source/file page: [Wikimedia Commons — Provisional Government of BD.jpg](https://commons.wikimedia.org/wiki/File:Provisional_Government_of_BD.jpg); attribution/licence details are on the file page.
 
 #### ৫. মুজিবনগর স্মৃতিসৌধ ও বাংলাদেশের মানচিত্র
-![Aerial view of the map at Mujibnagar Memorial Complex](https://commons.wikimedia.org/wiki/Special:FilePath/Mujibnagar_Memorial_Bangladesh_Map._%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%A8%E0%A6%97%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A7%8C%E0%A6%A7_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A5%A4.jpg?width=1000)
+![Aerial view of the map at Mujibnagar Memorial Complex](../assets/photos/commons-7d90a866513c215f.jpg)
 
 **পরীক্ষায় প্রয়োগ:** মুজিবনগরের ভৌগোলিক অবস্থান, অস্থায়ী সরকারের শপথ এবং মুক্তিযুদ্ধের স্মৃতির মানচিত্রায়ন। Source/licence: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Mujibnagar_Memorial_Bangladesh_Map._%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%A8%E0%A6%97%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A7%8C%E0%A6%A7_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A5%A4.jpg); CC BY 4.0 according to the file page.
 
@@ -274,12 +274,12 @@ UNESCO ২০১৭ সালে ভাষণটিকে Memory of the World In
 মুক্তিযুদ্ধ ছিল নিয়মিত বাহিনী, গেরিলা যোদ্ধা, স্থানীয় প্রতিরোধ এবং সাধারণ মানুষের সহায়তার সমন্বিত সংগ্রাম। যুদ্ধ পরিচালনায় অঞ্চলভিত্তিক সেক্টর সংগঠন, প্রশিক্ষণ, যোগাযোগ, গোয়েন্দা তথ্য, সরবরাহ এবং স্থানীয় জনসমর্থন গুরুত্বপূর্ণ ছিল। মুক্তিবাহিনীর অভিযান পাকিস্তানি বাহিনীর চলাচল ও নিয়ন্ত্রণকে চ্যালেঞ্জ করে। ডিসেম্বর ১৯৭১-এ ভারতীয় বাহিনী ও বাংলাদেশের মুক্তিবাহিনীর যৌথ সামরিক অগ্রযাত্রার মধ্যে যুদ্ধ দ্রুত চূড়ান্ত পর্যায়ে পৌঁছায়।
 
 #### ৬. মুক্তিযুদ্ধের ১১টি সেক্টরের মানচিত্র
-![Bangladesh Liberation War sectors map](https://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A7%80%E0%A6%A8%E0%A6%A4%E0%A6%BE_%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9.svg?width=1000)
+![Bangladesh Liberation War sectors map](../assets/photos/commons-cbda349f23350a10.png)
 
 **পরীক্ষায় প্রয়োগ:** সেক্টরভিত্তিক সংগঠন, আঞ্চলিক প্রতিরোধ ও গেরিলা যুদ্ধ। Source/licence: [Wikimedia Commons sector map](https://commons.wikimedia.org/wiki/File:%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A7%80%E0%A6%A8%E0%A6%A4%E0%A6%BE_%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9.svg); CC0/public-domain dedication on the file page. Historical boundary simplifications should not replace a dated operational map.
 
 #### ৭. আত্মসমর্পণ দলিল, ১৬ ডিসেম্বর ১৯৭১
-![Signing of the Instrument of Surrender on 16 December 1971](https://upload.wikimedia.org/wikipedia/commons/d/d9/1971_Instrument_of_Surrender_WaPo.jpg)
+![Signing of the Instrument of Surrender on 16 December 1971](../assets/photos/commons-e1de03b85b0356ff.jpg)
 
 **পরীক্ষায় প্রয়োগ:** চূড়ান্ত বিজয়, আত্মসমর্পণ ও যুদ্ধের সামরিক সমাপ্তি। Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:1971_Instrument_of_Surrender_WaPo.jpg); check file-page source/licence before reuse.
 
@@ -291,7 +291,7 @@ UNESCO ২০১৭ সালে ভাষণটিকে Memory of the World In
 ## ১০. প্রধান শক্তি, জাতিসংঘ ও আন্তর্জাতিক প্রতিক্রিয়া
 
 #### ১০. ১৯৭১-এর “Blood Telegram” দলিলের পুনরুৎপাদন
-![Reproduction of the Blood Telegram at the Liberation War Museum](https://commons.wikimedia.org/wiki/Special:FilePath/Detail_of_Reproduction_of_the_Blood_Telegram_from_1971_Genocide_-_Liberation_War_Museum_-_Dhaka_-_Bangladesh_%2812826753894%29.jpg?width=1000)
+![Reproduction of the Blood Telegram at the Liberation War Museum](../assets/photos/commons-6e53097304bf53bb.jpg)
 
 **পরীক্ষায় প্রয়োগ:** আন্তর্জাতিক কূটনীতি, মার্কিন কনস্যুলেটের প্রতিবাদ, মানবাধিকার ও শীতল যুদ্ধের প্রেক্ষাপট। Source/licence: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Detail_of_Reproduction_of_the_Blood_Telegram_from_1971_Genocide_-_Liberation_War_Museum_-_Dhaka_-_Bangladesh_%2812826753894%29.jpg), CC BY-SA 2.0.
 
@@ -411,3 +411,5 @@ UNESCO ২০১৭ সালে ভাষণটিকে Memory of the World In
 - **Exam writing:** তারিখ, দলিল ও প্রতিষ্ঠান দিয়ে যুক্তি সমর্থন করুন; উৎসের নাম লিখুন; প্রশ্নের বাইরে অপ্রয়োজনীয় ঘটনা যোগ করবেন না।
 
 [⬆️ উপরে যান](#top) · [৩৫তম–৪৭তম PYQ audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি answered model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [📚 PYQ-based Essays](./PYQ-BASED-ESSAYS.md) · [২০টি English Quotations + Sources](./QUOTATIONS.md#verified-quotes) · [সূচিতে ফিরে যান](../README.md)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।
