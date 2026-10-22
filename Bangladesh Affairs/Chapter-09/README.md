@@ -459,6 +459,7 @@ https://data.unhcr.org/en/country/BGD/12110
 
 **[S10] United Nations in Bangladesh.** *Recalibrating the Rohingya Response: 2025–26 Joint Response Plan* (20 May 2026).  
 https://bangladesh.un.org/en/315838-recalibrating-rohingya-response-2025-26-joint-response-plan
+অনলাইন যাচাই: ২২ অক্টোবর ২০২৬; পাতার Summary অংশে জানুয়ারি–ডিসেম্বর ২০২৬-এর জন্য ১.৬ মিলিয়ন মানুষকে সহায়তায় ৭১০.৫ মিলিয়ন মার্কিন ডলারের প্রয়োজন উল্লেখ আছে।
 
 **[S11] Wikimedia Commons.** Aplaice, *Bay of Bengal in its region.svg* (2021), CC BY-SA 4.0.  
 https://commons.wikimedia.org/wiki/File:Bay_of_Bengal_in_its_region.svg
@@ -495,9 +496,11 @@ https://bcsexam.org/written-questions
 
 **VERIFIED:** আঞ্চলিক মানচিত্রের ফাইল, প্রণেতা ও লাইসেন্স Wikimedia Commons metadata-তে পাওয়া গেছে; স্থানীয় ছবিটি খুলে পরীক্ষা করা হয়েছে।
 
+**VERIFIED — JRP পরিকল্পনার পরিসংখ্যান (২২ অক্টোবর ২০২৬):** UN in Bangladesh-এর ২০ মে ২০২৬-এ প্রকাশিত [মূল পাতার Summary](https://bangladesh.un.org/en/315838-recalibrating-rohingya-response-2025-26-joint-response-plan) সরাসরি পড়ে নিশ্চিত করা হয়েছে: জানুয়ারি–ডিসেম্বর ২০২৬ সময়ে ১.৬ মিলিয়ন মানুষকে সহায়তা পৌঁছাতে ৭১০.৫ মিলিয়ন মার্কিন ডলারের প্রয়োজন চিহ্নিত করা হয়েছে। লক্ষ্য জনগোষ্ঠীতে রোহিঙ্গা শরণার্থী ও বাংলাদেশের স্থানীয় আশ্রয়দাতা জনগোষ্ঠী উভয়ই অন্তর্ভুক্ত। এটি পরিকল্পনার অর্থায়ন-চাহিদা; প্রাপ্ত অর্থ বা শুধু শরণার্থীর সংখ্যা নয়।
+
 **PARTIALLY VERIFIED:** প্রশ্নের বছরভিত্তিক তালিকা secondary archive-ভিত্তিক; মূল BPSC প্রশ্নপত্রের স্বাধীন যাচাই বাকি।
 
-**UNVERIFIED — স্বতন্ত্র পুনঃযাচাই (২২ অক্টোবর ২০২৬):** AFD-এর শান্তিরক্ষা ranking এবং UN Bangladesh-এর ২০২৫–২৬ JRP পাতা এই পরিবেশের network restriction-এর কারণে খোলা যায়নি; **মূল উৎসে যাচাই করা সম্ভব হয়নি**। সংশ্লিষ্ট বছরভিত্তিক ranking ও response-plan পরিসংখ্যানকে পুনরায় যাচাই করা প্রয়োজন। এগুলো বর্তমান personnel count, প্রাপ্ত অর্থ বা শরণার্থীর হালনাগাদ সংখ্যা হিসেবে ব্যবহার করবেন না।
+**UNVERIFIED — স্বতন্ত্র পুনঃযাচাই (২২ অক্টোবর ২০২৬):** AFD-এর শান্তিরক্ষা ranking-এর পাতা HTTP 403 ফেরত দেওয়ায় **মূল উৎসে যাচাই করা সম্ভব হয়নি**। সংশ্লিষ্ট বছরভিত্তিক ranking পুনরায় যাচাই করা প্রয়োজন; এটি বর্তমান personnel count হিসেবে ব্যবহার করবেন না।
 
 [⬆️ সূচিতে ফিরে যান](#top) · [35th–47th PYQ Audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [PYQ-ভিত্তিক প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [১৮টি English Quotations](./QUOTATIONS.md#verified-quotes)
 
