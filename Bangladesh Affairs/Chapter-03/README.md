@@ -32,6 +32,7 @@
 ---
 
 <a id="start"></a>
+<a id="syllabus"></a>
 ## ১. BPSC Syllabus Mapping ও শিখনফল
 
 BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compulsory), Subject Code 005-এর ৩ নম্বর বিষয়: **“History and culture of Bangladesh from ancient to recent times.”** একই সিলেবাসের ১৬ নম্বর বিষয় “The Liberation War and its Background”—যেখানে ভাষা আন্দোলন ১৯৫২, ১৯৫৪ নির্বাচন, ছয় দফা ১৯৬৬, ১৯৬৮–৬৯ গণঅভ্যুত্থান, ১৯৭০ নির্বাচন, ১৯৭১-এর অসহযোগ আন্দোলন, ৭ মার্চের ভাষণ, মুজিবনগর সরকারের গঠন ও কার্যাবলি, আন্তর্জাতিক শক্তির ভূমিকা, আত্মসমর্পণ, বঙ্গবন্ধুর প্রত্যাবর্তন এবং ভারতীয় বাহিনীর প্রত্যাহার অন্তর্ভুক্ত। [S1]
@@ -68,6 +69,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 | মৌখিক ইতিহাস | মুক্তিযোদ্ধা, শরণার্থী, প্রত্যক্ষদর্শী ও স্থানীয় জনগণের সাক্ষ্য | স্থানীয় অভিজ্ঞতা; অন্যান্য উৎসের সঙ্গে যাচাই জরুরি |
 | গবেষণা ও বিশ্বকোষ | Banglapedia, একাডেমিক ইতিহাস, জার্নাল | ঘটনার ব্যাখ্যা, তুলনা ও প্রেক্ষাপট |
 
+<a id="timeline"></a>
 ### দ্রুত সময়রেখা
 
 | সময়/তারিখ | ঘটনা | কেন গুরুত্বপূর্ণ |
@@ -243,6 +245,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 ---
 
 <a id="language"></a>
+<a id="language-movement"></a>
 ## ৮. ভাষা আন্দোলন, ১৯৪৮–১৯৫২: ভাষাগত অধিকার থেকে জাতীয় চেতনা
 
 ### পটভূমি
@@ -383,6 +386,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 ---
 
 <a id="liberation"></a>
+<a id="liberation-war"></a>
 ## ১৩. মুক্তিযুদ্ধ ও মুজিবনগর সরকার: নেতৃত্ব, সংগঠন ও আন্তর্জাতিক মাত্রা
 
 ### স্বাধীনতার ঘোষণা ও Proclamation of Independence
@@ -425,6 +429,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 ---
 
 <a id="after1971"></a>
+<a id="culture"></a>
 ## ১৪. স্বাধীনতার পর রাষ্ট্রগঠন, স্মৃতি ও সংস্কৃতি
 
 #### Living heritage: জামদানি বয়ন
