@@ -1,7 +1,7 @@
 # Chapter 09 — PYQ Analysis + Source-backed Model Essays
 ## বাংলাদেশের পররাষ্ট্রনীতি ও বৈদেশিক সম্পর্ক | BCS Written · Subject Code 005
 
-[← মূল অধ্যায়](./README.md) · [35th–47th PYQ audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি answered model question](./BCS-WRITTEN-QUESTION-BANK.md) · [১৪টি English Quotations](./QUOTATIONS.md)
+[← মূল অধ্যায়](./README.md) · [35th–47th PYQ audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [১৮টি English quotations](./QUOTATIONS.md#verified-quotes)
 
 > এগুলো BCS Written-এর syllabus, প্রকাশ্য প্রশ্নের theme ও সরকারি/আন্তর্জাতিক উৎসের ভিত্তিতে তৈরি model essays; BPSC official answer key নয়। মূল প্রশ্নপত্রের scan যাচাই ছাড়া secondary archive-কে certified transcript বলা যাবে না।
 
@@ -11,9 +11,9 @@
 |---|---|---|
 | ৩৫তম BCS Written, Bangladesh Affairs, Q27 [Q1] | পররাষ্ট্রনীতির মূলনীতি; জাতীয় স্বার্থকে মূল নির্ধারক হিসেবে ব্যাখ্যা | Article 25 + national interest + determinants |
 | BPSC Bangladesh Affairs syllabus, Unit 9 [S1] | Goals, determinants, policy formulation, national power, geopolitics, economic diplomacy, manpower, UN, NAM, SAARC, OIC, BIMSTEC, D-8, aid and trade | ধারণার সঙ্গে প্রয়োগ ও আন্তঃসম্পর্ক |
-| ৫০তম BCS Written, International Affairs, Subject Code 007 [Q2] | Economic sanctions ও Track II diplomacy | Related theme only; আলাদা paper |
+| 35th–47th BCS cross-paper themes (IA 007) | Public diplomacy, negotiation, economic diplomacy and regional security | Related themes only; paper-code distinction is preserved in the [full audit](./PYQ-35TH-47TH-AUDIT.md) |
 
-**সীমা:** এটি পূর্ণাঙ্গ year-by-year frequency audit নয়। ৩৫তম প্রশ্নটি secondary archive-এ পাওয়া নির্দিষ্ট উদাহরণ; সব বছরের মূল BPSC scan line-by-line যাচাই করা হয়নি।
+**সীমা:** year-by-year topic review এখন [আলাদা PYQ audit](./PYQ-35TH-47TH-AUDIT.md)-এ দেওয়া আছে। এটি public secondary archive transcript-ভিত্তিক editorial coding; BPSC-এর মূল scan থেকে certified transcript বা official frequency statistics নয়।
 
 ## ২. প্রবন্ধ ১ — বাংলাদেশের পররাষ্ট্রনীতির মূলনীতি ও “Friendship to all, malice towards none”
 
@@ -57,7 +57,7 @@
 
 বাংলাদেশ ১৭ সেপ্টেম্বর ১৯৭৪-এ জাতিসংঘের সদস্যপদ লাভ করে। [S4] জাতিসংঘ শান্তি ও নিরাপত্তা, উন্নয়ন, জলবায়ু, মানবিক সংকট এবং আন্তর্জাতিক আইন নিয়ে অবস্থান জানানোর গুরুত্বপূর্ণ মঞ্চ।
 
-UN-এর ৩১ জুলাই ২০২৫-এর contribution table-এ বাংলাদেশি uniformed personnel-এর মোট সংখ্যা ৫,৬৮৫ দেখানো হয়েছে। এটি নির্দিষ্ট তারিখের snapshot, বর্তমান সংখ্যা নয়। [S5] শান্তিরক্ষায় অংশগ্রহণ পেশাগত অভিজ্ঞতা, আন্তর্জাতিক সহযোগিতা ও দেশের পরিচিতি বাড়াতে পারে। তবে নিরাপত্তা ঝুঁকি, প্রশিক্ষণ, সরঞ্জাম, ম্যান্ডেটের জটিলতা এবং misconduct প্রতিরোধ গুরুত্বপূর্ণ।
+বাংলাদেশ Armed Forces Division-এর প্রকাশিত ranking-এ দেশটি ২০২৩ সালে প্রথম, ২০২৪ ও ২০২৫ সালে তৃতীয় এবং ২০২৬ সালে চতুর্থ অবস্থানে রয়েছে। এটি troop-contribution ranking-এর dated snapshot; personnel count বা সব ধরনের অবদানের একমাত্র মাপকাঠি নয়। [S5] শান্তিরক্ষায় অংশগ্রহণ পেশাগত অভিজ্ঞতা, আন্তর্জাতিক সহযোগিতা ও দেশের পরিচিতি বাড়াতে পারে। তবে নিরাপত্তা ঝুঁকি, প্রশিক্ষণ, সরঞ্জাম, ম্যান্ডেটের জটিলতা এবং misconduct প্রতিরোধ গুরুত্বপূর্ণ।
 
 বাংলাদেশের অন্যান্য UN অগ্রাধিকার হলো জলবায়ু অর্থায়ন, বাস্তুচ্যুতি সংকটে burden-sharing, আন্তর্জাতিক বাণিজ্যের ন্যায্যতা, শান্তিপূর্ণ বিরোধ নিষ্পত্তি এবং বহুপাক্ষিক প্রতিষ্ঠানের কার্যকারিতা। সদস্যপদকে ফলপ্রসূ করতে দক্ষ প্রতিনিধি, গবেষণাভিত্তিক position paper, অংশীদার জোট ও প্রতিশ্রুতি বাস্তবায়ন জরুরি।
 
@@ -121,9 +121,10 @@ Rohingya সংকট শরণার্থী সুরক্ষা, host commu
 - [S2] Constitution of Bangladesh, Article 25. https://bdlaws.minlaw.gov.bd/act-367/part-details-199.html?lang=en
 - [S3] Ministry of Foreign Affairs, Bangladesh, *Foreign Policy of Bangladesh*. https://sittwe.mofa.gov.bd/pages/static-pages/foreign-policy-of-bangladesh-edc320-695266ac35ce18e1c05aab1e
 - [S4] UN, *Member States — Bangladesh*. https://www.un.org/about-us/member-states
-- [S5] UN Peacekeeping, uniformed personnel by country, 31 July 2025. https://peacekeeping.un.org/sites/default/files/01_contributions_to_un_peacekeeping_operations_by_country_and_post_88_july_2025.pdf
+- [S5] Bangladesh Armed Forces Division, *Position of Bangladesh in UN Peace Operation in Terms of Troops Contribution*, 2026 ranking. https://afd.gov.bd/index.php/un-peacekeeping/position-of-bangladesh-in-un-peace-operation
 - [S6] UN in Bangladesh, *Bangladesh and the United Nations: 50 Years of Partnership* (2024). https://bangladesh.un.org/en/282417-bangladesh-and-united-nations-50-years-partnership
+- [S7] UN in Bangladesh, *Recalibrating the Rohingya Response: 2025–26 Joint Response Plan* (20 May 2026). https://bangladesh.un.org/en/315838-recalibrating-rohingya-response-2025-26-joint-response-plan
 - [Q1] BCS EXAM, *35th BCS Written Questions*, Bangladesh Affairs. https://bcsexam.org/written-questions/35th-bcs-written
-- [Q2] BCS EXAM, *50th BCS Written Questions*, International Affairs, Subject Code 007 (related theme only). https://bcsexam.org/written-questions/50th-bcs-written
+
 
 [⬆️ মূল Chapter 09-এ ফিরে যান](./README.md) · [English Quotations](./QUOTATIONS.md)

@@ -136,6 +136,7 @@
 | [commons-96d0b21b7c1907ec.jpg](commons-96d0b21b7c1907ec.jpg) | [টাঙ্গুয়ার হাওর.JPG](https://commons.wikimedia.org/wiki/File:%E0%A6%9F%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%B0.JPG) | Sarkershuvro | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | [commons-e713f1cf491d5c10.jpg](commons-e713f1cf491d5c10.jpg) | [বাংলাদেশের সংবিধান ১৯৭২ (পৃষ্ঠা ১).jpg](https://commons.wikimedia.org/wiki/File:%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8_%E0%A7%A7%E0%A7%AF%E0%A7%AD%E0%A7%A8_(%E0%A6%AA%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE_%E0%A7%A7).jpg) | Bangladesh Government/বাংলাদেশ সরকার | EdictGov-Bangladesh |
 | [commons-cbda349f23350a10.png](commons-cbda349f23350a10.png) | [বাংলাদেশের স্বাধীনতা যুদ্ধের সেক্টরসমূহ.svg](https://commons.wikimedia.org/wiki/File:%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A7%80%E0%A6%A8%E0%A6%A4%E0%A6%BE_%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9.svg) | আফতাবুজ্জামান | Public domain |
+| [commons-db11281627c416aa.png](commons-db11281627c416aa.png) | [Bay of Bengal in its region.svg](https://commons.wikimedia.org/wiki/File:Bay_of_Bengal_in_its_region.svg) | Aplaice | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 
 ## উৎসে দেওয়া অতিরিক্ত কৃতিত্ব
 
@@ -528,3 +529,5 @@
 
 
 কৃতিত্ব — **commons-cbda349f23350a10.png**: Own work.
+
+কৃতিত্ব — **commons-db11281627c416aa.png**: Own work.
