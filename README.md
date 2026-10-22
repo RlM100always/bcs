@@ -21,3 +21,5 @@ This open educational project is independent and is **not affiliated with BPSC**
 ## Repository checks
 
 Run `python3 tools/check_images.py` to check local Markdown image paths and SVG syntax. The same check runs on pushes and pull requests. External image URLs are reported separately and require a network-enabled audit.
+
+Image credits and licenses: [photo source register](Bangladesh%20Affairs/assets/photos/SOURCES.md).

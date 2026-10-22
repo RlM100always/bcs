@@ -94,7 +94,7 @@ Foreign policy হলো অন্য রাষ্ট্র, আন্তর্�
 
 #### সংবিধান ও পররাষ্ট্রনীতির ভিত্তি
 
-![বাংলাদেশের সংবিধানের প্রচ্ছদ](https://commons.wikimedia.org/wiki/Special:FilePath/The%20original%20front%20page%20of%20constitution%20of%20BD.jpg)
+![বাংলাদেশের সংবিধানের প্রচ্ছদ](../assets/photos/commons-e8085239c10fb870.jpg)
 
 *চিত্র-পাঠ:* সংবিধানের ২৫ অনুচ্ছেদের মূলনীতি—জাতীয় সার্বভৌমত্ব, সমতা, অন্য রাষ্ট্রের অভ্যন্তরীণ বিষয়ে হস্তক্ষেপ না করা, আন্তর্জাতিক বিরোধের শান্তিপূর্ণ নিষ্পত্তি ও আন্তর্জাতিক আইনকে সম্মান—উত্তরে যুক্ত করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:The_original_front_page_of_constitution_of_BD.jpg) · [সরকারি Bangladesh Laws](http://bdlaws.minlaw.gov.bd/)
 
@@ -111,11 +111,11 @@ Article 25 নীতিগত মানদণ্ড। বাস্তবে ব
 <a id="formulation"></a>
 ## ৫. Policy formulation ও National Power
 
-#### কূটনৈতিক সিদ্ধান্ত গ্রহণ: পররাষ্ট্র মন্ত্রণালয়
+#### কূটনৈতিক সিদ্ধান্ত গ্রহণ: পররাষ্ট্র মন্ত্রণালয়ে দ্বিপাক্ষিক বৈঠক
 
-![বাংলাদেশ পররাষ্ট্র মন্ত্রণালয়ের ভবন](https://commons.wikimedia.org/wiki/Special:FilePath/Ministry%20of%20Foreign%20Affairs%20Bangladesh.jpg)
+![ঢাকার পররাষ্ট্র মন্ত্রণালয়ে বাংলাদেশ–ইতালি দ্বিপাক্ষিক বৈঠক, ২০১৫](../assets/photos/commons-50bea3f17e36020b.jpg)
 
-*চিত্র-পাঠ:* পররাষ্ট্রনীতি নির্ধারণে সংবিধান, প্রধানমন্ত্রীর কার্যালয়, পররাষ্ট্র মন্ত্রণালয়, অন্যান্য মন্ত্রণালয়, সংসদীয় তদারকি ও জাতীয় স্বার্থের ভূমিকা মিলিয়ে পড়ুন। [ছবির উৎস ও বর্ণনা](https://commons.wikimedia.org/wiki/Category:Ministry_of_Foreign_Affairs_of_Bangladesh) · [পররাষ্ট্র মন্ত্রণালয়](https://mofa.gov.bd/)
+*চিত্র-পাঠ:* পররাষ্ট্রনীতি নির্ধারণে সংবিধান, প্রধানমন্ত্রীর কার্যালয়, পররাষ্ট্র মন্ত্রণালয়, অন্যান্য মন্ত্রণালয়, সংসদীয় তদারকি ও জাতীয় স্বার্থের ভূমিকা মিলিয়ে পড়ুন। [ছবির উৎস ও বর্ণনা](https://commons.wikimedia.org/wiki/File:Bangladesh_Italy_Bilateral_Meeting_Ministry_of_Foreign_Affairs_Dhaka_2015-02-19_(PID-0060574).jpg) · [পররাষ্ট্র মন্ত্রণালয়](https://mofa.gov.bd/)
 
 
 ### ৫.১ নীতি প্রণয়নের ধাপ
@@ -142,7 +142,7 @@ Article 25 নীতিগত মানদণ্ড। বাস্তবে ব
 
 #### মানচিত্র: বঙ্গোপসাগর ও বাংলাদেশের কৌশলগত অবস্থান
 
-![বঙ্গোপসাগর ও আশপাশের দেশসমূহের মানচিত্র](https://commons.wikimedia.org/wiki/Special:FilePath/Bay%20of%20Bengal%20map-br.png)
+![বঙ্গোপসাগর ও আশপাশের দেশসমূহের মানচিত্র](../assets/photos/commons-bfba090f231b801c.png)
 
 *চিত্র-পাঠ:* বঙ্গোপসাগর, ভারত ও মিয়ানমারের সঙ্গে স্থলসীমান্ত, সমুদ্রপথ, বন্দর এবং Indo-Pacific যোগাযোগ—এই উপাদানগুলো বাংলাদেশের ভূরাজনৈতিক গুরুত্ব নির্ধারণ করে। [মানচিত্রের উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Bay_of_Bengal_map-br.png)
 
@@ -160,9 +160,9 @@ Article 25 নীতিগত মানদণ্ড। বাস্তবে ব
 
 #### বাস্তব ছবি: বাংলাদেশ–ভারত স্থলবন্দর ও সীমান্ত বাণিজ্য
 
-![বাংলাদেশ ও ভারতের মধ্যে বেনাপোল-পেট্রাপোল সীমান্ত বাণিজ্য](https://commons.wikimedia.org/wiki/Special:FilePath/Benapole%20Land%20Port.jpg)
+![বেনাপোলে সীমান্ত বাণিজ্যের পণ্যবাহী ট্রাক](../assets/photos/commons-2a16f59a39939847.jpg)
 
-*চিত্র-পাঠ:* দ্বিপাক্ষিক সম্পর্ক ব্যাখ্যায় সীমান্ত ব্যবস্থাপনা, বাণিজ্য, যোগাযোগ, পানি বণ্টন, জ্বালানি ও মানুষে-মানুষে যোগাযোগকে পৃথক ক্ষেত্র হিসেবে বিশ্লেষণ করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/Category:Benapole_Land_Port) · [Bangladesh Land Port Authority](https://blpa.gov.bd/)
+*চিত্র-পাঠ:* দ্বিপাক্ষিক সম্পর্ক ব্যাখ্যায় সীমান্ত ব্যবস্থাপনা, বাণিজ্য, যোগাযোগ, পানি বণ্টন, জ্বালানি ও মানুষে-মানুষে যোগাযোগকে পৃথক ক্ষেত্র হিসেবে বিশ্লেষণ করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:BD_Benapole_0906_(17)_(17023318140).jpg) · [Bangladesh Land Port Authority](https://blpa.gov.bd/)
 
 
 ### ৭.১ ভারত
@@ -185,9 +185,9 @@ Article 25 নীতিগত মানদণ্ড। বাস্তবে ব
 
 #### বাস্তব ছবি: জাতিসংঘ সদর দপ্তর
 
-![নিউইয়র্কে জাতিসংঘ সদর দপ্তর](https://commons.wikimedia.org/wiki/Special:FilePath/United%20Nations%20Headquarters%20in%20New%20York%20City.jpg)
+![নিউইয়র্কে জাতিসংঘ সদর দপ্তর](../assets/photos/commons-7410a4059cafb98f.jpg)
 
-*চিত্র-পাঠ:* UN, NAM, SAARC, BIMSTEC, OIC ও D-8-এর ভূমিকা তুলনা করুন—সদস্যপদ, উদ্দেশ্য, সিদ্ধান্ত গ্রহণ ও বাংলাদেশের স্বার্থের ভিত্তিতে। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/Category:Headquarters_of_the_United_Nations) · [United Nations](https://www.un.org/)
+*চিত্র-পাঠ:* UN, NAM, SAARC, BIMSTEC, OIC ও D-8-এর ভূমিকা তুলনা করুন—সদস্যপদ, উদ্দেশ্য, সিদ্ধান্ত গ্রহণ ও বাংলাদেশের স্বার্থের ভিত্তিতে। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Headquarters_of_the_United_Nations,_New_York_City,_20231001_1103_1006.jpg) · [United Nations](https://www.un.org/)
 
 
 | সংস্থা | মূল ক্ষেত্র | বাংলাদেশের জন্য ব্যবহার |
@@ -229,15 +229,15 @@ Peacekeeping যুদ্ধজয় বা জোর করে রাজনৈত
 
 #### বাস্তব ছবি: চট্টগ্রাম বন্দরের কনটেইনার টার্মিনাল
 
-![চট্টগ্রাম বন্দরে কনটেইনার ও বাণিজ্যিক জাহাজ](https://commons.wikimedia.org/wiki/Special:FilePath/Chittagong%20Port%20Bangladesh.jpg)
+![চট্টগ্রাম বন্দরে কনটেইনার পরিচালনা](../assets/photos/commons-f58184f6823b27b7.jpg)
 
-*চিত্র-পাঠ:* রপ্তানি-আমদানি, সরবরাহ-শৃঙ্খল, বন্দর দক্ষতা, বৈদেশিক বিনিয়োগ এবং অর্থনৈতিক কূটনীতির সম্পর্ক বুঝুন। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/Category:Port_of_Chittagong) · [চট্টগ্রাম বন্দর কর্তৃপক্ষ](https://cpa.gov.bd/)
+*চিত্র-পাঠ:* রপ্তানি-আমদানি, সরবরাহ-শৃঙ্খল, বন্দর দক্ষতা, বৈদেশিক বিনিয়োগ এবং অর্থনৈতিক কূটনীতির সম্পর্ক বুঝুন। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Stacking_Intermodal_container_in_Port_of_Chittagong_(14).jpg) · [চট্টগ্রাম বন্দর কর্তৃপক্ষ](https://cpa.gov.bd/)
 
-#### বাস্তব ছবি: বিদেশে কর্মরত বাংলাদেশি শ্রমিক
+#### বাস্তব ছবি: বাংলাদেশি অভিবাসী শ্রমিকদের সঙ্গে আলোচনা
 
-![বিদেশগামী বাংলাদেশি কর্মীদের আন্তর্জাতিক শ্রম অভিবাসন](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladeshi%20migrant%20workers.jpg)
+![বাংলাদেশি অভিবাসী শ্রমিকদের সঙ্গে অ্যান্ড্রু মিচেলের আলোচনা](../assets/photos/commons-a43c20b1aa831805.jpg)
 
-*চিত্র-পাঠ:* নিরাপদ অভিবাসন, দক্ষতা উন্নয়ন, শ্রমিকের অধিকার, কনস্যুলার সহায়তা ও রেমিট্যান্স—এই পাঁচটি দিক লিখুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/Category:Bangladeshi_migrant_workers) · [প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়](https://probashi.gov.bd/)
+*চিত্র-পাঠ:* নিরাপদ অভিবাসন, দক্ষতা উন্নয়ন, শ্রমিকের অধিকার, কনস্যুলার সহায়তা ও রেমিট্যান্স—এই পাঁচটি দিক লিখুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:Secretary_of_State_for_International_Development_Andrew_Mitchell_speaking_to_Bangladeshi_migrant_workers._(5499005775).jpg) · [প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়](https://probashi.gov.bd/)
 
 
 Economic diplomacy হলো কূটনৈতিক সম্পর্ক ব্যবহার করে বাজার প্রবেশ, বিনিয়োগ, প্রযুক্তি, উন্নয়ন অর্থায়ন, রপ্তানি ও কর্মসংস্থানের সুযোগ বাড়ানো।
@@ -265,15 +265,15 @@ Transit সাধারণত অন্য দেশের ভূখণ্ড �
 
 #### জলবায়ু কূটনীতি: বাংলাদেশের উপকূলীয় ঝুঁকি
 
-![বাংলাদেশের উপকূলীয় অঞ্চলে ঘূর্ণিঝড়-পরবর্তী বন্যা ও জলবায়ু ঝুঁকি](https://commons.wikimedia.org/wiki/Special:FilePath/Cyclone%20Aila%20in%20Bangladesh.jpg)
+![নিঝুম দ্বীপে ঘূর্ণিঝড় আইলার পর ক্ষতিগ্রস্ত বসতবাড়ি](../assets/photos/commons-0fa42cbce76f76b6.jpg)
 
-*চিত্র-পাঠ:* জলবায়ু অভিযোজন, ক্ষয়ক্ষতি ও ক্ষতি-লোকসান (Loss and Damage), জলবায়ু অর্থায়ন এবং উপকূলীয় স্থিতিস্থাপকতার সঙ্গে ছবিটি মিলিয়ে পড়ুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/Category:Cyclone_Aila) · [UNFCCC](https://unfccc.int/)
+*চিত্র-পাঠ:* জলবায়ু অভিযোজন, ক্ষয়ক্ষতি ও ক্ষতি-লোকসান (Loss and Damage), জলবায়ু অর্থায়ন এবং উপকূলীয় স্থিতিস্থাপকতার সঙ্গে ছবিটি মিলিয়ে পড়ুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:Cyclone_Aila_Climate_Change_Nijhum_Dwip_2009_Dec_Bangladesh.jpg) · [UNFCCC](https://unfccc.int/)
 
 #### মানবিক কূটনীতি: রোহিঙ্গা শরণার্থী সংকট
 
-![কক্সবাজারের রোহিঙ্গা শরণার্থী শিবির](https://commons.wikimedia.org/wiki/Special:FilePath/Rohingya%20refugee%20camp%20Cox%27s%20Bazar%20Bangladesh.jpg)
+![কক্সবাজারের রোহিঙ্গা শরণার্থী শিবির](../assets/photos/commons-e103d92d6659343f.jpg)
 
-*চিত্র-পাঠ:* প্রত্যাবাসনের নিরাপত্তা ও মর্যাদা, আন্তর্জাতিক burden-sharing, মানবিক সহায়তা এবং মিয়ানমারের সঙ্গে কূটনৈতিক যোগাযোগ আলাদা করে বিশ্লেষণ করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/Category:Rohingya_refugee_camps_in_Bangladesh) · [UNHCR Bangladesh](https://www.unhcr.org/bangladesh.html)
+*চিত্র-পাঠ:* প্রত্যাবাসনের নিরাপত্তা ও মর্যাদা, আন্তর্জাতিক burden-sharing, মানবিক সহায়তা এবং মিয়ানমারের সঙ্গে কূটনৈতিক যোগাযোগ আলাদা করে বিশ্লেষণ করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:Rohingya_Camps_in_Cox%27s_Bazar,_Bangladesh.jpg) · [UNHCR Bangladesh](https://www.unhcr.org/bangladesh.html)
 
 
 ### Climate diplomacy
@@ -456,3 +456,5 @@ https://bcsexam.org/written-questions/50th-bcs-written
 বাংলাদেশের পররাষ্ট্রনীতির সাফল্য শুধু কত দেশের সঙ্গে সম্পর্ক আছে তা দিয়ে মাপা যায় না। প্রকৃত মানদণ্ড হলো সার্বভৌমত্ব ও জাতীয় স্বার্থ রক্ষা, অর্থনৈতিক সুযোগ সৃষ্টি, নাগরিক ও প্রবাসীদের সুরক্ষা, আন্তর্জাতিক আইন মেনে বিরোধ সামলানো এবং বহুপাক্ষিক ব্যবস্থায় কার্যকর অবদান। Article 25, তথ্যনির্ভর কূটনীতি, সম্পর্কের বৈচিত্র্য ও বাস্তবায়নযোগ্য সুপারিশ—এই চার স্তর একসঙ্গে লিখলে উত্তর হবে বিশ্লেষণধর্মী ও BCS Written-উপযোগী।
 
 [⬆️ সূচিতে ফিরে যান](#top) · [35th–47th PYQ Audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [PYQ-ভিত্তিক প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [English Quotations](./QUOTATIONS.md)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

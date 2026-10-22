@@ -162,7 +162,7 @@
 
 #### ঐতিহাসিক নথি: মূল সংবিধানের প্রচ্ছদ
 
-![বাংলাদেশের মূল সংবিধানের প্রচ্ছদ](https://commons.wikimedia.org/wiki/Special:FilePath/The%20original%20front%20page%20of%20constitution%20of%20BD.jpg)
+![বাংলাদেশের মূল সংবিধানের প্রচ্ছদ](../assets/photos/commons-e8085239c10fb870.jpg)
 
 *চিত্র-পাঠ:* ১৯৭২ সালের সংবিধান প্রণয়ন-পর্ব বোঝার সময় সংবিধান গৃহীত হওয়ার তারিখ (৪ নভেম্বর ১৯৭২) ও কার্যকর হওয়ার তারিখ (১৬ ডিসেম্বর ১৯৭২) আলাদা করে মনে রাখুন। [মূল ছবির উৎস, নির্মাতা ও CC BY 4.0 লাইসেন্স](https://commons.wikimedia.org/wiki/File:The_original_front_page_of_constitution_of_BD.jpg)
 
@@ -196,7 +196,7 @@
 
 ### ঐতিহাসিক ছবি: ১৯৭২ সালের সংবিধানের প্রচ্ছদ
 
-![১৯৭২ সালের হাতে লেখা বাংলাদেশের সংবিধানের প্রচ্ছদ](https://upload.wikimedia.org/wikipedia/commons/f/f8/First_page_of_the_hand_written_constitution_of_Bangladesh.jpg)
+![১৯৭২ সালের হাতে লেখা বাংলাদেশের সংবিধানের প্রচ্ছদ](../assets/photos/commons-eedb425eba4aa1d7.jpg)
 
 <sub>**ছবির উৎস ও কৃতিত্ব:** [First page of the hand written constitution of Bangladesh.jpg — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:First_page_of_the_hand_written_constitution_of_Bangladesh.jpg), আলোকচিত্রী/আপলোডার NiruNahar; CC BY 4.0। ছবিটি মূল হস্তলিখিত সংবিধানের প্রচ্ছদ দেখায়; এটি সংবিধানের পূর্ণ পাঠের বিকল্প নয়।</sub>
 
@@ -287,7 +287,7 @@
 
 #### মূল নথি: সংবিধানের অলংকৃত প্রথম পৃষ্ঠা
 
-![১৯৭২ সালের হাতে লেখা সংবিধানের প্রথম পৃষ্ঠা](https://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0%20%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8%20%E0%A7%A7%E0%A7%AF%E0%A7%AD%E0%A7%A8%20%28%E0%A6%AA%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%20%E0%A7%A7%29.jpg)
+![১৯৭২ সালের হাতে লেখা সংবিধানের প্রথম পৃষ্ঠা](../assets/photos/commons-e713f1cf491d5c10.jpg)
 
 *চিত্র-পাঠ:* প্রস্তাবনার ঐতিহাসিক ও মূল্যবোধগত গুরুত্ব বুঝতে এটি মূল হাতে লেখা সংবিধানের প্রথম পৃষ্ঠা। ছবিটি নিজে প্রস্তাবনার আইনি ব্যাখ্যার বিকল্প নয়। [ছবির উৎস ও বর্ণনা](https://commons.wikimedia.org/wiki/File:বাংলাদেশের_সংবিধান_১৯৭২_(পৃষ্ঠা_১).jpg)
 
@@ -313,7 +313,7 @@
 
 #### মূল সংবিধানের অলংকরণ ও জাতীয় পরিচয়
 
-![মূল সংবিধানে বাংলাদেশের জাতীয় ঐতিহ্যভিত্তিক নকশা](https://commons.wikimedia.org/wiki/Special:FilePath/The%20design%20of%20Nakshi%20Kantha%20in%20the%20original%20constitution%20of%20Bangladesh.jpg)
+![মূল সংবিধানে বাংলাদেশের জাতীয় ঐতিহ্যভিত্তিক নকশা](../assets/photos/commons-83f18ca0e01bc837.jpg)
 
 *চিত্র-পাঠ:* রাষ্ট্র পরিচালনার মূলনীতি পড়ার সময় জাতীয় পরিচয় ও সংবিধানের ঐতিহাসিক প্রেক্ষাপট মনে রাখুন। মূলনীতি ও আদালতে বলবৎযোগ্য মৌলিক অধিকারের আইনি পার্থক্য আলাদাভাবে শিখতে হবে। [ছবির উৎস ও বর্ণনা](https://commons.wikimedia.org/wiki/File:The_design_of_Nakshi_Kantha_in_the_original_constitution_of_Bangladesh.jpg)
 
@@ -364,7 +364,7 @@ Article 12 ধর্মনিরপেক্ষতার নীতিকে ব�
 
 #### মূল নথি: সংবিধানে নির্বাচন-সম্পর্কিত বিধান
 
-![১৯৭২ সালের মূল সংবিধানের ৫৩ নম্বর পৃষ্ঠা](https://commons.wikimedia.org/wiki/Special:FilePath/Page%2053%20of%20the%20constitution%20of%20Bangladesh%20in%201972.jpg)
+![১৯৭২ সালের মূল সংবিধানের ৫৩ নম্বর পৃষ্ঠা](../assets/photos/commons-ee65c1960f02fe27.jpg)
 
 *চিত্র-পাঠ:* মূল নথির এই পৃষ্ঠায় নির্বাচন কীভাবে হবে সে-সম্পর্কিত আলোচনা রয়েছে। মৌলিক অধিকার অধ্যায়ে Article 26–47A-এর সরকারি consolidated text-ই ব্যবহার করুন; ঐতিহাসিক পৃষ্ঠাকে বর্তমান আইনি পাঠ ধরে নেবেন না। [ছবির উৎস ও পৃষ্ঠার বর্ণনা](https://commons.wikimedia.org/wiki/File:Page_53_of_the_constitution_of_Bangladesh_in_1972.jpg) · [Bangladesh Laws — সরকারি আইনভান্ডার](http://bdlaws.minlaw.gov.bd/)
 
@@ -438,12 +438,12 @@ Article 12 ধর্মনিরপেক্ষতার নীতিকে ব�
 
 #### নির্বাহী বিভাগের সাংবিধানিক প্রেক্ষাপট: বঙ্গভবন
 
-![বঙ্গভবন — রাষ্ট্রপতির সরকারি বাসভবন](https://commons.wikimedia.org/wiki/Special:FilePath/Bangabhaban.jpg)
+![বঙ্গভবন — রাষ্ট্রপতির সরকারি বাসভবন](../assets/photos/commons-5fd4ec3ebb895220.jpg)
 
 *চিত্র-পাঠ:* রাষ্ট্রপতির সাংবিধানিক ভূমিকা ও নির্বাহী ক্ষমতার বাস্তব প্রয়োগ ব্যাখ্যা করার সময় রাষ্ট্রপতি, প্রধানমন্ত্রী ও মন্ত্রিসভার সাংবিধানিক অবস্থান আলাদা করে লিখুন। [ছবির উৎস ও বর্ণনা](https://commons.wikimedia.org/wiki/File:Bangabhaban.jpg) · [রাষ্ট্রপতির কার্যালয়](https://bangabhaban.gov.bd/)
 
 
-![২০২৬ সালের জাতীয় সংসদের অধিবেশনকক্ষের দৃশ্য](https://commons.wikimedia.org/wiki/Special:FilePath/Interior%20view%20of%20the%2013th%20National%20Parliament%20of%20Bangladesh.jpg)
+![২০২৬ সালের জাতীয় সংসদের অধিবেশনকক্ষের দৃশ্য](../assets/photos/commons-170e3a0ee4e53045.jpg)
 
 *চিত্র-পাঠ:* অধিবেশনকক্ষের ছবি আইন প্রণয়ন, প্রতিনিধিত্ব, বাজেট অনুমোদন ও নির্বাহী বিভাগের জবাবদিহি নিয়ে আলোচনার সঙ্গে যুক্ত করুন। এটি ৬ এপ্রিল ২০২৬-এর নির্দিষ্ট অধিবেশনের ছবি; সব সংসদীয় পরিস্থিতির প্রতীক নয়। [মূল ছবির উৎস ও বিবরণ](https://commons.wikimedia.org/wiki/File:Interior_view_of_the_13th_National_Parliament_of_Bangladesh.jpg) · [জাতীয় সংসদ](https://www.parliament.gov.bd/)
 
@@ -461,7 +461,7 @@ Article 12 ধর্মনিরপেক্ষতার নীতিকে ব�
 <a id="legislature-photo"></a>
 ### ১০.২ আইনসভা — জাতীয় সংসদ (Legislature)
 
-![ঢাকার জাতীয় সংসদ ভবন](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bangladesh_National_Parliament_Building%2C_Dhaka.jpg/1280px-Bangladesh_National_Parliament_Building%2C_Dhaka.jpg)
+![ঢাকার জাতীয় সংসদ ভবন](../assets/photos/commons-999bbeeea60d92f9.jpg)
 
 <sub>**ছবির উৎস ও কৃতিত্ব:** [Bangladesh National Parliament Building, Dhaka.jpg — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bangladesh_National_Parliament_Building,_Dhaka.jpg), Tanvir Rahat; CC BY-SA 4.0।</sub>
 
@@ -479,7 +479,7 @@ Article 65 জাতীয় সংসদ প্রতিষ্ঠা করে।
 <a id="judiciary-photo"></a>
 ### ১০.৩ বিচার বিভাগ (Judiciary)
 
-![বাংলাদেশ সুপ্রিম কোর্টের প্রধান ভবন](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bangladesh_Supreme_Court_Main_Building.jpg/1280px-Bangladesh_Supreme_Court_Main_Building.jpg)
+![বাংলাদেশ সুপ্রিম কোর্টের প্রধান ভবন](../assets/photos/commons-8675f7d8351dc747.jpg)
 
 <sub>**ছবির উৎস ও কৃতিত্ব:** [Bangladesh Supreme Court Main Building.jpg — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bangladesh_Supreme_Court_Main_Building.jpg), Basir Shikder; CC BY-SA 4.0।</sub>
 
@@ -511,7 +511,7 @@ Article 94 সুপ্রিম কোর্ট প্রতিষ্ঠা ক
 
 #### নির্বাচন কমিশনের বাস্তব চিত্র
 
-![বাংলাদেশ নির্বাচন কমিশন সচিবালয়, আগারগাঁও](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh%20Election%20Commission.jpg)
+![বাংলাদেশ নির্বাচন কমিশন সচিবালয়, আগারগাঁও](../assets/photos/commons-52fcce8ca87f7f7e.jpg)
 
 *চিত্র-পাঠ:* নির্বাচন কমিশনের সাংবিধানিক অবস্থান, দায়িত্ব, নির্বাচন পরিচালনা এবং স্বাধীনতা নিয়ে পড়ার সময় বাস্তব প্রতিষ্ঠানের ছবিটি সহায়ক। ভবনের ছবি নিজে কমিশনের স্বাধীনতার প্রমাণ নয়। [ছবির উৎস, আলোকচিত্রী ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Bangladesh_Election_Commission.jpg) · [Bangladesh Election Commission](https://ecs.gov.bd/) · [সরকারি Bangladesh Laws](http://bdlaws.minlaw.gov.bd/)
 
@@ -592,7 +592,7 @@ Basic Structure Doctrine বা সংবিধানের মৌলিক ক�
 
 #### বিচার বিভাগের বাস্তব চিত্র: সুপ্রিম কোর্টের বিজয়-৭১ ভবন
 
-![বাংলাদেশ সুপ্রিম কোর্টের বিজয় ৭১ ভবন](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh%20Supreme%20Court%20Bijoy%2071%20Building%20Inauguration%2C%20Dhaka%2C%20Bangladesh%2C%202022-03-31%20%28PID-0023797%29.jpg)
+![বাংলাদেশ সুপ্রিম কোর্টের বিজয় ৭১ ভবন](../assets/photos/commons-3ce3c9c234f57a56.jpg)
 
 *চিত্র-পাঠ:* সাংবিধানিক ব্যাখ্যা, বিচারিক পর্যালোচনা ও সংশোধনী-সংক্রান্ত রায় আলোচনা করার সময় সুপ্রিম কোর্টের Appellate Division ও High Court Division-এর ভূমিকা আলাদা করে লিখুন। এটি ভবনের উদ্বোধন-সংক্রান্ত ২০২২ সালের ছবি, কোনো নির্দিষ্ট রায়ের প্রমাণ নয়। [মূল ছবির উৎস ও বিবরণ](https://commons.wikimedia.org/wiki/File:Bangladesh_Supreme_Court_Bijoy_71_Building_Inauguration,_Dhaka,_Bangladesh,_2022-03-31_(PID-0023797).jpg) · [বাংলাদেশ সুপ্রিম কোর্ট](https://www.supremecourt.gov.bd/)
 
@@ -874,3 +874,5 @@ https://bcsexam.org/written-questions
 বাংলাদেশের সংবিধান বুঝতে হলে তিনটি স্তর একসঙ্গে পড়তে হবে: **(১) ১৯৭২ সালের মূল সাংবিধানিক অঙ্গীকার, (২) পরবর্তী সংশোধনী ও রাষ্ট্রীয় প্রতিষ্ঠানের বিকাশ, (৩) আদালতের বাধ্যতামূলক ব্যাখ্যা।** BCS Written-এ সর্বোচ্চ নম্বরের উপযোগী উত্তর শুধু Article নম্বরের তালিকা নয়; প্রতিটি বিধানের উদ্দেশ্য, প্রাতিষ্ঠানিক প্রভাব, সীমাবদ্ধতা ও বাস্তবসম্মত উন্নয়নের পথ দেখায়।
 
 [⬆️ বিষয়সূচিতে ফিরে যান](#top) · [35th–47th PYQ Audit](./PYQ-35TH-47TH-AUDIT.md) · [২৫টি Answered Model Q&A](./BCS-WRITTEN-QUESTION-BANK.md) · [PYQ-ভিত্তিক পূর্ণ প্রবন্ধ](./PYQ-BASED-ESSAYS.md) · [২০টি English Quotations + Sources](./QUOTATIONS.md#verified-quotes)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

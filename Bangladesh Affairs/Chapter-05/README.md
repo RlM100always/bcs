@@ -114,7 +114,7 @@ BPSC-এর BCS Written Bangladesh Affairs (Compulsory), Subject Code 005-এর
 
 #### বাস্তব ছবি: ঢাকার বায়ুদূষণ
 
-![ঢাকার বায়ুদূষণের ঐতিহাসিক উদাহরণ](https://commons.wikimedia.org/wiki/Special:FilePath/Air%20Pollution%20in%20Dhaka.jpg)
+![ঢাকার বায়ুদূষণের ঐতিহাসিক উদাহরণ](../assets/photos/commons-6b77032fe1a10687.jpg)
 
 *চিত্র-পাঠ:* যানবাহন, নির্মাণধুলা, ইটভাটা ও শিল্পনিঃসরণকে সম্ভাব্য উৎস হিসেবে বিশ্লেষণ করুন। এটি ২০১৭ সালের একটি আলোকচিত্র, বর্তমান বায়ুমানের পরিমাপ নয়। [ছবির উৎস ও CC BY-SA লাইসেন্স](https://commons.wikimedia.org/wiki/File:Air_Pollution_in_Dhaka.jpg) · [পরিবেশ অধিদপ্তর](https://doe.gov.bd/)
 
@@ -163,7 +163,7 @@ PM2.5 হলো ব্যাস ২.৫ মাইক্রোমিটার ব
 
 #### বাস্তব ছবি: বুড়িগঙ্গা নদীর দূষণ
 
-![ঢাকার কাছে বুড়িগঙ্গা নদীর দূষণ](https://commons.wikimedia.org/wiki/Special:FilePath/Pollution%20by%20a%20factory%20on%20the%20bank%20of%20the%20Buriganga%20near%20Dhaka%2002.jpg)
+![ঢাকার কাছে বুড়িগঙ্গা নদীর দূষণ](../assets/photos/commons-726cf27c3617f478.jpg)
 
 *চিত্র-পাঠ:* শিল্পবর্জ্য, অপরিশোধিত নর্দমা ও কঠিন বর্জ্যের উৎস–পথ–প্রভাব বিশ্লেষণ করুন; ছবি একা দূষণের মাত্রা প্রমাণ করে না। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Pollution_by_a_factory_on_the_bank_of_the_Buriganga_near_Dhaka_02.jpg) · [Bangladesh Water Development Board](https://www.bwdb.gov.bd/)
 
@@ -202,7 +202,7 @@ PM2.5 হলো ব্যাস ২.৫ মাইক্রোমিটার ব
 
 #### বাস্তব ছবি: নদীতে প্লাস্টিক ও কঠিন বর্জ্য
 
-![বুড়িগঙ্গায় ভাসমান প্লাস্টিক ও বর্জ্য](https://commons.wikimedia.org/wiki/Special:FilePath/Plastic%20waste%20floating%20waste%20and%20dead%20animal%20floating%20in%20Buriganga%20River.jpg)
+![বুড়িগঙ্গায় ভাসমান প্লাস্টিক ও বর্জ্য](../assets/photos/commons-308c84ca2e8d1f8d.jpg)
 
 *চিত্র-পাঠ:* বর্জ্য পৃথকীকরণ, সংগ্রহ, পুনর্ব্যবহার, উৎপাদক-দায়বদ্ধতা এবং নদীতে বর্জ্য প্রবেশ বন্ধ করার নীতিগুলো ছবির সঙ্গে মিলিয়ে পড়ুন। এটি ২০২৬ সালের অক্টোবরের একটি নির্দিষ্ট স্থান-সময়ভিত্তিক ছবি। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Plastic_waste_floating_waste_and_dead_animal_floating_in_Buriganga_River.jpg)
 
@@ -240,7 +240,7 @@ PM2.5 হলো ব্যাস ২.৫ মাইক্রোমিটার ব
 
 #### বাস্তব ছবি: ঘূর্ণিঝড় ও বন্যা-সহনশীল আশ্রয়কেন্দ্র
 
-![পটুয়াখালীর বহুমুখী ঘূর্ণিঝড় আশ্রয়কেন্দ্র](https://commons.wikimedia.org/wiki/Special:FilePath/Cyclone%20Shelter%20%2815265520285%29.jpg)
+![পটুয়াখালীর বহুমুখী ঘূর্ণিঝড় আশ্রয়কেন্দ্র](../assets/photos/commons-dc37f9bf0e453c9a.jpg)
 
 *চিত্র-পাঠ:* আশ্রয়কেন্দ্র, আগাম সতর্কতা, নিরাপদ পানি, অন্তর্ভুক্তিমূলক সরিয়ে নেওয়া ও দুর্যোগ-পরবর্তী জীবিকা পুনরুদ্ধার হলো adaptation-এর বাস্তব উদাহরণ। [ছবির উৎস ও CC BY 2.0 লাইসেন্স](https://commons.wikimedia.org/wiki/File:Cyclone_Shelter_(15265520285).jpg) · [Department of Disaster Management](https://ddm.gov.bd/)
 
@@ -286,13 +286,13 @@ PM2.5 হলো ব্যাস ২.৫ মাইক্রোমিটার ব
 
 #### বাস্তব ছবি: সুন্দরবনের ম্যানগ্রোভ বাস্তুতন্ত্র
 
-![সুন্দরবনের ম্যানগ্রোভ বন](https://commons.wikimedia.org/wiki/Special:FilePath/IMG.photo%20of%20sundarban.jpg)
+![সুন্দরবনের ম্যানগ্রোভ বন](../assets/photos/commons-d9901347f1760a22.jpg)
 
 *চিত্র-পাঠ:* ম্যানগ্রোভ বন উপকূলীয় জীববৈচিত্র্য, মাছ ও বন্যপ্রাণীর আবাস, কার্বন সঞ্চয় এবং ঝড়ের প্রভাব কমাতে ভূমিকা রাখে। [ছবির উৎস ও আলোকচিত্রী](https://commons.wikimedia.org/wiki/File:IMG.photo_of_sundarban.jpg) · [UNESCO World Heritage: The Sundarbans](https://whc.unesco.org/en/list/798/)
 
 #### বাস্তব ছবি: টাঙ্গুয়ার হাওরের জলাভূমি
 
-![টাঙ্গুয়ার হাওরের জলাভূমি](https://commons.wikimedia.org/wiki/Special:FilePath/Tanguar%20haor%2C%20Bangladesh%2001.jpg)
+![টাঙ্গুয়ার হাওরের জলাভূমি](../assets/photos/commons-bd4ff2f10d306886.jpg)
 
 *চিত্র-পাঠ:* হাওর হলো মাছ, জলচর পাখি, মৌসুমি বন্যা, স্থানীয় জীবিকা ও জীববৈচিত্র্যের সঙ্গে যুক্ত একটি জলাভূমি বাস্তুতন্ত্র। [ছবির উৎস ও বিবরণ](https://commons.wikimedia.org/wiki/File:Tanguar_haor,_Bangladesh_01.jpg) · [Ramsar Sites Information Service](https://rsis.ramsar.org/)
 
@@ -327,7 +327,7 @@ PM2.5 হলো ব্যাস ২.৫ মাইক্রোমিটার ব
 
 #### বাস্তব ছবি: শিল্প দূষণ ও নগর নদী
 
-![বুড়িগঙ্গার তীরে কারখানাজনিত দূষণ](https://commons.wikimedia.org/wiki/Special:FilePath/Pollution%20by%20a%20factory%20on%20the%20bank%20of%20the%20Buriganga%20near%20Dhaka%2003.jpg)
+![বুড়িগঙ্গার তীরে কারখানাজনিত দূষণ](../assets/photos/commons-e41b7600bdc796c0.jpg)
 
 *চিত্র-পাঠ:* শিল্পাঞ্চলের বর্জ্য ব্যবস্থাপনা, পরিবেশগত ছাড়পত্র, নিয়মিত পর্যবেক্ষণ এবং দূষণ-ব্যয়ের ন্যায্য বণ্টন আলোচনা করুন। এটি নির্দিষ্ট স্থানের উদাহরণ; সব কারখানার চিত্র নয়। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Pollution_by_a_factory_on_the_bank_of_the_Buriganga_near_Dhaka_03.jpg)
 
@@ -754,3 +754,5 @@ https://sdgs.un.org/goals · https://www.ipcc.ch/report/ar6/syr/ · https://www.
 - এই অধ্যায়ের SVG diagrams revision-এর জন্য তৈরি; সেগুলো source data বা official government infographic নয়।
 
 [⬆️ উপরে ফিরুন](#top) · [English Quotations + Sources](./QUOTATIONS.md) · [৩০টি Answered Questions](./BCS-WRITTEN-QUESTION-BANK.md) · [35th–47th PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) · [PYQ-Based Model Essays](./PYQ-BASED-ESSAYS.md)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

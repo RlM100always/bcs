@@ -11,14 +11,14 @@
 ## Visual Atlas — real institutions, location map and legal process
 
 ### Bangladesh Election Commission — the institution that registers political parties
-![Bangladesh Election Commission building at Agargaon, Dhaka](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_Election_Commission.jpg)
+![Bangladesh Election Commission building at Agargaon, Dhaka](../assets/photos/commons-52fcce8ca87f7f7e.jpg)
 
 **Image source/licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Bangladesh_Election_Commission.jpg), author ইব্রাহিম হাসান, own work, **CC BY-SA 4.0**. Attribute the creator and link the licence if reusing the image.
 
 **Location:** [OpenStreetMap — Bangladesh Election Commission, Agargaon](https://www.openstreetmap.org/?mlat=23.777147&mlon=90.374392#map=17/23.777147/90.374392). This is a location reference, not an electoral constituency map.
 
 ### National Parliament Building — the institutional setting of party competition
-![Bangladesh National Parliament Building, Dhaka](https://commons.wikimedia.org/wiki/Special:FilePath/National_Parliament_Building.jpg)
+![Bangladesh National Parliament Building, Dhaka](../assets/photos/commons-fbdfd48884b64920.jpg)
 
 **Image source/licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:National_Parliament_Building.jpg), author Helal321, own work, **CC BY-SA 4.0**.
 
@@ -140,7 +140,7 @@
 
 #### বাস্তব উদাহরণ: রাজনৈতিক দলের পতাকা ও প্রতীক
 
-![বাংলাদেশের রাজনৈতিক দলের পতাকা ও প্রতীকের উদাহরণ](https://commons.wikimedia.org/wiki/Special:FilePath/AB%20Party%20flag.png)
+![বাংলাদেশের রাজনৈতিক দলের পতাকা ও প্রতীকের উদাহরণ](../assets/photos/commons-dfae69ecf7075075.png)
 
 *চিত্র-পাঠ:* রাজনৈতিক দল সংগঠিত আদর্শ, নেতৃত্ব, সদস্যপদ ও কর্মসূচির ভিত্তিতে কাজ করে। পতাকা বা প্রতীক পরিচয়ের একটি উপাদান মাত্র—দলের আদর্শ বা জনপ্রিয়তার পূর্ণ প্রমাণ নয়। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:AB_Party_flag.png) · [নিবন্ধিত দলের হালনাগাদ তালিকা: নির্বাচন কমিশন](https://ecs.gov.bd/political-parties)
 
@@ -186,7 +186,7 @@
 
 #### বাস্তব ছবি: ভোটদান ও নির্বাচনী অংশগ্রহণ
 
-![বাংলাদেশে ভোটদান ও নির্বাচনী অংশগ্রহণের দৃশ্য](https://commons.wikimedia.org/wiki/Special:FilePath/2026-02-12%2013th%20National%20Parliament%20Election%20and%202026%20Referendum%2C%20voters%20in%20long%20lines%20at%20capital%20polling%20stations.jpg)
+![বাংলাদেশে ভোটদান ও নির্বাচনী অংশগ্রহণের দৃশ্য](../assets/photos/commons-bf7c31c75c9ae474.jpg)
 
 *চিত্র-পাঠ:* নাগরিকের দাবি → রাজনৈতিক সংগঠন → নির্বাচনী প্রতিযোগিতা → প্রতিনিধিত্ব → নীতি ও জবাবদিহি—এই চক্রের সঙ্গে ছবিটি মিলিয়ে পড়ুন। [ছবির উৎস ও বিবরণ](https://commons.wikimedia.org/wiki/File:2026-02-12_13th_National_Parliament_Election_and_2026_Referendum,_voters_in_long_lines_at_capital_polling_stations.jpg) · [বাংলাদেশ নির্বাচন কমিশন](https://ecs.gov.bd/)
 
@@ -232,7 +232,7 @@
 
 #### ঐতিহাসিক ছবি: ১৯৭১ সালের ৭ মার্চের ভাষণ
 
-![বঙ্গবন্ধুর ৭ মার্চের ভাষণ, ১৯৭১](https://commons.wikimedia.org/wiki/Special:FilePath/Mujibur%20Rahman%207th%20March%20Speech%20Race%20Course%20Maidan%201971-03-07%20%28PID-h003%29.jpg)
+![বঙ্গবন্ধুর ৭ মার্চের ভাষণ, ১৯৭১](../assets/photos/commons-c9e963dfefb4f7bd.jpg)
 
 *চিত্র-পাঠ:* ভাষা আন্দোলন, ছয় দফা, গণ-অভ্যুত্থান, ১৯৭০ সালের নির্বাচন ও মুক্তিযুদ্ধকে বাংলাদেশের রাজনৈতিক সংগঠন ও গণ-অংশগ্রহণের ধারাবাহিকতায় বিশ্লেষণ করুন। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Mujibur_Rahman_7th_March_Speech_Race_Course_Maidan_1971-03-07_(PID-h003).jpg)
 
@@ -285,7 +285,7 @@
 
 #### বাস্তব ছবি: জাতীয় সংসদ ও প্রতিনিধিত্ব
 
-![বাংলাদেশের জাতীয় সংসদ ভবন](https://commons.wikimedia.org/wiki/Special:FilePath/National%20Parliament%20Building.jpg)
+![বাংলাদেশের জাতীয় সংসদ ভবন](../assets/photos/commons-fbdfd48884b64920.jpg)
 
 *চিত্র-পাঠ:* দলীয় ব্যবস্থা বিশ্লেষণে সংসদে প্রতিনিধিত্ব, সরকার গঠন, বিরোধী দলের ভূমিকা, জোট এবং নির্বাচনী প্রতিযোগিতাকে আলাদা মাত্রায় দেখুন। [ছবির উৎস, আলোকচিত্রী ও CC BY-SA 4.0 লাইসেন্স](https://commons.wikimedia.org/wiki/File:National_Parliament_Building.jpg)
 
@@ -328,7 +328,7 @@
 
 #### বাস্তব ছবি: নাগরিক সমাবেশ ও জন-অংশগ্রহণ
 
-![বাংলাদেশে নাগরিক সমাবেশ ও জনঅংশগ্রহণ](https://commons.wikimedia.org/wiki/Special:FilePath/1954%20public%20rally%20Shaheed%20Suhrawardy%20and%20Bangabandhu%2C%20Rajshahi%20%28PID-h008%29.jpg)
+![বাংলাদেশে নাগরিক সমাবেশ ও জনঅংশগ্রহণ](../assets/photos/commons-c2890e439c48d2a4.jpg)
 
 *চিত্র-পাঠ:* রাজনৈতিক সংস্কৃতিতে অংশগ্রহণ, সহনশীলতা, বিরোধী মতের প্রতি শ্রদ্ধা, শান্তিপূর্ণ প্রতিযোগিতা এবং আইন মেনে চলার ভূমিকা আলোচনা করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:1954_public_rally_Shaheed_Suhrawardy_and_Bangabandhu,_Rajshahi_(PID-h008).jpg)
 
@@ -370,7 +370,7 @@
 
 #### আইনগত উৎস: রাজনৈতিক দল নিবন্ধনের বিধান
 
-![বাংলাদেশ নির্বাচন কমিশনের প্রতীক](https://commons.wikimedia.org/wiki/Special:FilePath/Election%20Commission%20Logo.svg)
+![বাংলাদেশ নির্বাচন কমিশনের প্রতীক](../assets/photos/commons-fbbacc792371fbd6.png)
 
 *চিত্র-পাঠ:* রাজনৈতিক দল নিবন্ধন, নির্বাচনী প্রতীক ও আইনগত শর্তের জন্য বর্তমান নির্বাচন কমিশনের তালিকা এবং Representation of the People Order, 1972-এর 90A–90I ধারা পড়ুন। [সরকারি রাজনৈতিক দল নিবন্ধন আইন, ২০২০](https://ecs.gov.bd/page/political-parties-registration-law-2020) · [আইনের পূর্ণ পাঠ](https://bdlaws.minlaw.gov.bd/act-print-424.html)
 
@@ -433,7 +433,7 @@ RPO-এর Chapter VIA-তে রাজনৈতিক দলের নিবন
 
 #### বাস্তব ছবি: নির্বাচনে নারীর অংশগ্রহণ
 
-![বাংলাদেশে নারী ভোটারদের নির্বাচনী অংশগ্রহণ](https://commons.wikimedia.org/wiki/Special:FilePath/Women%20Voting%20in%20Dhaka%20Banani%20Model%20School%202018-12-30%20%28PID-0040849%29.jpg)
+![বাংলাদেশে নারী ভোটারদের নির্বাচনী অংশগ্রহণ](../assets/photos/commons-513113e106a44615.jpg)
 
 *চিত্র-পাঠ:* ভোটার হিসেবে অংশগ্রহণ, প্রার্থী হওয়া, দলীয় নেতৃত্বে প্রতিনিধিত্ব, নিরাপত্তা এবং সিদ্ধান্ত গ্রহণে কার্যকর ভূমিকা—এই দিকগুলো আলাদা করে মূল্যায়ন করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:Women_Voting_in_Dhaka_Banani_Model_School_2018-12-30_(PID-0040849).jpg) · [বাংলাদেশ নির্বাচন কমিশন](https://ecs.gov.bd/)
 
@@ -466,7 +466,7 @@ RPO-এর Chapter VIA-তে রাজনৈতিক দলের নিবন
 
 #### বাস্তব ছবি: নির্বাচনী পর্যবেক্ষণ ও ভোটকেন্দ্র
 
-![বাংলাদেশের একটি ভোটকেন্দ্র](https://commons.wikimedia.org/wiki/Special:FilePath/2026-02-12%20Chief%20Election%20Commissioner%20A.%20M.%20M.%20Nasir%20Uddin%20visits%20polling%20stations%20in%20capital.jpg)
+![বাংলাদেশের একটি ভোটকেন্দ্র](../assets/photos/commons-132db86569fb1930.jpg)
 
 *চিত্র-পাঠ:* নির্বাচনের বিশ্বাসযোগ্যতা মূল্যায়নে ভোটার তালিকা, ভোটকেন্দ্রের ব্যবস্থাপনা, সমান প্রতিযোগিতা, নিরাপত্তা, পর্যবেক্ষণ ও অভিযোগ নিষ্পত্তির বিষয়গুলো একসঙ্গে বিশ্লেষণ করুন। [ছবির উৎস](https://commons.wikimedia.org/wiki/File:2026-02-12_Chief_Election_Commissioner_A._M._M._Nasir_Uddin_visits_polling_stations_in_capital.jpg) · [নির্বাচন কমিশন](https://ecs.gov.bd/)
 
@@ -505,7 +505,7 @@ RPO-এর Chapter VIA-তে রাজনৈতিক দলের নিবন
 
 #### সংস্কারের প্রাতিষ্ঠানিক প্রেক্ষাপট: নির্বাচন কমিশন
 
-![বাংলাদেশ নির্বাচন কমিশন ভবন](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_Election_Commission.jpg)
+![বাংলাদেশ নির্বাচন কমিশন ভবন](../assets/photos/commons-52fcce8ca87f7f7e.jpg)
 
 *চিত্র-পাঠ:* স্বচ্ছ দলীয় অর্থায়ন, অভ্যন্তরীণ গণতন্ত্র, প্রার্থী মনোনয়নে স্বচ্ছতা, নারী ও তরুণদের সুযোগ এবং নিরপেক্ষ আইন প্রয়োগ—এসব সংস্কার প্রস্তাবকে নির্বাচন কমিশনের আইনগত দায়িত্বের সঙ্গে মিলিয়ে লিখুন। [নির্বাচন কমিশনের নিবন্ধিত দলের তালিকা](https://ecs.gov.bd/political-parties)
 
@@ -1105,3 +1105,5 @@ RPO 1972-এর Article 90B-তে দলের বিভিন্ন স্ত�
 রাজনৈতিক দল ও রাজনৈতিক প্রক্রিয়া বুঝতে হলে তিনটি বিষয় একসঙ্গে পড়তে হবে: **নাগরিকের অংশগ্রহণ, রাজনৈতিক প্রতিষ্ঠানের নিয়ম এবং ক্ষমতার জবাবদিহি**। দল গণতন্ত্রকে শক্তিশালী করতে পারে, যদি তা সদস্যদের প্রতিনিধিত্ব করে, স্বচ্ছভাবে কাজ করে, শান্তিপূর্ণ প্রতিযোগিতা মেনে চলে এবং বিরোধী মতের অধিকারকে সম্মান করে। রাজনৈতিক সংস্কারের লক্ষ্য মতভিন্নতা মুছে ফেলা নয়; বরং মতভিন্নতাকে আইনসম্মত, অন্তর্ভুক্তিমূলক ও জবাবদিহিমূলক প্রক্রিয়ায় পরিচালনা করা।
 
 [⬆️ Go to Contents](#top) · [💬 English Quotations + Sources](./QUOTATIONS.md) · [← Bangladesh Affairs সূচি](../README.md)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

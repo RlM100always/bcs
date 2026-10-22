@@ -58,7 +58,7 @@
 **ব্যবহার:** ১০/২০ নম্বরের ইতিহাসভিত্তিক উত্তর।
 
 ### 11. মুক্তিযুদ্ধের সেক্টরসমূহের মানচিত্র
-![বাংলাদেশের মুক্তিযুদ্ধের সেক্টরসমূহের মানচিত্র](https://commons.wikimedia.org/wiki/Special:FilePath/Sectors_of_Bangladesh_Liberation_War.svg)
+![বাংলাদেশের মুক্তিযুদ্ধের সেক্টরসমূহের মানচিত্র](../assets/photos/commons-8982f89675196d02.png)
 
 **Source:** Wikimedia Commons file page: [Sectors of Bangladesh Liberation War](https://commons.wikimedia.org/wiki/File:Sectors_of_Bangladesh_Liberation_War.svg).  
 **ব্যবহার:** সেক্টরভিত্তিক যুদ্ধ, সংগঠন ও ভৌগোলিক অবস্থান। পরীক্ষার খাতায় আঁকার আগে মানচিত্রের legend দেখে নিন।
@@ -110,3 +110,5 @@ These eight sourced visuals are embedded beside the relevant text in the main RE
 - [ ] Any statistical chart includes the data year, unit and source; do not invent historical numerical series.
 
 [⬆ Back to Chapter 03](./README.md) · [Back to all chapters](../README.md)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

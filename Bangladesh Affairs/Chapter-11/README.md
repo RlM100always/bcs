@@ -78,43 +78,43 @@
 ### Official and real-world photo references
 
 #### Postal ballot paper — 2026 referendum
-![Bangladesh Election Commission postal ballot paper for the 2026 constitutional referendum](https://commons.wikimedia.org/wiki/Special:FilePath/2026%20Bangladesh%20Constitutional%20Referendum%20Postal%20Ballot.png)
+![Bangladesh Election Commission postal ballot paper for the 2026 constitutional referendum](../assets/photos/commons-aacbfab16b70eca9.png)
 
 **Source and licence:** Official Bangladesh Election Commission facsimile, hosted by Wikimedia Commons and marked public domain. [File page and licensing](https://commons.wikimedia.org/wiki/File:2026_Bangladesh_Constitutional_Referendum_Postal_Ballot.png) · [ECS postal voting information](https://www.ecs.gov.bd/page/postal-voting-it-supported?lang=en). Use to understand postal voting; the image relates to the 2026 referendum.
 
 #### Postal ballot sending envelope
-![Bangladesh postal ballot sending envelope for the 2026 election and referendum](https://commons.wikimedia.org/wiki/Special:FilePath/2026%20Bangladeshi%20general%20election%20and%20referendum%20postal%20ballot%20sending%20envelope.png)
+![Bangladesh postal ballot sending envelope for the 2026 election and referendum](../assets/photos/commons-f526ee9b5339d699.png)
 
 **Source and licence:** Official Election Commission facsimile, public domain as described on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2026_Bangladeshi_general_election_and_referendum_postal_ballot_sending_envelope.png). Link this visual to postal voting, ballot security and voter access.
 
 #### International election observation
-![European Union observation team visits a polling station during the 2026 Bangladesh election](https://commons.wikimedia.org/wiki/Special:FilePath/The%20European%20Union%20observation%20team%20visits%20the%20Siddheshwari%20Girls%20College%20polling%20station%20in%20the%20Dhaka%20in%202026%20Bangladeshi%20General%20Election.jpg)
+![European Union observation team visits a polling station during the 2026 Bangladesh election](../assets/photos/commons-66d9f9ef6d67d6cc.jpg)
 
 **Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/Category:2026_Bangladeshi_constitutional_referendum). Use to discuss election observation and transparency; observation is distinct from election administration and adjudication.
 
 
 #### Voting in the 2026 national election and referendum
-![Voters casting ballots during Bangladesh's 2026 election and referendum](https://commons.wikimedia.org/wiki/Special:FilePath/2026-02-12%20Thirteenth%20National%20Parliamentary%20Election%20and%20Referendum%202026%2C%20voting%20in%20the%20capital.jpg)
+![Voters casting ballots during Bangladesh's 2026 election and referendum](../assets/photos/commons-30591039ac7de200.jpg)
 
 **Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:2026-02-12_Thirteenth_National_Parliamentary_Election_and_Referendum_2026,_voting_in_the_capital.jpg). Use this as a dated example of voting procedures, not as a measure of overall election quality.
 
 #### Chief Election Commissioner casting a vote
-![Chief Election Commissioner A. M. M. Nasir Uddin voting on 12 February 2026](https://commons.wikimedia.org/wiki/Special:FilePath/Chief%20Election%20Commissioner%20A.%20M.%20M.%20Nasir%20Uddin%20voting%20in%202026%20referendum%20and%2013th%20national%20parliamentary%20election%2C%20Eskaton%20Garden%20High%20School%2C%20Ramna%2C%20Dhaka%202026-02-12.jpg)
+![Chief Election Commissioner A. M. M. Nasir Uddin voting on 12 February 2026](../assets/photos/commons-ba0b74b56667cbef.jpg)
 
 **Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Chief_Election_Commissioner_A._M._M._Nasir_Uddin_voting_in_2026_referendum_and_13th_national_parliamentary_election,_Eskaton_Garden_High_School,_Ramna,_Dhaka_2026-02-12.jpg). Useful for discussing universal franchise and institutional leadership; it does not imply endorsement.
 
 #### Election result collection and reporting centre
-![Officials at the Election Commission results collection and presentation centre, 13 February 2026](https://commons.wikimedia.org/wiki/Special:FilePath/Chief%20Election%20Commissioner%20A%2C%20M%2C%20M%2C%20Nasir%20Uddin%20briefed%20the%20results%20collection%20and%20presentation%20center%20of%20the%20%27Referendum%20and%20Thirteenth%20National%20Parliament%20Election%202026.jpg)
+![Officials at the Election Commission results collection and presentation centre, 13 February 2026](../assets/photos/commons-e380683ffb754709.jpg)
 
 **Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Chief_Election_Commissioner_A,_M,_M,_Nasir_Uddin_briefed_the_results_collection_and_presentation_center_of_the_'Referendum_and_Thirteenth_National_Parliament_Election_2026.jpg). Link this visual to counting, tabulation, result publication and audit trails.
 
 #### Election result centre — inter-agency coordination
-![Information and Broadcasting Secretary at the Election Commission result centre, 12 February 2026](https://commons.wikimedia.org/wiki/Special:FilePath/Mahbuba%20Farzana%2C%20Information%20and%20Broadcasting%20Secretary%2C%20at%20Bangladesh%20Election%20Commission%20results%20center%2C%20Dhaka%2C%20for%202026%20Referendum%20and%20Thirteenth%20Parliament%20Election%2C%202026-02-12.jpg)
+![Information and Broadcasting Secretary at the Election Commission result centre, 12 February 2026](../assets/photos/commons-7944aa29cde1b7f3.jpg)
 
 **Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Mahbuba_Farzana,_Information_and_Broadcasting_Secretary,_at_Bangladesh_Election_Commission_results_center,_Dhaka,_for_2026_Referendum_and_Thirteenth_Parliament_Election,_2026-02-12.jpg). Use to discuss public information, official results and coordinated communication.
 
 #### Voters queuing at polling stations in the capital
-![Voters at polling stations in Dhaka during the 2026 election and referendum](https://commons.wikimedia.org/wiki/Special:FilePath/Voters%20at%20polling%20stations%20in%20the%20capital%20during%2013th%20National%20Parliamentary%20Election%20and%20Referendum%202026%2C%202026-02-12.jpg)
+![Voters at polling stations in Dhaka during the 2026 election and referendum](../assets/photos/commons-2427f1b62c59d555.jpg)
 
 **Source and licence:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Voters_at_polling_stations_in_the_capital_during_13th_National_Parliamentary_Election_and_Referendum_2026,_2026-02-12.jpg). Use as a dated illustration of turnout logistics, not as a turnout statistic.
 
@@ -130,12 +130,12 @@
 **Source:** Bangladesh Election Commission official website, 2026 carousel. This is an institutional reference image, not an electoral map. [Official ECS website](https://ecs.gov.bd/en).
 
 #### Voters at a polling station — 12 February 2026
-![Voters queue at a polling station in Dhaka during the 13th National Parliament Election and 2026 referendum](https://commons.wikimedia.org/wiki/Special:FilePath/Queues_of_voters_at_polling_station%2C_capital_city%2C_Thirteenth_National_Parliament_Election_and_2026_Referendum_2026-02-12.jpg)
+![Voters queue at a polling station in Dhaka during the 13th National Parliament Election and 2026 referendum](../assets/photos/commons-26bddb798acc915f.jpg)
 
 **Source and licence:** Bangladesh Press Information Department photograph hosted on Wikimedia Commons; marked public domain in Bangladesh. [Original file and licensing page](https://commons.wikimedia.org/wiki/File:Queues_of_voters_at_polling_station,_capital_city,_Thirteenth_National_Parliament_Election_and_2026_Referendum_2026-02-12.jpg). The photo illustrates participation; it is not evidence about overall election quality.
 
 #### 2026 constituency result map — supplementary visual only
-![2026 Bangladesh general election alliance-wise result map](https://commons.wikimedia.org/wiki/Special:FilePath/2026_Bangladesh_General_Election_Alliance_Wise_Result_Map.svg)
+![2026 Bangladesh general election alliance-wise result map](../assets/photos/commons-895ee6ca5ae23036.png)
 
 **Attribution:** FlyJet777, *2026 Bangladesh General Election Alliance Wise Result Map*, CC BY 4.0. [File page and licence](https://commons.wikimedia.org/wiki/File:2026_Bangladesh_General_Election_Alliance_Wise_Result_Map.svg).
 
@@ -1122,3 +1122,5 @@ Free and fair election-এর মূল্যায়ন শুধু ভোটে
 নির্বাচন গণতন্ত্রের গুরুত্বপূর্ণ প্রক্রিয়া, কিন্তু শুধু ভোটগ্রহণই গণতন্ত্রের পূর্ণ পরিচয় নয়। সংবিধানসম্মত প্রতিষ্ঠান, সঠিক ভোটার তালিকা, সমান প্রতিযোগিতা, গোপন ভোট, স্বচ্ছ গণনা, অন্তর্ভুক্তিমূলক অংশগ্রহণ এবং কার্যকর আইনি প্রতিকার—সবগুলো উপাদান একত্রে নির্বাচনী বিশ্বাসযোগ্যতা তৈরি করে। BCS Written-এ সবচেয়ে ভালো উত্তর হবে সেই উত্তর, যা আইন ও প্রতিষ্ঠানের তথ্যের সঙ্গে বাংলাদেশের বাস্তব সমস্যা, প্রমাণভিত্তিক বিশ্লেষণ এবং বাস্তবায়নযোগ্য সংস্কার যুক্ত করে।
 
 [⬆ Back to top](#top)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

@@ -111,7 +111,7 @@
 
 #### বাস্তব ছবি ১ — Digital connectivity ও প্রযুক্তিগত বিশ্বায়ন
 
-![Inauguration of 5G mobile internet service in Dhaka, Bangladesh, 12 December 2021](https://commons.wikimedia.org/wiki/Special:FilePath/Inauguration%20of%205G%20Mobile%20Internet%20Service%20in%20Dhaka%20Bangladesh%202021-12-12%20%28PID-0025799%29.jpg)
+![Inauguration of 5G mobile internet service in Dhaka, Bangladesh, 12 December 2021](../assets/photos/commons-6250af8e931bfc3d.jpg)
 
 *কীভাবে বুঝবে:* টেলিযোগাযোগ ও ডিজিটাল নেটওয়ার্ক বিশ্বব্যাপী তথ্য, সেবা, জ্ঞান ও ব্যবসার প্রবাহ দ্রুত করে। এটি ২০২১ সালের 5G launch-এর ঐতিহাসিক ছবি—বর্তমান 5G coverage বা internet speed-এর পরিসংখ্যান নয়। **ছবির উৎস:** Bangladesh Press Information Department (PID); বাংলাদেশে public domain. [মূল ছবি ও অধিকার](https://commons.wikimedia.org/wiki/File:Inauguration_of_5G_Mobile_Internet_Service_in_Dhaka_Bangladesh_2021-12-12_(PID-0025799).jpg).
 
@@ -126,7 +126,7 @@
 
 #### বাস্তব ছবি ২ — International trade ও supply chain
 
-![Intermodal shipping containers stacked at the Port of Chittagong, Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/Stacking%20Intermodal%20container%20in%20Port%20of%20Chittagong%20%2814%29.jpg)
+![Intermodal shipping containers stacked at the Port of Chittagong, Bangladesh](../assets/photos/commons-f58184f6823b27b7.jpg)
 
 *কীভাবে বুঝবে:* বন্দর, কনটেইনার, কাস্টমস ও logistics আন্তর্জাতিক বাণিজ্যকে বাস্তবে যুক্ত করে। বন্দরের দক্ষতা বাড়লে রপ্তানি-আমদানি খরচ ও সময় কমাতে সহায়তা করতে পারে। **ছবির কৃতিত্ব:** Moheen Reeyad; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি](https://commons.wikimedia.org/wiki/File:Stacking_Intermodal_container_in_Port_of_Chittagong_(14).jpg).
 
@@ -134,7 +134,7 @@
 
 #### বাস্তব ছবি ৩ — RMG ও বৈশ্বিক মূল্যশৃঙ্খল
 
-![Women working on a garment factory assembly line in Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/Garment%20factory%20in%20Bangladesh%20Women%20working.jpg)
+![Women working on a garment factory assembly line in Bangladesh](../assets/photos/commons-4a058b209c767203.jpg)
 
 *কীভাবে বুঝবে:* বাংলাদেশের তৈরি পোশাকশিল্প আন্তর্জাতিক ক্রেতা, কাঁচামাল, নকশা, মানদণ্ড, পরিবহন ও ভোক্তা-চাহিদার সঙ্গে যুক্ত। ছবিটি ২০১১ সালের কারখানার দৃশ্য; বর্তমান শ্রমপরিবেশ বা খাতের অবস্থা সম্পর্কে একে একক প্রমাণ হিসেবে ব্যবহার করা যাবে না। **ছবির কৃতিত্ব:** Tareq Salahuddin; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). [মূল ছবি](https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg).
 
@@ -144,7 +144,7 @@
 
 #### বাস্তব ছবি ৪ — Labour migration ও remittance
 
-![Bangladesh's expatriate workers' waiting room at Hazrat Shahjalal International Airport, Dhaka](https://commons.wikimedia.org/wiki/Special:FilePath/Muhammad%20Yunus%20Inaugurates%20Expatriate%20Worker%20Waiting%20Room%20Dhaka%202024-11-14%20%28PID-0005233%29.jpg)
+![Bangladesh's expatriate workers' waiting room at Hazrat Shahjalal International Airport, Dhaka](../assets/photos/commons-c9f6afe9f3f6c9c2.jpg)
 
 *কীভাবে বুঝবে:* আন্তর্জাতিক শ্রমবাজারে কাজ করা মানুষ দেশে আয় পাঠিয়ে পরিবার ও অর্থনীতিতে অবদান রাখতে পারেন; একই সঙ্গে নিরাপদ নিয়োগ, ন্যায্য চুক্তি ও consular support গুরুত্বপূর্ণ। ছবিটি ২০২৪ সালে প্রবাসী কর্মীদের জন্য অপেক্ষাগার উদ্বোধনের সময়কার দৃশ্য—রেমিট্যান্সের পরিসংখ্যান নয়। **ছবির উৎস:** Bangladesh Press Information Department (PID); বাংলাদেশে public domain. [মূল ছবি ও অধিকার](https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Inaugurates_Expatriate_Worker_Waiting_Room_Dhaka_2024-11-14_(PID-0005233).jpg).
 
@@ -156,7 +156,7 @@ FDI নতুন পুঁজি, প্রযুক্তি, ব্যবস�
 
 #### বাস্তব ছবি ৫ — Investment climate ও Economic Zones
 
-![Bangladesh Economic Zones Authority governing board meeting in Dhaka, 3 August 2026](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh%20Economic%20Zones%20Authority%20governing%20board%20meeting%20at%20Prime%20Minister%27s%20office%20in%20Dhaka%2C%202026-08-03.jpg)
+![Bangladesh Economic Zones Authority governing board meeting in Dhaka, 3 August 2026](../assets/photos/commons-6dbc06ed2904f81c.jpg)
 
 *কীভাবে বুঝবে:* বিদেশি প্রত্যক্ষ বিনিয়োগ (FDI) আকর্ষণে অর্থনৈতিক অঞ্চল, নীতির পূর্বানুমেয়তা, অবকাঠামো, জ্বালানি, logistics ও দ্রুত প্রশাসনিক সেবা ভূমিকা রাখে। এই সরকারি সভার ছবি নীতিগত কাঠামোর উদাহরণ—এটি বিনিয়োগের পরিমাণ বা সাফল্যের প্রমাণ নয়। **ছবির উৎস:** Bangladesh Press Information Department (PID); বাংলাদেশে public domain. [মূল ছবি ও অধিকার](https://commons.wikimedia.org/wiki/File:Bangladesh_Economic_Zones_Authority_governing_board_meeting_at_Prime_Minister%27s_office_in_Dhaka,_2026-08-03.jpg).
 
@@ -194,13 +194,13 @@ FDI নতুন পুঁজি, প্রযুক্তি, ব্যবস�
 
 #### বাস্তব ছবি ৬ — WTO ও rules-based trade
 
-![Centre William-Rappard, headquarters of the World Trade Organization in Geneva](https://commons.wikimedia.org/wiki/Special:FilePath/Centre%20William-Rappard%201.jpg)
+![Centre William-Rappard, headquarters of the World Trade Organization in Geneva](../assets/photos/commons-1500281c8338ae65.jpg)
 
 *কীভাবে বুঝবে:* WTO সদস্যদের মধ্যে বাণিজ্য-নিয়ম, আলোচনা ও বিরোধ নিষ্পত্তির বহুপাক্ষিক কাঠামো দেয়। ভবনের ছবি প্রতিষ্ঠানের অবস্থান বোঝায়; এর কার্যক্রম বা বাংলাদেশের নির্দিষ্ট বাণিজ্য-সুবিধার প্রমাণ নয়। **ছবির কৃতিত্ব:** Jérémy Toma; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি](https://commons.wikimedia.org/wiki/File:Centre_William-Rappard_1.jpg).
 
 #### বাস্তব ছবি ৭ — World Bank ও development finance
 
-![World Bank Headquarters in Washington, D.C.](https://commons.wikimedia.org/wiki/Special:FilePath/World%20Bank%20Headquarters.jpg)
+![World Bank Headquarters in Washington, D.C.](../assets/photos/commons-8e2b48fbd33b1ad8.jpg)
 
 *কীভাবে বুঝবে:* World Bank Group উন্নয়ন অর্থায়ন, জ্ঞান ও নীতি-সহায়তা দেয়; এর ভূমিকা WTO-র বাণিজ্য-নিয়মের ভূমিকা থেকে আলাদা। ছবিটি সদরদপ্তরের, কোনো নির্দিষ্ট ঋণ বা প্রকল্পের ফলাফলের প্রমাণ নয়। **ছবির কৃতিত্ব:** Shanice Gounden; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি](https://commons.wikimedia.org/wiki/File:World_Bank_Headquarters.jpg).
 
@@ -237,7 +237,7 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 
 #### বাস্তব ছবি ৮ — Global supply chain ও শ্রমিক
 
-![Garment workers in Bangladesh leaving a factory during a break](https://commons.wikimedia.org/wiki/Special:FilePath/Garment%20workers%20in%20Bangladesh%20exiting%20a%20factory%20during%20break.jpg)
+![Garment workers in Bangladesh leaving a factory during a break](../assets/photos/commons-d67a9ae3c4f544b5.jpg)
 
 *কীভাবে বুঝবে:* রপ্তানি-সাফল্যকে শুধু অর্ডার ও বৈদেশিক মুদ্রা দিয়ে নয়, শ্রমিকের নিরাপত্তা, ন্যায্য মজুরি, সংগঠিত হওয়ার অধিকার ও decent work দিয়েও মূল্যায়ন করতে হয়। ছবিটি কারখানা থেকে বিরতির সময়ে বের হওয়া শ্রমিকদের দেখায়; একা এটি কর্মপরিবেশের মান প্রমাণ করে না। **ছবির কৃতিত্ব:** Nahid Sultan; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি](https://commons.wikimedia.org/wiki/File:Garment_workers_in_Bangladesh_exiting_a_factory_during_break.jpg).
 
@@ -252,7 +252,7 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 
 #### বাস্তব ছবি ৯ — Environmental vulnerability ও river erosion
 
-![River erosion in Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/River%20erosion%20in%20Bangladesh%20%2815255986711%29.jpg)
+![River erosion in Bangladesh](../assets/photos/commons-35120cd8e02bcec7.jpg)
 
 *কীভাবে বুঝবে:* নদীভাঙন ও পরিবেশগত ঝুঁকি মানুষের জীবিকা, সম্পদ, অবকাঠামো ও অভিবাসনের ওপর চাপ সৃষ্টি করতে পারে। নদীভাঙনকে শুধু জলবায়ু পরিবর্তনের ফল বলা ঠিক নয়—নদীর স্বাভাবিক গতিপ্রকৃতি, পলি ও মানবিক হস্তক্ষেপসহ একাধিক কারণ কাজ করে। **ছবির কৃতিত্ব:** Helena Wright; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). [মূল ছবি](https://commons.wikimedia.org/wiki/File:River_erosion_in_Bangladesh_(15255986711).jpg).
 
@@ -261,7 +261,7 @@ Multinational corporations (MNCs) একাধিক দেশে উৎপা�
 
 #### বাস্তব ছবি ১০ — Export diversification ও value addition
 
-![Jute Fiber BD manufacturing plant in Savar, Bangladesh, 20 July 2026](https://commons.wikimedia.org/wiki/Special:FilePath/State%20Minister%20for%20Textiles%20and%20Jute%20Md.%20Shariful%20Alam%20visiting%20Jute%20Fiber%20BD%20manufacturing%20plant%20in%20Savar%2C%202026-07-20.jpg)
+![Jute Fiber BD manufacturing plant in Savar, Bangladesh, 20 July 2026](../assets/photos/commons-69c8cff0d6800941.jpg)
 
 *কীভাবে বুঝবে:* পাট ও পাটজাত পণ্যের মতো খাতে value addition, quality, branding ও বাজার-প্রবেশ বাড়ানো রপ্তানি বৈচিত্র্যের একটি সম্ভাব্য পথ। ছবিটি ২০২৬ সালের একটি উৎপাদন-কারখানা পরিদর্শনের দৃশ্য; রপ্তানি-পরিমাণ বা বাজার-চাহিদার পরিসংখ্যান নয়। **ছবির উৎস:** Bangladesh Press Information Department (PID); বাংলাদেশে public domain. [মূল ছবি ও অধিকার](https://commons.wikimedia.org/wiki/File:State_Minister_for_Textiles_and_Jute_Md._Shariful_Alam_visiting_Jute_Fiber_BD_manufacturing_plant_in_Savar,_2026-07-20.jpg).
 
@@ -472,3 +472,5 @@ The following ten internet photographs are embedded beside the relevant discussi
 
 ---
 [⬆️ Back to Bangladesh Affairs index](../README.md)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

@@ -15,12 +15,12 @@
 > **ছবি ব্যবহারের নোট:** Wikimedia Commons-এর উৎস ও লাইসেন্সের পাতা লিংক করা আছে। ছবিগুলো প্রতিষ্ঠান চেনার সহায়ক, আইনগত ক্ষমতার প্রমাণ নয়।
 
 ### জাতীয় সংসদ ভবন — Legislature
-![Jatiya Sangsad Bhaban, Dhaka](https://commons.wikimedia.org/wiki/Special:FilePath/Jatiya_Sangsad_Bhaban%2C_Dhaka%2C_Bangladesh.jpg)
+![Jatiya Sangsad Bhaban, Dhaka](../assets/photos/commons-f7ede3f7e6ee4802.jpg)
 
 **Attribution:** Subarashitours, [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Jatiya_Sangsad_Bhaban,_Dhaka,_Bangladesh.jpg), CC BY-SA 4.0.
 
 ### বাংলাদেশ সুপ্রিম কোর্ট — Judiciary
-![Bangladesh Supreme Court Main Building](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_Supreme_Court_Main_Building.jpg)
+![Bangladesh Supreme Court Main Building](../assets/photos/commons-8675f7d8351dc747.jpg)
 
 **Attribution:** Basir Shikder, [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Bangladesh_Supreme_Court_Main_Building.jpg), CC BY-SA 4.0.
 
@@ -83,7 +83,7 @@
 
 #### সাংবিধানিক প্রতিষ্ঠান: সুপ্রিম কোর্টের প্রতীক
 
-![বাংলাদেশ সুপ্রিম কোর্টের সিলমোহর](https://commons.wikimedia.org/wiki/Special:FilePath/Supreme%20Court%20of%20Bangladesh%20seal%20%281972%29.svg)
+![বাংলাদেশ সুপ্রিম কোর্টের সিলমোহর](../assets/photos/commons-65c9e24ed85d1048.png)
 
 *চিত্র-পাঠ:* সংবিধানের ৯৪ অনুচ্ছেদে সুপ্রিম কোর্টের গঠন এবং ১০২ অনুচ্ছেদে হাইকোর্ট বিভাগের রিট-এখতিয়ার পড়ার সময় প্রতীকটি প্রতিষ্ঠানের পরিচায়ক হিসেবে ব্যবহার করুন। [ছবির উৎস ও public-domain তথ্য](https://commons.wikimedia.org/wiki/File:Supreme_Court_of_Bangladesh_seal_(1972).svg) · [সরকারি আদালত ওয়েবসাইট](https://www.supremecourt.gov.bd/)
 
@@ -133,7 +133,7 @@
 
 #### বাস্তব ছবি: সংসদ ভবন ও আইন প্রণয়ন
 
-![জাতীয় সংসদ ভবন, বাংলাদেশ](https://commons.wikimedia.org/wiki/Special:FilePath/National%20Parliament%20of%20Bangladesh%2002.jpg)
+![জাতীয় সংসদ ভবন, বাংলাদেশ](../assets/photos/commons-218148072e31df55.jpg)
 
 *চিত্র-পাঠ:* আইন প্রণয়ন, বাজেট অনুমোদন, জনগণের প্রতিনিধিত্ব এবং নির্বাহী বিভাগের জবাবদিহি—এই চারটি কার্যাবলির সঙ্গে ছবিটি মিলিয়ে পড়ুন। [ছবির উৎস ও বিবরণ](https://commons.wikimedia.org/wiki/File:National_Parliament_of_Bangladesh_02.jpg) · [জাতীয় সংসদ](https://www.parliament.gov.bd/)
 
@@ -162,7 +162,7 @@
 
 #### বাস্তব প্রতিষ্ঠান: বঙ্গভবন
 
-![বঙ্গভবন — রাষ্ট্রপতির সরকারি বাসভবন](https://commons.wikimedia.org/wiki/Special:FilePath/Bangabhaban.jpg)
+![বঙ্গভবন — রাষ্ট্রপতির সরকারি বাসভবন](../assets/photos/commons-5fd4ec3ebb895220.jpg)
 
 *চিত্র-পাঠ:* রাষ্ট্রপতির সাংবিধানিক অবস্থান, প্রধানমন্ত্রী ও মন্ত্রিসভার ভূমিকা এবং সংসদীয় সরকারব্যবস্থায় প্রকৃত নির্বাহী ক্ষমতার প্রয়োগ আলাদা করে বুঝুন। ভবনের ছবি নিজে ক্ষমতার বণ্টনের প্রমাণ নয়। [ছবির উৎস ও বর্ণনা](https://commons.wikimedia.org/wiki/File:Bangabhaban.jpg) · [রাষ্ট্রপতির কার্যালয়](https://bangabhaban.gov.bd/)
 : রাষ্ট্রপতি, প্রধানমন্ত্রী, মন্ত্রিসভা ও প্রশাসন
@@ -186,14 +186,14 @@
 
 #### সুপ্রিম কোর্টের প্রবেশপথ
 
-![বাংলাদেশ সুপ্রিম কোর্টের প্রবেশদ্বার](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh%20Supreme%20Court%20Gate.jpg)
+![বাংলাদেশ সুপ্রিম কোর্টের প্রবেশদ্বার](../assets/photos/commons-3562821fa2828408.jpg)
 
 *চিত্র-পাঠ:* বিচার বিভাগে প্রবেশাধিকার, আদালতের প্রাতিষ্ঠানিক ভূমিকা ও বিচারপ্রাপ্তির সুযোগ নিয়ে আলোচনার সহায়ক ছবি। [ছবির মূল উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Bangladesh_Supreme_Court_Gate.jpg)
 
 
 #### বাস্তব প্রতিষ্ঠান: বাংলাদেশ সুপ্রিম কোর্ট
 
-![বাংলাদেশ সুপ্রিম কোর্টের প্রধান ভবন](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh%20Supreme%20Court%20Main%20Building.jpg)
+![বাংলাদেশ সুপ্রিম কোর্টের প্রধান ভবন](../assets/photos/commons-8675f7d8351dc747.jpg)
 
 *চিত্র-পাঠ:* সুপ্রিম কোর্টের Appellate Division ও High Court Division, বিচারিক পর্যালোচনা, রিট এখতিয়ার এবং আইনের শাসনের ভূমিকা এই ছবির সঙ্গে মিলিয়ে পড়ুন। [ছবির মূল উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Bangladesh_Supreme_Court_Main_Building.jpg) · [সুপ্রিম কোর্টের সরকারি ওয়েবসাইট](https://www.supremecourt.gov.bd/)
 : কাঠামো, ক্ষমতা ও স্বাধীনতা
@@ -222,7 +222,7 @@
 
 #### সংসদীয় জবাবদিহি: অধিবেশনকক্ষের দৃশ্য
 
-![বাংলাদেশের ত্রয়োদশ জাতীয় সংসদের অধিবেশন](https://commons.wikimedia.org/wiki/Special:FilePath/Interior%20view%20of%20the%2013th%20National%20Parliament%20of%20Bangladesh%2C%20Dhaka.jpg)
+![বাংলাদেশের ত্রয়োদশ জাতীয় সংসদের অধিবেশন](../assets/photos/commons-9f1f8fd8f2ccc79d.jpg)
 
 *চিত্র-পাঠ:* সংসদীয় প্রশ্ন, বিতর্ক, বাজেট পর্যালোচনা ও মন্ত্রিসভার দায়বদ্ধতা বোঝার সময় ছবিটি ব্যবহার করুন। এর সঙ্গে [Checks and Balances diagram](./assets/checks-balances.svg) দেখুন। [ছবির মূল উৎস](https://commons.wikimedia.org/wiki/File:Interior_view_of_the_13th_National_Parliament_of_Bangladesh,_Dhaka.jpg)
 
@@ -343,14 +343,14 @@ Judicial review is the power of a competent court to examine whether a law or pu
 
 #### বিচারপ্রাপ্তির ইতিহাস: আদালতের ফি-স্ট্যাম্প
 
-![বাংলাদেশ সুপ্রিম কোর্টের ১৯৭২ সালের কোর্ট-ফি স্ট্যাম্প](https://commons.wikimedia.org/wiki/Special:FilePath/Court%20fee%20stamp%20of%20Supreme%20Court%20of%20Bangladesh%20%281972%29.jpg)
+![বাংলাদেশ সুপ্রিম কোর্টের ১৯৭২ সালের কোর্ট-ফি স্ট্যাম্প](../assets/photos/commons-7de6d9db68ba5146.jpg)
 
 *চিত্র-পাঠ:* বিচারপ্রাপ্তির সুযোগ ও ব্যয় নিয়ে আলোচনার ঐতিহাসিক উদাহরণ। বর্তমান আদালত-ফি বা আইনি সহায়তার নিয়ম জানতে বর্তমান সরকারি আইন ও Legal Aid তথ্য যাচাই করুন। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Court_fee_stamp_of_Supreme_Court_of_Bangladesh_(1972).jpg) · [জাতীয় আইনগত সহায়তা প্রদান সংস্থা](https://nlaso.gov.bd/)
 
 
 #### বাস্তব ছবি: বিচারিক স্বাধীনতা ও দক্ষতা নিয়ে প্রাতিষ্ঠানিক আলোচনা
 
-![বাংলাদেশ সুপ্রিম কোর্টের বিচারিক স্বাধীনতা বিষয়ক কার্যক্রম](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh%20Supreme%20Court%20%2810%20July%202025%29.jpg)
+![বাংলাদেশ সুপ্রিম কোর্টের বিচারিক স্বাধীনতা বিষয়ক কার্যক্রম](../assets/photos/commons-6270a54f9ecb9dfe.jpg)
 
 *চিত্র-পাঠ:* বিচারিক স্বাধীনতা, মামলাজট, বিচারপ্রাপ্তির সুযোগ এবং দক্ষতা বৃদ্ধির সংস্কারকে আলাদা করে বিশ্লেষণ করুন। [ছবির উৎস ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Bangladesh_Supreme_Court_(10_July_2025).jpg) · [সুপ্রিম কোর্টের সরকারি Photo Gallery](https://www.supremecourt.gov.bd/web/?id=535&menu=10&page=photo_gallery.php)
 
@@ -591,3 +591,4 @@ https://bdlaws.minlaw.gov.bd/act-print-367.html
 - [ ] যাচাই না-করা কোনো প্রশ্নকে নির্দিষ্ট সালের verified BCS question বলিনি।
 - [ ] উপসংহারে প্রশ্নের সরাসরি উত্তর দিয়েছি।
 
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

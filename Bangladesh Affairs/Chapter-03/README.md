@@ -107,7 +107,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 
 #### Visual source: মহাস্থানগড় ও প্রাচীন পুণ্ড্রনগর
 
-![মহাস্থানগড়ের প্রাচীন প্রত্নস্থল](https://commons.wikimedia.org/wiki/Special:FilePath/Walls_of_Mahasthangarh.jpg)
+![মহাস্থানগড়ের প্রাচীন প্রত্নস্থল](../assets/photos/commons-38913d191594f357.jpg)
 
 *চিত্র-পাঠ:* প্রাচীর ও প্রত্নাবশেষ প্রাচীন নগরায়ণ, প্রতিরক্ষা এবং পুণ্ড্রনগরের বস্তুগত ইতিহাস বুঝতে সাহায্য করে। [ছবির উৎস ও লাইসেন্স: Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Walls_of_Mahasthangarh.jpg) · [Banglapedia: Mahasthan](https://en.banglapedia.org/index.php?lang=en&title=Mahasthan)
 
@@ -129,7 +129,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 
 ### মহাস্থানগড়, পাহাড়পুর ও ময়নামতি
 
-![পাহাড়পুরের সোমপুর মহাবিহার](https://commons.wikimedia.org/wiki/Special:FilePath/Paharpur%20Maha%20Vihara.jpg)
+![পাহাড়পুরের সোমপুর মহাবিহার](../assets/photos/commons-d06e42dfd167751e.jpg)
 
 *চিত্র-পাঠ:* সোমপুর মহাবিহারের বিশাল পরিকল্পনা, ইটের স্থাপত্য ও টেরাকোটা পালযুগের ধর্মীয় পৃষ্ঠপোষকতা এবং জ্ঞানচর্চার প্রমাণ। [ছবির উৎস ও লাইসেন্স: Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paharpur_Maha_Vihara.jpg) · [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/322/)
 
@@ -164,7 +164,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 
 #### Visual source: সুলতানি বাংলার স্থাপত্য
 
-![বাগেরহাটের ষাট গম্বুজ মসজিদ](https://commons.wikimedia.org/wiki/Special:FilePath/Sixty%20Dome%20Mosque%2CBagerhat.jpg)
+![বাগেরহাটের ষাট গম্বুজ মসজিদ](../assets/photos/commons-6222439cb5c44ac5.jpg)
 
 *চিত্র-পাঠ:* ষাট গম্বুজ মসজিদ সুলতানি বাংলার ইটনির্ভর স্থাপত্য, নগর পরিকল্পনা ও ধর্মীয়-সামাজিক পৃষ্ঠপোষকতার গুরুত্বপূর্ণ নিদর্শন। [ছবির উৎস ও লাইসেন্স: Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sixty_Dome_Mosque,Bagerhat.jpg) · [UNESCO site record](https://whc.unesco.org/en/list/321/)
 
@@ -221,7 +221,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 
 ### বঙ্গভঙ্গ, ১৯০৫
 
-![১৯০৫ সালের বঙ্গভঙ্গের মানচিত্র](https://commons.wikimedia.org/wiki/Special:FilePath/BengalPartition1905_Map.png)
+![১৯০৫ সালের বঙ্গভঙ্গের মানচিত্র](../assets/photos/commons-5ea682375c96dd46.png)
 
 *মানচিত্র-পাঠ:* ১৯০৫ সালের প্রশাসনিক বিভাজনে পূর্ব বাংলা ও আসাম প্রদেশ গঠনের ভৌগোলিক পরিবর্তন বোঝায়। এটি ১৯০৫ সালের ঐতিহাসিক মানচিত্র—বর্তমান রাজনৈতিক সীমানা নয়। [মানচিত্রের উৎস, নির্মাতা ও লাইসেন্স: Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BengalPartition1905_Map.png)
 
@@ -253,7 +253,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 
 #### Historical photograph: ১৯৫২ সালের ভাষা আন্দোলন
 
-![১৯৫২ সালের ২১ ফেব্রুয়ারির ভাষা আন্দোলনের মিছিল](https://commons.wikimedia.org/wiki/Special:FilePath/1952%20Bengali%20Language%20movement.jpg)
+![১৯৫২ সালের ২১ ফেব্রুয়ারির ভাষা আন্দোলনের মিছিল](../assets/photos/commons-94772d3b8eb9b2b4.jpg)
 
 *চিত্র-পাঠ:* রাষ্ট্রভাষা বাংলার দাবিতে জনসমাবেশ ও মিছিল ভাষা আন্দোলনের গণভিত্তি বোঝায়। [ছবির উৎস, বর্ণনা ও public-domain তথ্য](https://commons.wikimedia.org/wiki/File:1952_Bengali_Language_movement.jpg) · [Banglapedia: Language Movement](https://en.banglapedia.org/index.php?title=Language_Movement)
 
@@ -354,7 +354,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 <a id="march1971"></a>
 ## ১২. ৭ মার্চের ভাষণ ও অসহযোগ আন্দোলন
 
-![১৯৭১ সালের ৭ মার্চ রেসকোর্স ময়দানে বঙ্গবন্ধুর ভাষণ](https://commons.wikimedia.org/wiki/Special:FilePath/Mujibur%20Rahman%207th%20March%20Speech%20Race%20Course%20Maidan%201971-03-07%20%28PID-h003%29.jpg)
+![১৯৭১ সালের ৭ মার্চ রেসকোর্স ময়দানে বঙ্গবন্ধুর ভাষণ](../assets/photos/commons-c9e963dfefb4f7bd.jpg)
 
 *চিত্র-পাঠ:* ভাষণের ঐতিহাসিক গুরুত্ব ব্যাখ্যা করতে রাজনৈতিক প্রেক্ষাপট, গণসমাবেশ, অসহযোগ এবং প্রতিরোধের প্রস্তুতি একসঙ্গে আলোচনা করুন। [ছবির উৎস ও সরকারি PID archive rights note](https://commons.wikimedia.org/wiki/File:Mujibur_Rahman_7th_March_Speech_Race_Course_Maidan_1971-03-07_(PID-h003).jpg) · [UNESCO Memory of the World](https://www.unesco.org/en/memory-world)
 
@@ -391,7 +391,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 
 ### মুজিবনগর সরকার: গঠন ও শপথ
 
-![মুজিবনগর মুক্তিযুদ্ধ স্মৃতি কমপ্লেক্স](https://commons.wikimedia.org/wiki/Special:FilePath/1971%20war%20at%20Mujibnagar%20memorial.jpg)
+![মুজিবনগর মুক্তিযুদ্ধ স্মৃতি কমপ্লেক্স](../assets/photos/commons-a77fc76d9429c01d.jpg)
 
 *চিত্র-পাঠ:* এটি যুদ্ধকালীন ছবি নয়; ২০১৮ সালে তোলা স্মৃতি কমপ্লেক্সের ছবি। মুজিবনগরকে অস্থায়ী সরকারের সংগঠন ও মুক্তিযুদ্ধের স্মৃতির সঙ্গে যুক্ত করে দেখুন। [ছবির উৎস, আলোকচিত্রী ও CC BY-SA লাইসেন্স](https://commons.wikimedia.org/wiki/File:1971_war_at_Mujibnagar_memorial.jpg) · [Banglapedia: Mujibnagar Government](https://en.banglapedia.org/index.php?lang=en&title=Mujibnagar_Government)
 
@@ -429,7 +429,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 
 #### Living heritage: জামদানি বয়ন
 
-![বাংলাদেশের ঐতিহ্যবাহী জামদানি বয়ন](https://commons.wikimedia.org/wiki/Special:FilePath/Traditional%20Jamdani%20Weaving.jpg)
+![বাংলাদেশের ঐতিহ্যবাহী জামদানি বয়ন](../assets/photos/commons-234f7acb30998544.jpg)
 
 *চিত্র-পাঠ:* জামদানি শুধু পোশাক নয়—দক্ষতা, নকশা, প্রজন্মান্তরে জ্ঞান স্থানান্তর এবং কারুশিল্প-নির্ভর জীবিকার উদাহরণ। [ছবির উৎস, আলোকচিত্রী ও CC BY-SA লাইসেন্স](https://commons.wikimedia.org/wiki/File:Traditional_Jamdani_Weaving.jpg) · [UNESCO Intangible Cultural Heritage: Traditional art of Jamdani weaving](https://ich.unesco.org/en/RL/traditional-art-of-jamdani-weaving-00879)
 
@@ -502,7 +502,7 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 > **Map accuracy:** নিচের মানচিত্রগুলো সংশ্লিষ্ট ঐতিহাসিক/প্রাতিষ্ঠানিক উৎসে দেখুন। বর্তমান প্রশাসনিক মানচিত্রকে প্রাচীন জনপদ বা ১৯৭১ সালের যুদ্ধ-সেক্টরের মানচিত্র ধরে ব্যবহার করবেন না। বাইরের ছবির লাইসেন্স ও attribution আলাদা করে উল্লেখ করা হয়েছে।
 
 ### Historical map — Liberation War sectors
-![বাংলাদেশের মুক্তিযুদ্ধের সেক্টরসমূহের মানচিত্র](https://commons.wikimedia.org/wiki/Special:FilePath/Sectors_of_Bangladesh_Liberation_War.svg)
+![বাংলাদেশের মুক্তিযুদ্ধের সেক্টরসমূহের মানচিত্র](../assets/photos/commons-8982f89675196d02.png)
 
 **Map source and licence:** [Wikimedia Commons — Sectors of Bangladesh Liberation War.svg](https://commons.wikimedia.org/wiki/File:Sectors_of_Bangladesh_Liberation_War.svg) · creator: Armanaziz · CC BY-SA/GFDL licensing shown on the file page. Use the file page for exact licence terms and attribution.
 
@@ -515,12 +515,12 @@ BPSC-এর *Syllabus for BCS (Written) Examination*, Bangladesh Affairs (Compul
 <table>
 <thead><tr><th>Image</th><th>Why it matters for BCS</th><th>Photo credit / licence</th></tr></thead>
 <tbody>
-<tr><td><a href="https://commons.wikimedia.org/wiki/File:Paharpur_Maha_Vihara.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Paharpur_Maha_Vihara.jpg?width=420" alt="Paharpur Somapura Mahavihara" width="260"/></a></td><td><b>Paharpur / Somapura Mahavihara</b><br/>Pala-era Buddhist learning and architecture; UNESCO World Heritage property since 1985.</td><td>Zaheed Sarwer Khan · CC0 1.0. <a href="https://commons.wikimedia.org/wiki/File:Paharpur_Maha_Vihara.jpg">File page</a>.</td></tr>
-<tr><td><a href="https://commons.wikimedia.org/wiki/File:View_of_Sixty_Dome_Mosque_Bagerhat.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/View_of_Sixty_Dome_Mosque_Bagerhat.jpg?width=420" alt="Sixty Dome Mosque, Bagerhat" width="260"/></a></td><td><b>Sixty Dome Mosque, Bagerhat</b><br/>Bengal Sultanate architecture and historic urban planning.</td><td>Faisal Photography · CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:View_of_Sixty_Dome_Mosque_Bagerhat.jpg">File page</a>.</td></tr>
-<tr><td><a href="https://commons.wikimedia.org/wiki/File:Shaheed_Minar,_Dhaka,_Bangladesh.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Shaheed_Minar%2C_Dhaka%2C_Bangladesh.jpg?width=420" alt="Central Shaheed Minar in Dhaka" width="260"/></a></td><td><b>Central Shaheed Minar</b><br/>Visual memory of the Language Movement and linguistic rights.</td><td>Subarashitours · CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:Shaheed_Minar,_Dhaka,_Bangladesh.jpg">File page</a>.</td></tr>
-<tr><td><a href="https://commons.wikimedia.org/wiki/File:Mangal_Shobhajatra.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Mangal_Shobhajatra.jpg?width=420" alt="Mangal Shobhajatra procession" width="260"/></a></td><td><b>Mangal Shobhajatra</b><br/>Living heritage, public participation and Bengali New Year traditions; UNESCO ICH inscription in 2016.</td><td>Mustmamun · CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:Mangal_Shobhajatra.jpg">File page</a>.</td></tr>
-<tr><td><a href="https://commons.wikimedia.org/wiki/File:Traditional_Jamdani_Weaving.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Traditional_Jamdani_Weaving.jpg?width=420" alt="Traditional Jamdani weaving" width="260"/></a></td><td><b>Jamdani weaving</b><br/>Traditional craft knowledge, artisanal skill and intangible cultural heritage.</td><td>Joysaha.bd · CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:Traditional_Jamdani_Weaving.jpg">File page</a>.</td></tr>
-<tr><td><a href="https://commons.wikimedia.org/wiki/File:Entry_of_Sundarban_Forest_,Bangladesh.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Entry_of_Sundarban_Forest_%2CBangladesh.jpg?width=420" alt="Sundarbans mangrove forest" width="260"/></a></td><td><b>Sundarbans</b><br/>Natural heritage and the relationship between environment, livelihood and conservation.</td><td>Syed Sajidul Islam · CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:Entry_of_Sundarban_Forest_,Bangladesh.jpg">File page</a>.</td></tr>
+<tr><td><a href="https://commons.wikimedia.org/wiki/File:Paharpur_Maha_Vihara.jpg"><img src="../assets/photos/commons-d06e42dfd167751e.jpg" alt="Paharpur Somapura Mahavihara" width="260"/></a></td><td><b>Paharpur / Somapura Mahavihara</b><br/>Pala-era Buddhist learning and architecture; UNESCO World Heritage property since 1985.</td><td>Zaheed Sarwer Khan · CC0 1.0. <a href="https://commons.wikimedia.org/wiki/File:Paharpur_Maha_Vihara.jpg">File page</a>.</td></tr>
+<tr><td><a href="https://commons.wikimedia.org/wiki/File:View_of_Sixty_Dome_Mosque_Bagerhat.jpg"><img src="../assets/photos/commons-d183b8367e8c0865.jpg" alt="Sixty Dome Mosque, Bagerhat" width="260"/></a></td><td><b>Sixty Dome Mosque, Bagerhat</b><br/>Bengal Sultanate architecture and historic urban planning.</td><td>Faisal Photography · CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:View_of_Sixty_Dome_Mosque_Bagerhat.jpg">File page</a>.</td></tr>
+<tr><td><a href="https://commons.wikimedia.org/wiki/File:Shaheed_Minar,_Dhaka,_Bangladesh.jpg"><img src="../assets/photos/commons-2a6ec27a526dcb08.jpg" alt="Central Shaheed Minar in Dhaka" width="260"/></a></td><td><b>Central Shaheed Minar</b><br/>Visual memory of the Language Movement and linguistic rights.</td><td>Subarashitours · CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:Shaheed_Minar,_Dhaka,_Bangladesh.jpg">File page</a>.</td></tr>
+<tr><td><a href="https://commons.wikimedia.org/wiki/File:Mangal_Shobhajatra.jpg"><img src="../assets/photos/commons-1a79c0637ad4912f.jpg" alt="Mangal Shobhajatra procession" width="260"/></a></td><td><b>Mangal Shobhajatra</b><br/>Living heritage, public participation and Bengali New Year traditions; UNESCO ICH inscription in 2016.</td><td>Mustmamun · CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:Mangal_Shobhajatra.jpg">File page</a>.</td></tr>
+<tr><td><a href="https://commons.wikimedia.org/wiki/File:Traditional_Jamdani_Weaving.jpg"><img src="../assets/photos/commons-234f7acb30998544.jpg" alt="Traditional Jamdani weaving" width="260"/></a></td><td><b>Jamdani weaving</b><br/>Traditional craft knowledge, artisanal skill and intangible cultural heritage.</td><td>Joysaha.bd · CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:Traditional_Jamdani_Weaving.jpg">File page</a>.</td></tr>
+<tr><td><a href="https://commons.wikimedia.org/wiki/File:Entry_of_Sundarban_Forest_,Bangladesh.jpg"><img src="../assets/photos/commons-39456721788480db.jpg" alt="Sundarbans mangrove forest" width="260"/></a></td><td><b>Sundarbans</b><br/>Natural heritage and the relationship between environment, livelihood and conservation.</td><td>Syed Sajidul Islam · CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:Entry_of_Sundarban_Forest_,Bangladesh.jpg">File page</a>.</td></tr>
 </tbody>
 </table>
 
@@ -732,3 +732,5 @@ https://en.banglapedia.org/
 - এই অধ্যায়ের diagram-গুলো নিজস্বভাবে তৈরি; সেগুলো তথ্যের উৎস নয়, কেবল revision aid।
 
 [⬆️ উপরে ফিরুন](#top) · [English Quotations](./QUOTATIONS.md) · [পূর্ণাঙ্গ প্রবন্ধ](./PYQ-BASED-ESSAYS.md)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

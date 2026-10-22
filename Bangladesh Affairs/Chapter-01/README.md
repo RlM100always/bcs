@@ -364,17 +364,17 @@ Floodplain, Pleistocene Terrace ও Tertiary Hills-এর বৈশিষ্ট�
 
 ### ১.২ Bangladesh Maps — Relief Map ও বাস্তব মানচিত্র
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Bangladesh_physical_map.svg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_physical_map.svg?width=760" width="100%" alt="Bangladesh physical relief map"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Bangladesh_physical_map.svg"><img src="../assets/photos/commons-41efd02b3dd7d2da.png" width="100%" alt="Bangladesh physical relief map"></a></p>
 
 **Figure 1 — Physical Relief Map of Bangladesh.** Creator: Urutseg; Wikimedia Commons, *Bangladesh physical map.svg*, 2011; License **CC0 1.0**. [Original file, author and license](https://commons.wikimedia.org/wiki/File:Bangladesh_physical_map.svg)। মানচিত্রটি ভূপ্রকৃতি শেখার জন্য; আধুনিক প্রশাসনিক বা সমুদ্রসীমার নিশ্চয়তার জন্য নয়।
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Map_of_Bangladesh-en.svg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Map_of_Bangladesh-en.svg?width=440" width="100%" alt="Bangladesh topography and place names"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Map_of_Bangladesh-en.svg"><img src="../assets/photos/commons-0c69e1f7ab5bda4b.png" width="100%" alt="Bangladesh topography and place names"></a></p>
 
 **Figure 2 — Topographic Map of Bangladesh.** Creator: **Oona Räisänen (Mysid)**, 2010; sources include SRTM relief data, archival CIA cartography and NGDC bathymetry; Wikimedia Commons, **CC BY 3.0 / GFDL**. [Original file and terms](https://commons.wikimedia.org/wiki/File:Map_of_Bangladesh-en.svg)। কিছু স্থাননাম/পরিবহন স্তর পুরোনো; সাম্প্রতিক প্রশাসনিক মানচিত্র হিসেবে ব্যবহার নয়।
 
 <a id="physiography"></a>
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Ganges_Delta_ESA22274217.jpeg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ganges_Delta_ESA22274217.jpeg?width=760" width="100%" alt="Ganges–Brahmaputra Delta from Space — source: European Space Agency / Copernicus Sentinel-3"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Ganges_Delta_ESA22274217.jpeg"><img src="../assets/photos/commons-d61b46c9a82e08b7.jpg" width="100%" alt="Ganges–Brahmaputra Delta from Space — source: European Space Agency / Copernicus Sentinel-3"></a></p>
 
 *🖼️ Figure 2A — **Ganges–Brahmaputra Delta from Space**। **কী দেখবেন:** নদীর পলি, মোহনার প্রবাহ ও বদ্বীপের বিস্তার। **Credit:** European Space Agency / Copernicus Sentinel-3 (2020-03-31); **License:** Copernicus Sentinel attribution required; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Ganges_Delta_ESA22274217.jpeg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
@@ -556,7 +556,7 @@ D --> E["More resilient farming livelihoods"]
 
 <a id="barind-photo"></a>
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:The_Neon_Veil_of_Barind-_A_Twilight_Study_in_Naogaon.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/The_Neon_Veil_of_Barind-_A_Twilight_Study_in_Naogaon.jpg?width=760" width="100%" alt="Barind Agricultural Landscape, Naogaon — source: S. H. Tanim"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:The_Neon_Veil_of_Barind-_A_Twilight_Study_in_Naogaon.jpg"><img src="../assets/photos/commons-b00c666c4ddae1a2.jpg" width="100%" alt="Barind Agricultural Landscape, Naogaon — source: S. H. Tanim"></a></p>
 
 *🖼️ Figure 3 — **Barind Agricultural Landscape, Naogaon**। **কী দেখবেন:** নওগাঁর বরেন্দ্র অঞ্চলের গ্রামীণ কৃষি; এটি মাটির ভূতাত্ত্বিক প্রমাণ নয়। **Credit:** S. H. Tanim (2026-03-12); **License:** CC BY-SA 4.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:The_Neon_Veil_of_Barind-_A_Twilight_Study_in_Naogaon.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
@@ -660,7 +660,7 @@ flowchart TD
 > [!NOTE]
 > 🔵 **Source:** **Banglapedia — Asiatic Society of Bangladesh, “Bangladesh Geography”** [S2] ও **“ভূ-প্রকৃতি”** [S3]।
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Madhupur_tract_locator_map.svg"><img width="100%" src="https://commons.wikimedia.org/wiki/Special:FilePath/Madhupur_tract_locator_map.svg?width=640" alt="Madhupur Tract locator map by Tanvir Anjum Adib, 2025"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Madhupur_tract_locator_map.svg"><img width="100%" src="../assets/photos/commons-974eae5a87cc5b5d.png" alt="Madhupur Tract locator map by Tanvir Anjum Adib, 2025"></a></p>
 
 *🗺️ **Madhupur Tract Locator Map** — বাংলাদেশের মানচিত্রে মধুপুর গড়ের অবস্থান দেখুন। **Creator:** Tanvir Anjum Adib, 2025; **License:** CC BY-SA 4.0; [Original Wikimedia Commons map](https://commons.wikimedia.org/wiki/File:Madhupur_tract_locator_map.svg)। এটি অবস্থান বুঝতে সাহায্য করে; ভূতাত্ত্বিক মাটির বয়সের সরাসরি প্রমাণ নয়।*
 
@@ -669,7 +669,7 @@ flowchart TD
 
 <a id="madhupur-photo"></a>
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Madhupur_forest.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Madhupur_forest.jpg?width=760" width="100%" alt="Madhupur National Park Forest — source: S. M. Tanim"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Madhupur_forest.jpg"><img src="../assets/photos/commons-3a617f290c4dad2e.jpg" width="100%" alt="Madhupur National Park Forest — source: S. M. Tanim"></a></p>
 
 *🖼️ Figure 4 — **Madhupur National Park Forest**। **কী দেখবেন:** মধুপুর অঞ্চলের বনভূমি ও ভূমি ব্যবহার। **Credit:** S. M. Tanim (2017-10-09); **License:** CC BY-SA 4.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Madhupur_forest.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
@@ -788,7 +788,7 @@ E --> F["Early warning + crop timing + drainage"]
 
 <a id="haor-photo"></a>
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:%E0%A6%9F%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%B0.JPG"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%9F%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%B0.JPG?width=760" width="100%" alt="Tanguar Haor — source: Sarkershuvro"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:%E0%A6%9F%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%B0.JPG"><img src="../assets/photos/commons-96d0b21b7c1907ec.jpg" width="100%" alt="Tanguar Haor — source: Sarkershuvro"></a></p>
 
 *🖼️ Figure 5 — **Tanguar Haor**। **কী দেখবেন:** হাওরের মৌসুমি জলাভূমির দৃশ্য। **Credit:** Sarkershuvro (2015-03-09); **License:** CC BY-SA 4.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:%E0%A6%9F%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%B0.JPG)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
@@ -855,14 +855,14 @@ flowchart TD
 
 <a id="cht-photo"></a>
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Sajek_Valley_00.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sajek_Valley_00.jpg?width=760" width="100%" alt="Sajek Valley — Chattogram Hill Tracts — source: Ahnaf010"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Sajek_Valley_00.jpg"><img src="../assets/photos/commons-89f3a93e730eaa07.jpg" width="100%" alt="Sajek Valley — Chattogram Hill Tracts — source: Ahnaf010"></a></p>
 
 *🖼️ Figure 6 — **Sajek Valley — Chattogram Hill Tracts**। **কী দেখবেন:** পাহাড়ের ঢাল ও শৈলশিরা। **Credit:** Ahnaf010 (2022-07-03); **License:** CC BY-SA 4.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Sajek_Valley_00.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
 > [!TIP]
  > **চিত্র পর্যবেক্ষণ:** পাহাড়ের ঢাল ও শৈলশিরা—ছবিতে দৃশ্যমান একটি বৈশিষ্ট্য চিহ্নিত করে তার একটি কারণ ও একটি সম্ভাব্য প্রভাব ব্যাখ্যা করুন।
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Chittagong_Hill_Tracts.PNG"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Chittagong_Hill_Tracts.PNG?width=760" width="100%" alt="Chittagong Hill Tracts locator map — source: Armanaziz / AnonyLog"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Chittagong_Hill_Tracts.PNG"><img src="../assets/photos/commons-cf80c366965574bd.png" width="100%" alt="Chittagong Hill Tracts locator map — source: Armanaziz / AnonyLog"></a></p>
 
 *🖼️ Figure 6B — **Chittagong Hill Tracts locator map**। **কী দেখবেন:** পার্বত্য অঞ্চলের অবস্থান; পুরোনো জেলা সীমানা। **Credit:** Armanaziz / AnonyLog (2009); **License:** GFDL / CC license on file page; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Chittagong_Hill_Tracts.PNG)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
@@ -929,7 +929,7 @@ flowchart TD
 
 <a id="coastal-photo"></a>
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Landset_9_image_of_Bangladesh_coast.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Landset_9_image_of_Bangladesh_coast.jpg?width=760" width="100%" alt="Bangladesh Coast: Landsat-9 Natural Colour — source: NASA / USGS Landsat program"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Landset_9_image_of_Bangladesh_coast.jpg"><img src="../assets/photos/commons-fa3c704151845354.jpg" width="100%" alt="Bangladesh Coast: Landsat-9 Natural Colour — source: NASA / USGS Landsat program"></a></p>
 
 *🖼️ Figure 7 — **Bangladesh Coast: Landsat-9 Natural Colour**। **কী দেখবেন:** সুন্দরবনের বনভূমি, কৃষিজমি ও উপকূলের পার্থক্য। **Credit:** NASA / USGS Landsat program (2022-02-08); **License:** Public domain (NASA); **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Landset_9_image_of_Bangladesh_coast.jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
@@ -998,7 +998,7 @@ flowchart TD
 
 <a id="char-photo"></a>
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Cattle_on_a_Char_(27917537222).jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cattle_on_a_Char_(27917537222).jpg?width=760" width="100%" alt="Livelihoods on a Jamuna River Char — source: David Stanley"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Cattle_on_a_Char_(27917537222).jpg"><img src="../assets/photos/commons-3d5b7bb4f890bc89.jpg" width="100%" alt="Livelihoods on a Jamuna River Char — source: David Stanley"></a></p>
 
 *🖼️ Figure 8 — **Livelihoods on a Jamuna River Char**। **কী দেখবেন:** চরে গবাদিপশু পালন ও মানুষের জীবিকা; চর কীভাবে তৈরি তা দেখায় না। **Credit:** David Stanley (2016-02-10); **License:** CC BY 2.0; **Image source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Cattle_on_a_Char_(27917537222).jpg)। ছবিতে ক্লিক করলে মূল ফাইলের উচ্চ রেজল্যুশন এবং সম্পূর্ণ লাইসেন্স পাওয়া যাবে।*
 
@@ -1099,7 +1099,7 @@ F --> G["স্থানিক পরিকল্পনা, পূর্বা�
 
 <a id="sediment-photo"></a>
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Meghna_River_sediment_in_the_Bay_of_Bengal_(MODIS_2019-11-24).jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Meghna_River_sediment_in_the_Bay_of_Bengal_(MODIS_2019-11-24).jpg?width=760" width="100%" alt="NASA MODIS satellite view of Meghna sediment flowing into Bay of Bengal"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Meghna_River_sediment_in_the_Bay_of_Bengal_(MODIS_2019-11-24).jpg"><img src="../assets/photos/commons-4045164ac4993302.jpg" width="100%" alt="NASA MODIS satellite view of Meghna sediment flowing into Bay of Bengal"></a></p>
 
 *🛰️ **Satellite reading:** মেঘনা মোহনায় বিভিন্ন রঙের পানি ও পলির বিস্তার দেখুন। দৃশ্যমান রং থেকে **নির্দিষ্ট পরিমাণ পলি বা ক্ষয়ের হার গণনা করা যায় না**। Creator: NASA GSFC/MODIS; Wikimedia Commons [original & license](https://commons.wikimedia.org/wiki/File:Meghna_River_sediment_in_the_Bay_of_Bengal_(MODIS_2019-11-24).jpg)।*
 
@@ -3597,7 +3597,7 @@ flowchart TD
 
 **কীভাবে সুরক্ষা (How):** উপকূলীয় বাস্তুসংস্থানের বৈজ্ঞানিক পর্যবেক্ষণ, বর্জ্য ও পয়োনিষ্কাশনের ব্যবস্থাপনা, নৌযানের পরিবেশগত আচরণ নিয়ন্ত্রণ, মিঠাপানির উৎস সুরক্ষা এবং স্থানীয় মানুষের জীবিকার সঙ্গে সামঞ্জস্য রেখে পর্যটন পরিচালনা করা দরকার।
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Coral_Reef_of_Saint_Martin_Island_Bangladesh.JPG"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Coral_Reef_of_Saint_Martin_Island_Bangladesh.JPG?width=720" width="100%" alt="Coral reef formation on Saint Martin Island photographed by Fahad Faisal in 2012"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Coral_Reef_of_Saint_Martin_Island_Bangladesh.JPG"><img src="../assets/photos/commons-a01f2e7701360ac0.jpg" width="100%" alt="Coral reef formation on Saint Martin Island photographed by Fahad Faisal in 2012"></a></p>
 
 *🖼️ **Real Photo — St Martin's coral reef, 2012.** Creator: **Fahad Faisal**; **Wikimedia Commons, CC BY-SA 4.0**। [মূল ছবি ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Coral_Reef_of_Saint_Martin_Island_Bangladesh.JPG)। এটি একটি নির্দিষ্ট সময়ের দৃশ্য; বর্তমান প্রবালের স্বাস্থ্য বা সংখ্যা এই ছবি দিয়ে নির্ণয় করা যাবে না।*
 
@@ -4207,3 +4207,5 @@ F --> G["BDP 2100 hotspots + maritime legal governance"]
 - Current affairs, new scientific measurements and flood-risk numbers must be refreshed with the observation year and primary sources before a future high-stakes exam; no unverified percentages, world rankings or fabricated quotes have been added.
 
 [⬆ ফিরে যান: ১৬ অধ্যায়ের সূচি](../README.md)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

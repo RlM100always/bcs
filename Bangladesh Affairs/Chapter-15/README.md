@@ -41,7 +41,7 @@
 
 #### বাস্তব ছবি ১ — নারীদের সম্মিলিত উদ্যোগ ও সামাজিক ক্ষমতায়ন
 
-![Women from Rodrodha village who graduated from BRAC's ultra-poor programme taking part in a group meeting](https://commons.wikimedia.org/wiki/Special:FilePath/A_women%27s_group_from_Rodrodha_village_gather_for_a_meeting._They_all_graduated_through_BRACs_Special_Targeting_Ultra_Poor_program_they_are_now_known_as_graduates_and_are_taking_part_in_a_project_called_group_home_visits._%2810664330215%29.jpg)
+![Women from Rodrodha village who graduated from BRAC's ultra-poor programme taking part in a group meeting](../assets/photos/commons-942d9a02ed6d6876.jpg)
 
 *পাঠের সঙ্গে সম্পর্ক:* দলীয় আলোচনা, পারস্পরিক সহায়তা ও স্থানীয় নেটওয়ার্ক নারীর সামাজিক পুঁজি ও সিদ্ধান্তে অংশগ্রহণের পথ তৈরি করতে পারে। ছবিটি একটি নির্দিষ্ট BRAC programme-এর ঐতিহাসিক উদাহরণ; সব নারীর অভিজ্ঞতার প্রতিনিধিত্ব করে না। **কৃতিত্ব:** Department of Foreign Affairs and Trade (DFAT), Australia; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). [মূল ছবি ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:A_women%27s_group_from_Rodrodha_village_gather_for_a_meeting._They_all_graduated_through_BRACs_Special_Targeting_Ultra_Poor_program_they_are_now_known_as_graduates_and_are_taking_part_in_a_project_called_group_home_visits._%2810664330215%29.jpg).
 
@@ -53,7 +53,7 @@
 
 #### বাস্তব ছবি ২ — মেয়েদের শিক্ষা ও নিরাপদ বিদ্যালয়-যাত্রা
 
-![A girl going to school in Chittagong, Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/A_girl_going_to_school_%2826361323721%29.jpg)
+![A girl going to school in Chittagong, Bangladesh](../assets/photos/commons-5f1281b57802d246.jpg)
 
 *পাঠের সঙ্গে সম্পর্ক:* মেয়েদের বিদ্যালয়ে প্রবেশাধিকার, নিরাপদ যাতায়াত ও শিক্ষার ধারাবাহিকতা জেন্ডার সমতার ভিত্তি। শুধু ভর্তি নয়—শিখনফল, বিদ্যালয় সমাপ্তি ও পরবর্তী কর্মজীবনের সুযোগও গুরুত্বপূর্ণ। **কৃতিত্ব:** Zamil Rahman; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). [মূল ছবি ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:A_girl_going_to_school_(26361323721).jpg).
 
@@ -63,7 +63,7 @@
 
 #### বাস্তব ছবি ৩ — কমিউনিটি স্বাস্থ্যকর্মী ও মাতৃস্বাস্থ্য
 
-![Community health worker conducting a survey in Korail slum, Dhaka](https://commons.wikimedia.org/wiki/Special:FilePath/A_community_health_worker_conducting_a_survey_in_the_Korail_slum%2C_Bangladesh_%288630810827%29.jpg)
+![Community health worker conducting a survey in Korail slum, Dhaka](../assets/photos/commons-ce0c616be3dbf6d1.jpg)
 
 *পাঠের সঙ্গে সম্পর্ক:* স্থানীয় স্বাস্থ্যকর্মীরা স্বাস্থ্যতথ্য, গর্ভাবস্থা শনাক্তকরণ ও স্বাস্থ্যসেবায় রেফারেলের মাধ্যমে সেবার নাগাল বাড়াতে পারেন। এটি ২০১১ সালের ঐতিহাসিক ছবি—বর্তমান সেবা-আবরণ বা কর্মীসংখ্যার পরিসংখ্যান নয়। **কৃতিত্ব:** Lucy Milmo/DFID; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). [মূল ছবি ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:A_community_health_worker_conducting_a_survey_in_the_Korail_slum,_Bangladesh_(8630810827).jpg).
 
@@ -75,7 +75,7 @@
 
 #### বাস্তব ছবি ৪ — তৈরি পোশাকশিল্পে নারীর শ্রম
 
-![Women working on a garment factory assembly line in Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/Garment_factory_in_Bangladesh_Women_working.jpg)
+![Women working on a garment factory assembly line in Bangladesh](../assets/photos/commons-4a058b209c767203.jpg)
 
 *পাঠের সঙ্গে সম্পর্ক:* তৈরি পোশাকশিল্পে নারীর অংশগ্রহণ আয়, রপ্তানি ও পরিবারের অর্থনৈতিক সক্ষমতায় অবদান রাখে। তবে সমমজুরি, নিরাপদ কর্মপরিবেশ, নেতৃত্বে উন্নতি, মাতৃত্ব-সহায়ক নীতি ও সাশ্রয়ী childcare-ও জেন্ডার-সমতাভিত্তিক উন্নয়নের অংশ। ছবিটি ২০১১ সালের; বর্তমান শ্রমপরিবেশের একক প্রমাণ নয়। **কৃতিত্ব:** Tareq Salahuddin; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). [মূল ছবি ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg).
 
@@ -85,7 +85,7 @@
 
 #### বাস্তব ছবি ৫ — রাজনৈতিক প্রতিনিধিত্ব ও নেতৃত্ব
 
-![Oath-taking ceremony of women MPs for reserved seats in Bangladesh's 13th National Parliament, 3 May 2026](https://commons.wikimedia.org/wiki/Special:FilePath/2026-05-03_Oath_taking_of_Women_MPs_for_reserved_seats%2C_13th_National_Parliament%2C_Dhaka.jpg)
+![Oath-taking ceremony of women MPs for reserved seats in Bangladesh's 13th National Parliament, 3 May 2026](../assets/photos/commons-b568221376301d0a.jpg)
 
 *পাঠের সঙ্গে সম্পর্ক:* সংসদে নারীর উপস্থিতি রাজনৈতিক প্রতিনিধিত্বের একটি দৃশ্যমান দিক। তবে প্রকৃত ক্ষমতায়ন বিচার করতে কমিটি, দলীয় সিদ্ধান্ত, নেতৃত্ব, বাজেট-নিয়ন্ত্রণ ও নীতিতে প্রভাবের বিষয়ও দেখতে হয়। **ছবির উৎস:** Bangladesh Press Information Department (PID); [বাংলাদেশে public domain](https://commons.wikimedia.org/wiki/File:2026-05-03_Oath_taking_of_Women_MPs_for_reserved_seats,_13th_National_Parliament,_Dhaka.jpg).
 
@@ -97,7 +97,7 @@
 
 #### বাস্তব ছবি ৬ — বাল্যবিবাহ প্রতিরোধে সামাজিক সচেতনতা
 
-![Schoolgirls taking a pledge against child marriage at Hajiganj Girls High School, Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/No_child_marrige_oath_in_Hajiganj_girls_high_school%2C_Bangladesh.jpg)
+![Schoolgirls taking a pledge against child marriage at Hajiganj Girls High School, Bangladesh](../assets/photos/commons-0c19a71b0c559019.jpg)
 
 *পাঠের সঙ্গে সম্পর্ক:* বাল্যবিবাহ প্রতিরোধে বিদ্যালয়ে ধরে রাখা, জন্মনিবন্ধন, সামাজিক সচেতনতা, নিরাপদ অভিযোগব্যবস্থা ও আইন প্রয়োগ একসঙ্গে দরকার। একটি শপথ-অনুষ্ঠানের ছবি সচেতনতার উদাহরণ—এটি একা বাল্যবিবাহের হার কমার প্রমাণ নয়। **কৃতিত্ব:** DelwarHossain; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:No_child_marrige_oath_in_Hajiganj_girls_high_school,_Bangladesh.jpg).
 
@@ -107,13 +107,13 @@
 
 #### বাস্তব ছবি ৭ — কৃষিতে নারীর শ্রম ও উৎপাদন-সম্পদ
 
-![A Bangladeshi woman working in a potato field in Mymensingh District](https://commons.wikimedia.org/wiki/Special:FilePath/A_Bangladeshi_woman_works_on_a_potato_field.jpg)
+![A Bangladeshi woman working in a potato field in Mymensingh District](../assets/photos/commons-fdfcfea0888f73f3.jpg)
 
 *পাঠের সঙ্গে সম্পর্ক:* কৃষিতে নারীর শ্রম দৃশ্যমান হলেও ভূমির মালিকানা, উত্তরাধিকার, ঋণ, প্রযুক্তি, বাজারে প্রবেশ ও আয়ের ওপর নিয়ন্ত্রণ আলাদা করে বিবেচনা করতে হয়। ছবিটি ২০১১ সালের একটি কৃষিকাজের দৃশ্য; এটি জাতীয় শ্রম-পরিসংখ্যান নয়। **কৃতিত্ব:** Hridoye Mati O Manush; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). [মূল ছবি ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:A_Bangladeshi_woman_works_on_a_potato_field.jpg).
 
 #### বাস্তব ছবি ৮ — আর্থিক অন্তর্ভুক্তি ও ক্ষুদ্রঋণ
 
-![Suva Rani using a BRAC microfinance loan to support her livelihood in Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_microfinance_%2810676772556%29.jpg)
+![Suva Rani using a BRAC microfinance loan to support her livelihood in Bangladesh](../assets/photos/commons-58937a2130e3bcce.jpg)
 
 *পাঠের সঙ্গে সম্পর্ক:* উপযোগী অর্থায়ন নারীর উদ্যোগ ও জীবিকা গঠনে সহায়তা করতে পারে। কিন্তু ঋণের পাশাপাশি বাজার, আর্থিক সাক্ষরতা, সম্পদে অধিকার, ঋণের শর্ত ও সিদ্ধান্ত গ্রহণের ক্ষমতা জরুরি; ঋণ একাই ক্ষমতায়নের নিশ্চয়তা নয়। **কৃতিত্ব:** Department of Foreign Affairs and Trade (DFAT), Australia; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). [মূল ছবি ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Bangladesh_microfinance_(10676772556).jpg).
 
@@ -123,7 +123,7 @@
 
 #### বাস্তব ছবি ৯ — জলবায়ু ঝুঁকি ও দুর্যোগ-সহনশীল অবকাঠামো
 
-![Multipurpose cyclone shelter and school in Patuakhali, Bangladesh](https://commons.wikimedia.org/wiki/Special:FilePath/Cyclone_Shelter_%2815265520285%29.jpg)
+![Multipurpose cyclone shelter and school in Patuakhali, Bangladesh](../assets/photos/commons-dc37f9bf0e453c9a.jpg)
 
 *পাঠের সঙ্গে সম্পর্ক:* বহুমুখী ঘূর্ণিঝড় আশ্রয়কেন্দ্র দুর্যোগে জীবনরক্ষা ও স্থানীয় প্রস্তুতিতে গুরুত্বপূর্ণ। জেন্ডার-সংবেদনশীল পরিকল্পনায় নিরাপদ স্যানিটেশন, মাতৃস্বাস্থ্যসেবা, গোপনীয়তা, প্রতিবন্ধী ব্যক্তির প্রবেশাধিকার এবং সিদ্ধান্তে নারীর অংশগ্রহণ নিশ্চিত করতে হয়। **কৃতিত্ব:** Helena Wright; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). [মূল ছবি ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Cyclone_Shelter_(15265520285).jpg).
 
@@ -133,7 +133,7 @@
 
 #### বাস্তব ছবি ১০ — ডিজিটাল অংশগ্রহণ ও নারীর জ্ঞান-নেটওয়ার্ক
 
-![Bangla Wiki Women meetup in July 2023](https://commons.wikimedia.org/wiki/Special:FilePath/Bangla_Wiki_Women_meetup.jpg)
+![Bangla Wiki Women meetup in July 2023](../assets/photos/commons-68a092dfe29a4f40.jpg)
 
 *পাঠের সঙ্গে সম্পর্ক:* নারীদের জ্ঞান-ভাগাভাগি ও ডিজিটাল-সামাজিক নেটওয়ার্কে অংশগ্রহণ দৃশ্যমান করার উদাহরণ। ডিজিটাল জেন্ডার বিভাজন কমাতে ডিভাইস ও ইন্টারনেটের সামর্থ্য, ডিজিটাল সাক্ষরতা, স্থানীয় ভাষার কনটেন্ট, গোপনীয়তা ও অনলাইন নিরাপত্তাও জরুরি। **কৃতিত্ব:** Anup Sadi; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [মূল ছবি ও লাইসেন্স](https://commons.wikimedia.org/wiki/File:Bangla_Wiki_Women_meetup.jpg).
 
@@ -326,3 +326,5 @@ Gender equality হলো নারী, পুরুষ ও সব লিঙ্�
 12. **UNFPA Bangladesh** — reproductive health, gender-based violence and child marriage resources. https://bangladesh.unfpa.org/
 
 **Data integrity note:** This chapter intentionally avoids presenting unsourced or undated numerical claims as current statistics. For an exam answer, use the report title, institution and publication year, and verify the exact figure from the original report before quoting it. The practice prompts are not claimed to be verified verbatim BPSC past questions without primary-paper evidence.
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।

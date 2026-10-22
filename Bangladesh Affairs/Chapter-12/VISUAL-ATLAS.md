@@ -3,7 +3,7 @@
 
 [← Main Chapter](./README.md#top) · [35th–47th PYQ Audit](./PYQ-ANALYSIS-35TH-47TH.md) · [25 Model Answers](./BCS-WRITTEN-QUESTION-BANK.md) · [8 Essays](./PYQ-BASED-ESSAYS.md) · [Quotations](./QUOTATIONS.md)
 
-> **Visual standard:** This chapter has 14 local SVG diagrams and 10 topic-aligned internet images embedded beside the relevant discussion in [the main chapter](./README.md). To keep the total at or below 30 image/diagram embeds across both files, this atlas embeds six photo references: five are also shown beside the relevant topic in the main chapter, while the bdnews24 cable-station photo is supplementary. The historical 2017 cable-map page and disaster-recovery photo are linked rather than embedded here. Diagrams are explanatory, not a substitute for an official map or legal text. External images remain owned by their original publishers; check reuse permissions before republishing outside this study notebook.
+> **Visual standard:** This chapter has 14 local SVG diagrams and 10 topic-aligned internet images embedded beside the relevant discussion in [the main chapter](./README.md). To keep the total at or below 30 image/diagram embeds across both files, this atlas embeds six photo references: five are also shown beside the relevant topic in the main chapter, while the cable-station photo is supplementary. The historical 2017 cable-map page and disaster-recovery photo are linked rather than embedded here. Diagrams are explanatory, not a substitute for an official map or legal text. External images remain owned by their original publishers; check reuse permissions before republishing outside this study notebook.
 
 ## A. Visual revision sheets — 14 diagrams (12 core + 2 bonus)
 
@@ -92,19 +92,19 @@
 **Image source:** [GovInsider — Inside the Digital Bangladesh 2021 vision](https://govinsider.asia/intl-en/article/inside-the-digital-bangladesh-2021-vision). Use to illustrate assisted digital access; it is a historical photograph, not proof of today's centre count.
 
 ### 3. Submarine cable landing-station entrance
-![Submarine Cable Landing Station entrance, Cox's Bazar](https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2024-02/1bac1da4-a4c6-4c5f-ba58-6021257a5ae9/coxsbazar_submarine_cable_280224_01.jpg)
+![Submarine cable landing-station entrance in Bangladesh](../assets/photos/commons-8456eec4a5aff38e.jpg)
 
-**Image source:** [bdnews24.com — Bangladesh users may face slow internet speed over maintenance](https://bdnews24.com/technology/bp4721l17g). Pair the photograph with BSCPLC's official description rather than inferring technical capacity from the image.
+**Image source:** [Wikimedia Commons — Submarine Landed in BD](https://commons.wikimedia.org/wiki/File:Submarine_Landed_in_BD.JPG). Pair the photograph with BSCPLC's official description rather than inferring technical capacity from the image.
 
 ### 4. Data-centre infrastructure
 ![Meghna Cloud data-centre building](https://www.thedailystar.net/sites/default/files/images/2023/01/07/bangladesh_data_centre.jpg)
 
 **Image source:** [The Daily Star — Meghna Cloud data centre starts operation](https://www.thedailystar.net/tech-startup/news/meghna-cloud-bangladeshs-first-cloud-data-centre-starts-operation-3544496). Use as an example of physical infrastructure behind cloud services; do not assume it is a government national data centre.
 
-### 5. Digital Centre and last-mile public service
-![Rural Digital Centre service user in Bangladesh](https://www.undp.org/sites/g/files/zskgke326/files/migration/bd/b44a9e2fa301742cacce3fa18dc2f8ed196dd80acaf301c86840869d7f1b41e0.jpg)
+### 5. Union Digital Centre — a public visit in 2024
+![Visit to a Union Digital Centre in Koyra, Khulna, 2024](../assets/photos/commons-f28676e624ede634.jpg)
 
-**Image source:** [UNDP Bangladesh — a2i's public-service innovation network](https://www.undp.org/bangladesh/stories/a2is-public-service-innovation-network-made-partner-month-south-south-galaxy). Use to illustrate people-centred assisted service, not a current statistical claim.
+**Image source:** [Wikimedia Commons — Union Digital Centre visit, Koyra, 2024](https://commons.wikimedia.org/wiki/File:Crown_Princess_Victoria_and_UN_Ambassador_Visit_Union_Digital_Center_Koyra_Khulna_2024-03-19_(PID-0009739).jpg). Use to illustrate people-centred assisted service, not a current statistical claim.
 
 ### 6. Disaster recovery and data resilience
 **Image (embedded beside the cybersecurity section in the main chapter):** [Open the Disaster Recovery Data Center photograph](https://www.rupalibangladesh.com/media/imgAll/2025July/tecnoloty-20250820195810.jpg).
@@ -161,3 +161,5 @@
 - [ ] A model question is not labelled as a verified PYQ unless the evidence supports it.
 
 [⬆️ Back to top](#chapter-12--visual-atlas-official-maps-and-real-world-images)
+
+**ছবির কৃতিত্ব ও লাইসেন্স:** [ছবির উৎসতালিকা](../assets/photos/SOURCES.md)।
